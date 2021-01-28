@@ -1,0 +1,22 @@
+---
+granule: CREC-2021-01-28-pt1-PgH250-2
+date: 2021-01-28
+edition: CREC
+section: HOUSE
+page: H250
+citation: 167 Cong. Rec. H250
+---
+
+# Constitutional Authority Statement for H.R. 7
+
+**Measures:** H.R. 7
+
+```
+            By Ms. DeLAURO:
+        H.R. 7.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+        Article I, Section 8, Clause 3 of the United States 
+     Constitution and Article I, Section 8, Clause 1 of the United 
+     States Constitution.
+```
