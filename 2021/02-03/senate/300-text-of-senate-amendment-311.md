@@ -1,0 +1,68 @@
+---
+granule: CREC-2021-02-03-pt1-PgS371-6
+date: 2021-02-03
+edition: CREC
+section: SENATE
+page: S371
+citation: 167 Cong. Rec. S371
+---
+
+# Text of Senate Amendment 311
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+  SA 311. Mr. CORNYN submitted an amendment intended to be proposed by 
+him to the concurrent resolution S. Con. Res. 5, setting forth the 
+congressional budget for the United States Government for fiscal year 
+2021 and setting forth the appropriate budgetary levels for fiscal 
+years 2022 through 2030; which was ordered to lie on the table; as 
+follows:
+
+       On page 4, line 6, decrease the amount by $30,000,000.
+       On page 4, line 15, decrease the amount by $1,000,000.
+       On page 4, line 19, decrease the amount by $17,000,000.
+       On page 4, line 20, decrease the amount by $7,000,000.
+       On page 4, line 21, decrease the amount by $3,000,000.
+       On page 4, line 22, decrease the amount by $2,000,000.
+       On page 4, line 23, decrease the amount by $1,000,000.
+       On page 5, line 3, decrease the amount by $1,000,000.
+       On page 5, line 7, decrease the amount by $17,000,000.
+       On page 5, line 8, decrease the amount by $7,000,000.
+       On page 5, line 9, decrease the amount by $3,000,000.
+       On page 5, line 10, decrease the amount by $2,000,000.
+       On page 5, line 11, decrease the amount by $1,000,000.
+       On page 5, line 16, decrease the amount by $1,000,000.
+       On page 5, line 21, decrease the amount by $17,000,000.
+       On page 5, line 22, decrease the amount by $24,000,000.
+
+[[Page S372]]
+
+       On page 5, line 23, decrease the amount by $27,000,000.
+       On page 5, line 24, decrease the amount by $29,000,000.
+       On page 5, line 25, decrease the amount by $30,000,000.
+       On page 6, line 1, decrease the amount by $30,000,000.
+       On page 6, line 2, decrease the amount by $30,000,000.
+       On page 6, line 3, decrease the amount by $30,000,000.
+       On page 6, line 4, decrease the amount by $30,000,000.
+       On page 6, line 5, decrease the amount by $31,000,000.
+       On page 6, line 8, decrease the amount by $17,000,000.
+       On page 6, line 9, decrease the amount by $24,000,000.
+       On page 6, line 10, decrease the amount by $27,000,000.
+       On page 6, line 11, decrease the amount by $29,000,000.
+       On page 6, line 12, decrease the amount by $30,000,000.
+       On page 6, line 13, decrease the amount by $30,000,000.
+       On page 6, line 14, decrease the amount by $30,000,000.
+       On page 6, line 15, decrease the amount by $30,000,000.
+       On page 6, line 16, decrease the amount by $30,000,000.
+       On page 6, line 17, decrease the amount by $31,000,000.
+       On page 7, line 2, decrease the amount by $30,000,000.
+       On page 7, line 3, decrease the amount by $17,000,000.
+       On page 7, line 7, decrease the amount by $7,000,000.
+       On page 7, line 11, decrease the amount by $3,000,000.
+       On page 7, line 15, decrease the amount by $2,000,000.
+       On page 7, line 19, decrease the amount by $1,000,000.
+       On page 36, line 22, decrease the amount by $1,000,000.
+       On page 36, line 23, decrease the amount by $1,000,000.
+                                 ______
+```

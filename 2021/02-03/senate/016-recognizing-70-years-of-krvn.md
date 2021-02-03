@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-02-03-pt1-PgS315
+date: 2021-02-03
+edition: CREC
+section: SENATE
+page: S315
+citation: 167 Cong. Rec. S315
+---
+
+# RECOGNIZING 70 YEARS OF KRVN
+
+**Speaking:** Fischer, Deb (F000463) [R-NE]
+
+```
+                      RECOGNIZING 70 YEARS OF KRVN
+
+● Mrs. FISCHER. Mr. President, I would like to take a moment to 
+recognize the 70th anniversary of KRVN, a longtime Nebraska radio 
+station.
+  KRVN was founded in 1951 to bring the news to Nebraska's rural 
+communities, and they have remained committed to that mission 
+throughout their existence.
+  From the very beginning, Nebraska's farmers and ranchers have 
+depended on their straightforward approach to the stories that matter 
+most, and their outstanding reporting continues to be a crucial part of 
+our agriculture industry's success.
+  As everyone who has listened to KRVN knows, they have achieved 70 
+years of success because they put their audience first. That is no 
+accident--KRVN is one of the only radio stations in the country that is 
+owned by a cooperative of farmers and ranchers.
+  As a cattle rancher myself, my family, friends, and neighbors have 
+listened to their daily livestock reports for decades, and I always 
+enjoy stopping by their studios when I am in Lexington, NE.
+  As a lifelong Nebraskan, I am immensely proud of all they have done 
+for our State.
+  I congratulate them on reaching this historic milestone. Here is to 
+70 more years.●
+
+                          ____________________
+```

@@ -1,0 +1,24 @@
+---
+granule: CREC-2021-02-03-pt1-PgS352-5
+date: 2021-02-03
+edition: CREC
+section: SENATE
+page: S352
+citation: 167 Cong. Rec. S352
+---
+
+# Text of Senate Amendment 186
+
+**Speaking:** Murkowski, Lisa (M001153) [R-AK]
+
+```
+  SA 186. Ms. MURKOWSKI (for herself, Mr. Sullivan, Mr. Risch, and Ms. 
+Lummis) submitted an amendment intended to be proposed by her to the 
+concurrent resolution S. Con. Res. 5, setting forth the congressional 
+budget for the United States Government for fiscal year 2021 and 
+setting forth the appropriate budgetary levels for fiscal years 2022 
+through 2030; which was ordered to lie on the table; as follows:
+
+       In section 2001, strike subsection (f).
+                                 ______
+```
