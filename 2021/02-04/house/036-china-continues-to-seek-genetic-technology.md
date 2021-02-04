@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-02-04-pt1-PgH337-2
+date: 2021-02-04
+edition: CREC
+section: HOUSE
+page: H337
+citation: 167 Cong. Rec. H337
+---
+
+# CHINA CONTINUES TO SEEK GENETIC TECHNOLOGY
+
+**Speaking:** Murphy, Gregory F. (M001210) [R-NC]
+
+```
+                              {time}  1215
+               CHINA CONTINUES TO SEEK GENETIC TECHNOLOGY
+
+  (Mr. MURPHY of North Carolina asked and was given permission to 
+address the House for 1 minute.)
+  Mr. MURPHY of North Carolina. Madam Speaker, today I would like to 
+bring attention to a troubling assessment that was issued by the 
+National Counterintelligence and Security Center on Monday.
+  China continues to aggressively seek to acquire Americans' genetic 
+information. They have targeted American hotels. They have targeted 
+government agencies, as well as our universities, through hacks and 
+ill-intentioned partnerships. They recently even tried to buy fertility 
+clinics in the United States to gather American DNA.
+  And as was catalogued on ``60 Minutes'' last week, the Chinese are 
+now targeting family research databases that Americans innocently use 
+to research their family trees.
+  Make no mistake, our healthcare information can be and will be used 
+against us. The Chinese have already demonstrated the lengths to which 
+they are willing to go to use genetics against their own people as they 
+experiment on the Uighurs in the Xinjiang province. This threat cannot 
+be ignored.
+  China has already received personally identifying information on most 
+Americans. As citizens, we must take better control of our information, 
+and Congress must act to keep this problem from getting worse.
+
+                          ____________________
+```

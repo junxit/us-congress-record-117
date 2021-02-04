@@ -1,0 +1,89 @@
+---
+granule: CREC-2021-02-04-pt1-PgH332-2
+date: 2021-02-04
+edition: CREC
+section: HOUSE
+page: H332
+citation: 167 Cong. Rec. H332
+---
+
+# CONGRATULATING ETHAN KNARR
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                       CONGRATULATING ETHAN KNARR
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Thompson) for 5 minutes.
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+and congratulate Ethan Knarr of DuBois, Pennsylvania. Ethan recently 
+accepted a fully qualified appointment to the United States Naval 
+Academy in Annapolis, Maryland.
+  Ethan is the son of Christopher and Danielle Knarr and the grandson 
+of Daniel and Linda Schaffer of DuBois, Leona Knarr of Troutville, and 
+Doug Grube and the late Elizabeth Ann Grube of DuBois.
+  As a student at DuBois Area High School, Ethan has been an active 
+member of the National Honor Society and the cross-country team, and he 
+served as captain of the tennis team.
+  Outside of school, Ethan has been heavily involved in the Boy Scouts 
+of America, having served as historian, assistant senior patrol leader, 
+and eventually senior patrol leader of his troop. Ethan became an Eagle 
+Scout in March 2020.
+  I would like to thank Ethan for his commitment to service and wish 
+him the very best as he embarks on this exciting new phase of life in 
+Annapolis.
+
+
+                        Recognizing Pete Rickard
+
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+and congratulate Pete Rickard of Strattanville, Pennsylvania, for 
+accepting a fully qualified appointment to the United States Air Force 
+Academy in Colorado.
+  Pete is a student at Clarion-Limestone High School. During his time 
+at Clarion-Limestone, Pete has been a member of the Academic Decathlon 
+team, lettered in basketball, and active in FFA, or Future Farmers of 
+America.
+  He is now a senior member of the Civil Air Patrol Clarion Composite 
+Squadron 504 and is active in the Greater Pennsylvania American Red 
+Cross.
+  Pete credits his success to the love and support he has received from 
+family and friends, including Rod and Debbie Frampton, as well as his 
+four sisters, Lucy, Ann, Katie, and Bonnie.
+  Undoubtedly, Pete's academic success and experience with the Civil 
+Air Patrol will serve him well as he starts this exciting new chapter 
+at the Air Force Academy.
+  Best wishes to Pete, and I look forward to seeing all that he 
+achieves.
+
+
+                        Recognizing Lisa Winger
+
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+Lisa Winger of Oil City. Lisa was recently recognized by the Venango 
+Area Chamber of Commerce as the 2020 Citizen of the Year.
+  According to the chamber, nominees are those who, ``in the face of 
+danger, combat adversity through feats of ingenuity, courage, or 
+strength, and those who perform great deeds or selfless acts for the 
+common good.''
+  Susan Williams, executive director of the chamber, noted nominations 
+for Lisa mentioned her impeccable character and that she was highly 
+respected, a leader, and selfless.
+  Lisa works at the AseraCare Hospice, where she counsels residents and 
+their families by providing compassion, comfort, and advice.
+  She truly lives a life of service. Outside of her work with 
+AseraCare, Lisa has also established an Alzheimer's support group at 
+the Oil City YMCA, and she leads the county's Toys for Tots program.
+  A friend of Lisa's said in her nomination that Lisa ``works 
+tirelessly for Venango County and dedicates herself to everything she 
+does.''
+  I would like to congratulate Lisa on this much-deserved recognition 
+and thank her for her commitment to serving her community.
+
+[[Page H333]]
+
+  
+
+                          ____________________
+```
