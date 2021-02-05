@@ -1,0 +1,47 @@
+---
+granule: CREC-2021-02-05-pt1-PgH392-5
+date: 2021-02-05
+edition: CREC
+section: HOUSE
+page: H392
+citation: 167 Cong. Rec. H392
+---
+
+# CREATING PATHWAYS FOR HARDWORKING PEOPLE
+
+**Speaking:** Horsford, Steven (H001066) [D-NV]
+
+```
+                CREATING PATHWAYS FOR HARDWORKING PEOPLE
+
+  (Mr. HORSFORD asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. HORSFORD. Mr. Speaker, I rise in support of the National 
+Apprenticeship Act of 2021.
+  I started my career leading the Culinary Academy of Las Vegas, the 
+largest job training program in the State. This experience instilled in 
+me the importance of workforce programs that create pathways for 
+hardworking people to get good-paying jobs.
+  Passing this legislation is a vital step to begin our economic 
+recovery by training Nevadans for new careers in high-demand fields, 
+including at the Westside Education and Training Center in historic 
+west Las Vegas, which my office was just able to secure nearly $7 
+million to help build.
+  By providing nearly 1 million additional apprenticeship opportunities 
+over 5 years, and adding $10.6 billion in net benefits to our economy, 
+the National Apprenticeship Act will help working families and small 
+businesses restore the financial security that was lost during the 
+pandemic.
+  As a co-chair and founder of the Labor Caucus, I am proud to support 
+this legislation, which is endorsed by some of our Nation's largest 
+labor unions, including the AFL-CIO, UNITE HERE, the Laborers, and the 
+Teamsters.
+  I am glad that my amendment to support the recruitment and retention 
+of nontraditional apprenticeship populations, including women and 
+people of color, is included in this bill. My constituents and all of 
+our constituents deserve the opportunities this bill affords.
+  Mr. Speaker, I urge my colleagues to vote ``yes'' on the National 
+Apprenticeship Act of 2021.
+
+                          ____________________
+```
