@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-02-23-pt1-PgH564-2
+date: 2021-02-23
+edition: CREC
+section: HOUSE
+page: H564
+citation: 167 Cong. Rec. H564
+---
+
+# PENN STATE THON
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                            PENN STATE THON
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to give a 
+big thank-you to Penn State students for their commitment to an 
+incredible cause.
+  Each year, students spend countless hours raising awareness and money 
+in the fight against pediatric cancer. Every February, these efforts 
+culminate in a 46-hour dance marathon known as THON.
+  THON provides financial and emotional support to thousands of 
+families across the Commonwealth who have a child battling pediatric 
+cancer.
+  THON is normally a celebration of thousands in the Bryce Jordan 
+Center on campus--an opportunity for children with cancer to focus on 
+simply being a kid even just for the weekend.
+  Sadly, the pandemic forced this proud tradition online this year. 
+However, despite a global pandemic, students still managed to raise 
+$10.6 million this year.
+  Since 1973, Penn State students have raised more than $180 million. 
+Those figures, combined with nearly 17,000 student volunteers, makes 
+Penn State THON the largest student-run philanthropic effort in the 
+world.
+  I am proud of the Penn State students who are so committed to this 
+cause, and I am even more proud of the children and families who keep 
+fighting.
+
+                          ____________________
+```
