@@ -1,0 +1,47 @@
+---
+granule: CREC-2021-02-24-pt1-PgE165-2
+date: 2021-02-24
+edition: CREC
+section: EXTENSIONS
+page: E165
+citation: 167 Cong. Rec. E165
+---
+
+# IN RECOGNITION OF LESLIE KELLY
+
+**Speaking:** Joyce, John (J000302) [R-PA]
+
+```
+                     IN RECOGNITION OF LESLIE KELLY
+
+                                  _____
+                                 
+
+                            HON. JOHN JOYCE
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                      Wednesday, February 24, 2021
+
+  Mr. JOYCE of Pennsylvania. Madam Speaker, I rise to recognize Leslie 
+Kelly of Altoona, Pennsylvania for her work as founder of Service Paws 
+of Central Pennsylvania.
+  Leslie Kelly understands firsthand the barriers that family can face 
+when purchasing a service dog, which can cost between $4,000 and 
+$35,000. To help families with this costly process, Leslie founded 
+Service Paws of Central Pennsylvania. Last year, her organization was 
+able to assist several people in need of a service dog.
+  Service Paws of Central Pennsylvania now serves 14 of Pennsylvania's 
+67 counties. As an all-volunteer organization, Service Paws of Central 
+Pennsylvania is able to use its resources to directly place service 
+dogs with individuals and families in need.
+  Leslie is an incredible and servant-hearted leader in Blair County 
+and across our Commonwealth. On behalf of Pennsylvania's 13th 
+Congressional District, I thank Leslie Kelly for her work to improve 
+the lives of Pennsylvanians and wish her continued success in this 
+mission.
+
+                          ____________________
+```

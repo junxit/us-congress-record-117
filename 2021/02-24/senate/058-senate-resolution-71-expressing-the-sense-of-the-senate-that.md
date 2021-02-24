@@ -1,0 +1,51 @@
+---
+granule: CREC-2021-02-24-pt1-PgS865
+date: 2021-02-24
+edition: CREC
+section: SENATE
+page: S865
+citation: 167 Cong. Rec. S865
+---
+
+# SENATE RESOLUTION 71--EXPRESSING THE SENSE OF THE SENATE THAT ALIENS CONVICTED OF DRUNK DRIVING OFFENSES QUALIFY AS A PUBLIC SAFETY THREAT FOR THE PURPOSES OF IMMIGRATION ENFORCEMENT
+
+**Measures:** S.Res. 71
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+ SENATE RESOLUTION 71--EXPRESSING THE SENSE OF THE SENATE THAT ALIENS 
+ CONVICTED OF DRUNK DRIVING OFFENSES QUALIFY AS A PUBLIC SAFETY THREAT 
+              FOR THE PURPOSES OF IMMIGRATION ENFORCEMENT
+
+  Ms. ERNST (for herself, Mr. Grassley, and Mrs. Fischer) submitted the 
+following resolution; which was referred to the Committee on the 
+Judiciary:
+
+                               S. Res. 71
+
+       Whereas Sarah Root of Council Bluffs, Iowa, died at the 
+     hands of a drunk driver who was not lawfully present in the 
+     United States;
+       Whereas the mission of the immigration enforcement process 
+     is to ensure the safety of our communities; and
+       Whereas drunk driving and aliens convicted of drunk driving 
+     are a threat to public safety of the United States, and to 
+     say otherwise is offensive to both the victims of drunk 
+     driving offenses and those who seek to enforce criminal 
+     statutes related to drunk driving: Now, therefore, be it
+       Resolved, That it is the sense of the Senate that any 
+     guidance issued by the Department of Homeland Security or 
+     U.S. Immigration and Customs Enforcement as it relates to 
+     immigration enforcement and removal of aliens should not 
+     deprioritize the removal of aliens convicted of--
+       (1) drunk driving or otherwise driving under the influence; 
+     or
+       (2) any crime which includes as an element an act of 
+     assault or violence.
+
+                          ____________________
+```

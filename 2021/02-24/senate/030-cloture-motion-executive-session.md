@@ -1,0 +1,164 @@
+---
+granule: CREC-2021-02-24-pt1-PgS845-2
+date: 2021-02-24
+edition: CREC
+section: SENATE
+page: S845
+citation: 167 Cong. Rec. S845
+---
+
+# CLOTURE MOTION (Executive Session)
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+                             CLOTURE MOTION
+
+  The PRESIDING OFFICER. Pursuant to rule XXII, the Chair lays before 
+the Senate the pending cloture motion, which the clerk will state.
+  The senior assistant legislative clerk read as follows
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     do hereby move to bring to a close debate on the nomination 
+     of Executive Calendar No. 9, Jennifer Mulhern Granholm, of 
+     Michigan, to be Secretary of Energy.
+         Charles E. Schumer, Cory A. Booker, Jon Ossoff, Richard 
+           Blumenthal, Richard J. Durbin, Alex Padilla, 
+           Christopher A. Coons, Margaret Wood Hassan, Sheldon 
+           Whitehouse, Robert Menendez, Kirsten E. Gillibrand, Tim 
+           Kaine, Tammy Baldwin, Ron Wyden, Mazie K. Hirono, Tammy 
+           Duckworth.
+  The PRESIDING OFFICER. By unanimous consent, the mandatory quorum 
+call has been waived.
+  The question is, Is it the sense of the Senate that debate on the 
+nomination of Jennifer Mulhern Granholm, of Michigan, to be Secretary 
+of Energy, shall be brought to a close?
+  The yeas and nays are mandatory under the rule.
+  The clerk will call the roll.
+  The senior assistant legislative clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Georgia (Mr. Warnock), 
+is necessarily absent.
+  The PRESIDING OFFICER (Ms. Hassan). Are there any Senators in the 
+Chamber wishing to vote or change his or her vote?
+  The yeas and nays resulted--yeas 67, nays 32, as follows:
+
+                       [Rollcall Vote No. 65 Ex.]
+
+                                YEAS--67
+
+     Baldwin
+     Bennet
+     Blumenthal
+     Booker
+     Braun
+     Brown
+     Burr
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Collins
+     Coons
+     Cornyn
+     Cortez Masto
+     Cramer
+     Crapo
+     Daines
+     Duckworth
+     Durbin
+     Feinstein
+     Gillibrand
+     Grassley
+     Hassan
+     Heinrich
+     Hickenlooper
+     Hirono
+     Hoeven
+     Johnson
+     Kaine
+     Kelly
+     King
+     Klobuchar
+     Leahy
+     Lujan
+     Manchin
+     Markey
+     McConnell
+     Menendez
+     Merkley
+     Murkowski
+     Murphy
+     Murray
+     Ossoff
+     Padilla
+     Peters
+     Portman
+     Reed
+     Risch
+     Romney
+     Rosen
+     Rounds
+     Sanders
+     Schatz
+     Schumer
+     Shaheen
+     Sinema
+     Smith
+     Stabenow
+     Sullivan
+     Tester
+     Van Hollen
+     Warner
+     Warren
+     Whitehouse
+     Wyden
+     Young
+
+                                NAYS--32
+
+     Barrasso
+     Blackburn
+     Blunt
+     Boozman
+     Capito
+     Cassidy
+     Cotton
+     Cruz
+     Ernst
+     Fischer
+     Graham
+     Hagerty
+     Hawley
+     Hyde-Smith
+     Inhofe
+     Kennedy
+     Lankford
+     Lee
+     Lummis
+     Marshall
+     Moran
+     Paul
+     Rubio
+     Sasse
+     Scott (FL)
+     Scott (SC)
+     Shelby
+     Thune
+     Tillis
+     Toomey
+     Tuberville
+     Wicker
+
+                             NOT VOTING--1
+
+       
+     Warnock
+
+  The PRESIDING OFFICER. On this vote, the yeas are 67, the nays are 
+32.
+  The motion is agreed to.
+  The Senator from Iowa.
+```

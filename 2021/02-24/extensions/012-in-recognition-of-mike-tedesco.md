@@ -1,0 +1,47 @@
+---
+granule: CREC-2021-02-24-pt1-PgE164
+date: 2021-02-24
+edition: CREC
+section: EXTENSIONS
+page: E164
+citation: 167 Cong. Rec. E164
+---
+
+# IN RECOGNITION OF MIKE TEDESCO
+
+**Speaking:** Joyce, John (J000302) [R-PA]
+
+```
+                     IN RECOGNITION OF MIKE TEDESCO
+
+                                  _____
+                                 
+
+                            HON. JOHN JOYCE
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                      Wednesday, February 24, 2021
+
+  Mr. JOYCE of Pennsylvania. Madam Speaker, I rise to congratulate Mike 
+Tedesco on his new role as President and CEO of Vision Together 2025 in 
+Johnstown, Pennsylvania.
+  Vision Together 2025 is a volunteer-based organization that works to 
+improve life in the Greater Johnstown region by laying a groundwork for 
+better educational and economic opportunities. Vision Together 2025 
+already is making great strides in its mission, and I am confident that 
+Mike will continue this work for the community.
+  Mike holds a degree from the University of Idaho and a master's 
+degree in Urban & Regional Planning from the University of Kansas. An 
+expert in urban planning, Mike was most recently the Executive Director 
+of the Spokane Tribe of Indians in Spokane, Washington. He also 
+previously served as Executive Director of the Pueblo Urban Renewal 
+Authority.
+  On behalf of Pennsylvania's 13th Congressional District, it is my 
+privilege to welcome Mike Tedesco to Johnstown and wish him success in 
+his new role.
+
+                          ____________________
+```

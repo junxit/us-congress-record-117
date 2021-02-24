@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-02-24-pt1-PgS869-3
+date: 2021-02-24
+edition: CREC
+section: SENATE
+page: S869
+citation: 167 Cong. Rec. S869
+---
+
+# ORDERS FOR THURSDAY, FEBRUARY 25, 2021
+
+**Speaking:** Smith, Tina (S001203) [D-MN]
+
+```
+                 ORDERS FOR THURSDAY, FEBRUARY 25, 2021
+
+  Ms. SMITH. Mr. President, I ask unanimous consent that when the 
+Senate completes its business today, it adjourn until 11 a.m., 
+Thursday, February 25th; further, that following the prayer and pledge, 
+the morning hour be deemed expired, the Journal of proceedings be 
+approved to date, the time for the two leaders be reserved for their 
+use later in the day, and the Senate be in a period of morning 
+business, with Senators permitted to speak therein for up to 10 minutes 
+each; that at 12 noon, the Senate proceed to executive session to 
+resume consideration of the Granholm nomination; that there be up to 10 
+minutes for debate, equally divided in the usual form; and that upon 
+the use or yielding back of time, all postcloture time be considered 
+expired and the Senate vote on confirmation of the nomination; that if 
+the nomination is confirmed, the motion to reconsider be considered 
+made and laid upon the table with no intervening action or debate and 
+the President be immediately notified of the Senate's action; finally, 
+notwithstanding rule XXII, the cloture vote on the Cardona nomination 
+occur at 1:30 p.m.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+
+                          ____________________
+```

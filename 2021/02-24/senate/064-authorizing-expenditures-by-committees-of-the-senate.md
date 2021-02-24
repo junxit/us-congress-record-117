@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-02-24-pt1-PgS868-2
+date: 2021-02-24
+edition: CREC
+section: SENATE
+page: S868
+citation: 167 Cong. Rec. S868
+---
+
+# AUTHORIZING EXPENDITURES BY COMMITTEES OF THE SENATE
+
+**Speaking:** Smith, Tina (S001203) [D-MN]
+
+**Measures:** S.Res. 70
+
+```
+          AUTHORIZING EXPENDITURES BY COMMITTEES OF THE SENATE
+
+  Ms. SMITH. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 6, S. Res. 70.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The senior assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 70) authorizing expenditures by 
+     committees of the Senate for the periods March 1, 2021 
+     through September 30, 2021, October 1, 2021 through September 
+     30, 2022, and October 1, 2022 through February 28, 2023.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Ms. SMITH. I ask unanimous consent that the resolution be agreed to 
+and the motion to reconsider be considered made and laid upon the table 
+with no intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 70) was agreed to.
+  (The resolution is printed in the Record of February 23, 2021, under 
+``Submitted Resolutions.'')
+
+                          ____________________
+```
