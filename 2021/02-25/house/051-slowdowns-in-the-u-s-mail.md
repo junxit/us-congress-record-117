@@ -1,0 +1,45 @@
+---
+granule: CREC-2021-02-25-pt1-PgH702
+date: 2021-02-25
+edition: CREC
+section: HOUSE
+page: H702
+citation: 167 Cong. Rec. H702
+---
+
+# SLOWDOWNS IN THE U.S. MAIL
+
+**Speaking:** Casten, Sean (C001117) [D-IL]
+
+```
+                       SLOWDOWNS IN THE U.S. MAIL
+
+  (Mr. CASTEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. CASTEN. Mr. Speaker, for months I had calls coming into my office 
+about delays in the U.S. mail. Some of these delays had to do with cold 
+weather, some are because of COVID, but most are the direct result
+
+[[Page H703]]
+
+of the failures and slowdowns deliberately imposed by Postmaster DeJoy. 
+His efforts to eliminate overtime, close mail processing facilities, 
+and remove mail sorting machines have taken all of the cushion out of 
+the system.
+  Our postal workers are demoralized, they are seeing mail pile up as 
+they are blamed for the delays. Seniors have gone for days waiting for 
+medications. Constituents and local mayors are sounding the alarm.
+  The truth is that our Postal Service has survived this assault from 
+its own leadership, only because those letter carriers and mail 
+handlers have doubled down in spite of the challenges through rain, 
+through sleet, and snow. And, yet, DeJoy has failed them. He has failed 
+the American people.
+  He has not failed by accident. He has a mission to weaken and 
+ultimately privatize the post office to make people who depend on the 
+Postal Service angry enough to finish the destruction that he has 
+started. He hasn't succeeded yet. But every day he stays in office is 
+another day closer to him realizing that goal. The Postal Service needs 
+a leader who is committed to public service. DeJoy must go.
+
+                          ____________________
+```
