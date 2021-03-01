@@ -1,0 +1,37 @@
+---
+granule: CREC-2021-03-01-pt1-PgH863-11
+date: 2021-03-01
+edition: CREC
+section: HOUSE
+page: H863
+citation: 167 Cong. Rec. H863
+---
+
+# TRANSPARENCY IS PART OF GOOD GOVERNMENT
+
+**Speaking:** Posey, Bill (P000599) [R-FL]
+
+```
+                TRANSPARENCY IS PART OF GOOD GOVERNMENT
+
+  (Mr. POSEY asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. POSEY. Madam Speaker, transparency has always been a cornerstone 
+of good government. Over the past 10 years, we have made important
+
+[[Page H864]]
+
+progress toward making Congress more transparent and accountable to 
+those we serve.
+  In 2010, I introduced a resolution calling for a 72-hour period of 
+public availability before the House could bring a bill up for a vote, 
+so Members of the House and the public could actually see what was in a 
+bill before we were asked to vote for it. In 2011, the proposal was 
+adopted into House rules as a 3-day rule.
+  But, sadly, this year's House rules package abolished that rule. It 
+is incredibly sad to see that this House is moving backward and making 
+government less open and less accountable to those we were sent here to 
+represent.
+
+                          ____________________
+```

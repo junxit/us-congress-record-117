@@ -1,0 +1,35 @@
+---
+granule: CREC-2021-03-01-pt1-PgH872-4
+date: 2021-03-01
+edition: CREC
+section: HOUSE
+page: H872
+citation: 167 Cong. Rec. H872
+---
+
+# UNVEILING OF COLUMBIA, SOUTH CAROLINA, MONUMENT
+
+**Speaking:** Clyburn, James E. (C000537) [D-SC]
+
+```
+            UNVEILING OF COLUMBIA, SOUTH CAROLINA, MONUMENT
+
+  (Mr. CLYBURN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CLYBURN. Madam Speaker, tomorrow, at noon, the city of Columbia, 
+South Carolina, Historic Columbia, and the University of South Carolina 
+will unveil a monument that will mark the 60th anniversary of the 
+landmark case Edwards v. South Carolina.
+  That case resulted from the protest march of almost 200 college and 
+high school students from across South Carolina who came to Columbia to 
+protest segregation, discrimination, and what amounted to apartheid.
+  Madam Speaker, 192 or 193 of us were arrested on that day, and 189 
+were convicted. Two years later, the Supreme Court of the United States 
+overturned those convictions in this historic and landmark case against 
+South Carolina, which rendered an end to any State passing laws to 
+subject protest marchers to anything but what they were.
+  Madam Speaker, tomorrow, I will submit a full statement, thanking 
+those for doing so.
+
+                          ____________________
+```

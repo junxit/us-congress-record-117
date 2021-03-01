@@ -1,0 +1,44 @@
+---
+granule: CREC-2021-03-01-pt1-PgH873
+date: 2021-03-01
+edition: CREC
+section: HOUSE
+page: H873
+citation: 167 Cong. Rec. H873
+---
+
+# SUPPORT COVID-19 HOSPITAL LOAN CONVERSION
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+               SUPPORT COVID-19 HOSPITAL LOAN CONVERSION
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Madam Speaker, I rise to support and ask my colleagues to 
+support the COVID-19 Hospital Loan Conversion Act, a bipartisan piece 
+of legislation that I have introduced along with my good friend from 
+Ohio (Mr. Gibbs).
+  Madam Speaker, our Nation's hospitals have invested heavily to 
+prepare for and care for us during the coronavirus pandemic. They 
+canceled tens of thousands of elective surgeries and nonemergency 
+patient tests, at the government's request, to help ensure adequate 
+hospital capacity, preserve gear and equipment, and reduce the risk of 
+unnecessary patient spread.
+  Madam Speaker, this major shift has put some of America's hospitals 
+on the brink of financial disaster. While a provider grant program that 
+costs $175 billion and is designed to provide support to all providers 
+is helpful, more support is needed, especially in regions that fall 
+well below the median household income at the national average.
+  Madam Speaker, this legislation will convert Medicare accelerated and 
+advance payment loans to grants to ensure the additional financial 
+support hospitals and other providers direly need.
+  Hospitals across my district have shared that in the absence of more 
+financial support, including this assistance, it is possible they will 
+be forced to close their significantly scaled back operations.
+  Madam Speaker, I ask my colleagues to support the bill, the Gibbs-
+Kaptur, Kaptur-Gibbs bill, to help these hospitals out.
+
+                          ____________________
+```
