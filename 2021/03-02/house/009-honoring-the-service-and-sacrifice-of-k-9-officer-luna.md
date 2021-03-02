@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-03-02-pt2-PgH885-8
+date: 2021-03-02
+edition: CREC
+section: HOUSE
+page: H885
+citation: 167 Cong. Rec. H885
+---
+
+# HONORING THE SERVICE AND SACRIFICE OF K-9 OFFICER LUNA
+
+**Speaking:** Stauber, Pete (S001212) [R-MN]
+
+```
+         HONORING THE SERVICE AND SACRIFICE OF K-9 OFFICER LUNA
+
+  (Mr. STAUBER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. STAUBER. Mr. Speaker, I rise today with a heavy heart to mourn 
+the tragic loss of K-9 Luna, a beloved member of the Duluth Police 
+Department, who was shot and killed in the line of duty last week.
+  Luna was a 3-year-old Dutch Shepherd who joined the department's K-9 
+unit less than 2 years ago, after her handler, Officer Aaron Haller, 
+lost his K-9 partner, Haas, in a similar incident.
+  As a former Duluth police officer with the Duluth Police Department, 
+I know firsthand that our K-9 partners perform their duties bravely and 
+with great loyalty.
+  To their handlers, a K-9 is more than a dog. They are a partner, 
+protector, and a valued family member. K-9 officers go home with their 
+handlers each night, so their dedication to their handlers and their 
+job does not end after each workday.
+  K-9 Luna was a guardian of the Duluth community. She died a hero's 
+death, giving her life to protect her partner and fellow officers on 
+the scene.
+  My heart is with Luna's handler, Officer Aaron Haller, the Haller 
+family, and the entire Duluth Police Department during this time of 
+deep sorrow.
+  I know it cannot be easy to say goodbye to such a good and loving 
+friend. I speak for the entire Duluth community when I say that we are 
+eternally grateful for Luna's service and sacrifice.
+
+                          ____________________
+```
