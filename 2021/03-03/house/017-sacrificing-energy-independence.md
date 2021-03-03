@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-03-03-pt1-PgH1021-2
+date: 2021-03-03
+edition: CREC
+section: HOUSE
+page: H1021
+citation: 167 Cong. Rec. H1021
+---
+
+# SACRIFICING ENERGY INDEPENDENCE
+
+**Speaking:** Hagedorn, Jim (H001088) [R-MN]
+
+```
+                              {time}  0915
+                    SACRIFICING ENERGY INDEPENDENCE
+
+  (Mr. HAGEDORN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. HAGEDORN. Mr. Speaker, just weeks into this administration, and 
+after endless promises of unity, the President has issued over 40 
+radical executive orders, ranging from rejoining a failed climate pact 
+to taking steps to dismantle the Nation's border security.
+  Governing via executive order, the administration has unilaterally 
+launched a coordinated assault on American energy and a war on 
+agriculture.
+  By revoking the Keystone XL pipeline project, the administration sent 
+more than 10,000 skilled workers to the unemployment line, disrupted 
+our safest and most efficient form of energy transportation, and 
+increased the cost of transporting grain for farmers and 
+agribusinesses.
+  The President also issued extremist moratoriums on new oil and gas 
+leasing and drilling on Federal lands, which only serves to increase 
+American reliance on foreign energy, eliminate good-paying jobs, 
+further stifle economic growth, and drive up the cost of fuel and 
+electricity for every American.
+  This backward agenda is sacrificing the energy independence 
+achievements made by President Trump and Republicans these past 4 
+years. Sadly, the Biden Democrat Party energy policy is putting America 
+last.
+
+                          ____________________
+```
