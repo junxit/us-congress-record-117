@@ -1,0 +1,51 @@
+---
+granule: CREC-2021-03-05-pt1-PgS1367-5
+date: 2021-03-05
+edition: CREC
+section: SENATE
+page: S1367
+citation: 167 Cong. Rec. S1367
+---
+
+# Text of Senate Amendment 1319
+
+**Speaking:** Lee, Mike (L000577) [R-UT]
+
+```
+  SA 1319. Mr. LEE submitted an amendment intended to be proposed to 
+amendment SA 891 proposed by Mr. Schumer (for himself, Mr. Wyden, Mrs. 
+Murray, Mr. Brown, Mr. Peters, Mr. Cardin, Ms. Cantwell, Ms. Stabenow, 
+Mr. Tester, Mr. Menendez, Mr. Schatz, Mr. Carper, Mr. Leahy, and Mr. 
+Sanders) to the bill H.R. 1319, to provide for reconciliation pursuant 
+to title II of S. Con. Res. 5; which was ordered to lie on the table; 
+as follows:
+
+        At the appropriate place in title VII, insert the 
+     following:
+
+     SEC. ____. SPECTRUM REALLOCATION.
+
+       (a) Identification of Spectrum.--The Assistant Secretary of 
+     Commerce for Communications and Information shall identify 
+     not less than 150 megahertz of electromagnetic spectrum that 
+     the Federal Communications Commission can reallocate for 
+     licensed and unlicensed use in accordance with subsection 
+     (b), including sufficient spectrum to generate not less than 
+     $10,000,000,000 in revenue through an auction described in 
+     subsection (b)(1).
+       (b) Reallocation.--Not later than December 31, 2022, of the 
+     band or bands of electromagnetic spectrum identified under 
+     subsection (a), the Federal Communications Commission shall--
+       (1) use a system of competitive bidding to award licenses 
+     for commercial use of half of the spectrum; and
+       (2) make half of the spectrum available for unlicensed use.
+       (c) Broadband Infrastructure Deployment in Unserved 
+     Areas.--The Federal Communications Commission shall use the 
+     proceeds of the auction conducted under subsection (b)(1) for 
+     the deployment of broadband infrastructure to areas in the 
+     United States that the Commission has determined lack access 
+     to both--
+       (1) fixed broadband internet access service; and
+       (2) mobile broadband internet access service.
+                                 ______
+```
