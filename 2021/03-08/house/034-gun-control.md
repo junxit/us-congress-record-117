@@ -1,0 +1,45 @@
+---
+granule: CREC-2021-03-08-pt1-PgH1096-2
+date: 2021-03-08
+edition: CREC
+section: HOUSE
+page: H1096
+citation: 167 Cong. Rec. H1096
+---
+
+# GUN CONTROL
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+**Measures:** H.R. 8, H.R. 1446
+
+```
+                              GUN CONTROL
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute.)
+  Mr. LaMALFA. Mr. Speaker, this week our colleagues on the other side 
+of the aisle are proposing more gun control measures under H.R. 1446 
+and H.R. 8.
+  Mr. Speaker, our Constitution protects all your rights, not 
+selectively by the State or issue. One bill makes you ask permission 
+via background checks with no limits when and how you can purchase a 
+firearm. If they don't complete their work in time, then no gun for 
+you.
+  This is an indefinite delay of your rights.
+  Another supposed background check bill is designed to make criminals 
+out of Americans who are merely trying to help out others. Under this 
+bill if a neighbor with issues, domestic violence, or maybe a suicidal 
+situation decides to give you their gun for safekeeping, you could end 
+up with a fine and a year in prison--$100,000 fine and a year in prison 
+for helping them by possessing that gun for them.
+  The same if someone has a problem with stalking or domestic violence. 
+Maybe you loan a woman a gun. You could be also threatened with 
+prosecution under that guise.
+  Neither of these bills work because they violate a simple truth: 
+criminals don't follow gun laws. They are criminals. I have a more 
+reasonable path: amendments to guarantee your rights under the Second 
+Amendment.
+
+                          ____________________
+```

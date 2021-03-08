@@ -1,0 +1,33 @@
+---
+granule: CREC-2021-03-08-pt1-PgH1095-3
+date: 2021-03-08
+edition: CREC
+section: HOUSE
+page: H1095
+citation: 167 Cong. Rec. H1095
+---
+
+# HONORING ARIEL GIBBS
+
+**Speaking:** Espaillat, Adriano (E000297) [D-NY]
+
+```
+                          HONORING ARIEL GIBBS
+
+  (Mr. ESPAILLAT asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. ESPAILLAT. Mr. Speaker, I rise today to commemorate the life and 
+memory of Ariel Gibbs whom we lost 5 years ago.
+  Ariel was a beloved neighbor and friend to so many members of our 
+East Harlem community. She loved working with seniors and children and 
+helping improve the lives of those around her. She was a direct care 
+worker at United Cerebral Palsy and often volunteered at after-school 
+programs in her community.
+  Ariel will continue to be remembered as a strong, wise leader and a 
+dedicated friend and daughter, as well as a loving mother. Her two 
+energetic and inquisitive sons, now 6 and 7 years old, as well as her 
+many friends and family members--including her dynamic dad, Eddie 
+Gibbs, a leader in East Harlem--will always hold her in their hearts.
+
+                          ____________________
+```
