@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-03-09-pt1-PgH1133
+date: 2021-03-09
+edition: CREC
+section: HOUSE
+page: H1133
+citation: 167 Cong. Rec. H1133
+---
+
+# PROVIDING IMMEDIATE RELIEF TO STRUGGLING AMERICANS
+
+**Speaking:** Costa, Jim (C001059) [D-CA]
+
+```
+           PROVIDING IMMEDIATE RELIEF TO STRUGGLING AMERICANS
+
+  (Mr. COSTA asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COSTA. Mr. Speaker, a year into this pandemic and the world is 
+still reeling. It has created a deep economic crisis for American 
+families and small businesses, and economic disparity continues.
+  Now that vaccines are being administered, with millions inoculated so 
+far, hope for gaining the upper hand over this disease is on the 
+horizon.
+  Last weekend, I saw firsthand the smiles on teachers' faces as they 
+lined up for their first dose of the vaccine. Desperate to see their 
+students, they hold out hope that these shots can get them safely back 
+into the classroom for the first time in a year.
+  Food workers, those who we deem essential to putting food on 
+America's dinner table every night, need to be vaccinated as well. I 
+talked to them about their desire to do their jobs without fear of 
+getting sick, and getting back to a life of normalcy, but we must do 
+more to help Americans.
+  Our communities are hurting. Families, businesses, cities, and States 
+need economic relief now.
+  This week, we will pass the American Rescue Plan to get immediate 
+relief to struggling Americans. It provides the resources needed to 
+help people get by and return to work. This bill will help our economy 
+move again, and I am proud to support it.
+
+                          ____________________
+```

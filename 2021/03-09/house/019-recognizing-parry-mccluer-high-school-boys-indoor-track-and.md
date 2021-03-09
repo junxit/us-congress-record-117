@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-03-09-pt1-PgH1129-8
+date: 2021-03-09
+edition: CREC
+section: HOUSE
+page: H1129
+citation: 167 Cong. Rec. H1129
+---
+
+# RECOGNIZING PARRY McCLUER HIGH SCHOOL BOYS INDOOR TRACK AND FIELD TEAM
+
+**Speaking:** Cline, Ben (C001118) [R-VA]
+
+```
+ RECOGNIZING PARRY McCLUER HIGH SCHOOL BOYS INDOOR TRACK AND FIELD TEAM
+
+  (Mr. CLINE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CLINE. Mr. Speaker, I rise today to recognize Parry McCluer High 
+School boys indoor track and field team for once again winning the 
+Virginia Class 1 State championship last week.
+  This victory marks back-to-back State titles for this incredibly 
+talented squad led by Coach Poluikis.
+  After the Fighting Blues graduated a number of their starters last 
+year, Poluikis wasn't sure if his team could go the distance.
+  With only five Blues competing at the State tournament he said: ``I 
+knew we could win, but everything had to go perfect.'' And everything 
+did go perfectly.
+  Trevor Tomlin swept the 1600 and 3200. Brenden Plogger won the 1000, 
+and Zavery Wallace took the shot put.
+  Kedryn Chandler contributed points with a second-place finish in the 
+3200 and a third-place finish in the 1600, while Omar Massenberg added 
+points in the shot put.
+  When all was said and done, Parry McCluer had come out with a two-
+point lead over runners-up Altavista.
+  This win was made all the more impressive by the fact that all of the 
+team's 58 points were scored in just four events.
+  Congratulations to this Fighting Blues team on a remarkable season. 
+You have earned it.
+
+                          ____________________
+```

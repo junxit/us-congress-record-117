@@ -1,0 +1,37 @@
+---
+granule: CREC-2021-03-09-pt1-PgH1132-4
+date: 2021-03-09
+edition: CREC
+section: HOUSE
+page: H1132
+citation: 167 Cong. Rec. H1132
+---
+
+# HONORING THE LIFE AND SERVICE OF MICHAEL MAGLI
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+             HONORING THE LIFE AND SERVICE OF MICHAEL MAGLI
+
+  (Mr. BILIRAKIS asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. BILIRAKIS. Mr. Speaker, I rise today to honor the life and 
+service of my constituent, Deputy Michael Magli of the Pinellas County 
+Sheriff's Office.
+  On February 17, Michael Magli kissed his wife and children good-bye 
+for the last time as he embarked on what he likely believed to be a 
+routine shift.
+  Mr. Speaker, sadly, we know now that he would not make it back home 
+that particular night. He put his life on the line to take the hit from 
+a drunk driver and save those down the road who might have been in the 
+pathway of danger.
+  As Pinellas County Sheriff Paul Gualtieri so movingly put it at his 
+funeral, Michael was at the right place at the right time.
+  Deputy Magli leaves behind a loving wife, two beautiful children, and 
+the blue family as they struggle to make sense out of unimaginable 
+grief. While Michael's earthly end-of-watch was February 17, 2021, his 
+heavenly watch will endure forever.
+
+                          ____________________
+```
