@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-03-10-pt1-PgH1316
+date: 2021-03-10
+edition: CREC
+section: HOUSE
+page: H1316
+citation: 167 Cong. Rec. H1316
+---
+
+# PEOPLE'S JUSTICE GUARANTEE
+
+**Speaking:** Pressley, Ayanna (P000617) [D-MA]
+
+```
+                       PEOPLE'S JUSTICE GUARANTEE
+
+  (Ms. PRESSLEY asked and was given permission to address the House for 
+1 minute.)
+  Ms. PRESSLEY. Mr. Speaker, I rise to reintroduce the People's Justice 
+Guarantee, a bold, progressive vision to transform our criminal legal 
+system from what it currently is to what it ought to be.
+  For far too long, Congress has enacted policies that failed millions 
+of men, women, and children by expanding our carceral system and 
+divesting from Black and Latinx communities.
+  Growing up with an incarcerated parent, these failures are personal 
+to me. I worked with folks in communities that have been marginalized 
+and ignored, like the incarcerated brothers of the AACC in the 
+Massachusetts Seventh, to craft a resolution that confronts the 
+systemic injustices that destabilized families and traumatized 
+generations.
+  We should provide care for those in crisis, not confine them in 
+solitary.
+  We should house our immigrant neighbors, not deport them from their 
+communities.
+  We should counsel our kids, not lock them up in prison.
+  The People's Justice Guarantee offers these solutions and many others 
+in a robust framework for a humane, equitable, and just legal system.
+  Mr. Speaker, I am proud to reintroduce the People's Justice Guarantee 
+so America can finally fulfill its promise of justice for all.
+
+                          ____________________
+```

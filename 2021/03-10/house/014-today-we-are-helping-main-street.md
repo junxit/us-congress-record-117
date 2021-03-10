@@ -1,0 +1,33 @@
+---
+granule: CREC-2021-03-10-pt1-PgH1194-5
+date: 2021-03-10
+edition: CREC
+section: HOUSE
+page: H1194
+citation: 167 Cong. Rec. H1194
+---
+
+# TODAY WE ARE HELPING MAIN STREET
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                    TODAY WE ARE HELPING MAIN STREET
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, today, the House will vote to 
+approve the American Rescue Plan for poor and middle America.
+  The false choice of Wall Street or Main Street is no more. This plan 
+helps the neighborhood streets and the homes where real people live and 
+struggle every day.
+  This plan is supported by 75 percent of the American people. It will 
+help the cities of Niagara Falls and Buffalo, the county of Erie; will 
+return the American economy to full employment; and will grow that 
+economy by 6 percent, a rate not seen in many, many decades. This is a 
+good plan that provides direct assistance to the people of this country 
+who need it.
+  Mr. Speaker, I urge my colleagues to support this plan.
+
+                          ____________________
+```

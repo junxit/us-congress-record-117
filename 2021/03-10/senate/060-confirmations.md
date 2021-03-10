@@ -1,0 +1,33 @@
+---
+granule: CREC-2021-03-10-pt1-PgS1475-2
+date: 2021-03-10
+edition: CREC
+section: SENATE
+page: S1475
+citation: 167 Cong. Rec. S1475
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate March 10, 2021:
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+       MARCIA LOUISE FUDGE, OF OHIO, TO BE SECRETARY OF HOUSING 
+     AND URBAN DEVELOPMENT.
+
+
+                    ENVIRONMENTAL PROTECTION AGENCY
+
+       MICHAEL STANLEY REGAN, OF NORTH CAROLINA, TO BE 
+     ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       MERRICK BRIAN GARLAND, OF MARYLAND, TO BE ATTORNEY GENERAL.
+```
