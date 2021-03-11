@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-03-11-pt1-PgH1330-3
+date: 2021-03-11
+edition: CREC
+section: HOUSE
+page: H1330
+citation: 167 Cong. Rec. H1330
+---
+
+# KAIA HENDERSON IS A HUMBLE LEADER
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+                   KAIA HENDERSON IS A HUMBLE LEADER
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Madam Speaker, the GOAT, the Greatest of All Time, that 
+is how Coach Mike Callan, the winningest women's basketball coach in my 
+hometown of New Hartford, New York, described junior sensation Kaia 
+Henderson.
+  Not only is Kaia one of the top 50 women's high school basketball 
+recruits in the Nation, she is also a straight-A student, a humble 
+leader, and a viral sensation. Kaia scored her 2,000th point this week, 
+even with a dramatically shortened season due to the COVID virus.
+  Coach Callan describes Kaia as a special player whose work ethic 
+shows on the court and in the record books, where she holds at least 12 
+other school records for the Spartans. Kaia herself remains humble, 
+noting she is focused on winning and helping her team get to sectionals 
+next season.
+  Kaia is inspired by her beloved mom, Kristen, who passed away in 
+2014, who was devoted to Kaia's success. She also credits her dad, 
+Aurelius, and four big brothers--Troy, Isaiah, and twins Jared and 
+Jordan--who push her to new limits each day.
+  But there is more. She has now started a viral 10,000-hour challenge 
+during the height of the pandemic to inspire others to perfect a craft. 
+Check out the 10K hours challenge.
+  Congratulations to Kaia on her incredible success on and off the 
+court.
+
+                          ____________________
+```
