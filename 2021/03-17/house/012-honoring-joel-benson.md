@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-03-17-pt1-PgH1418-3
+date: 2021-03-17
+edition: CREC
+section: HOUSE
+page: H1418
+citation: 167 Cong. Rec. H1418
+---
+
+# HONORING JOEL BENSON
+
+**Speaking:** Cawthorn, Madison (C001104) [R-NC]
+
+```
+                          HONORING JOEL BENSON
+
+  (Mr. CAWTHORN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CAWTHORN. Madam Speaker, today, I rise to honor an august leader 
+within my hometown community in western North Carolina, a proven 
+entrepreneur and a great business leader who is about to open a second 
+quick-service restaurant in my district, which will employ over 100 
+people.
+  Not only will this restaurant employ 100 people, this restaurant will 
+also feed 100 families. This restaurant will help house 100 families.
+  Not only will these employees get to have the honor of being able to 
+earn a living to provide for their families, but they will also be 
+under the careful tutelage of their new employer, Joel Benson, who 
+everyone in my community will recognize is one of the most influential 
+people in my district. Joel is excellent at maximizing the potential in 
+everyone in his care and in his sphere of influence.
+  Today, I rise to honor a great mentor of mine and a great business 
+leader who is providing jobs and a strong economy to North Carolina, 
+Joel Benson.
+  Madam Speaker, I thank Mr. Benson for his service to our community.
+
+                          ____________________
+```

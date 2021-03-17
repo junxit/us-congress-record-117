@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-03-17-pt1-PgH1418
+date: 2021-03-17
+edition: CREC
+section: HOUSE
+page: H1418
+citation: 167 Cong. Rec. H1418
+---
+
+# HONORING CONNIE LAWSON
+
+**Speaking:** Baird, James R. (B001307) [R-IN]
+
+```
+                         HONORING CONNIE LAWSON
+
+  (Mr. BAIRD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BAIRD. Madam Speaker, today, I rise to honor Indiana Secretary of 
+State Connie Lawson.
+  Since 2012, Connie has overseen Indiana's elections and modernized 
+how Hoosiers and businesses interact with the State. Connie championed 
+comprehensive election reforms that included election security and 
+expanded our voting access for Hoosiers.
+  Connie is a fierce advocate for Hoosiers to be financially literate 
+and has advocated high schools offer a free financial class to all 
+students.
+  Connie modernized State government departments by implementing an 
+efficient one-stop portal for businesses to register, file, report, and 
+make payments to State agencies.
+  Prior to being secretary of state, Connie served 16 years in the 
+Indiana State Senate and, before that, was clerk of the Hendricks 
+County Circuit Court.
+  I congratulate Connie on her retirement. On behalf of all Hoosiers, 
+we will miss your 33 years of dedicated public service.
+
+                          ____________________
+```
