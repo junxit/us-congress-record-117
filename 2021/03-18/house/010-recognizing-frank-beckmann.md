@@ -1,0 +1,37 @@
+---
+granule: CREC-2021-03-18-pt1-PgH1504-2
+date: 2021-03-18
+edition: CREC
+section: HOUSE
+page: H1504
+citation: 167 Cong. Rec. H1504
+---
+
+# RECOGNIZING FRANK BECKMANN
+
+**Speaking:** Walberg, Tim (W000798) [R-MI]
+
+```
+                       RECOGNIZING FRANK BECKMANN
+
+  (Mr. WALBERG asked and was given permission to address the House for 
+1 minute.)
+  Mr. WALBERG. Mr. Speaker, I rise today to recognize the upcoming 
+retirement of a legend in Michigan broadcasting, Frank Beckmann.
+  For the past 48 years, Frank has been a pillar of the WJR airwaves. 
+Frank has been inducted into the Michigan Sports Hall of Fame and 
+Michigan Association of Broadcasters Hall of Fame, and he has a list of 
+professional accolades longer than the time we have today.
+  The Maize and Blue faithful know him as the voice of Michigan 
+football for over three decades. His weekly listeners, the best 
+informed in all of talk radio, know him as a clear and compelling 
+proponent of commonsense values. Nonprofits and charities across the 
+State know his generosity in using his microphone to support many 
+worthy causes. I am blessed to know him as a friend.
+  Congratulations, Frank, on a long and storied career.
+  I ask my colleagues to join me in wishing Frank Beckmann a wonderful 
+retirement filled with family, lots of golf, and coolers full of fresh 
+Lake Erie walleye.
+
+                          ____________________
+```

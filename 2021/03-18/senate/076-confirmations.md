@@ -1,0 +1,34 @@
+---
+granule: CREC-2021-03-18-pt1-PgS1659-2
+date: 2021-03-18
+edition: CREC
+section: SENATE
+page: S1659
+citation: 167 Cong. Rec. S1659
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate March 18, 2021:
+
+
+                      CENTRAL INTELLIGENCE AGENCY
+
+       WILLIAM JOSEPH BURNS, OF MARYLAND, TO BE DIRECTOR OF THE 
+     CENTRAL INTELLIGENCE AGENCY.
+
+
+                          DEPARTMENT OF STATE
+
+       BRIAN P. MCKEON, OF THE DISTRICT OF COLUMBIA, TO BE DEPUTY 
+     SECRETARY OF STATE FOR MANAGEMENT AND RESOURCES.
+
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+       XAVIER BECERRA, OF CALIFORNIA, TO BE SECRETARY OF HEALTH 
+     AND HUMAN SERVICES.
+```
