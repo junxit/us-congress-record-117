@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-03-19-pt1-PgH1604
+date: 2021-03-19
+edition: CREC
+section: HOUSE
+page: H1604
+citation: 167 Cong. Rec. H1604
+---
+
+# AMERICA'S KIDS DESERVE BETTER
+
+**Speaking:** Jacobs, Sara (J000305) [D-CA]
+
+```
+                              {time}  1300
+                     AMERICA'S KIDS DESERVE BETTER
+
+  (Ms. JACOBS of California asked and was given permission to address 
+the House for 1 minute.)
+  Ms. JACOBS of California. Madam Speaker, before COVID-19 more than 40 
+percent of San Diego kids were already living in families experiencing 
+poverty.
+  Childhood poverty was a problem before COVID-19, and we know it has 
+only worsened through this pandemic. America's kids deserve better.
+  That is why I was so proud to fight for them through the American 
+Rescue Plan and so proud to see the bill signed into law last week.
+  The American Rescue Plan makes historic investments to increase the 
+child tax credit and support our childcare infrastructure to help 
+working families and our care workers. These investments will be 
+transformational, cutting childhood poverty in half and lifting a heavy 
+burden off the shoulders of so many parents.
+  Today, I celebrate this progress. And, today, I commit myself to 
+working to support the 5 million American children who will still 
+experience poverty. Let's make the child tax credit increases 
+permanent. Let's revitalize our childcare infrastructure, and let's do 
+right by America's kids.
+
+                          ____________________
+```

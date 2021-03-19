@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-03-19-pt1-PgH1589
+date: 2021-03-19
+edition: CREC
+section: HOUSE
+page: H1589
+citation: 167 Cong. Rec. H1589
+---
+
+# PENNSYLVANIA BENEFITING FROM AID
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                    PENNSYLVANIA BENEFITING FROM AID
+
+  (Ms. DEAN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. DEAN. Mr. Speaker, last week, President Biden signed the American 
+Rescue Plan. Although the bill received no Republican votes, it has 
+bipartisan support and will have a long-lasting bipartisan impact.
+  Many constituents in my district have already received relief checks, 
+with as many as 90 million stimulus checks out this week.
+  Yet, this transformative legislation goes even further. It expands 
+funding to get shots in arms and kids safely in school, and it cuts 
+child poverty in half with an expanded child tax credit.
+  Additionally, we finally targeted relief to our local restaurants and 
+eateries that have been devastated by the pandemic.
+  Let's not forget about our State and local governments. We will 
+finally be sending them much-needed aid.
+  My home State of Pennsylvania will receive more than $13 billion. 
+Montgomery and Berks Counties, where my district resides, will receive 
+a combined $242 million.
+  The American Rescue Plan, and all it provides, is the responsible way 
+to fully reopen all of our communities and Build Back Better.
+
+                          ____________________
+```
