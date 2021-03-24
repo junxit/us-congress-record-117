@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-03-24-pt1-PgS1761
+date: 2021-03-24
+edition: CREC
+section: SENATE
+page: S1761
+citation: 167 Cong. Rec. S1761
+---
+
+# NOTICE OF A TIE VOTE, UNDER S. RES. 27
+
+**Speaking:** Reed, Jack (R000122) [D-RI]
+
+**Measures:** S.Res. 27
+
+```
+                      NOTICE OF A TIE VOTE, UNDER 
+                               S. RES. 27
+
+  Mr. REED. Mr. President, I ask unanimous consent to print the 
+following letter in the Congressional Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+The Secretary of the Senate:
+
+       PN79-6, the nomination of Colin Hackett Kahl, of 
+     California, to be Under Secretary of Defense for Policy, 
+     having been referred to the Committee on Armed Services, the 
+     Committee, with a quorum present, has voted on the nomination 
+     as follows--
+       On the question of reporting the nomination favorably with 
+     the recommendation that the nomination be confirmed, 13 ayes 
+     to 13 noes; and
+       In accordance with section 3, paragraph (1)(A) of S. Res. 
+     27 of the 117th Congress, I hereby give notice that the 
+     Committee has not reported the nomination because of a tie 
+     vote, and ask that this notice be printed in the Record 
+     pursuant to the resolution.
+
+                          ____________________
+```

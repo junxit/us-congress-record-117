@@ -1,0 +1,64 @@
+---
+granule: CREC-2021-03-24-pt1-PgS1776
+date: 2021-03-24
+edition: CREC
+section: SENATE
+page: S1776
+citation: 167 Cong. Rec. S1776
+---
+
+# SENATE RESOLUTION 134--EXPRESSING THE SENSE OF THE SENATE THAT THE PRESIDENT SHOULD WORK WITH THE GOVERNMENT OF THE UNITED KINGDOM TO CONCLUDE NEGOTIATIONS FOR A COMPREHENSIVE FREE TRADE AGREEMENT...
+
+**Measures:** S.Res. 134
+
+```
+  SENATE RESOLUTION 134--EXPRESSING THE SENSE OF THE SENATE THAT THE 
+  PRESIDENT SHOULD WORK WITH THE GOVERNMENT OF THE UNITED KINGDOM TO 
+CONCLUDE NEGOTIATIONS FOR A COMPREHENSIVE FREE TRADE AGREEMENT BETWEEN 
+                THE UNITED STATES AND THE UNITED KINGDOM
+
+  Mr. LEE (for himself, Mr. Scott of Florida, Mr. Moran, Mr. Cramer, 
+Mr. Lankford, and Mr. Braun) submitted the following resolution; which 
+was referred to the Committee on Finance:
+
+                              S. Res. 134
+
+       Whereas, on March 5, 1946, Sir Winston Churchill delivered 
+     the Iron Curtain speech in Fulton, Missouri, solidifying the 
+     ``Special Relationship'' between the United States and the 
+     United Kingdom;
+       Whereas, since the end of World War II, the United States 
+     and the United Kingdom have been beacons of freedom to the 
+     world, standing together in the fight against tyranny;
+       Whereas the Special Relationship between the United States 
+     and the United Kingdom has driven economic prosperity and 
+     security cooperation in both nations for more than 70 years;
+       Whereas the United States and the United Kingdom share the 
+     world's largest bilateral trade and investment relationship;
+       Whereas, while the United States and the United Kingdom 
+     already share a robust economic partnership, there remain 
+     clear opportunities for both countries to further strengthen 
+     economic ties;
+       Whereas the United States Trade Representative and United 
+     Kingdom Department for International Trade have engaged in 
+     substantive negotiations towards the conclusion of a 
+     comprehensive free trade agreement since May 2020; and
+       Whereas the constitutional power of making treaties with 
+     foreign nations includes both the legislative and executive 
+     branches: Now, therefore, be it
+       Resolved, That it is the sense of the Senate that--
+       (1) the United States should strengthen their close and 
+     mutually beneficial trading and economic partnership with the 
+     United Kingdom;
+       (2) the President, with the support of Congress, should 
+     work to conclude negotiations for a comprehensive future 
+     trade agreement between the United States and the United 
+     Kingdom; and
+       (3) during the course of finalizing a trade agreement, the 
+     President, in consultation with Congress, should strive to 
+     reach a mutually advantageous resolution of commercial 
+     disagreements between the United States and the United 
+     Kingdom.
+
+                          ____________________
+```
