@@ -1,0 +1,32 @@
+---
+granule: CREC-2021-03-25-pt1-PgS1849-4
+date: 2021-03-25
+edition: CREC
+section: SENATE
+page: S1849
+citation: 167 Cong. Rec. S1849
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+        ADRIANNE TODMAN, OF THE VIRGIN ISLANDS, TO BE DEPUTY 
+     SECRETARY OF HOUSING AND URBAN DEVELOPMENT, VICE BRIAN D. 
+     MONTGOMERY.
+
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+        DAWN MYERS O'CONNELL, OF THE DISTRICT OF COLUMBIA, TO BE 
+     ASSISTANT SECRETARY FOR PREPAREDNESS AND RESPONSE, DEPARTMENT 
+     OF HEALTH AND HUMAN SERVICES, VICE ROBERT P. KADLEC.
+
+                          ____________________
+```
