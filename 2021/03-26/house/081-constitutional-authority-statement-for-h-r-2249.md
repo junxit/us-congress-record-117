@@ -1,0 +1,21 @@
+---
+granule: CREC-2021-03-26-pt1-PgH1694-13
+date: 2021-03-26
+edition: CREC
+section: HOUSE
+page: H1694
+citation: 167 Cong. Rec. H1694
+---
+
+# Constitutional Authority Statement for H.R. 2249
+
+**Measures:** H.R. 2249
+
+```
+           By Mr. QUIGLEY:
+       H.R. 2249.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8, Clause 3 of the United States 
+     Constitution.
+```
