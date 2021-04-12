@@ -1,0 +1,50 @@
+---
+granule: CREC-2021-04-12-pt1-PgS1864-2
+date: 2021-04-12
+edition: CREC
+section: SENATE
+page: S1864
+citation: 167 Cong. Rec. S1864
+---
+
+# Honoring Officer William F. Evans (Executive Session)
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                   Honoring Officer William F. Evans
+
+  Mr. SCHUMER. Madam President, the Senate returns to session in the 
+shadow of tragedy. A week ago last Friday, the senseless attack on the 
+Capitol by a lone actor injured one Capitol Police officer and claimed 
+the life of another, Officer William ``Billy'' Evans.
+  All of us in the Capitol and all of us across the Nation wish for the 
+speedy recovery of Officer Shaver and mourn the loss of another fallen 
+hero.
+  To pay tribute to his final act of bravery, Officer Evans will lie in 
+honor under the Capitol Rotunda, at the very center of the democracy he 
+gave his life to protect. A service in his memory will take place 
+tomorrow morning.
+  For everyone who works in the Senate, his loss is particularly 
+painful. He was a familiar face who greeted lawmakers, reporters, 
+staffers, and employees at the north entrance as we entered the Senate 
+side of the building. Whether you knew him or not, his wide smile was 
+often the first thing you would see in the morning.
+  This has been an immensely difficult few months for members of the 
+Capitol Police Force and for everyone who works behind the scenes to 
+safeguard the Capitol Complex. Senate committees are conducting 
+bipartisan and comprehensive reviews to ensure the Capitol is as secure 
+as possible while also remaining accessible to the public. That is a 
+top priority.
+  But also, in this moment of profound loss, we need to comfort each 
+other and support members of the Capitol Police, who, in 4 short 
+months, have suffered a brutal attack by a violent mob and lost four of 
+their friends and cherished colleagues. We must never, never take for 
+granted the work they do, day in and day out, to guard this citadel of 
+democracy.
+  I will have more to say tomorrow when we pay tribute to the life of 
+Officer Evans. For now, I wish to extend my deep condolences to his 
+friends and family, especially his two young children, and everyone 
+whose lives were enriched by knowing this incredible, incredible public 
+servant.
+```
