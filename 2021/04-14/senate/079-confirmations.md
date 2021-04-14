@@ -1,0 +1,29 @@
+---
+granule: CREC-2021-04-14-pt1-PgS1950-5
+date: 2021-04-14
+edition: CREC
+section: SENATE
+page: S1950
+citation: 167 Cong. Rec. S1950
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 14, 2021:
+
+
+                   SECURITIES AND EXCHANGE COMMISSION
+
+       GARY GENSLER, OF MARYLAND, TO BE A MEMBER OF THE SECURITIES 
+     AND EXCHANGE COMMISSION FOR THE REMAINDER OF THE TERM 
+     EXPIRING JUNE 5, 2021 .
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       BRENDA MALLORY, OF MARYLAND, TO BE A MEMBER OF THE COUNCIL 
+     ON ENVIRONMENTAL QUALITY
+```
