@@ -1,0 +1,44 @@
+---
+granule: CREC-2021-04-15-pt1-PgH1836-6
+date: 2021-04-15
+edition: CREC
+section: HOUSE
+page: H1836
+citation: 167 Cong. Rec. H1836
+---
+
+# PACKING THE SUPREME COURT IS AN ABSURD PROPOSAL
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+            PACKING THE SUPREME COURT IS AN ABSURD PROPOSAL
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1
+
+[[Page H1837]]
+
+minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, the absurd proposal brought forth now to 
+pack the U.S. Supreme Court out of thin air with four new Justices is 
+the latest in a breathtaking effort to seize and seal power for 
+Democrats. They know their policies frequently don't win at the ballot 
+box or in fair elections, so they seek to stack a Court with a new set 
+of Justices that they hope will hand them victories outside of the 
+hallowed legislative process.
+  Justice Breyer, the late Justice Ruth Bader Ginsburg, and even Joe 
+Biden himself--who is quoted as saying packing the Court is a 
+``bonehead idea''--all disagree, at least at one time, that packing the 
+Court to simply grab a majority is wrong-headed and un-American.
+  I am glad to enter into a constitutional amendment with 
+Representative Dusty Johnson to ``Keep the 9'' and save our Supreme 
+Court, to keep it above politics.
+  This is one of the most blatant, naked power grabs we have seen, 
+ever. If this effort is somehow successful and allowed to stand, then 
+you will not recognize the America we know, once knew, as pure power 
+politics will indeed have won over our process that the Founders put in 
+place.
+
+                          ____________________
+```

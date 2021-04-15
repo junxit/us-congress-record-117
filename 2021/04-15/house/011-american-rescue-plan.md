@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-04-15-pt1-PgH1796
+date: 2021-04-15
+edition: CREC
+section: HOUSE
+page: H1796
+citation: 167 Cong. Rec. H1796
+---
+
+# AMERICAN RESCUE PLAN
+
+**Speaking:** Lee, Susie (L000590) [D-NV]
+
+```
+                          AMERICAN RESCUE PLAN
+
+  (Mrs. LEE of Nevada asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. LEE of Nevada. Mr. Speaker, I rise today on behalf of the 
+hundreds of thousands of Nevadans who are still struggling to put food 
+on the table.
+  I rise for those who can't bear to look their children in the eye 
+when they are asked, ``What's for dinner.''
+  Right now, in my home State of Nevada, where our economy has been 
+devastated by this pandemic, 304,000 adults say that they don't have 
+enough food to eat. Of that, 132,000 say that their children don't have 
+enough to eat. This is entirely unacceptable. There is no excuse for a 
+child to go hungry in our country.
+  But I am glad to say that help is here.
+  The American Rescue Plan will cut child poverty in half through 
+payments, bolster child tax credits, and the expansion of food 
+assistance programs. For the first time in a long time, millions of 
+children across this country will be lifted out of poverty and allowed 
+a stable and secure childhood.
+  We all know that our children are our future, and the smartest 
+investment we can make is in them, which is just one of the many 
+reasons I am proud to support the American Rescue Plan.
+
+                          ____________________
+```

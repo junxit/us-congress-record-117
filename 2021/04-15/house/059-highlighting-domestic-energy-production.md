@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-04-15-pt1-PgH1838-4
+date: 2021-04-15
+edition: CREC
+section: HOUSE
+page: H1838
+citation: 167 Cong. Rec. H1838
+---
+
+# HIGHLIGHTING DOMESTIC ENERGY PRODUCTION
+
+**Speaking:** Burgess, Michael C. (B001248) [R-TX]
+
+```
+                              {time}  2210
+                HIGHLIGHTING DOMESTIC ENERGY PRODUCTION
+
+  (Mr. BURGESS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BURGESS. Madam Speaker, I am happy to join my fellow Republicans 
+tonight to talk about the state of energy and the very dangerous Biden 
+ban on energy production in this country.
+  This country needs a reliable, affordable supply of energy, but the 
+Biden executive orders reduce access to energy sources.
+  America has only very recently achieved energy independence through 
+innovation, lower regulations, and a free market, but these executive 
+orders go the other way and will make us dependent on foreign energy 
+producers.
+  Make no mistake about it, the energy will still be produced, maybe 
+just not in the United States. But year over year, since 2005, 
+America's carbon emissions have declined, in spite of increased 
+production.
+  I draw attention to the data shared with the Congress by the Texas 
+Oil and Gas Association: Reduction of flaring in the Permian Basin has 
+really brought carbon emissions down.
+  We can't strangle ourselves. We need to have American energy. We need 
+American energy independence.
+
+                          ____________________
+```

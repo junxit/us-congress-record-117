@@ -1,0 +1,394 @@
+---
+granule: CREC-2021-04-15-pt1-PgS1995
+date: 2021-04-15
+edition: CREC
+section: SENATE
+page: S1995
+citation: 167 Cong. Rec. S1995
+---
+
+# REAFFIRMING THE STRATEGIC PARTNERSHIP BETWEEN THE UNITED STATES AND MONGOLIA AND RECOGNIZING THE 30TH ANNIVERSARY OF DEMOCRACY IN MONGOLIA
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+**Measures:** S.Res. 36
+
+```
+  REAFFIRMING THE STRATEGIC PARTNERSHIP BETWEEN THE UNITED STATES AND 
+ MONGOLIA AND RECOGNIZING THE 30TH ANNIVERSARY OF DEMOCRACY IN MONGOLIA
+
+  Mr. SCHUMER. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 23, S. Res. 36.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The senior assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 36) reaffirming the strategic 
+     partnership between the United States and Mongolia and 
+     recognizing the 30th anniversary of democracy in Mongolia.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution, which had been reported from the Committee on Foreign 
+Relations, with an amendment to strike all after the resolving clause 
+and insert the part printed in italic and an amendment to strike the 
+preamble and insert the part printed in italic, as follows
+       Whereas the United States and Mongolia established 
+     diplomatic relations in January 1987, and since that time the 
+     relationship has grown stronger based on shared strategic 
+     interests, security cooperation, democratic values, good 
+     governance, and respect for human rights;
+       Whereas, since its peaceful democratic revolution in 1989, 
+     through a series of initiatives, Mongolia has charted a 
+     successful path to multiparty democracy and a free market 
+     economy;
+       Whereas, in 1990, the Government of Mongolia declared an 
+     end to a one-party and authoritarian political system and 
+     adopted democratic and free market reforms;
+       Whereas, in 1992, Mongolia adopted a constitution 
+     establishing a democracy, becoming the first country in Asia 
+     to transition from communism to democracy;
+       Whereas Mongolia has shown its commitment to a ``third 
+     neighbor'' relationship with the United States by sending 
+     troops to support United States operations in Iraq from 2003 
+     through 2008 and Afghanistan since 2009, and in addition has 
+     a strong record of troop contributions to international 
+     peacekeeping missions;
+       Whereas successive Mongolian governments have taken notable 
+     steps to strengthen civil society, battle corruption, and 
+     spur economic development;
+       Whereas the Parliament of Mongolia, the State Great Khural, 
+     has engaged with Congress, including through the House 
+     Democracy Partnership, thereby promoting responsive and 
+     effective governance through peer-to-peer cooperation;
+       Whereas Mongolia began as a partner to the Organization for 
+     Security and Co-operation in Europe (OSCE) in 2004, graduated 
+     to become a participating state in 2012, and participates 
+     actively in the OSCE's work promoting stability, peace, and 
+     democracy;
+       Whereas Mongolia has regularly invited the OSCE and other 
+     organizations to send monitoring teams for its presidential 
+     and parliamentary elections;
+       Whereas Mongolia has also been an active member of the 
+     Community of Democracies (CoD), a global coalition of states 
+     that support adherence to common democratic values and 
+     standards, and Mongolia has not only remained active since 
+     the founding of the CoD in 2000, but successfully chaired the 
+     CoD from 2011 through 2013; 
+       Whereas, in addition to supporting the OSCE and the CoD, 
+     Mongolia supports democratic initiatives while participating 
+     in a wide range of other global institutions;
+       Whereas, most recently, on June 24, 2020, Mongolia 
+     successfully organized parliamentary elections, strengthening 
+     its commitment to democracy and the rule of law;
+       Whereas the success of Mongolia as a democracy and its 
+     strategic location, sovereignty, territorial integrity, and 
+     ability to pursue an independent foreign policy are important 
+     to the national security of the United States; 
+       Whereas the United States has provided support to Mongolia 
+     through the Millennium Challenge Corporation via an initial 
+     2007 compact designed to increase economic growth and reduce 
+     poverty, as well as a second compact signed in 2018 involving 
+     investments in water infrastructure, including supply and 
+     wastewater recycling, as well as water sector sustainability; 
+
+       Whereas, on September 20, 2018, the United States and 
+     Mongolia released a joint statement and the ``Roadmap for 
+     Expanded Economic Partnership between the United States and 
+     Mongolia,'' outlining the intent to deepen the bilateral 
+     commercial relationship, including through full 
+     implementation of the obligations under the Agreement on 
+     Transparency in Matters Related to International Trade and 
+     Investment between the United States of America and Mongolia, 
+     signed at New York September 24, 2013 (in this preamble 
+     referred to as the ``United States-Mongolia Transparency 
+     Agreement''), and collaboration in supporting Mongolian 
+     small- and medium-sized enterprises through various programs 
+     and projects;
+       Whereas, according to the Bureau of the Census, trade 
+     between the United States and Mongolia is modest but growing, 
+     with total trade in 2019 between the two countries of 
+     approximately $217,400,000 in goods, including $192,800,000 
+     in United States exports to Mongolia and $24,600,000 in 
+     United States imports from Mongolia;
+       Whereas Mongolia is a beneficiary country under the 
+     Generalized System of Preferences program, but its use of the 
+     program remains low, as, in 2018, only $3,200,000 of exports 
+     from Mongolia to the United States were under the program; 
+     and
+       Whereas, on July 31, 2019, the United States and Mongolia 
+     declared the bilateral relationship a Strategic Partnership 
+     and noted the shared desire--
+       (1) to intensify cooperation as strong democracies based on 
+     the rule of law through safeguarding and promoting democratic 
+     values and human rights, including the freedoms of religion 
+     or belief, expression, including internet and media freedom, 
+     assembly, and association, as well as anticorruption and 
+     fiscal transparency, and youth and emerging leader 
+     development;
+       (2) to cooperate in promoting national security and 
+     stability across the Indo-Pacific region so that all 
+     countries, secure in their sovereignty, are able to pursue 
+     economic growth consistent with international law and 
+     principles of fair competition;
+       (3) to deepen national security and law-enforcement ties 
+     through collaboration on bilateral and multilateral security, 
+     judicial, and law-enforcement efforts in the region;
+       (4) to strengthen cooperation in multilateral engagements 
+     such as peacekeeping, humanitarian assistance, and disaster 
+     preparedness and relief operations;
+       (5) to expand trade and investment relations on a fair and 
+     reciprocal basis, support private sector-led growth, fully 
+     implement the United States-Mongolia Transparency Agreement, 
+     promote women's entrepreneurship, and continue to explore 
+     support for infrastructure under the new United States 
+     International Development Finance Corporation with the new 
+     tools provided under the BUILD Act of 2018 (22 U.S.C. 9601 et 
+     seq.);
+       (6) to strengthen border security, prevent illegal 
+     transshipment and trafficking, expand cooperation on civil 
+     aviation safety and oversight, and efficiently facilitate 
+     legitimate travel between Mongolia and the United States;
+       (7) to increase cooperation in addressing transnational 
+     threats such as terrorism, human trafficking, drug 
+     trafficking, the proliferation of weapons of mass 
+     destruction, cyberattacks, transnational organized crime, 
+     pandemics, and other emerging nontraditional security 
+     threats;
+       (8) to continue to develop an environment in which civil 
+     society, social media, and a free and independent media can 
+     flourish; and
+       (9) to maintain high-level official dialogues, encourage 
+     bilateral exchanges at all levels of government, and further 
+     develop people-to-people exchanges to deepen engagement on 
+     issues of mutual interest and concern: Now, therefore, be it
+     Resolved, That the Senate--
+       (1) recognizes the importance of the relationship between 
+     the United States and Mongolia and remains committed to 
+     advancing this Strategic Partnership in the future;
+       (2) emphasizes the importance of free and fair elections in 
+     Mongolia;
+       (3) applauds the continued engagement of Mongolia in the 
+     Organization for Security and Co-operation in Europe, the 
+     Community of Democracies, congressional-parliamentary 
+     partnerships, including continued high-level parliamentary 
+     exchange, and other institutions that promote democratic 
+     values, which reinforces the commitment of the people and the 
+     Government of Mongolia to those values and standards;
+       (4) encourages the United States Government to help 
+     Mongolia use its benefits under the Generalized System of 
+     Preferences program and other relevant programs to increase 
+     trade between the United States and Mongolia;
+       (5) urges the United States International Development 
+     Finance Corporation to expand activities in Mongolia to 
+     support economic development, diversification of the economy, 
+     and women-owned small- and medium-sized enterprises;
+       (6) urges private and public support to help diversify the 
+     economy of Mongolia through increased cooperation and 
+     investments, as well as infrastructure and other vital 
+     projects;
+       (7) urges the Department of State, the United States Agency 
+     for International Development, and other relevant agencies to 
+     continue to support Mongolia's democratic and economic 
+     development and efforts on anticorruption;
+       (8) reaffirms the importance of civil society to the 
+     continued democratic development of Mongolia;
+       (9) encourages the Government of Mongolia to build a 
+     regulatory system that supports and encourages the growth and 
+     operation of independent nongovernmental organizations and 
+     continues to pursue policies of transparency that uphold 
+     democratic values; and
+       (10) encourages the Government of Mongolia to continue 
+     legal reform, institutional capacity building, and to improve 
+     the independence of other democratic institutions.
+       Mr. SCHUMER. I ask further that the committee-reported 
+     amendment to the resolution be considered and agreed to; that 
+     the resolution, as amended, be agreed to; that the committee-
+     reported amendment to the preamble be agreed to; that the 
+     preamble, as amended, be agreed to; and that the motions to 
+     reconsider be considered made and laid upon the table with no 
+     intervening or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment in the nature of a substitute was 
+agreed to.
+  The resolution (S. Res. 36), as amended, was agreed to.
+  The committee-reported amendment to the preamble in the nature of a 
+substitute was agreed to.
+
+[[Page S1996]]
+
+  The preamble, as amended, was agreed to.
+  The resolution, as amended, with its preamble, as amended, reads as 
+follows
+
+                               S. Res. 36
+
+       Whereas the United States and Mongolia established 
+     diplomatic relations in January 1987, and since that time the 
+     relationship has grown stronger based on shared strategic 
+     interests, security cooperation, democratic values, good 
+     governance, and respect for human rights;
+       Whereas, since its peaceful democratic revolution in 1989, 
+     through a series of initiatives, Mongolia has charted a 
+     successful path to multiparty democracy and a free market 
+     economy;
+       Whereas, in 1990, the Government of Mongolia declared an 
+     end to a one-party and authoritarian political system and 
+     adopted democratic and free market reforms;
+       Whereas, in 1992, Mongolia adopted a constitution 
+     establishing a democracy, becoming the first country in Asia 
+     to transition from communism to democracy;
+       Whereas Mongolia has shown its commitment to a ``third 
+     neighbor'' relationship with the United States by sending 
+     troops to support United States operations in Iraq from 2003 
+     through 2008 and Afghanistan since 2009, and in addition has 
+     a strong record of troop contributions to international 
+     peacekeeping missions;
+       Whereas successive Mongolian governments have taken notable 
+     steps to strengthen civil society, battle corruption, and 
+     spur economic development;
+       Whereas the Parliament of Mongolia, the State Great Khural, 
+     has engaged with Congress, including through the House 
+     Democracy Partnership, thereby promoting responsive and 
+     effective governance through peer-to-peer cooperation;
+       Whereas Mongolia began as a partner to the Organization for 
+     Security and Co-operation in Europe (OSCE) in 2004, graduated 
+     to become a participating state in 2012, and participates 
+     actively in the OSCE's work promoting stability, peace, and 
+     democracy;
+       Whereas Mongolia has regularly invited the OSCE and other 
+     organizations to send monitoring teams for its presidential 
+     and parliamentary elections;
+       Whereas Mongolia has also been an active member of the 
+     Community of Democracies (CoD), a global coalition of states 
+     that support adherence to common democratic values and 
+     standards, and Mongolia has not only remained active since 
+     the founding of the CoD in 2000, but successfully chaired the 
+     CoD from 2011 through 2013; 
+       Whereas, in addition to supporting the OSCE and the CoD, 
+     Mongolia supports democratic initiatives while participating 
+     in a wide range of other global institutions;
+       Whereas, most recently, on June 24, 2020, Mongolia 
+     successfully organized parliamentary elections, strengthening 
+     its commitment to democracy and the rule of law;
+       Whereas the success of Mongolia as a democracy and its 
+     strategic location, sovereignty, territorial integrity, and 
+     ability to pursue an independent foreign policy are important 
+     to the national security of the United States; 
+       Whereas the United States has provided support to Mongolia 
+     through the Millennium Challenge Corporation via an initial 
+     2007 compact designed to increase economic growth and reduce 
+     poverty, as well as a second compact signed in 2018 involving 
+     investments in water infrastructure, including supply and 
+     wastewater recycling, as well as water sector sustainability; 
+
+       Whereas, on September 20, 2018, the United States and 
+     Mongolia released a joint statement and the ``Roadmap for 
+     Expanded Economic Partnership between the United States and 
+     Mongolia,'' outlining the intent to deepen the bilateral 
+     commercial relationship, including through full 
+     implementation of the obligations under the Agreement on 
+     Transparency in Matters Related to International Trade and 
+     Investment between the United States of America and Mongolia, 
+     signed at New York September 24, 2013 (in this preamble 
+     referred to as the ``United States-Mongolia Transparency 
+     Agreement''), and collaboration in supporting Mongolian 
+     small- and medium-sized enterprises through various programs 
+     and projects;
+       Whereas, according to the Bureau of the Census, trade 
+     between the United States and Mongolia is modest but growing, 
+     with total trade in 2019 between the two countries of 
+     approximately $217,400,000 in goods, including $192,800,000 
+     in United States exports to Mongolia and $24,600,000 in 
+     United States imports from Mongolia;
+       Whereas Mongolia is a beneficiary country under the 
+     Generalized System of Preferences program, but its use of the 
+     program remains low, as, in 2018, only $3,200,000 of exports 
+     from Mongolia to the United States were under the program; 
+     and
+       Whereas, on July 31, 2019, the United States and Mongolia 
+     declared the bilateral relationship a Strategic Partnership 
+     and noted the shared desire--
+       (1) to intensify cooperation as strong democracies based on 
+     the rule of law through safeguarding and promoting democratic 
+     values and human rights, including the freedoms of religion 
+     or belief, expression, including internet and media freedom, 
+     assembly, and association, as well as anticorruption and 
+     fiscal transparency, and youth and emerging leader 
+     development;
+       (2) to cooperate in promoting national security and 
+     stability across the Indo-Pacific region so that all 
+     countries, secure in their sovereignty, are able to pursue 
+     economic growth consistent with international law and 
+     principles of fair competition;
+       (3) to deepen national security and law-enforcement ties 
+     through collaboration on bilateral and multilateral security, 
+     judicial, and law-enforcement efforts in the region;
+       (4) to strengthen cooperation in multilateral engagements 
+     such as peacekeeping, humanitarian assistance, and disaster 
+     preparedness and relief operations;
+       (5) to expand trade and investment relations on a fair and 
+     reciprocal basis, support private sector-led growth, fully 
+     implement the United States-Mongolia Transparency Agreement, 
+     promote women's entrepreneurship, and continue to explore 
+     support for infrastructure under the new United States 
+     International Development Finance Corporation with the new 
+     tools provided under the BUILD Act of 2018 (22 U.S.C. 9601 et 
+     seq.);
+       (6) to strengthen border security, prevent illegal 
+     transshipment and trafficking, expand cooperation on civil 
+     aviation safety and oversight, and efficiently facilitate 
+     legitimate travel between Mongolia and the United States;
+       (7) to increase cooperation in addressing transnational 
+     threats such as terrorism, human trafficking, drug 
+     trafficking, the proliferation of weapons of mass 
+     destruction, cyberattacks, transnational organized crime, 
+     pandemics, and other emerging nontraditional security 
+     threats;
+       (8) to continue to develop an environment in which civil 
+     society, social media, and a free and independent media can 
+     flourish; and
+       (9) to maintain high-level official dialogues, encourage 
+     bilateral exchanges at all levels of government, and further 
+     develop people-to-people exchanges to deepen engagement on 
+     issues of mutual interest and concern: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the importance of the relationship between 
+     the United States and Mongolia and remains committed to 
+     advancing this Strategic Partnership in the future;
+       (2) emphasizes the importance of free and fair elections in 
+     Mongolia;
+       (3) applauds the continued engagement of Mongolia in the 
+     Organization for Security and Co-operation in Europe, the 
+     Community of Democracies, congressional-parliamentary 
+     partnerships, including continued high-level parliamentary 
+     exchange, and other institutions that promote democratic 
+     values, which reinforces the commitment of the people and the 
+     Government of Mongolia to those values and standards;
+       (4) encourages the United States Government to help 
+     Mongolia use its benefits under the Generalized System of 
+     Preferences program and other relevant programs to increase 
+     trade between the United States and Mongolia;
+       (5) urges the United States International Development 
+     Finance Corporation to expand activities in Mongolia to 
+     support economic development, diversification of the economy, 
+     and women-owned small- and medium-sized enterprises;
+       (6) urges private and public support to help diversify the 
+     economy of Mongolia through increased cooperation and 
+     investments, as well as infrastructure and other vital 
+     projects;
+       (7) urges the Department of State, the United States Agency 
+     for International Development, and other relevant agencies to 
+     continue to support Mongolia's democratic and economic 
+     development and efforts on anticorruption;
+       (8) reaffirms the importance of civil society to the 
+     continued democratic development of Mongolia;
+       (9) encourages the Government of Mongolia to build a 
+     regulatory system that supports and encourages the growth and 
+     operation of independent nongovernmental organizations and 
+     continues to pursue policies of transparency that uphold 
+     democratic values; and
+       (10) encourages the Government of Mongolia to continue 
+     legal reform, institutional capacity building, and to improve 
+     the independence of other democratic institutions.
+
+                          ____________________
+```

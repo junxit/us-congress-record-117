@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-04-15-pt1-PgS1977-9
+date: 2021-04-15
+edition: CREC
+section: SENATE
+page: S1977
+citation: 167 Cong. Rec. S1977
+---
+
+# 60TH ANNIVERSARY OF THE BAY OF PIGS OPERATION
+
+**Speaking:** Scott, Rick (S001217) [R-FL]
+
+```
+             60TH ANNIVERSARY OF THE BAY OF PIGS OPERATION
+
+  Mr. SCOTT of Florida. Mr. President, I rise today to honor the 60th 
+anniversary of the Bay of Pigs operation.
+  Today, we commemorate the 60th anniversary of the Bay of Pigs 
+operation and pay tribute to the brave and courageous members of 
+Brigada de Asalto 2506, Assault Brigade 2506. On April 17, 1961, a 
+group of Cuban patriots landed at the Bay of Pigs to overthrow Fidel 
+Castro's communist dictatorship. We remember the sacrifice made by 
+these brave individuals, and their memory lives on in the fight that 
+continues today.
+  There is no doubt that where we see instability, chaos, and violence 
+in
+
+[[Page S1978]]
+
+Latin America, we also see the fingerprints of the Castro regime. The 
+Cuban people have suffered decades of oppression under Castro's regime. 
+So many courageous individuals have dedicated their lives to the 
+freedom of Cuba, and their commitment and sacrifice have kept the hope 
+of liberty alive.
+  It is time to show Castro that his era of influence in Latin America 
+is over. The United States must always support those fighting for 
+freedom and democracy, and I will never stop fighting to bring a new 
+day of freedom to Cuba and all of Latin America.
+
+                          ____________________
+```
