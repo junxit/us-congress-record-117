@@ -1,0 +1,36 @@
+---
+granule: CREC-2021-04-16-pt1-PgH1878
+date: 2021-04-16
+edition: CREC
+section: HOUSE
+page: H1878
+citation: 167 Cong. Rec. H1878
+---
+
+# UNIONIZATION
+
+**Speaking:** Levin, Andy (L000592) [D-MI]
+
+```
+                              UNIONIZATION
+
+  (Mr. LEVIN of Michigan asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. LEVIN of Michigan. Madam Speaker, I rise in support of the 
+Protecting the Right to Organize, or PRO, Act.
+  In 1987, I was arrested for standing on a public sidewalk.
+  My crime?
+  I was seeking to help hospital workers organize with SEIU. That was 
+one of many experiences I had demonstrating how American elections for 
+workers to form a union are more like political elections in a 
+dictatorship than in a democracy.
+  The recent union election at an Amazon warehouse in Alabama shows 
+just how stacked the deck is against workers. It shows the power 
+wielded by companies large and small and the lengths they will go to 
+keep owners and executives reaping the benefits of growing 
+productivity, even at the expense of their workers' very dignity.
+  It shows the urgent need for change. The Senate must send the PRO Act 
+to the President's desk.
+
+                          ____________________
+```
