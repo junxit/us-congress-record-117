@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-04-19-pt1-PgH1947-4
+date: 2021-04-19
+edition: CREC
+section: HOUSE
+page: H1947
+citation: 167 Cong. Rec. H1947
+---
+
+# ENDORSEMENT OF VIOLENCE IS UNCONSCIONABLE
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+               ENDORSEMENT OF VIOLENCE IS UNCONSCIONABLE
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, I rise out of great concern for the 
+violence and looting that has taken over Minneapolis. Even more 
+troubling is the seeming endorsement and, yes, incitement of it by 
+Members of this body.
+  It is unconscionable that a Member of Congress sent to Washington to 
+make the laws that govern our Nation would encourage Americans to 
+disregard those laws. Yet one of our Democratic colleagues, only one 
+day after 136 rioters were arrested, called for protesters to ``stay on 
+the street,'' ``get more active,'' and ``get more confrontational'' 
+against our law enforcement, urging this escalation by asking 
+protesters to ignore the citywide curfew. Hours later, that inevitable 
+escalation did occur, with National Guardsmen and police being fired 
+upon.
+  These are very dangerous actions. Is this the standard by which we 
+want this House to represent the people of this country, that 
+incitement? I recall a lot of talk some months ago about a much lesser 
+speech being inciteful, language must less geared toward that being 
+inciteful, yet it happens here.
+  Strong action needs to be taken by Speaker Pelosi and this House 
+against these types of words.
+
+                          ____________________
+```
