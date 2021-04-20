@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-04-20-pt1-PgH1957-3
+date: 2021-04-20
+edition: CREC
+section: HOUSE
+page: H1957
+citation: 167 Cong. Rec. H1957
+---
+
+# RECOGNIZING RION-BOWMAN VFW POST
+
+**Speaking:** Cline, Ben (C001118) [R-VA]
+
+```
+                    RECOGNIZING RION-BOWMAN VFW POST
+
+  The SPEAKER. The Chair recognizes the gentleman from Virginia (Mr. 
+Cline) for 5 minutes.
+  Mr. CLINE. Madam Speaker, I rise today to recognize the Rion-Bowman 
+VFW Post in Harrisonburg, Virginia, which recently celebrated its 100th 
+anniversary.
+  Founded in 1921, VFW Post 632 was the first Veterans of Foreign War 
+chapter founded in the Shenandoah Valley and is one of the oldest in 
+the Commonwealth of Virginia.
+  Combat veterans of every conflict since World War I have called this 
+post home, and it has been led by 73 dedicated commanders over the 
+years.
+  Current Senior Vice Commander Christopher Rexrode noted the 
+significance of celebrating this milestones during the pandemic, which 
+has forced far too many veterans' clubs across the country to close. He 
+is thankful his post has been able to keep its doors open and continue 
+to serve as a place for veterans to gather, connect, and share 
+experiences and comradery on a daily basis.
+  Congratulations to VFW Post 632 on this great achievement, and I wish 
+them another 100 years of success.
+
+                          ____________________
+```

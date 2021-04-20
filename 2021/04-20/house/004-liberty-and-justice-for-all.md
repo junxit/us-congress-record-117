@@ -1,0 +1,67 @@
+---
+granule: CREC-2021-04-20-pt1-PgH1957-4
+date: 2021-04-20
+edition: CREC
+section: HOUSE
+page: H1957
+citation: 167 Cong. Rec. H1957
+---
+
+# LIBERTY AND JUSTICE FOR ALL
+
+**Speaking:** Green, Al (G000553) [D-TX]
+
+```
+                      LIBERTY AND JUSTICE FOR ALL
+
+  The SPEAKER pro tempore (Ms. Eshoo). The Chair recognizes the 
+gentleman from Texas (Mr. Green) for 5 minutes.
+  Mr. GREEN of Texas. Madam Speaker, I rise in the name of liberty and 
+justice for all. I rise in the name of liberty and justice for all 
+because the criminal justice system is on trial. It is on trial in the 
+court of world opinion. It is on trial for crimes committed against 
+human beings in this country.
+  Some of the complainants would include Eric Garner, Tamir Rice, 
+Breonna Taylor, George Floyd.
+  I rise in the name of liberty and justice for all because we have 
+reached a point in our history wherein there is one case now that seems 
+to have reached the pinnacle of the system, such that everyone is 
+waiting to see how this case will eventually address liberty and 
+justice for all.
+  One of the complaints is that in this country we have allowed 
+arresting officers, that we confer enormous power on, literally, the 
+power to execute when necessary.
+  But the question is: Will these arresting officers not only have the 
+power to arrest, but also the power to be judge, jury, prosecutor, and 
+executioner?
+  This is the question before the court of world opinion.
+  We have a case that embraces decades, perhaps even centuries of 
+misdeeds. My hope is that we will receive a just ruling. My prayer is 
+that, if there is not a just ruling, we will have peaceful protests. I 
+believe in peaceful protests. I have gone to jail participating in 
+peaceful protests. I have gone to jail with John Lewis participating in 
+peaceful protests. Twice, he and I were jailed together.
+  So I rise in the name of liberty and justice for all, understanding 
+that we have an opportunity now to demonstrate to the world that we 
+will not allow an arresting officer to be judge, jury, prosecutor, and 
+executioner. But I also understand, given the history of this country, 
+unfortunately, that things don't always work out as I believe they 
+should.
+  So my hope is that there will be peaceful protests, but I do hope 
+that the protests will take place if there is not a just verdict. There 
+is nothing wrong with peaceful protests in this country. There is 
+nothing wrong with confronting injustice in this country. There is 
+nothing wrong with standing up for the rights of those who are being 
+denied liberty and justice for all in this country.
+  I want to see peaceful protests if the wrong verdict is rendered. 
+And, in my opinion, the verdict that we should have is arresting 
+officers can't be judge, jury, prosecutor, and executioner. There are 
+those who would say that I don't have the right to come to these 
+conclusions at this time, and they are wrong.
+  In the court of public opinion, world opinion, many have already come 
+to this same conclusion. I am merely echoing what they have said. As 
+such, I am a messenger, and the message is: Let's pray for a just 
+decision in the court of world opinion.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-04-20-pt1-PgH1964-5
+date: 2021-04-20
+edition: CREC
+section: HOUSE
+page: H1964
+citation: 167 Cong. Rec. H1964
+---
+
+# LOCAL GRAMMY WINNER JAMES BLACHLY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                   LOCAL GRAMMY WINNER JAMES BLACHLY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to 
+congratulate Johnstown, Pennsylvania, local, James Blachly, on his 2021 
+Grammy win.
+  In April 2018, Blachly and the Johnstown Symphony Orchestra performed 
+the U.S. world premiere of Dame Ethel Smyth's ``The Prison.'' It was 
+this performance that won the 2021 Grammy.
+  Serving as the music director of the Johnstown Symphony Orchestra and 
+as music director of the Experiential Orchestra, Mr. Blachly is known 
+for his innovative programming which aims to increase audience 
+engagement.
+  James is an incredibly talented conductor and composer. In 2016, he 
+was the only conductor from the United States invited to participate in 
+the first annual Young Conductors Showcase as part of El Sistema's 40th 
+anniversary celebration, and he was the only U.S. conductor to be 
+invited as Conducting Fellow in Maestra Marin Alsop's final year at the 
+Cabrillo Festival of Contemporary Music.
+  Congratulations to James and the Johnstown Symphony. Their hard work 
+and dedication have truly paid off.
+
+                          ____________________
+```
