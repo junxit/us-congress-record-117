@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-04-21-pt1-PgH2005
+date: 2021-04-21
+edition: CREC
+section: HOUSE
+page: H2005
+citation: 167 Cong. Rec. H2005
+---
+
+# STANDING UP FOR THE VOICELESS
+
+**Speaking:** Miller, Mary E. (M001211) [R-IL]
+
+```
+                              {time}  1230
+                     STANDING UP FOR THE VOICELESS
+
+  (Mrs. MILLER of Illinois asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Mrs. MILLER of Illinois. Madam Speaker, I proudly signed a discharge 
+petition in order to vote on the Born-Alive Abortion Survivors 
+Protection Act.
+  Along with my Republican colleagues, we are standing up for the 
+voiceless to end this ongoing tragedy once and for all. We must end 
+infanticide.
+  Seventy-seven percent of Americans support protections for babies 
+born alive after a failed abortion, but Speaker Pelosi refuses to bring 
+up the Born-Alive Abortion Survivors Protection Act for a vote.
+  This legislation is long overdue. It is time to stand up to Speaker 
+Pelosi and the radical Democrats' lack of regard for human life and 
+pass the Born-Alive Abortion Survivors Protection Act.
+  My heart aches in all instances when the dignity of human life is 
+violated. As a Christian, I believe that the image of God in each one 
+of us gives us intrinsic worth that cannot be assaulted.
+  This bill simply requires an abortionist to give lifesaving treatment 
+to a child who survives a botched abortion rather than let them die 
+slowly.
+
+                          ____________________
+```

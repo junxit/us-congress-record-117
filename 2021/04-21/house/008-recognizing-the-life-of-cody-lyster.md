@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-04-21-pt1-PgH2001-7
+date: 2021-04-21
+edition: CREC
+section: HOUSE
+page: H2001
+citation: 167 Cong. Rec. H2001
+---
+
+# RECOGNIZING THE LIFE OF CODY LYSTER
+
+**Speaking:** Crow, Jason (C001121) [D-CO]
+
+```
+                  RECOGNIZING THE LIFE OF CODY LYSTER
+
+  (Mr. CROW asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CROW. Madam Speaker, it is my honor today to recognize the life 
+of Cody Lyster, son of Kevin and Lea Ann Lyster, of Aurora, Colorado.
+  Cody passed away on April 8, 2020, and is Colorado's second youngest 
+victim to die from COVID-19. He was a criminal justice major at 
+Colorado Mesa University, following in his father's footsteps to become 
+a law enforcement officer.
+  Cody was an avid baseball player. As a freshman, Cody was named team 
+captain of his school's club baseball team, a first for Colorado Mesa 
+University history. He helped others through his love for the game and 
+had a knack for bringing people together and could be counted on during 
+times of calm and times of crisis.
+  Cody made his community better. In his honor, a $1 million 
+scholarship was established at Colorado Mesa University, and a 
+sportsmanship award and scholarship at Arapahoe Little League were 
+dedicated to a life well-lived.
+  Cody was an inspiration to others, and I can think of few as 
+deserving of this honor today. I honor Cody and thank the Lysters for 
+drawing strength from tragedy to make sure Cody's story is heard and to 
+save as many lives as they can during this pandemic.
+
+                          ____________________
+```

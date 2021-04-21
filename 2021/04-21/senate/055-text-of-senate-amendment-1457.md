@@ -1,0 +1,324 @@
+---
+granule: CREC-2021-04-21-pt1-PgS2130-11
+date: 2021-04-21
+edition: CREC
+section: SENATE
+page: S2130
+citation: 167 Cong. Rec. S2130
+---
+
+# Text of Senate Amendment 1457
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+  SA 1457. Mr. McCONNELL submitted an amendment intended to be proposed 
+to amendment SA 1445 proposed by Mr. Schumer (for Ms. Hirono (for 
+herself, Ms. Collins, Mr. Blumenthal, and Mr. Warnock)) to the bill S. 
+937, to facilitate the expedited review of COVID-19 hate crimes, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+       Beginning on page 4, strike line 11 and all that follows 
+     through page 21, line 19 and insert the following:
+       (1) establish online reporting of hate crimes, and to have 
+     online reporting that is
+
+[[Page S2131]]
+
+     equally effective for people with disabilities as for people 
+     without disabilities available in multiple languages as 
+     determined by the Attorney General; and
+       (2) collect data disaggregated by the protected 
+     characteristics described in section 249 of title 18, United 
+     States Code.
+       (b) Guidance Relating to COVID-19 Pandemic.--The Attorney 
+     General and the Secretary of Health and Human Services, in 
+     coordination with the COVID-19 Health Equity Task Force and 
+     community-based organizations, shall issue guidance on how to 
+     report hate crimes during the COVID-19 pandemic.
+
+     SEC. 5. JABARA-HEYER NO HATE ACT.
+
+       (a) Short Title.--This section may be cited as the ``Khalid 
+     Jabara and Heather Heyer National Opposition to Hate, 
+     Assault, and Threats to Equality Act of 2021'' or the 
+     ``Jabara-Heyer NO HATE Act''.
+       (b) Findings.--Congress finds the following:
+       (1) The incidence of violence known as hate crimes, or 
+     crimes motivated by bias, poses a serious national problem.
+       (2) According to data obtained by the Federal Bureau of 
+     Investigation, the incidence of such violence increased in 
+     2019, the most recent year for which data is available.
+       (3) In 1990, Congress enacted the Hate Crime Statistics Act 
+     (Public Law 101-275; 28 U.S.C. 534 note) to provide the 
+     Federal Government, law enforcement agencies, and the public 
+     with data regarding the incidence of hate crime. The Hate 
+     Crime Statistics Act and the Matthew Shepard and James Byrd, 
+     Jr. Hate Crimes Prevention Act (division E of Public Law 111-
+     84; 123 Stat. 2835) have enabled Federal authorities to 
+     understand and, where appropriate, investigate and prosecute 
+     hate crimes.
+       (4) A more complete understanding of the national problem 
+     posed by hate crime is in the public interest and supports 
+     the Federal interest in eradicating bias-motivated violence 
+     referenced in section 249(b)(1)(C) of title 18, United States 
+     Code.
+       (5) However, a complete understanding of the national 
+     problem posed by hate crimes is hindered by incomplete data 
+     from Federal, State, and local jurisdictions through the 
+     Uniform Crime Reports program authorized under section 534 of 
+     title 28, United States Code, and administered by the Federal 
+     Bureau of Investigation.
+       (6) Multiple factors contribute to the provision of 
+     inaccurate and incomplete data regarding the incidence of 
+     hate crime through the Uniform Crime Reports program. A 
+     significant contributing factor is the quality and quantity 
+     of training that State and local law enforcement agencies 
+     receive on the identification and reporting of suspected 
+     bias-motivated crimes.
+       (7) The problem of crimes motivated by bias is sufficiently 
+     serious, widespread, and interstate in nature as to warrant 
+     Federal financial assistance to States and local 
+     jurisdictions.
+       (8) Federal financial assistance with regard to certain 
+     violent crimes motivated by bias enables Federal, State, and 
+     local authorities to work together as partners in the 
+     investigation and prosecution of such crimes.
+       (c) Definitions.--In this section:
+       (1) Hate crime.--The term ``hate crime'' means an act 
+     described in section 245, 247, or 249 of title 18, United 
+     States Code, or in section 901 of the Civil Rights Act of 
+     1968 (42 U.S.C. 3631).
+       (2) Priority agency.--The term ``priority agency'' means--
+       (A) a law enforcement agency of a unit of local government 
+     that serves a population of not less than 100,000, as 
+     computed by the Federal Bureau of Investigation; or
+       (B) a law enforcement agency of a unit of local government 
+     that--
+       (i) serves a population of not less than 50,000 and less 
+     than 100,000, as computed by the Federal Bureau of 
+     Investigation; and
+       (ii) has reported no hate crimes through the Uniform Crime 
+     Reports program in each of the 3 most recent calendar years 
+     for which such data is available.
+       (3) State.--The term ``State'' has the meaning given the 
+     term in section 901 of title I of the Omnibus Crime Control 
+     and Safe Streets Act of 1968 (34 U.S.C. 10251).
+       (4) Uniform crime reports.--The term ``Uniform Crime 
+     Reports'' means the reports authorized under section 534 of 
+     title 28, United States Code, and administered by the Federal 
+     Bureau of Investigation that compile nationwide criminal 
+     statistics for use--
+       (A) in law enforcement administration, operation, and 
+     management; and
+       (B) to assess the nature and type of crime in the United 
+     States.
+       (5) Unit of local government.--The term ``unit of local 
+     government'' has the meaning given the term in section 901 of 
+     title I of the Omnibus Crime Control and Safe Streets Act of 
+     1968 (34 U.S.C. 10251).
+       (d) Reporting of Hate Crimes.--
+       (1) Implementation grants.--
+       (A) In general.--The Attorney General may make grants to 
+     States and units of local government to assist the State or 
+     unit of local government in implementing the National 
+     Incident-Based Reporting System, including to train employees 
+     in identifying and classifying hate crimes in the National 
+     Incident-Based Reporting System.
+       (B) Priority.--In making grants under subparagraph (A), the 
+     Attorney General shall give priority to States and units of 
+     local government that develop and implement the programs and 
+     activities described in subsection (e)(2)(A).
+       (2) Reporting.--
+       (A) Compliance.--
+       (i) In general.--Except as provided in clause (ii), in each 
+     fiscal year beginning after the date that is 3 years after 
+     the date on which a State or unit of local government first 
+     receives a grant under paragraph (1), the State or unit of 
+     local government shall provide to the Attorney General, 
+     through the Uniform Crime Reporting system, information 
+     pertaining to hate crimes committed in that jurisdiction 
+     during the preceding fiscal year.
+       (ii) Extensions; waiver.--The Attorney General--
+
+       (I) may provide a 120-day extension to a State or unit of 
+     local government that is making good faith efforts to comply 
+     with clause (i); and
+       (II) shall waive the requirements of clause (i) if 
+     compliance with that subparagraph by a State or unit of local 
+     government would be unconstitutional under the constitution 
+     of the State or of the State in which the unit of local 
+     government is located, respectively.
+
+       (B) Failure to comply.--If a State or unit of local 
+     government that receives a grant under paragraph (1) fails to 
+     substantially comply with subparagraph (A) of this paragraph, 
+     the State or unit of local government shall repay the grant 
+     in full, plus reasonable interest and penalty charges 
+     allowable by law or established by the Attorney General.
+       (e) Information Collection by States and Units of Local 
+     Government.--
+       (1) Definitions.--In this subsection:
+       (A) Covered agency.--The term ``covered agency'' means--
+       (i) a State law enforcement agency; and
+       (ii) a priority agency.
+       (B) Eligible entity.--The term ``eligible entity'' means--
+       (i) a State; or
+       (ii) a unit of local government that has a priority agency.
+       (2) Grants.--
+       (A) In general.--The Attorney General may make grants to 
+     eligible entities to assist covered agencies within the 
+     jurisdiction of the eligible entity in conducting law 
+     enforcement activities or crime reduction programs to 
+     prevent, address, or otherwise respond to hate crime, 
+     particularly as those activities or programs relate to 
+     reporting hate crimes through the Uniform Crime Reports 
+     program, including--
+       (i) adopting a policy on identifying, investigating, and 
+     reporting hate crimes;
+       (ii) developing a standardized system of collecting, 
+     analyzing, and reporting the incidence of hate crime; and
+       (iii) establishing a unit specialized in identifying, 
+     investigating, and reporting hate crimes.
+       (B) Subgrants.--A State that receives a grant under 
+     subparagraph (A) may award a subgrant to a unit of local 
+     government within the State for the purposes under that 
+     subparagraph, except that a unit of local government may 
+     provide funding from such a subgrant to any law enforcement 
+     agency of the unit of local government.
+       (3) Information required of states and units of local 
+     government.--
+       (A) In general.--For each fiscal year in which a State or 
+     unit of local government receives a grant or subgrant under 
+     paragraph (2), the State or unit of local government shall--
+       (i) collect information from each law enforcement agency 
+     that receives funding from the grant or subgrant summarizing 
+     the law enforcement activities or crime reduction programs 
+     conducted by the agency to prevent, address, or otherwise 
+     respond to hate crime, particularly as those activities or 
+     programs relate to reporting hate crimes through the Uniform 
+     Crime Reports program; and
+       (ii) submit to the Attorney General a report containing the 
+     information collected under clause (i).
+       (B) Semiannual law enforcement agency report.--
+       (i) In general.--In collecting the information required 
+     under subparagraph (A)(i), a State or unit of local 
+     government shall require each law enforcement agency that 
+     receives funding from a grant or subgrant awarded to the 
+     State or unit of local government under paragraph (2) to 
+     submit a semiannual report to the State or unit of local 
+     government that includes a summary of the law enforcement 
+     activities or crime reduction programs conducted by the 
+     agency during the reporting period to prevent, address, or 
+     otherwise respond to hate crime, particularly as those 
+     activities or programs relate to reporting hate crimes 
+     through the Uniform Crime Reports program.
+       (ii) Contents.--In a report submitted under clause (i), a 
+     law enforcement agency shall, at a minimum, disclose--
+
+       (I) whether the agency has adopted a policy on identifying, 
+     investigating, and reporting hate crimes;
+       (II) whether the agency has developed a standardized system 
+     of collecting, analyzing, and reporting the incidence of hate 
+     crime;
+       (III) whether the agency has established a unit specialized 
+     in identifying, investigating, and reporting hate crimes;
+       (IV) whether the agency engages in community relations 
+     functions related to hate crime, such as--
+
+       (aa) establishing a liaison with formal community-based 
+     organizations or leaders; and
+       (bb) conducting public meetings or educational forums on 
+     the impact of hate crime, services available to hate crime 
+     victims, and the relevant Federal, State, and local laws 
+     pertaining to hate crime; and
+
+[[Page S2132]]
+
+       (V) the number of hate crime trainings for agency 
+     personnel, including the duration of the trainings, conducted 
+     by the agency during the reporting period.
+
+       (4) Compliance and redirection of funds.--
+       (A) In general.--Except as provided in subparagraph (B), 
+     beginning not later than 1 year after the date of this Act, a 
+     State or unit of local government receiving a grant or 
+     subgrant under paragraph (2) shall comply with paragraph (3).
+       (B) Extensions; waiver.--The Attorney General--
+       (i) may provide a 120-day extension to a State or unit of 
+     local government that is making good faith efforts to collect 
+     the information required under paragraph (3); and
+       (ii) shall waive the requirements of paragraph (3) for a 
+     State or unit of local government if compliance with that 
+     subsection by the State or unit of local government would be 
+     unconstitutional under the constitution of the State or of 
+     the State in which the unit of local government is located, 
+     respectively.
+       (f) Requirements of the Attorney General.--
+       (1) Information collection and analysis; report.--In order 
+     to improve the accuracy of data regarding the incidence of 
+     hate crime provided through the Uniform Crime Reports 
+     program, and promote a more complete understanding of the 
+     national problem posed by hate crime, the Attorney General 
+     shall--
+       (A) collect and analyze the information provided by States 
+     and units of local government under subsection (e) for the 
+     purpose of developing policies related to the provision of 
+     accurate data obtained under the Hate Crime Statistics Act 
+     (Public Law 101-275; 28 U.S.C. 534 note) by the Federal 
+     Bureau of Investigation; and
+       (B) for each calendar year beginning after the date of 
+     enactment of this Act, publish and submit to Congress a 
+     report based on the information collected and analyzed under 
+     subparagraph (A).
+       (2) Contents of report.--A report submitted under paragraph 
+     (1) shall include--
+       (A) a qualitative analysis of the relationship between--
+       (i) the number of hate crimes reported by State law 
+     enforcement agencies or other law enforcement agencies that 
+     received funding from a grant or subgrant awarded under 
+     paragraph (2) through the Uniform Crime Reports program; and
+       (ii) the nature and extent of law enforcement activities or 
+     crime reduction programs conducted by those agencies to 
+     prevent, address, or otherwise respond to hate crime; and
+       (B) a quantitative analysis of the number of State law 
+     enforcement agencies and other law enforcement agencies that 
+     received funding from a grant or subgrant awarded under 
+     paragraph (2) that have--
+       (i) adopted a policy on identifying, investigating, and 
+     reporting hate crimes;
+       (ii) developed a standardized system of collecting, 
+     analyzing, and reporting the incidence of hate crime;
+       (iii) established a unit specialized in identifying, 
+     investigating, and reporting hate crimes;
+       (iv) engaged in community relations functions related to 
+     hate crime, such as--
+
+       (I) establishing a liaison with formal community-based 
+     organizations or leaders; and
+       (II) conducting public meetings or educational forums on 
+     the impact of hate crime, services available to hate crime 
+     victims, and the relevant Federal, State, and local laws 
+     pertaining to hate crime; and
+
+       (v) conducted hate crime trainings for agency personnel 
+     during the reporting period, including--
+
+       (I) the total number of trainings conducted by each agency; 
+     and
+       (II) the duration of the trainings described in subclause 
+     (I).
+
+       (g) Alternative Sentencing.--Section 249 of title 18, 
+     United States Code, is amended by adding at the end the 
+     following:
+       ``(e) Supervised Release.--If a court includes, as a part 
+     of a sentence of imprisonment imposed for a violation of 
+     subsection (a), a requirement that the defendant be placed on 
+     a term of supervised release after imprisonment under section 
+     3583, the court may order, as an explicit condition of 
+     supervised release, that the defendant undertake community 
+     service directly related to the community harmed by the 
+     defendant's offense.''.
+                                 ______
+```
