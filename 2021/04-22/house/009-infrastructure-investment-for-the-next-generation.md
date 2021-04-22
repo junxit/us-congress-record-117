@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-04-22-pt1-PgH2059-8
+date: 2021-04-22
+edition: CREC
+section: HOUSE
+page: H2059
+citation: 167 Cong. Rec. H2059
+---
+
+# INFRASTRUCTURE INVESTMENT FOR THE NEXT GENERATION
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+           INFRASTRUCTURE INVESTMENT FOR THE NEXT GENERATION
+
+  (Ms. DEAN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. DEAN. Mr. Speaker, before coming to Congress, I served as a 
+Pennsylvania State Representative. The legislation I was most proud to 
+be a part of was the bipartisan Act 89 infrastructure bill that helped 
+fix some of Pennsylvania's crumbling roads and bridges.
+  Signed into law by Governor Corbett in 2013, Act 89 was a serious 
+investment in our infrastructure, but it is not enough. Nationwide, we 
+know that an out-of-date infrastructure system is costly, energy 
+inefficient, and dangerous.
+
+[[Page H2060]]
+
+  Today, in a moment of low interest rates and historic need and a 
+rapidly warming planet, we have an opportunity and an obligation to 
+invest in a stronger, greener, and better connected future.
+  The American Jobs Plan is that chance, a chance to build back better 
+and make a generational investment for our grandchildren's future. This 
+includes: roads, bridges, public transportation, drinking water, 
+broadband, and good, clean energy union jobs.
+  I worked with a Republican legislature and a Republican Governor to 
+help pass Pennsylvania's infrastructure bill. I hope we can get 
+together and work across the aisle for infrastructure investment for 
+the next generation.
+
+                          ____________________
+```
