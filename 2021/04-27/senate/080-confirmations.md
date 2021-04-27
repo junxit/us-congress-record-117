@@ -1,0 +1,34 @@
+---
+granule: CREC-2021-04-27-pt1-PgS2255
+date: 2021-04-27
+edition: CREC
+section: SENATE
+page: S2255
+citation: 167 Cong. Rec. S2255
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 27, 2021:
+
+
+                    ENVIRONMENTAL PROTECTION AGENCY
+
+       JANET GARVIN MCCABE, OF INDIANA, TO BE DEPUTY ADMINISTRATOR 
+     OF THE ENVIRONMENTAL PROTECTION AGENCY.
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       JASON SCOTT MILLER, OF MARYLAND, TO BE DEPUTY DIRECTOR FOR 
+     MANAGEMENT, OFFICE OF MANAGEMENT AND BUDGET.
+
+
+                         DEPARTMENT OF DEFENSE
+
+       COLIN HACKETT KAHL, OF CALIFORNIA, TO BE UNDER SECRETARY OF 
+     DEFENSE FOR POLICY
+```
