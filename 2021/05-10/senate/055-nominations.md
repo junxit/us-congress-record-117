@@ -1,0 +1,23 @@
+---
+granule: CREC-2021-05-10-pt1-PgS2422-4
+date: 2021-05-10
+edition: CREC
+section: SENATE
+page: S2422
+citation: 167 Cong. Rec. S2422
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nomination received by the Senate:
+
+
+            OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE
+
+        THOMAS ANDREW MONHEIM, OF VIRGINIA, TO BE INSPECTOR 
+     GENERAL OF THE INTELLIGENCE COMMUNITY, OFFICE OF THE DIRECTOR 
+     OF NATIONAL INTELLIGENCE, VICE MICHAEL K. ATKINSON.
+```
