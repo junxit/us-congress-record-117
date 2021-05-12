@@ -1,0 +1,26 @@
+---
+granule: CREC-2021-05-12-pt1-PgS2497-4
+date: 2021-05-12
+edition: CREC
+section: SENATE
+page: S2497
+citation: 167 Cong. Rec. S2497
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate May 12, 2021:
+
+
+                      UNITED STATES POSTAL SERVICE
+
+       RONALD STROMAN, OF THE DISTRICT OF COLUMBIA, TO BE A 
+     GOVERNOR OF THE UNITED STATES POSTAL SERVICE FOR A TERM 
+     EXPIRING DECEMBER 8, 2021.
+       RONALD STROMAN, OF THE DISTRICT OF COLUMBIA, TO BE A 
+     GOVERNOR OF THE UNITED STATES POSTAL SERVICE FOR A TERM 
+     EXPIRING DECEMBER 8, 2028
+```
