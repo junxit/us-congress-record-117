@@ -1,0 +1,35 @@
+---
+granule: CREC-2021-05-13-pt1-PgS2531-5
+date: 2021-05-13
+edition: CREC
+section: SENATE
+page: S2531
+citation: 167 Cong. Rec. S2531
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate May 13, 2021:
+
+
+                      UNITED STATES POSTAL SERVICE
+
+       AMBER FAYE MCREYNOLDS, OF COLORADO, TO BE A GOVERNOR OF THE 
+     UNITED STATES POSTAL SERVICE FOR A TERM EXPIRING DECEMBER 8, 
+     2026.
+
+
+                         DEPARTMENT OF COMMERCE
+
+       DONET DOMINIC GRAVES, JR., OF OHIO, TO BE DEPUTY SECRETARY 
+     OF COMMERCE.
+
+
+                       DEPARTMENT OF AGRICULTURE
+
+       JEWEL HAIRSTON BRONAUGH, OF VIRGINIA, TO BE DEPUTY 
+     SECRETARY OF AGRICULTURE
+```

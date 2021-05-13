@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-05-13-pt1-PgH2297-4
+date: 2021-05-13
+edition: CREC
+section: HOUSE
+page: H2297
+citation: 167 Cong. Rec. H2297
+---
+
+# ISRAEL-HAMAS CONFLICT
+
+**Speaking:** Luria, Elaine G. (L000591) [D-VA]
+
+```
+                         ISRAEL-HAMAS CONFLICT
+
+  (Mrs. LURIA asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Mrs. LURIA. Mr. Speaker, throughout history, the Jew has never been 
+safe. People have demonized, ostracized, and murdered Jews for 
+millennia. From the ashes of the Holocaust, the massacre of 6 million 
+of our brethren, Jews return to their ancestral home to build an oasis 
+in the desert and a democracy of their own.
+  Jews persisted, even in the face of ultimate evil. And, today, in 
+their rightful homeland, they are attacked from within. Some call them 
+villains for defending their home and their families; for not turning a 
+cheek and a blind eye to terror, bombings, and missiles raining down.
+  Who would turn a cheek when their mere right to exist is questioned? 
+Or turn a blind eye when history has been so unkind?
+  Not you and not the Israelis.
+  And we as Americans, and me as an American and a Jew, must stand for 
+what is right. We must declare that Israel has a right to exist; that 
+Israel has the inherent right to defend itself; that we have a duty, as 
+Americans, to stand by the side of Israel in the face of attacks from 
+terrorists and suicide bombers and malign regimes, who, again, have the 
+same goal in mind, to kill Jews.
+  Now is the time to stand with Israel.
+
+                          ____________________
+```
