@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-05-14-pt1-PgH2320-4
+date: 2021-05-14
+edition: CREC
+section: HOUSE
+page: H2320
+citation: 167 Cong. Rec. H2320
+---
+
+# PREGNANT WORKER ACCOMMODATION
+
+**Speaking:** Manning, Kathy E. (M001135) [D-NC]
+
+```
+                     PREGNANT WORKER ACCOMMODATION
+
+  (Ms. MANNING asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. MANNING. Mr. Speaker, I rise today to speak in favor of the 
+Pregnant Workers Fairness Act.
+  As a working mother, this bill is very personal to me. When I was 
+pregnant with my third child, I experienced premature labor, and my 
+doctor ordered me to be on bed rest for 10 weeks. I was fortunate to 
+work for an employer who allowed me to keep my job, work a reduced 
+schedule from home, and continue earning my wages.
+  After my daughter was born, I was still able to take my full 
+maternity leave to care for her, and once I returned to the office, I 
+continued to work for that same firm for many years in part because of 
+the accommodations that were made for me during my pregnancy.
+  This experience should not be unique to me. The Pregnant Workers 
+Fairness Act will ensure that every person who needs reasonable 
+accommodation during pregnancy will be given those accommodations so 
+they can work to continue to support their family and contribute to 
+their workplace.
+  I am proud to cast my vote in favor of the Pregnant Workers Fairness 
+Act, and I urge my colleagues to join me.
+  Mr. Speaker, I will include in the Record a letter from the National 
+Education Association.
+
+                          ____________________
+```
