@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-05-18-pt1-PgH2432
+date: 2021-05-18
+edition: CREC
+section: HOUSE
+page: H2432
+citation: 167 Cong. Rec. H2432
+---
+
+# CONDEMNING THE ACTS OF TERROR AGAINST THE STATE OF ISRAEL
+
+**Speaking:** Miller, Mary E. (M001211) [R-IL]
+
+```
+       CONDEMNING THE ACTS OF TERROR AGAINST THE STATE OF ISRAEL
+
+  (Mrs. MILLER of Illinois asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Mrs. MILLER of Illinois. Madam Speaker, our Nation must be united in 
+our condemnation of the acts of terror and stand in support of the 
+State of Israel, our ally and strategic partner, the beacon of light in 
+the Middle East.
+  Hamas is a terrorist organization with the sole purpose of destroying 
+Israel. Since last Monday, more than 3,000 rockets have been fired from 
+Gaza into Israel.
+  One of my daughter's close friends attended school in Israel. She has 
+been awakened to rockets being fired over her head, and she has spent 
+days on high alert, ready to run for shelter at any given moment.
+  No country would tolerate thousands of rocket attacks against major 
+cities and population centers. Israel has the obligation and duty to 
+defend its citizens against the violent attacks from Hamas.
+  Israel is the only democracy in the Middle East. President Trump was 
+the President of peace. His agenda was right, and the United States 
+should stand strong as a friend to Israel.
+  My family and I will continue to pray for the peace and safety of the 
+people of Israel as they combat terrorism.
+
+                          ____________________
+```
