@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-05-19-pt1-PgH2558-5
+date: 2021-05-19
+edition: CREC
+section: HOUSE
+page: H2558
+citation: 167 Cong. Rec. H2558
+---
+
+# WORSENING DROUGHT CRISIS IN CALIFORNIA
+
+**Speaking:** Valadao, David G. (V000129) [R-CA]
+
+```
+                 WORSENING DROUGHT CRISIS IN CALIFORNIA
+
+  (Mr. VALADAO asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. VALADAO. Madam Speaker, I rise today to call attention to the 
+worsening drought crisis in California, which has become so devastating 
+that farmers are abandoning their crops in the fields.
+  This was an asparagus field in Firebaugh, a small, rural town in my 
+district. Recently, the farmer made the difficult decision to abandon 
+the crop in that field to preserve water for his melon crops instead. 
+You can clearly see the destruction this drought has wreaked on his 
+farmland.
+  Promised water will now not be delivered. Farmers all over California 
+are unable to bring their crops to harvest, crops that would have fed 
+families across the United States.
+  With legislation like my bill, the RENEW WIIN Act, those farmers 
+might have been able to save their fields rather than be forced to 
+waste and destroy half-grown produce our Nation relies on California to 
+grow.
+  If the House majority continues to refuse to take up legislation to 
+address the drought, farmers won't have to choose between asparagus or 
+melons, because they won't have the water to grow any food at all.
+
+[[Page H2559]]
+
+  
+
+                          ____________________
+```

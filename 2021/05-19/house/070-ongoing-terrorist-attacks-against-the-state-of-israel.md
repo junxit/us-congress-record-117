@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-05-19-pt1-PgH2595-3
+date: 2021-05-19
+edition: CREC
+section: HOUSE
+page: H2595
+citation: 167 Cong. Rec. H2595
+---
+
+# ONGOING TERRORIST ATTACKS AGAINST THE STATE OF ISRAEL
+
+**Speaking:** Jackson, Ronny (J000304) [R-TX]
+
+```
+         ONGOING TERRORIST ATTACKS AGAINST THE STATE OF ISRAEL
+
+  (Mr. JACKSON asked and was given permission to address the House for 
+1 minute.)
+  Mr. JACKSON. Mr. Speaker, I rise today to express support for one of 
+our most loyal allies, Israel.
+  Unlike many of my colleagues across the aisle, I will not waver in my 
+support for democracy, and I will not turn a blind eye to the ongoing 
+terrorist attacks against the State of Israel.
+  The simple fact is, Israel uses weapons to protect its citizens from 
+terrorism, and Hamas uses its weapons with the goal of murdering 
+civilians and annihilating the State of Israel as a whole.
+  There is no moral equivalence between the two, and any attempt to 
+make Israel out as the aggressor is not rooted in fact. Israel has the 
+right to defend itself as a sovereign country.
+  In 2014, Congress unanimously passed a Democrat-led resolution 
+condemning Hamas attacks on Israel after they had launched 
+approximately 300 rockets.
+  This time, Hamas has launched over 4,000 rockets into Israel in just 
+10 days, yet, it is not clear to me that Democrats in this House would 
+support a similar resolution today.
+  That is a sad and problematic shift.
+  Congress must continue its support for U.S. aid to Israel, and 
+Congress must confront terrorists and their backers, like Iran.
+
+                          ____________________
+```
