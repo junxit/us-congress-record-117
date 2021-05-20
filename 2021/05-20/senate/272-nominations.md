@@ -1,0 +1,35 @@
+---
+granule: CREC-2021-05-20-pt1-PgS3316-4
+date: 2021-05-20
+edition: CREC
+section: SENATE
+page: S3316
+citation: 167 Cong. Rec. S3316
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                  NATIONAL TRANSPORTATION SAFETY BOARD
+
+        JENNIFER L. HOMENDY, OF VIRGINIA, TO BE CHAIRMAN OF THE 
+     NATIONAL TRANSPORTATION SAFETY BOARD FOR A TERM OF THREE 
+     YEARS, VICE ROBERT L. SUMWALT III.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+LT. GEN. RANDY A. GEORG
+```

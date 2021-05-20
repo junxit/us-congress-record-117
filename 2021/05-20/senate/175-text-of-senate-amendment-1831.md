@@ -1,0 +1,403 @@
+---
+granule: CREC-2021-05-20-pt1-PgS3261-4
+date: 2021-05-20
+edition: CREC
+section: SENATE
+page: S3261
+citation: 167 Cong. Rec. S3261
+---
+
+# Text of Senate Amendment 1831
+
+**Speaking:** Hassan, Margaret Wood (H001076) [D-NH]
+
+```
+  SA 1831. Ms. HASSAN submitted an amendment intended to be proposed to 
+amendment SA 1502 proposed by Mr. Schumer to the bill S. 1260, to 
+establish a new Directorate for Technology and
+
+[[Page S3262]]
+
+Innovation in the National Science Foundation, to establish a regional 
+technology hub program, to require a strategy and report on economic 
+security, science, research, innovation, manufacturing, and job 
+creation, to establish a critical supply chain resiliency program, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+        At the appropriate place, insert the following:
+
+     SEC. __. CYBERSECURITY AND INFRASTRUCTURE SECURITY 
+                   APPRENTICESHIP PROGRAM.
+
+       (a) In General.--Subtitle A of title XXII of the Homeland 
+     Security Act (6 U.S.C. 651 et seq.), as amended by section 2, 
+     is amended by adding at the end the following:
+
+     ``SEC. 2219. APPRENTICESHIP PROGRAM.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Area career and technical education school.--The term 
+     `area career and technical education school' has the meaning 
+     given the term in section 3 of the Carl D. Perkins Career and 
+     Technical Education Act of 2006 (20 U.S.C. 2302).
+       ``(2) Community college.--The term `community college' 
+     means a public institution of higher education at which the 
+     highest degree that is predominantly awarded to students is 
+     an associate's degree, including--
+       ``(A) a 2-year Tribal College or and University, as defined 
+     in section 316 of the Higher Education Act of 1965 (20 U.S.C. 
+     1059c); and
+       ``(B) a public 2-year State institution of higher 
+     education.
+       ``(3) Cybersecurity work roles.--The term `cybersecurity 
+     work roles' means the work roles outlined in the National 
+     Initiative for Cybersecurity Education Cybersecurity 
+     Workforce Framework (NIST Special Publication 800-181), or 
+     any successor framework.
+       ``(4) Education and training provider.--The term `education 
+     and training provider' means--
+       ``(A) an area career and technical education school;
+       ``(B) an early college high school;
+       ``(C) an educational service agency;
+       ``(D) a high school;
+       ``(E) a local educational agency or State educational 
+     agency;
+       ``(F) a Tribal educational agency, Tribally controlled 
+     college or university, or Tribally controlled postsecondary 
+     career and technical institution;
+       ``(G) a postsecondary educational institution;
+       ``(H) a minority-serving institution;
+       ``(I) a provider of adult education and literacy activities 
+     under the Adult Education and Family Literacy Act (29 U.S.C. 
+     3271 et seq.);
+       ``(J) a local agency administering plans under title I of 
+     the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), other 
+     than section 112 or part C of that title (29 U.S.C. 732, 
+     741);
+       ``(K) a related instruction provider, including a qualified 
+     intermediary acting as a related instruction provider as 
+     approved by a registration agency;
+       ``(L) a Job Corps center, as defined in section 142 of the 
+     Workforce Innovation and Opportunity Act (29 U.S.C. 3192); or
+       ``(M) a consortium of entities described in any of 
+     subparagraphs (A) through (L).
+       ``(5) Eligible entity.--
+       ``(A) In general.--The term `eligible entity' means--
+       ``(i) a program sponsor;
+       ``(ii) a State workforce development board or State 
+     workforce agency, or a local workforce development board or 
+     local workforce development agency;
+       ``(iii) an education and training provider;
+       ``(iv) if the applicant is in a State with a State 
+     apprenticeship agency, such State apprenticeship agency;
+       ``(v) an Indian Tribe or Tribal organization;
+       ``(vi) an industry or sector partnership, a group of 
+     employers, a trade association, or a professional association 
+     that sponsors or participates in a program under the national 
+     apprenticeship system;
+       ``(vii) a Governor of a State;
+       ``(viii) a labor organization or joint labor-management 
+     organization; or
+       ``(ix) a qualified intermediary.
+       ``(B) Sponsor requirement.--Not fewer than 1 entity 
+     described in subparagraph (A) shall be the sponsor of a 
+     program under the national apprenticeship system.
+       ``(6) Institution of higher education.--The term 
+     `institution of higher education' has the meaning given the 
+     term in section 101 of the Higher Education Act of 1965 (20 
+     U.S.C. 1001).
+       ``(7) Local educational agency; secondary school.--The 
+     terms `local educational agency' and `secondary school' have 
+     the meanings given those terms in section 8101 of the 
+     Elementary and Secondary Education Act of 1965 (20 U.S.C. 
+     7801).
+       ``(8) Local workforce development board.--The term `local 
+     workforce development board' has the meaning given the term 
+     `local board' in section 3 of the Workforce Innovation and 
+     Opportunity Act (29 U.S.C. 3102).
+       ``(9) Nonprofit organization.--The term `nonprofit 
+     organization' means an organization that is described in 
+     section 501(c) of the Internal Revenue Code of 1986 and 
+     exempt from taxation under section 501(a) of such Code.
+       ``(10) Provider of adult education.--The term `provider of 
+     adult education' has the meaning given the term `eligible 
+     provider' in section 203 of the Adult Education and Family 
+     Literacy Act (29 U.S.C. 3272).
+       ``(11) Related instruction.--The term `related instruction' 
+     means an organized and systematic form of instruction 
+     designed to provide an individual in an apprenticeship 
+     program with the knowledge of the technical subjects related 
+     to the intended occupation of the individual after completion 
+     of the program.
+       ``(12) Sponsor.--The term `sponsor' means any person, 
+     association, committee, or organization operating an 
+     apprenticeship program and in whose name the program is, or 
+     is to be, registered or approved.
+       ``(13) State apprenticeship agency.--The term `State 
+     apprenticeship agency' has the meaning given the term in 
+     section 29.2 of title 29, Code of Federal Regulations, or any 
+     corresponding similar regulation or ruling.
+       ``(14) State workforce development board.--The term `State 
+     workforce development board' has the meaning given the term 
+     `State board' in section 3 of the Workforce Innovation and 
+     Opportunity Act (29 U.S.C. 3102).
+       ``(15) WIOA terms.--The terms `career planning', 
+     `community-based organization', `economic development 
+     agency', `industry or sector partnership', `on-the-job 
+     training', `recognized postsecondary credential', and 
+     `workplace learning advisor' have the meanings given those 
+     terms in section 3 of the Workforce Innovation and 
+     Opportunity Act (29 U.S.C. 3102).
+       ``(16) Qualified intermediary.--
+       ``(A) In general.--The term `qualified intermediary' means 
+     an entity that demonstrates expertise in building, 
+     connecting, sustaining, and measuring the performance of 
+     partnerships described in subparagraph (B) and serves program 
+     participants and employers by--
+       ``(i) connecting employers to programs under the national 
+     apprenticeship system;
+       ``(ii) assisting in the design and implementation of such 
+     programs, including curriculum development and delivery for 
+     related instruction;
+       ``(iii) supporting entities, sponsors, or program 
+     administrators in meeting the registration and reporting 
+     requirements of this Act;
+       ``(iv) providing professional development activities such 
+     as training to mentors;
+       ``(v) supporting the recruitment, retention, and completion 
+     of potential program participants, including nontraditional 
+     apprenticeship populations and individuals with barriers to 
+     employment;
+       ``(vi) developing and providing personalized program 
+     participant supports, including by partnering with 
+     organizations to provide access to or referrals for 
+     supportive services and financial advising;
+       ``(vii) providing services, resources, and supports for 
+     development, delivery, expansion, or improvement of programs 
+     under the national apprenticeship system; or
+       ``(viii) serving as a program sponsor.
+       ``(B) Partnerships.--The term `partnerships described in 
+     subparagraph (B)' means partnerships among entities involved 
+     in, or applying to participate in, programs under the 
+     national apprenticeship system, including--
+       ``(i) industry or sector partnerships;
+       ``(ii) partnerships among employers, joint labor-management 
+     organizations, labor organizations, community-based 
+     organizations, industry associations, State or local 
+     workforce development boards, education and training 
+     providers, social service organizations, economic development 
+     organizations, Indian Tribes or Tribal organizations, one-
+     stop operators, one-stop partners, or veterans service 
+     organizations in the State workforce development system; or
+       ``(iii) partnerships among 1 or more of the entities 
+     described in clauses (i) and (ii).
+       ``(b) Establishment of Apprenticeship Programs.--Not later 
+     than 2 years after the date of enactment of this section, the 
+     Director may establish 1 or more apprenticeship programs as 
+     described in subsection (c).
+       ``(c) Apprenticeship Programs Described.--An apprenticeship 
+     program described in this subsection is an apprenticeship 
+     program that--
+       ``(1) leads directly to employment in--
+       ``(A) a cybersecurity work role with the Agency; or
+       ``(B) a position with a company or other entity provided 
+     that the position is--
+       ``(i) certified by the Director as contributing to the 
+     national cybersecurity of the United States; and
+       ``(ii) funded at least in majority part through a contract, 
+     grant, or cooperative agreement with the Agency;
+       ``(2) is focused on competencies and related learning 
+     necessary, as determined by the Director, to meet the 
+     immediate and ongoing needs of cybersecurity work roles at 
+     the Agency; and
+       ``(3) is registered with and approved by the Office of 
+     Apprenticeship of the Department of Labor or a State 
+     apprenticeship agency pursuant to the Act of August 16, 1937 
+     (commonly known as the `National Apprenticeship Act'; 29 
+     U.S.C. 50 et seq.).
+       ``(d) Coordination.--In the development of an 
+     apprenticeships program under this section, the Director 
+     shall consult with the Secretary of Labor, the Director of 
+     the National Institute of Standards and Technology, the 
+     Secretary of Defense, the Director of the National Science 
+     Foundation, and the Director
+
+[[Page S3263]]
+
+     of the Office of Personnel Management to leverage existing 
+     resources, research, communities of practice, and frameworks 
+     for developing cybersecurity apprenticeship programs.
+       ``(e) Optional Use of Grants or Cooperative Agreements.--An 
+     apprenticeship program under this section may include 
+     entering into a contract or cooperative agreement with or 
+     making a grant to an eligible entity if determined 
+     appropriate by the Director based on the eligible entity--
+       ``(1) demonstrating experience in implementing and 
+     providing career planning and career pathways toward 
+     apprenticeship programs;
+       ``(2) having knowledge of cybersecurity workforce 
+     development;
+       ``(3) being eligible to enter into a contract or 
+     cooperative agreement with or receive grant funds from the 
+     Agency as described in this section;
+       ``(4) providing students who complete the apprenticeship 
+     program with a recognized postsecondary credential;
+       ``(5) using related instruction that is specifically 
+     aligned with the needs of the Agency and utilizes workplace 
+     learning advisors and on-the-job training to the greatest 
+     extent possible; and
+       ``(6) demonstrating successful outcomes connecting 
+     graduates of the apprenticeship program to careers relevant 
+     to the program.
+       ``(f) Applications.--If the Director enters into an 
+     arrangement as described in subsection (e), an eligible 
+     entity seeking a contract, cooperative agreement, or grant 
+     under the program shall submit to the Director an application 
+     at such time, in such manner, and containing such information 
+     as the Director may require.
+       ``(g) Priority.--In selecting eligible entities to receive 
+     a contract, grant, or cooperative agreement under this 
+     section, the Director may prioritize an eligible entity 
+     that--
+       ``(1) is a member of an industry or sector partnership;
+       ``(2) provides related instruction for an apprenticeship 
+     program through--
+       ``(A) a local educational agency, a secondary school, a 
+     provider of adult education, an area career and technical 
+     education school, or an institution of higher education; or
+       ``(B) an apprenticeship program that was registered with 
+     the Department of Labor or a State apprenticeship agency 
+     before the date on which the eligible entity applies for the 
+     grant under subsection (g);
+       ``(3) works with the Secretary of Defense, the Secretary of 
+     Veterans Affairs, or veterans organizations to transition 
+     members of the Armed Forces and veterans to apprenticeship 
+     programs in a relevant sector; or
+       ``(4) plans to use the grant to carry out the 
+     apprenticeship program with an entity that receives State 
+     funding or is operated by a State agency.
+       ``(h) Technical Assistance.--The Director shall provide 
+     technical assistance to eligible entities to leverage the 
+     existing job training and education programs of the Agency 
+     and other relevant programs at appropriate Federal agencies.
+       ``(i) Excepted Service.--Participants in the program may be 
+     entered into cybersecurity-specific excepted service 
+     positions as determined appropriate by the Director and 
+     authorized by section 2208.
+       ``(j) Report.--
+       ``(1) In general.--Not less than once every 2 years after 
+     the establishment of an apprenticeship program under this 
+     section, the Director shall submit to Congress a report on 
+     the program, including--
+       ``(A) a description of--
+       ``(i) any activity carried out by the Agency under this 
+     section;
+       ``(ii) any entity that enters into a contract or agreement 
+     with or receives a grant from the Agency under subsection 
+     (e);
+       ``(iii) any activity carried out using a contract, 
+     agreement, or grant under this section as described in 
+     subsection (e); and
+       ``(iv) best practices used to leverage the investment of 
+     the Federal Government under this section; and
+       ``(B) an assessment of the results achieved by the program, 
+     including the rate of continued employment at the Agency for 
+     participants after completing an apprenticeship program 
+     carried out under this section.
+       ``(k) Performance Reports.--Not later than 1 year after the 
+     establishment of an apprenticeship program under this 
+     section, and annually thereafter, the Director shall submit 
+     to Congress and the Secretary of Labor a report on the 
+     effectiveness of the program based on the accountability 
+     measures described in clauses (i) and (ii) of section 
+     116(b)(2)(A) of the Workforce Innovation and Opportunity Act 
+     (29 U.S.C. 3141(b)(2)(A)).
+       ``(l) Authorization of Appropriations.--There is authorized 
+     to be appropriated to the Agency such sums as necessary to 
+     carry out this section.''.
+       (b) Technical and Conforming Amendment.--The table of 
+     contents in section 1(b) of the Homeland Security Act of 2002 
+     (Public Law 107-296; 116 Stat. 2135) is amended by inserting 
+     after the item relating to section 2218, as added by section 
+     2, the following:
+
+``Sec. 2219. Apprenticeship program.''.
+
+     SEC. __. PILOT PROGRAM ON CYBERSECURITY TRAINING FOR VETERANS 
+                   AND MEMBERS OF THE ARMED FORCES TRANSITIONING 
+                   TO CIVILIAN LIFE.
+
+       (a) In General.--Not later than 1 year after the date of 
+     enactment of this Act, the Secretary of Veterans Affairs 
+     shall establish a pilot program under which the Secretary 
+     shall provide cybersecurity-specific training for eligible 
+     individuals.
+       (b) Eligible Individuals.--For purposes of this section, an 
+     ``eligible individual'' is an individual who is--
+       (1) a member of the Armed Forces transitioning from service 
+     in the Armed Forces to civilian life; or
+       (2) a veteran (as defined in section 101 of title 38, 
+     United States Code).
+       (c) Elements.--The pilot program required by subsection (a) 
+     shall incorporate--
+       (1) virtual platforms for coursework and training;
+       (2) work-based learning opportunities and programs; and
+       (3) the provision of portable credentials to eligible 
+     individuals who graduate from the pilot program.
+       (d) Alignment With NICE Cybersecurity Workforce 
+     Framework.--The pilot program required by subsection (a) 
+     shall align with the taxonomy, knowledge, skills, abilities, 
+     and tasks from the National Initiative for Cybersecurity 
+     Education Cybersecurity Workforce Framework (NIST Special 
+     Publication 800-181), or any successor framework.
+       (e) Coordination.--In developing the pilot program required 
+     by subsection (a), the Secretary of Veterans Affairs shall 
+     coordinate with the Director of the National Institute of 
+     Standards and Technology, the Secretary of Homeland Security, 
+     the Secretary of Defense, the Secretary of Labor, and the 
+     Director of the Office of Personnel Management to leverage 
+     platforms and frameworks of the Federal Government for 
+     providing cybersecurity education and training to prevent 
+     duplication of efforts.
+       (f) Resources.--
+       (1) In general.--In any case in which the pilot program 
+     required by subsection (a) uses a program of the Department 
+     of Veterans Affairs or platforms and frameworks described in 
+     subsection (e), the Secretary of Veterans Affairs shall take 
+     such actions as may be necessary to ensure that those 
+     programs, platforms, and frameworks are expanded and 
+     resourced to accommodate increased usage from eligible 
+     individuals participating in the pilot program.
+       (2) Actions.--Actions described in paragraph (1) may 
+     include providing additional funding, staff, or other 
+     resources to--
+       (A) provide administrative support for basic functions of 
+     the pilot program;
+       (B) ensure the success and ongoing engagement of eligible 
+     individuals participating in the pilot program; and
+       (C) connect graduates of the pilot program to job 
+     opportunities within the Federal Government.
+       (g) Definitions.--In this section:
+       (1) Portable credential.--
+       (A) In general.--The term ``portable credential'' means a 
+     documented award by a responsible and authorized entity that 
+     has determined that an individual has achieved specific 
+     learning outcomes relative to a given standard.
+       (B) Inclusions.--The term ``portable credential'' includes 
+     a degree, diploma, license, certificate, badge, and 
+     professional or industry certification that--
+       (i) has value locally and nationally in labor markets, 
+     educational systems, or other contexts;
+       (ii) is defined publicly in such a way that allows 
+     educators, employers, and other individuals and entities to 
+     understand and verify the full set of competencies 
+     represented by the credential; and
+       (iii) enables a holder of the credential to move vertically 
+     and horizontally within and across training and education 
+     systems for the attainment of other credentials.
+       (2) Work-based learning.--The term ``work-based learning'' 
+     has the meaning given the term in section 3 of the Carl D. 
+     Perkins Career and Technical Education Act of 2006 (20 U.S.C. 
+     2302).
+                                 ______
+```

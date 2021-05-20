@@ -1,0 +1,237 @@
+---
+granule: CREC-2021-05-20-pt1-PgS3248
+date: 2021-05-20
+edition: CREC
+section: SENATE
+page: S3248
+citation: 167 Cong. Rec. S3248
+---
+
+# Text of Senate Amendment 1796
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+  SA 1796. Mr. DURBIN (for himself and Ms. Murkowski) submitted an 
+amendment intended to be proposed by him to the bill S. 1260, to 
+establish a new Directorate for Technology and Innovation in the 
+National Science Foundation, to establish a regional technology hub 
+program, to require a strategy and report on economic security, 
+science, research, innovation, manufacturing, and job creation, to 
+establish a critical supply chain resiliency program, and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+       Strike section 2214 and insert the following:
+
+     SEC. 2214. CRITICAL MINERALS MINING, RECYCLING, AND 
+                   ALTERNATIVE TECHNOLOGIES RESEARCH.
+
+       (a) Critical Minerals Mining, Recycling, and Alternative 
+     Technologies Research and Development at the Foundation.--
+       (1) In general.--In order to support supply chain 
+     resiliency and reduce the environmental impacts of critical 
+     minerals mining, the Director shall issue awards, on a 
+     competitive basis, to institutions of higher education, 
+     nonprofit organizations, or National Laboratories (or 
+     consortia of such institutions or organizations, including 
+     consortia that collaborate with private industry) to support 
+     basic research that will accelerate innovation to advance 
+     critical minerals mining, recycling, and reclamation 
+     strategies and technologies for the purpose of making better 
+     use of domestic resources, finding alternative technologies, 
+     and eliminating national reliance on minerals and mineral 
+     materials that are subject to supply disruptions.
+       (2) Use of funds.--Activities funded by an award under this 
+     section may include--
+       (A) advancing mining research and development activities to 
+     develop new mapping and mining technologies and techniques, 
+     including advanced critical mineral extraction and 
+     production, to improve existing or to develop new supply 
+     chains of critical minerals, and to yield more efficient, 
+     economical, and environmentally benign mining practices;
+       (B) advancing critical mineral processing research 
+     activities to improve separation, alloying, manufacturing, or 
+     recycling techniques and technologies that can decrease the 
+     energy intensity, waste, potential environmental impact, and 
+     costs of those activities;
+       (C) advancing research and development of critical minerals 
+     mining and recycling technologies that take into account the 
+     potential end-uses and disposal of critical minerals, in 
+     order to improve end-to-end integration of mining and 
+     technological applications;
+       (D) conducting research and development on alternative 
+     technologies, such as in battery or energy storage 
+     technologies that minimize or do not incorporate critical 
+     minerals;
+       (E) conducting long-term earth observation of reclaimed 
+     mine sites, including the study of the evolution of microbial 
+     diversity at such sites;
+       (F) examining the application of artificial intelligence 
+     for geological exploration of critical minerals, including 
+     what size and diversity of data sets would be required;
+       (G) examining the application of machine learning for 
+     detection and sorting of critical minerals, including what 
+     size and diversity of data sets would be required;
+       (H) conducting detailed isotope studies of critical 
+     minerals and the development of more refined geologic models; 
+     or
+       (I) providing training and research opportunities to 
+     undergraduate and graduate students to prepare the next 
+     generation of mining engineers and researchers.
+       (b) Critical Minerals Interagency Subcommittee.--
+       (1) In general.--In order to support supply chain 
+     resiliency, the Critical Minerals Subcommittee of the 
+     National Science and Technology Council (referred to in this 
+     subsection as the ``Subcommittee'') shall coordinate Federal 
+     science and technology efforts to ensure secure and reliable 
+     supplies of critical minerals to the United States.
+       (2) Purposes.--The purposes of the Subcommittee shall be--
+       (A) to advise and assist the Committee on Homeland and 
+     National Security and the National Science and Technology 
+     Council on United States policies, procedures, and plans as 
+     it relates to critical minerals, including--
+       (i) Federal research, development, and deployment efforts 
+     to optimize methods for extractions, concentration, 
+     separation, and purification of conventional, secondary, and 
+     unconventional sources of critical minerals, including 
+     research that prioritizes end-to-end integration of mining 
+     and recycling techniques and the end-use target for critical 
+     minerals;
+       (ii) efficient use and reuse of critical minerals, 
+     including recycling technologies for critical minerals and 
+     the reclamation of critical minerals from components such as 
+     spent batteries;
+       (iii) research, development, and deployment of materials 
+     and technologies that can be used in place of technologies 
+     utilizing critical minerals, such as battery or energy 
+     storage technologies that minimize or do not incorporate 
+     critical minerals;
+       (iv) addressing the technology transitions between research 
+     or lab-scale mining and recycling and commercialization of 
+     these technologies;
+       (v) the critical minerals workforce of the United States; 
+     and
+       (vi) United States private industry investments in 
+     innovation and technology transfer from federally funded 
+     science and technology;
+       (B) to identify emerging opportunities, stimulate 
+     international cooperation, and foster the development of 
+     secure and reliable supply chains of critical minerals, 
+     including activities related to the reclamation of critical 
+     minerals via recycling and research and development of 
+     alternative technologies;
+       (C) to ensure the transparency of information and data 
+     related to critical minerals; and
+       (D) to provide recommendations on coordination and 
+     collaboration among the research, development, and deployment 
+     programs and activities of Federal agencies to promote a 
+     secure and reliable supply of critical minerals necessary to 
+     maintain national security, economic well-being, and 
+     industrial production.
+       (3) Responsibilities.--In carrying out paragraphs (1) and 
+     (2), the Subcommittee may, taking into account the findings 
+     and recommendations of relevant advisory committees--
+       (A) provide recommendations on how Federal agencies may 
+     improve the topographic, geologic, and geophysical mapping of 
+     the United States and improve the discoverability, 
+     accessibility, and usability of the resulting and existing 
+     data, to the extent permitted by law and subject to 
+     appropriate limitation for purposes of privacy and security;
+       (B) assess the progress toward developing critical minerals 
+     recycling and reprocessing technologies, and alternative 
+     technologies;
+       (C) assess the end-to-end lifecycle of critical minerals, 
+     including for mining, usage, recycling, and end-use material 
+     and technology requirements;
+       (D) examine options for accessing and developing critical 
+     minerals through investment and trade with allies and 
+     partners of the United States and provide recommendations;
+       (E) evaluate and provide recommendations to incentivize the 
+     development and use of advances in science and technology in 
+     the private industry;
+       (F) assess the need for and make recommendations to address 
+     the challenges the United States critical minerals supply 
+     chain workforce faces, including--
+       (i) aging and retiring personnel and faculty;
+       (ii) public perceptions about the nature of mining and 
+     mineral processing; and
+       (iii) foreign competition for United States talent;
+       (G) develop, and update as necessary, a strategic plan to 
+     guide Federal programs and activities to enhance--
+       (i) scientific and technical capabilities across critical 
+     mineral supply chains, including a roadmap that identifies 
+     key research and development needs and coordinates ongoing 
+     activities for source diversification, more efficient use, 
+     recycling, and alternative technologies; and
+       (ii) cross-cutting mining science, data science techniques, 
+     materials science, manufacturing science and engineering, 
+     computational modeling, and environmental health and safety 
+     research and development; and
+       (H) report to the appropriate committees of Congress on 
+     activities and findings under this subsection.
+       (4) Mandatory responsibilities.--In carrying out paragraphs 
+     (1) and (2), the Subcommittee shall, taking into account the 
+     findings and recommendations of the relevant advisory 
+     committees, identify and evaluate Federal policies and 
+     regulations that restrict the mining of critical minerals.
+       (c) Grant Program for Development of Critical Minerals and 
+     Metals .--
+       (1) Establishment.--The Secretary of Commerce, in 
+     consultation with the Director, the Secretary of the 
+     Interior, and the heads of other relevant Federal agencies, 
+     shall establish a grant program to finance pilot projects for 
+     the development of critical minerals and metals mining, 
+     recycling, and alternative technologies research and 
+     development in the United States.
+       (2) Limitation on grant awards.--A grant awarded under 
+     paragraph (1) may not exceed $10,000,000.
+       (3) Economic viability.--In awarding grants under paragraph 
+     (1), the Secretary of Commerce shall give priority to 
+     projects that the Secretary of Commerce determines are likely 
+     to be economically viable over the long term.
+       (4) Secondary recovery.--In awarding grants under paragraph 
+     (1), the Secretary of Commerce shall seek to award not less 
+     than 30 percent of the total amount of grants awarded during 
+     the fiscal year for projects relating to secondary recovery 
+     of critical minerals and metals.
+       (5) Authorization of appropriations.--There is authorized 
+     to be appropriated to the Secretary of Commerce $100,000,000 
+     for each of fiscal years 2021 through 2024 to carry out the 
+     grant program established under paragraph (1).
+       (d) Definitions.--In this section:
+       (1) Alternative technologies.--The term ``alternative 
+     technologies'' means the development of substitute materials 
+     that can substantially satisfy the metrics of the end-use 
+     application by either significantly minimizing or completely 
+     eliminating the need for critical minerals.
+       (2) Critical mineral; critical mineral or metal.--The terms 
+     ``critical mineral'' and ``critical mineral or metal'' 
+     include any host
+
+[[Page S3249]]
+
+     mineral of a critical mineral (within the meaning of those 
+     terms in section 7002 of the Energy Act of 2020 (30 U.S.C. 
+     1606).
+       (3) End-to-end.--The term ``end-to-end'', with respect to 
+     the integration of mining or life cycle of minerals, means 
+     the integrated approach of, or the lifecycle determined by, 
+     examining the research and developmental process from the 
+     mining of the raw minerals to its processing into useful 
+     materials, its integration into components and devices, the 
+     utilization of such devices in the end-use application to 
+     satisfy certain performance metrics, and the recycling or 
+     disposal of such devices.
+       (4) Recycling.--The term ``recycling'' means the process of 
+     collecting and processing spent materials and devices and 
+     turning them into raw materials or components that can be 
+     reused either partially or completely.
+       (5) Secondary recovery.--The term ``secondary recovery'' 
+     means the recovery of critical minerals and metals from 
+     discarded end-use products or from waste products produced 
+     during the metal refining and manufacturing process, 
+     including from mine waste piles, acid mine drainage sludge, 
+     or byproducts produced through legacy mining and metallurgy 
+     activities.
+                                 ______
+```
