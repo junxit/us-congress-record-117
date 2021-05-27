@@ -1,0 +1,48 @@
+---
+granule: CREC-2021-05-27-pt1-PgS3888-2
+date: 2021-05-27
+edition: CREC
+section: SENATE
+page: S3888
+citation: 167 Cong. Rec. S3888
+---
+
+# TRIBUTE TO RANDY GORDON
+
+**Speaking:** Fischer, Deb (F000463) [R-NE]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                        TRIBUTE TO RANDY GORDON
+
+● Mrs. FISCHER. Mr. President, today I would like to 
+congratulate Randall ``Randy'' C. Gordon on his retirement from the 
+National Grain and Feed Association, NGFA, after nearly 43 years of 
+service.
+  A native Nebraskan, Randy graduated from the University of Nebraska-
+Lincoln, UNL, with undergraduate degrees in journalism, history, and 
+political science. After college, Randy worked at UNL's Agricultural 
+Communications Department and freelanced for the Omaha World-Herald.
+  Randy's NGFA story began on July 1, 1978, when he was hired as the 
+director of information services. In 1987, he was promoted as NGFA's 
+vice president for communications and government relations. A voracious 
+reader and writer, in 1996, Randy authored a history of the first 100 
+years of the NGFA for its centennial celebration, entitled ``A Century 
+of Agricultural Abundance Through Free Enterprise.'' In 2005, the Food 
+and Drug Administration awarded Randy for his contributions to 
+preventing the spread of bovine spongiform encephalopathy, BSE, in the 
+United States. In 2012, Randy became president and CEO of NGFA. Through 
+more than four decades of NGFA service, Randy has made countless 
+contributions to the U.S. agricultural industry.
+  As the senior senator from Nebraska, I congratulate Randy on a 
+successful and impactful career representing crucial aspects of the 
+agricultural value chain. Randy, I wish you, your wife Barbara, and 
+your children and grandchildren good health as you enter retirement. 
+You have done Nebraska proud.●
+
+                          ____________________
+```
