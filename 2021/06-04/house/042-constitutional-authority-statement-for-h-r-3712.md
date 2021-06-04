@@ -1,0 +1,20 @@
+---
+granule: CREC-2021-06-04-pt1-PgH2693-19
+date: 2021-06-04
+edition: CREC
+section: HOUSE
+page: H2693
+citation: 167 Cong. Rec. H2693
+---
+
+# Constitutional Authority Statement for H.R. 3712
+
+**Measures:** H.R. 3712
+
+```
+           By Mr. LIEU:
+       H.R. 3712.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8, Clause 3
+```
