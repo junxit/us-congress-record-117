@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-06-07-pt1-PgS3960
+date: 2021-06-07
+edition: CREC
+section: SENATE
+page: S3960
+citation: 167 Cong. Rec. S3960
+---
+
+# AMENDMENTS SUBMITTED AND PROPOSED
+
+**Measures:** S. 1260, S. 1502
+
+```
+                    AMENDMENTS SUBMITTED AND PROPOSED
+
+       SA 2112. Mr. PETERS submitted an amendment intended to be 
+     proposed to amendment SA 1502 proposed by Mr. Schumer to the 
+     bill S. 1260, to establish a new Directorate for Technology 
+     and Innovation in the National Science Foundation, to 
+     establish a regional technology hub program, to require a 
+     strategy and report on economic security, science, research, 
+     innovation, manufacturing, and job creation, to establish a 
+     critical supply chain resiliency program, and for other 
+     purposes; which was ordered to lie on the table.
+       SA 2113. Mr. KENNEDY submitted an amendment intended to be 
+     proposed by him to the bill S. 1260, supra; which was ordered 
+     to lie on the table.
+       SA 2114. Mr. CORNYN (for himself, Mr. Kelly, Mr. Rubio, and 
+     Mr. Peters) submitted an amendment intended to be proposed to 
+     amendment SA 1502 proposed by Mr. Schumer to the bill S. 
+     1260, supra; which was ordered to lie on the table.
+       SA 2115. Mr. SCHUMER (for Ms. Cortez Masto) proposed an 
+     amendment to the bill S. 1502, to make Federal law 
+     enforcement officer peer support communications confidential, 
+     and for other purposes
+
+                          ____________________
+```

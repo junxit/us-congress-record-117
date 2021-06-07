@@ -1,0 +1,57 @@
+---
+granule: CREC-2021-06-07-pt1-PgD601-3
+date: 2021-06-07
+edition: CREC
+section: DAILYDIGEST
+page: D601
+citation: 167 Cong. Rec. D601
+---
+
+# Daily Digest/House Committee Meetings
+
+```
+Committee Meetings
+APPROPRIATIONS--DEPARTMENT OF STATE AND RELATED PROGRAMS
+Committee on Appropriations: Subcommittee on State, Foreign Operations, 
+and Related Programs held a budget hearing on the Department of State 
+and Related Programs. Testimony was heard from Antony Blinken, 
+Secretary, Department of State.
+FISCAL YEAR 2022 ARMY AND MARINE CORPS GROUND SYSTEMS MODERNIZATION 
+PROGRAMS
+Committee on Armed Services: Subcommittee on Tactical Air and Land 
+Forces held a hearing entitled ``Fiscal Year 2022 Army and Marine Corps 
+Ground Systems Modernization Programs''. Testimony was heard from 
+Douglas Bush, Acting Assistant Secretary of the Army for Acquisition, 
+Logistics and Technology (ASA(ALT)), Department of the Army; General 
+John M. Murray, U.S. Army, Commanding General, Army Futures Command; 
+Frederick Stefany, Acting Assistant Secretary of the Navy for Research, 
+Development, and Acquisition, Department of the Navy; and Lieutenant 
+General Eric M. Smith, Commanding General, Marine Corps Combat 
+Development Command and Deputy Commandant for Combat Development and 
+Integration, U.S. Marine Corps.
+THE STATE DEPARTMENT'S FOREIGN POLICY STRATEGY AND FY22 BUDGET REQUEST
+Committee on Foreign Affairs: Full Committee held a hearing entitled 
+``The State Department's Foreign Policy Strategy and FY22 Budget 
+Request''. Testimony was heard from Antony Blinken, Secretary, 
+Department of State.
+SLEEPING DANGER: THE ROCK 'N PLAY AND FAILURES IN INFANT PRODUCT SAFETY
+Committee on Oversight and Reform: Full Committee held a hearing 
+entitled ``Sleeping Danger: The Rock `n Play and Failures in Infant 
+Product Safety''. Testimony was heard from public witnesses.
+DEFINING A NATIONAL `OCEANSHOT': ACCELERATING OCEAN AND GREAT LAKES 
+SCIENCE AND TECHNOLOGY
+Committee on Science, Space, and Technology: Subcommittee on 
+Environment held a hearing entitled ``Defining a National `Oceanshot': 
+Accelerating Ocean and Great Lakes Science and Technology''. Testimony 
+was heard from Craig McLean, Assistant Administrator for Oceanic and 
+Atmospheric Research and Acting Chief Scientist, National Oceanic and 
+Atmospheric Administration, Department of Commerce; and public 
+witnesses.
+
+[[Page D602]]
+
+
+
+Joint Meetings
+  No joint committee meetings were held.
+```
