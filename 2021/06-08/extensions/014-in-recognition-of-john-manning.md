@@ -1,0 +1,48 @@
+---
+granule: CREC-2021-06-08-pt1-PgE616-3
+date: 2021-06-08
+edition: CREC
+section: EXTENSIONS
+page: E616
+citation: 167 Cong. Rec. E616
+---
+
+# IN RECOGNITION OF JOHN MANNING
+
+**Speaking:** Kuster, Ann M. (K000382) [D-NH]
+
+```
+                     IN RECOGNITION OF JOHN MANNING
+
+                                 ______
+                                 
+
+                           HON. ANN M. KUSTER
+
+                            of new hampshire
+
+                    in the house of representatives
+
+                         Tuesday, June 8, 2021
+
+  Ms. KUSTER. Madam Speaker, I rise today to recognize John Manning on 
+the occasion of his retirement as Chief Executive Officer of 
+Southwestern Community Services .
+  For more than 30 years, John Manning has provided much needed support 
+to our community through his work at Southwestern Community Services 
+(SCS). SCS runs numerous critical programs designed to empower low-
+income individuals and families, such as the Community Food Program, 
+several Energy and Fuel Assistance Programs, seven Head Start Centers, 
+and more. Through John's leadership, SCS continues to expand services, 
+including the distribution of critical rental assistance funds to 
+thousands of households throughout the COVID-19 pandemic.
+  I commend John Manning on his retirement after more than three 
+decades of public service and dedication to the Granite State. John 
+also serves as the Fire Chief for the Town of Marlborough, a testament 
+to his commitment to the well-being and safety of Granite Staters.
+  On behalf of New Hampshire's Second Congressional District, I thank 
+John Manning for his service and wish him the best of luck in his new 
+chapter.
+
+                          ____________________
+```

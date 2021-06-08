@@ -1,0 +1,64 @@
+---
+granule: CREC-2021-06-08-pt1-PgE618-3
+date: 2021-06-08
+edition: CREC
+section: EXTENSIONS
+page: E618
+citation: 167 Cong. Rec. E618
+---
+
+# IN RECOGNITION OF THE POPE FRANCIS PREPARATORY SCHOOL BOYS ICE HOCKEY TEAM
+
+**Speaking:** Neal, Richard E. (N000015) [D-MA]
+
+```
+ IN RECOGNITION OF THE POPE FRANCIS PREPARATORY SCHOOL BOYS ICE HOCKEY 
+                                  TEAM
+
+                                 ______
+                                 
+
+                          HON. RICHARD E. NEAL
+
+                            of massachusetts
+
+                    in the house of representatives
+
+                         Tuesday, June 8, 2021
+
+  Mr. NEAL. Madam Speaker, I would like to take this opportunity to 
+congratulate the Pope Francis Preparatory School Boys Ice Hockey Team 
+on winning the 2021 U.S.A. Hockey High School Division I National 
+Championship. This milestone achievement deserves the highest praise 
+for the hard work and dedication of these exemplary athletes and 
+coaches. Despite the countless challenges posed by this unprecedented 
+season, the perseverance and commitment to success demonstrated 
+throughout the year led their team to victory on the biggest stage in 
+high school hockey.
+  The 2021 U.S.A. Hockey High School Division I Tournament brought 
+twelve of the most elite high school hockey teams from across the 
+country to compete for this year's National Championship. Members of 
+the Pope Francis Boys Ice Hockey Team not only performed with 
+exceptional mental and physical fortitude, but also displayed 
+remarkable sportsmanship and character on their path to victory. They 
+represented the First District of Massachusetts with great honor and 
+distinction, and I am confident that the lessons learned during this 
+once-in-a-lifetime opportunity will serve these young men well in their 
+future endeavors.
+  The Pope Francis Boys Ice Hockey Team was led by their Head Coach, 
+Brian Foley, who has provided crucial guidance and instrumental 
+mentorship to his young athletes both on and off the ice over the past 
+eighteen seasons. Coach Foley was assisted by Assistant Coaches Steve 
+Ashe, Tim Keeney, and Dan Fenton, and the victorious student athletes 
+are Matt Hanscom, Zach Buffone, Jack Moltenbrey, Jacob Iby, Ryan 
+Hemenway, Ryan Leonard, Brandon Spaulding, Colin Foyle, Evan Phaneuf, 
+Drew Bolduc, Jack Kennedy, Ryan Shaw, Bryce Russ, Joey DiMichele, 
+Stephen Rougeot, Jack Turowsky, Matt Burke, Derek Rhodes, Ryan O'Leary, 
+Ryan Rhodes, Ben Zaranek, and Josh Iby.
+  Madam Speaker, I would like to once again acknowledge the Pope 
+Francis Preparatory School Boys Ice Hockey Team for their superb 
+achievement. I am proud of this group and I wish them much continued 
+success.
+
+                          ____________________
+```

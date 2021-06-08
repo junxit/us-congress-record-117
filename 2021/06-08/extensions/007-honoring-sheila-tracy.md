@@ -1,0 +1,56 @@
+---
+granule: CREC-2021-06-08-pt1-PgE614-3
+date: 2021-06-08
+edition: CREC
+section: EXTENSIONS
+page: E614
+citation: 167 Cong. Rec. E614
+---
+
+# HONORING SHEILA TRACY
+
+**Speaking:** Graves, Sam (G000546) [R-MO]
+
+```
+                         HONORING SHEILA TRACY
+
+                                 ______
+                                 
+
+                            HON. SAM GRAVES
+
+                              of missouri
+
+                    in the house of representatives
+
+                         Tuesday, June 8, 2021
+
+  Mr. GRAVES of Missouri. Madam Speaker, I proudly pause to recognize 
+Sheila Tracy. After serving 28 years, Sheila Tracy is retiring from her 
+position as President of the Northland Regional Chamber of Commerce.
+  With the help of Sheila's leadership, the Northland Regional Chamber 
+has continued to advocate for the needs of constituents in Missouri's 
+Sixth Congressional District and the Northland of Kansas City. Sheila 
+and the Chamber have worked on several large projects to benefit the 
+Northland and my district. Sheila has spent countless hours working to 
+move projects forward that would benefit my constituents, most recently 
+the Buck O'Neil Bridge.
+  I am honored to have collaborated with Sheila during her time as 
+President of the Northland Regional Chamber. Her professionalism and 
+dedication to the Northland and
+
+[[Page E615]]
+
+my constituents was a great example of collaboration between local, 
+state and federal leadership. While the Northland Regional Chamber is 
+losing an incredible leader, I am excited for Sheila to begin the next 
+chapter of her life.
+  Madam Speaker, I proudly ask you to join me in thanking Sheila Tracy 
+for her years of service to the people of the Northland and Missouri's 
+Sixth Congressional District. I know Sheila's colleagues, family and 
+friends join with me in thanking her for her commitment to others and 
+wishing her the best of luck in all her endeavors and many years of 
+success to come.
+
+                          ____________________
+```

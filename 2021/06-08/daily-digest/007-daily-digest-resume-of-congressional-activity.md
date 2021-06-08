@@ -1,0 +1,119 @@
+---
+granule: CREC-2021-06-08-pt1-PgD613
+date: 2021-06-08
+edition: CREC
+section: DAILYDIGEST
+page: D613
+citation: 167 Cong. Rec. D613
+---
+
+# Daily Digest/Resume of Congressional Activity
+
+```
+                             Resume of Congressional Activity
+
+                  FIRST SESSION OF THE ONE HUNDRED SEVENTEENTH CONGRESS
+
+
+    The first table gives a comprehensive resume of all legislative 
+business transacted by the Senate and House.
+    The second table accounts for all nominations submitted to the 
+Senate by the President for Senate confirmation.
+
+                               DATA ON LEGISLATIVE ACTIVITY
+
+
+                              January 3 through May 31, 2021
+
+                                               Senate             House             Total
+     Days in session...............                79                69               . .
+     Time in session...............     458 hrs., 12     300 hrs., 50               . .
+     Congressional Record:
+    Pages of proceedings...........             3,938             2,682               . .
+    Extensions of Remarks..........               . .               594               . .
+     Public bills enacted into law.                10                 9               . .
+     Private bills enacted into law               . .               . .               . .
+     Bills in conference...........               . .               . .               . .
+     Measures passed, total........               171               205               376
+    Senate bills...................                28                 6               . .
+    House bills....................                11               124               . .
+    Senate joint resolutions.......                 3               . .               . .
+    House joint resolutions........               . .                 2               . .
+    Senate concurrent resolutions..                 3                 3               . .
+    House concurrent resolutions...                 4                 6               . .
+    Simple resolutions.............               122                64               . .
+     Measures reported, total......               *59                46               105
+    Senate bills...................                25               . .               . .
+    House bills....................                 2                28               . .
+    Senate joint resolutions.......               . .               . .               . .
+    House joint resolutions........               . .               . .               . .
+    Senate concurrent resolutions..               . .               . .               . .
+    House concurrent resolutions...               . .               . .               . .
+    Simple resolutions.............                32                18               . .
+     Special reports...............                 8                 1               . .
+     Conference reports............               . .               . .               . .
+     Measures pending on calendar..                37                13               . .
+     Measures introduced, total....             2,234             4,171             6,405
+    Bills..........................             1,948             3,634               . .
+    Joint resolutions..............                19                49               . .
+    Concurrent resolutions.........                 9                37               . .
+    Simple resolutions.............               258               451               . .
+     Quorum calls..................                 4                 1               . .
+     Yea-and-nay votes.............               218               155               . .
+     Recorded votes................               . .               . .               . .
+     Bills vetoed..................               . .               . .               . .
+     Vetoes overridden.............               . .               . .               . .
+                           DISPOSITION OF EXECUTIVE NOMINATIONS
+
+
+                              January 3 through May 31, 2021
+
+     Civilian nominees, totaling 292, disposed of as follows:
+
+         Confirmed...........................................59...
+         Unconfirmed........................................194...
+         Withdrawn...........................................39...
+
+     Other Civilian nominees, totaling 1,096, disposed of as 
+       follows:
+
+         Confirmed..........................................841...
+         Unconfirmed........................................255...
+
+     Air Force nominees, totaling 3,971, disposed of as 
+       follows:
+
+         Confirmed........................................3,963...
+         Unconfirmed..........................................8...
+
+     Army nominees, totaling 4,622, disposed of as follows:
+
+         Confirmed........................................3,630...
+         Unconfirmed........................................992...
+
+     Navy nominees, totaling 482, disposed of as follows:
+
+         Confirmed..........................................180...
+         Unconfirmed........................................302...
+
+     Marine Corps nominees, totaling 562, disposed of as 
+       follows:
+
+         Confirmed..........................................558...
+         Unconfirmed..........................................4...
+
+     Space Force nominees, totaling 1,840, disposed of as 
+       follows:
+
+         Confirmed..........................................256...
+         Unconfirmed........................................765...
+         Withdrawn..........................................819...
+
+                                Summary
+     Total nominees carried over from the First Session.......0
+     Total nominees received this Session................12,865
+     Total confirmed......................................9,487
+     Total unconfirmed....................................2,520
+     Total withdrawn........................................858
+     Total returned to the White House........................0
+```
