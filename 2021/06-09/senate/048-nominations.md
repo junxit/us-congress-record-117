@@ -1,0 +1,24 @@
+---
+granule: CREC-2021-06-09-pt1-PgS4022
+date: 2021-06-09
+edition: CREC
+section: SENATE
+page: S4022
+citation: 167 Cong. Rec. S4022
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nomination received by the Senate:
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+        JAYME RAY WHITE, OF WASHINGTON, TO BE A DEPUTY UNITED 
+     STATES TRADE REPRESENTATIVE (WESTERN HEMISPHERE, EUROPE, THE 
+     MIDDLE EAST, LABOR, AND ENVIRONMENT), WITH THE RANK OF 
+     AMBASSADOR, VICE MICHAEL N. NEMELKA
+```
