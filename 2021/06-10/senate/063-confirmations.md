@@ -1,0 +1,45 @@
+---
+granule: CREC-2021-06-10-pt1-PgS4501-5
+date: 2021-06-10
+edition: CREC
+section: SENATE
+page: S4501
+citation: 167 Cong. Rec. S4501
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 10, 2021:
+
+[[Page S4502]]
+
+  
+
+
+
+                         DEPARTMENT OF COMMERCE
+
+       LESLIE B. KIERNAN, OF MARYLAND, TO BE GENERAL COUNSEL OF 
+     THE DEPARTMENT OF COMMERCE.
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+       ADRIANNE TODMAN, OF THE VIRGIN ISLANDS, TO BE DEPUTY 
+     SECRETARY OF HOUSING AND URBAN DEVELOPMENT.
+
+
+                      DEPARTMENT OF TRANSPORTATION
+
+       NURIA I. FERNANDEZ, OF CALIFORNIA, TO BE FEDERAL TRANSIT 
+     ADMINISTRATOR.
+
+
+                             THE JUDICIARY
+
+       ZAHID N. QURAISHI, OF NEW JERSEY, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF NEW JERSEY
+```
