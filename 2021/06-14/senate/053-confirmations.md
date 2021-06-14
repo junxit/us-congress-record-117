@@ -1,0 +1,30 @@
+---
+granule: CREC-2021-06-14-pt1-PgS4522-4
+date: 2021-06-14
+edition: CREC
+section: SENATE
+page: S4522
+citation: 167 Cong. Rec. S4522
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 14, 2021:
+
+
+                             THE JUDICIARY
+
+       KETANJI BROWN JACKSON, OF THE DISTRICT OF COLUMBIA, TO BE 
+     UNITED STATES CIRCUIT JUDGE FOR THE DISTRICT OF COLUMBIA 
+     CIRCUIT.
+
+
+                    ENVIRONMENTAL PROTECTION AGENCY
+
+       MICHAL ILANA FREEDHOFF, OF MARYLAND, TO BE ASSISTANT 
+     ADMINISTRATOR FOR TOXIC SUBSTANCES OF THE ENVIRONMENTAL 
+     PROTECTION AGENCY
+```
