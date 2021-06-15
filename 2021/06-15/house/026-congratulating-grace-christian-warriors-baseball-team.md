@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-06-15-pt1-PgH2754-3
+date: 2021-06-15
+edition: CREC
+section: HOUSE
+page: H2754
+citation: 167 Cong. Rec. H2754
+---
+
+# CONGRATULATING GRACE CHRISTIAN WARRIORS BASEBALL TEAM
+
+**Speaking:** Cline, Ben (C001118) [R-VA]
+
+```
+         CONGRATULATING GRACE CHRISTIAN WARRIORS BASEBALL TEAM
+
+  (Mr. CLINE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CLINE. Madam Speaker, today, I rise to recognize the Grace 
+Christian School Warriors baseball team for their come-from-behind 
+victory in this year's Virginia Association of Christian Athletics 
+State championship.
+  Down to the last 12 outs, the Warriors trailed 4-0. But thanks to 
+some timely hits, their comeback started as they were able to put one 
+run on the board in the fourth.
+  In the bottom of the fifth, things really started turning in Grace 
+Christian's favor. A few hits, some heads-up base running, and costly 
+errors made by their opponents gave the Warriors a 5-4 lead.
+  However, the lead didn't last long, as the Bulldogs from Westover 
+Christian Academy scored two in the top of the sixth. But the Warriors 
+battled back, tying the game in the bottom half of the inning.
+  Grace Christian's MVP pitcher, Isaiah Riddle, mastered Westover 
+hitters in the top of the seventh, meaning it all came down to the 
+Warriors' bats.
+  First baseman Justin Hain led off with a base hit, then stole second, 
+and moved to third on a wild pitch. With another wild pitch, Hain 
+sprinted home and secured Grace Christian the title.
+  Truly, it ain't over till it's over.
+  Congratulations to the players, coaches, parents, and staff on an 
+incredible season and a well-deserved win.
+
+                          ____________________
+```

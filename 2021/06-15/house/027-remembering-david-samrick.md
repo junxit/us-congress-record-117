@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-06-15-pt1-PgH2754-4
+date: 2021-06-15
+edition: CREC
+section: HOUSE
+page: H2754
+citation: 167 Cong. Rec. H2754
+---
+
+# REMEMBERING DAVID SAMRICK
+
+**Speaking:** Wasserman Schultz, Debbie (W000797) [D-FL]
+
+```
+                       REMEMBERING DAVID SAMRICK
+
+  (Ms. WASSERMAN SCHULTZ asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. WASSERMAN SCHULTZ. Madam Speaker, it is with a heavy heart that I 
+rise to honor the remarkable life of David Samrick of Fort Lauderdale, 
+Florida.
+  David's faith and love for the Jewish community were evident in his 
+support of the American Israel Public Affairs Committee. He served on 
+the AIPAC national board since 2015, working closely with Members of 
+the United States Congress to strengthen and promote a strong and 
+unbreakable U.S.-Israel relationship.
+  Through his work with AIPAC, he led citizen activists in building 
+relationships with Members of Congress on both sides of the aisle, a 
+key to the success of the pro-Israel movement. We worked together to 
+address a multitude of issues facing our community, from the scourge of 
+anti-Semitism to ensuring we maintain our strong U.S.-Israel 
+relationship.
+  I am proud to have considered him my very dear friend. I will miss 
+his guidance and wisdom but mostly his friendship.
+  My heartfelt sympathy goes out to his wife, Susan, and his entire 
+family. David was one of a kind, a selfless, compassionate, and 
+tireless advocate. May his memory be for a blessing.
+
+                          ____________________
+```

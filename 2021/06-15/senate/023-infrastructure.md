@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-06-15-pt1-PgS4527
+date: 2021-06-15
+edition: CREC
+section: SENATE
+page: S4527
+citation: 167 Cong. Rec. S4527
+---
+
+# INFRASTRUCTURE
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+                             INFRASTRUCTURE
+
+  Mr. CORNYN. At the same time, Madam President, America's roads and 
+bridges are in dire need of attention by Congress. Every year, the 
+American Society of Civil Engineers evaluates the state of our 
+infrastructure and issues a report card to let us know how we are 
+doing. Well, America is barely passing with a ``C-minus.'' Texas is 
+faring slightly better than the rest of the class, with just a ``C.''
+  I believe Republicans and Democrats alike think that rebuilding our 
+roads and bridges is important. We even share the same goal of 
+expanding the definition of ``infrastructure'' to include broadband 
+because we saw during the current pandemic that broadband is no longer 
+a luxury. It is an absolute necessity, whether it is for telehealth or 
+whether it is for our children learning remotely or for people working 
+remotely from home.
+  Even as bipartisan negotiations continue, though, the majority leader 
+is eyeing the prospects of a partisan bill that would circumvent the 
+normal legislative process and would be entirely a partisan product. 
+But we know that in a 50-50 Senate, bipartisan work on shared 
+priorities is not impossible. In fact, we did it just last week.
+  Last week, we saw a great example of what can be accomplished if we 
+will work together to achieve an outcome.
+
+                          ____________________
+```
