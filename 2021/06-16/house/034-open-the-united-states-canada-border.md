@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-06-16-pt1-PgH2828-5
+date: 2021-06-16
+edition: CREC
+section: HOUSE
+page: H2828
+citation: 167 Cong. Rec. H2828
+---
+
+# OPEN THE UNITED STATES-CANADA BORDER
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                  OPEN THE UNITED STATES-CANADA BORDER
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, it was recently announced that 
+the European Union is lifting travel restrictions to allow Americans to 
+visit once again.
+  Over a year under the crush of a devastating global pandemic, highly 
+effective vaccines have made this game-changing moment possible.
+  Still, our border between the United States and Canada remains 
+closed, leaving people unable to access their property and keeping 
+loved ones separated for over 15 heartbreaking months.
+  This move by the EU would allow my Buffalo neighbors to take a 9-hour 
+flight to Paris, France, but they can't take a 90-minute drive to 
+Paris, Ontario.
+  The administration has set a goal of returning to a pre-pandemic 
+sense of normalcy by July 4. For many living along the northern border, 
+normalcy includes the ability to cross to check
+
+[[Page H2829]]
+
+on their property and to see their family again.
+  It is time to open the U.S.-Canadian border.
+
+                          ____________________
+```

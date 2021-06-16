@@ -1,0 +1,33 @@
+---
+granule: CREC-2021-06-16-pt1-PgH2827-6
+date: 2021-06-16
+edition: CREC
+section: HOUSE
+page: H2827
+citation: 167 Cong. Rec. H2827
+---
+
+# CONGRESS SHOULD MAKE DECISIONS TO DECLARE WAR
+
+**Speaking:** Welch, Peter (W000800) [D-VT]
+
+```
+             CONGRESS SHOULD MAKE DECISIONS TO DECLARE WAR
+
+  (Mr. WELCH asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. WELCH. Mr. Speaker, the most solemn decision a country can make 
+is to send its sons and daughters to war. The most solemn 
+responsibility Congress has is to make that decision. Yet, Congress has 
+delegated that authority too often and too long to the executive.
+  It resulted from an AUMF vote, Authorization for Use of Military 
+Force, for a lie-based war in Iraq, resulting in the loss of life of 
+over 4,500 of our fellow citizens, 200,000 Iraqis killed, and 
+destruction and instability in the Middle East.
+  That authorization will be repealed by a vote of Congress, and I will 
+vote to repeal that authorization and restore to the Congress its 
+responsibility to make that solemn decision about whether and when we 
+send our sons and daughters to defend us abroad.
+
+                          ____________________
+```

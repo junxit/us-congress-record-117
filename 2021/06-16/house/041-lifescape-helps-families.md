@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-06-16-pt1-PgH2830
+date: 2021-06-16
+edition: CREC
+section: HOUSE
+page: H2830
+citation: 167 Cong. Rec. H2830
+---
+
+# LIFESCAPE HELPS FAMILIES
+
+**Speaking:** Bustos, Cheri (B001286) [D-IL]
+
+```
+                        LIFESCAPE HELPS FAMILIES
+
+  (Mrs. BUSTOS asked and was given permission to address the House for 
+1 minute.)
+  Mrs. BUSTOS. Mr. Speaker, I rise in support of efforts to build back 
+our care economy. I recently toured a place called Lifescape in 
+Rockford, Illinois, where I met a woman named Miss Selma.
+  Miss Selma lives with her daughter and her granddaughter, and she has 
+three generations under one roof. Three generations where she was the 
+major caretaker for many years.
+  About a decade ago she had a stroke, and so now her daughter has to 
+take care of her. But she has to go to work also. So it is places like 
+Lifescape that help families get back to work so they can make sure 
+that their loved ones are cared for while they also make a living.
+  The global pandemic put a spotlight on the need to invest in our care 
+economy and places like Lifescape. Because of the CARES Act, Lifescape 
+expanded their home meal delivery service by 800 meals every single day 
+and allowed for the care of people like Miss Selma.
+  As we continue to negotiate an infrastructure package, we need to 
+invest in our care economy in order to get our national economy back in 
+place.
+
+                          ____________________
+```

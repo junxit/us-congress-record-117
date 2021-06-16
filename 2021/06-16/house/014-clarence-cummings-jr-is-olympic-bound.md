@@ -1,0 +1,48 @@
+---
+granule: CREC-2021-06-16-pt1-PgH2825-3
+date: 2021-06-16
+edition: CREC
+section: HOUSE
+page: H2825
+citation: 167 Cong. Rec. H2825
+---
+
+# CLARENCE CUMMINGS, JR. IS OLYMPIC BOUND
+
+**Speaking:** Mace, Nancy (M000194) [R-SC]
+
+```
+                CLARENCE CUMMINGS, JR. IS OLYMPIC BOUND
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+South Carolina (Ms. Mace) for 5 minutes.
+  Ms. MACE. Madam Speaker, I rise today with great honor and pride to 
+announce that Clarence Cummings, Jr., a 21-year-old constituent of mine 
+from Beaufort, South Carolina, will be an important part of the 2021 
+Olympic weightlifting team and their effort to bring home the first 
+gold in over 60 years for the red, white, and blue.
+  Mr. Cummings' record is extensive, to say the least. He holds 23 
+American records in weightlifting. In his weight class, he holds the 
+Junior World Record in the snatch, clean and jerk, and total.
+  He is world respected and well regarded for his feat in the clean and 
+jerk.
+  He was the IWF Junior World Champion in 2016, 2017, 2018, and 2019. 
+In 2016 and 2017 he was the IWF Youth World Champion. He is also the 
+Pan-American Champion for 2019 and 2020. I also
+
+[[Page H2826]]
+
+want to point out that Mr. Cummings accomplished all of these records 
+before he turned 21.
+  I am immensely proud, as I know everyone in the Lowcountry is, of Mr. 
+Cummings for all of the hard work and determination and dedication he 
+has given to his sport and to his country.
+  I cannot wait to watch him win the gold medal for the United States 
+in the Olympic Games in Tokyo. His journey is truly an inspiration to 
+weightlifters, to athletes of all types, and to all Americans. I cannot 
+be more proud.
+  God bless Mr. Cummings, the great State of South Carolina, and the 
+United States of America.
+
+                          ____________________
+```
