@@ -1,0 +1,35 @@
+---
+granule: CREC-2021-06-17-pt1-PgH2897-8
+date: 2021-06-17
+edition: CREC
+section: HOUSE
+page: H2897
+citation: 167 Cong. Rec. H2897
+---
+
+# HONORING THE LIFE AND SERVICE OF BARBARA MORRIS STAFFORD
+
+**Speaking:** Griffith, H. Morgan (G000568) [R-VA]
+
+```
+        HONORING THE LIFE AND SERVICE OF BARBARA MORRIS STAFFORD
+
+  (Mr. GRIFFITH asked and was given permission to address the House for 
+1 minute.)
+  Mr. GRIFFITH. Madam Speaker, I rise today in great sadness. Last 
+night, at 6:16, my friend, a community leader and a member of my 
+district staff, passed away, Barbara Morris Stafford.
+  Barbara was born in 1953, and was part of a political family. Her 
+father, Howard Morris, was chairman of the Giles County Board of 
+Supervisors. Her husband was a 10-term member of the Virginia House of 
+Delegates, and when he died young, she took over his seat.
+  Now a single mother to Chris, Elizabeth, and Mary, she served her 
+community for many years as a member of the Virginia House of 
+Delegates; mayor of her hometown of Pearisburg, Virginia; director of 
+the chamber of commerce; and then, for over 10 years and until last 
+night, as a constituent services representative in my district office.
+  Barbara was a great leader and she will be sorely missed by the 
+community she loved and the community that loved her.
+
+                          ____________________
+```

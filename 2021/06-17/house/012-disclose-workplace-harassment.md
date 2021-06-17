@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-06-17-pt1-PgH2898-2
+date: 2021-06-17
+edition: CREC
+section: HOUSE
+page: H2898
+citation: 167 Cong. Rec. H2898
+---
+
+# DISCLOSE WORKPLACE HARASSMENT
+
+**Speaking:** Blunt Rochester, Lisa (B001303) [D-DE]
+
+**Measures:** H.R. 1187
+
+```
+                     DISCLOSE WORKPLACE HARASSMENT
+
+  (Ms. BLUNT ROCHESTER asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. BLUNT ROCHESTER. Madam Speaker, I am proud to cosponsor an 
+amendment to H.R. 1187, a bill that would increase transparency of 
+publicly traded companies to disclose workplace harassment cases, and I 
+am pleased to see this amendment passed in the House yesterday.
+  Workplace harassment is far too common, and the shareholders and 
+customers of a company should know whether that company fosters a 
+healthy work culture and that it allows its workers to thrive.
+  Up to six in seven women in the workplace report having experienced 
+sexual harassment. Seven of 10 people of color report experiencing some 
+form of verbal, racial, or ethnic harassment, and those who speak out 
+usually face retaliation. This amendment would bring to light these 
+forms of mistreatment and incentivize companies to prevent harassment 
+in the workplace.
+  I thank Ms. Frankel for her leadership on H.R. 1187, and I encourage 
+my colleagues to support this workplace improvement bill, as well as 
+improving the quality of life.
+
+                          ____________________
+```

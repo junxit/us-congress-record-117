@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-06-17-pt1-PgH2898
+date: 2021-06-17
+edition: CREC
+section: HOUSE
+page: H2898
+citation: 167 Cong. Rec. H2898
+---
+
+# VETERANS DESERVE TIMELY SERVICE
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+                    VETERANS DESERVE TIMELY SERVICE
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KELLER. Madam Speaker, America's veterans have served our Nation 
+honorably, and they deserve timely access to the benefits they have 
+earned through their service.
+  The National Personnel Records Center was forced to scale down its 
+operations due to the COVID-19 pandemic and is currently staffed at 25 
+percent capacity, well below the staffing level needed to process the 
+estimated 5,000 records requests it receives on an average day. These 
+service records are required for veterans to access medical benefits; 
+adjudicate disability claims; and request a commendation, award, or 
+regalia, such as a Purple Heart or campaign service medal.
+  To date, there is a backlog of half a million veterans' requests at 
+the NPRC and, in some cases, veterans have waited for over a year for 
+documentation. That is unacceptable.
+  That is why I introduced the Records Act, which would compel the NPRC 
+to fully reopen, address the backlog, and develop a plan to prevent 
+this from ever happening again.
+  These men and women were willing to lay down their lives in service 
+to our Nation, and we need to continue working to ensure our veterans 
+get the level of responsiveness from their government that they 
+deserve.
+
+                          ____________________
+```

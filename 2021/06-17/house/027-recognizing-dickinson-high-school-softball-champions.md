@@ -1,0 +1,37 @@
+---
+granule: CREC-2021-06-17-pt1-PgH2915
+date: 2021-06-17
+edition: CREC
+section: HOUSE
+page: H2915
+citation: 167 Cong. Rec. H2915
+---
+
+# RECOGNIZING DICKINSON HIGH SCHOOL SOFTBALL CHAMPIONS
+
+**Speaking:** Armstrong, Kelly (A000377) [R-ND]
+
+```
+          RECOGNIZING DICKINSON HIGH SCHOOL SOFTBALL CHAMPIONS
+
+  (Mr. ARMSTRONG asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. ARMSTRONG. Mr. Speaker, on Saturday, June 5, the Dickinson High 
+School girls softball team capped off an extraordinary season by 
+winning the North Dakota Class A State Championship.
+  Dickinson had 13 hits, and Mataya Mortensen's dominant pitching 
+performance led to the team's first-ever State title. Dickinson's 10-0 
+win was their 30th in 33 games. Mortensen surrendered only two hits in 
+the shutout. And senior Paige Balliet ended the game with a walk-off 
+double to trigger the 10-run rule.
+  Dickinson finished the season with 30 and 3. They had 487 hits, 110 
+doubles, 19 triples, and 51 home runs. Their team batting average was 
+.464, and they averaged 14.5 runs a game, contrasted with a team ERA of 
+1.42 and 250 strikeouts in 196 innings.
+  Both Taya Hopfauf and Jenna Decker were named to the all-State team, 
+and Coach Amanda Mickey was named coach of the year.
+  Congratulations to the entire team on a great year, especially Paige 
+Balliet and Madison McChesney.
+
+                          ____________________
+```
