@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-06-22-pt1-PgH2938-2
+date: 2021-06-22
+edition: CREC
+section: HOUSE
+page: H2938
+citation: 167 Cong. Rec. H2938
+---
+
+# HONORING GUY DANELLA ON HIS RETIREMENT
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+                 HONORING GUY DANELLA ON HIS RETIREMENT
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to honor New York Mills Police 
+Officer Guy Danella, who retired from law enforcement after 23 years 
+this past month.
+  Guy, a native of my hometown of New Hartford, began his service in 
+law enforcement in 1998, with the Oneida County Sheriff's Department as 
+a corrections deputy. During that time, Guy realized he wanted to 
+continue his career as a police officer and became a deputy sheriff 
+with the road patrol in 2000, where he spent 2 years on the DWI patrol.
+  In 2004, Guy began his career with the New York Mills Police 
+Department, where he would serve for the next 17 years. During his 
+service with New York Mills, Guy became a field training officer, 
+helping to mentor new officers, and was honored with a number of 
+service awards, including the Meritorious Service Award, Exceptional 
+Service Award, and the Patriot Award.
+  It was an honor to meet with Guy and his amazing daughter, Alex. I 
+hope she fulfills her dream to go to law school someday.
+  Guy, we thank you for your many years of service to our wonderful 
+community and for helping to train our next generation of heroes. Our 
+community is truly grateful.
+
+                          ____________________
+```

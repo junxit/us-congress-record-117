@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-06-22-pt1-PgH2989
+date: 2021-06-22
+edition: CREC
+section: HOUSE
+page: H2989
+citation: 167 Cong. Rec. H2989
+---
+
+# THERE IS STILL WORK TO BE DONE
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+                     THERE IS STILL WORK TO BE DONE
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Madam Speaker, I rise today in honor of our newest 
+Federal holiday. Juneteenth marks the critical point in our Nation's 
+history when the final enslaved Americans were freed from the evil 
+bondage of slavery 156 years ago.
+  Honestly, as a student growing up in Rhode Island, surrounded by 
+mostly White classmates, I was never taught about Juneteenth. As much 
+as I hate to admit it, Juneteenth was simply not a part of my 
+education.
+  Some of my colleagues have suggested that we should ignore our 
+history, as inconvenient or uncomfortable as it may be. Well, that is 
+wrong. As a nation, we must own up to our mistakes and celebrate our 
+ability to overcome them, not attempt to sweep them under the rug.
+  Juneteenth is every bit a part of American history. It is a time to 
+honor those who fought so hard to end slavery and to reflect on the 
+work that remains before true racial justice is achieved.
+  As we celebrate last week's vote, let us recommit ourselves to 
+rooting out the systemic racism that still plagues our Nation.
+
+                          ____________________
+```
