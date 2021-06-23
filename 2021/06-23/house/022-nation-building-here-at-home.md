@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-06-23-pt1-PgH3016-8
+date: 2021-06-23
+edition: CREC
+section: HOUSE
+page: H3016
+citation: 167 Cong. Rec. H3016
+---
+
+# NATION-BUILDING HERE AT HOME
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                      NATION-BUILDING HERE AT HOME
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, I rise today in support of 
+the Innovation Centers Acceleration Act, introduced by my friend and 
+colleague,  Joe Morelle.
+  This bill creates an $80 billion national competition that could 
+direct new resources for communities like Rochester, Buffalo, and 
+western New York to foster innovation and create new jobs and 
+opportunities.
+  I am also a cosponsor of the Endless Frontiers Act, a version which 
+passed the Senate with the support of our Senators, that would create 
+similar opportunities and competition.
+  For too long, Congress has lacked the vision to nation-build here at 
+home. Now we can enact a plan to compete with China and foster new 
+opportunity and growth.
+  Groups like the Northland Workforce Training Center, the M&T Bank's 
+technology hub, and the Thomas Beecher Innovation Center are leading 
+the way in creating tech ecosystems in my region.
+  Enacting this bill could help propel these entities to achieve their 
+full potential for the benefit of the entire community that could last 
+for generations.
+  Madam Speaker, I urge my colleagues to support this legislation.
+
+                          ____________________
+```
