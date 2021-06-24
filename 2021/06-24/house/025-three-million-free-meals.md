@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-06-24-pt1-PgH3091-8
+date: 2021-06-24
+edition: CREC
+section: HOUSE
+page: H3091
+citation: 167 Cong. Rec. H3091
+---
+
+# THREE MILLION FREE MEALS
+
+**Speaking:** Sires, Albio (S001165) [D-NJ]
+
+```
+                        THREE MILLION FREE MEALS
+
+  (Mr. SIRES asked and was given permission to address the House for 1 
+minute.)
+  Mr. SIRES. Madam Speaker, I rise today to commend the West New York 
+School Nutrition Service Department and Nu-Way Concessionaires for 
+serving the West New York, New Jersey, community throughout the 
+pandemic.
+  Nu-Way Concessionaires was founded in 1958 by a longtime West New 
+York resident, Joseph Pantaleo, who sadly passed away in December at 
+the age of 90. Joe understood the importance of giving back to his 
+community and fully embodied the spirit of service.
+  It is in this light that I wish to recognize the West New York School 
+Nutrition Service Department, managed by Nu-Way, which has provided 
+over three million free meals to the West New York community since the 
+beginning of the pandemic and will continue providing meals throughout 
+this summer.
+  Free breakfast and free lunch have been provided every day, including 
+weekends, and have provided a lifeline during a turbulent and uncertain 
+year.
+  I would also like to commend Sal Valenza and Jose Sabater and their 
+21 employees who have worked tirelessly every day for their community 
+to ensure students have access to healthy and locally sourced meals.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2021-06-24-pt1-PgH3118
+date: 2021-06-24
+edition: CREC
+section: HOUSE
+page: H3118
+citation: 167 Cong. Rec. H3118
+---
+
+# CHILD TAX CREDIT
+
+**Speaking:** Auchincloss, Jake (A000148) [D-MA]
+
+```
+                            CHILD TAX CREDIT
+
+  (Mr. AUCHINCLOSS asked and was given permission to address the House 
+for 1 minute.)
+  Mr. AUCHINCLOSS. Mr. Speaker, I rise today in support of the expanded 
+child tax credit. Thanks to the American Rescue Plan, working families 
+across the country will receive a monthly child tax credit payment of 
+up to $300 per child, covering nearly 90 percent of all children and 
+cutting child poverty in half.
+  In my district, the expanded child tax credit will improve the lives 
+of families from Newton to Fall River, helping almost 60 percent of 
+children and lifting 3,800 children out of poverty. As a father, I am 
+committed to providing parents with the support needed to navigate the 
+high cost of raising a child.
+  From affording their food bills to paying for childcare, this 
+substantial tax relief will set our parents and children up for 
+success. The expanded child tax credit is a necessary investment in our 
+families so that we can build an economy that works for everyone. We 
+must make the expansion permanent.
+
+                          ____________________
+```

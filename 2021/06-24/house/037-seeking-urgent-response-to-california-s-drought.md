@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-06-24-pt1-PgH3093-3
+date: 2021-06-24
+edition: CREC
+section: HOUSE
+page: H3093
+citation: 167 Cong. Rec. H3093
+---
+
+# SEEKING URGENT RESPONSE TO CALIFORNIA'S DROUGHT
+
+**Speaking:** Valadao, David G. (V000129) [R-CA]
+
+```
+            SEEKING URGENT RESPONSE TO CALIFORNIA'S DROUGHT
+
+  (Mr. VALADAO asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. VALADAO. Madam Speaker, I rise today to request an urgent 
+response to California's drought.
+  Since returning to Congress, I have introduced two pieces of critical 
+water legislation. I have stood here before my colleagues asking the 
+House majority to address the drought. I have requested hearings be 
+held and sent letters. Yet, the majority has done nothing to help those 
+suffering from this crisis.
+  Communities in my district, like Avenal, Coalinga, and Huron, totally 
+rely on 100 percent of their water from the delta. That is about 37,000 
+of my constituents relying solely on the delta for water.
+  My bill, the NEED Water Act, would allow communities like these and 
+communities growing our food the ability to purchase and transfer water 
+more easily.
+  As if water wasn't scarce enough, now communities in my district, 
+like Teviston, are completely out of water. They are forced to rely on 
+bottled water delivery programs to receive water because their wells 
+have failed. It is only a matter of time before there are more towns in 
+my district in the same situation as Teviston.
+  I implore my colleagues across the aisle to work with me to combat 
+this crisis. This is an emergency, and it is unacceptable to stand back 
+and watch these communities suffer and completely run out of water 
+while the real solutions available can bring immediate relief.
+
+                          ____________________
+```
