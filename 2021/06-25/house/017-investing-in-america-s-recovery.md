@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-06-25-pt1-PgH3150
+date: 2021-06-25
+edition: CREC
+section: HOUSE
+page: H3150
+citation: 167 Cong. Rec. H3150
+---
+
+# INVESTING IN AMERICA'S RECOVERY
+
+**Speaking:** Tonko, Paul (T000469) [D-NY]
+
+```
+                    INVESTING IN AMERICA'S RECOVERY
+
+  (Mr. TONKO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TONKO. Madam Speaker, nearly 40 percent of Americans before COVID 
+couldn't cover an unexpected $400 expense without selling belongings or 
+going into debt. And no one pays a greater price for poverty than our 
+kids.
+  I am proud of our work to pass the American Rescue Plan and deliver a 
+lifeline for millions of struggling Americans. Starting July 15, that 
+lifeline gets stronger.
+  In a few weeks, and again every month throughout 2021, hardworking 
+families will get a check of up to $400
+
+[[Page H3151]]
+
+per child. That check will help millions of parents buy healthy food, 
+new clothes, shoes, and books for their kids, pay rent and utilities, 
+and even afford childcare so they can get back to work.
+  In my own home district in New York's capital region, these checks 
+will reach more than 37,000 households and help lift more than 5,000 of 
+our kids out of poverty. These are not just lasting investments in 
+America's recovery; they are the downpayment on our brightest future.
+  I urge every parent and family that has struggled to make ends meet 
+during this pandemic to visit childtaxcredit.gov and make certain that 
+you are signed up.
+
+                          ____________________
+```

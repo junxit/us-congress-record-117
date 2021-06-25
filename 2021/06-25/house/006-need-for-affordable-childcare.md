@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-06-25-pt1-PgH3137-6
+date: 2021-06-25
+edition: CREC
+section: HOUSE
+page: H3137
+citation: 167 Cong. Rec. H3137
+---
+
+# NEED FOR AFFORDABLE CHILDCARE
+
+**Speaking:** Garcia, Sylvia R. (G000587) [D-TX]
+
+```
+                     NEED FOR AFFORDABLE CHILDCARE
+
+  (Ms. GARCIA asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. GARCIA of Texas. Madam Speaker, I rise today to bring attention 
+to the crisis caused by the lack of childcare in my district and across 
+the country. Access to affordable childcare is critical for working 
+families across the country and in my district.
+  We all have heard of places without grocery stores referred to as 
+food deserts. Well, half of American families live in areas lacking 
+childcare facilities. They are living in childcare deserts.
+  The situation is even worse in Latino communities, as 78 percent live 
+in childcare deserts.
+  As you can see on this chart by my side, this is my district. The 
+orange and the dark colors represent areas that have no access to 
+childcare. Eighty-two percent of the children in my district have no 
+access to childcare. This is a childcare desert. This impacts 
+disproportionately communities of color. This is unacceptable.
+  As a Nation, we must invest in childcare. High-quality childcare 
+improves outcomes for children, parents, and neighborhoods. We must act 
+and we must act now.
+
+                          ____________________
+```
