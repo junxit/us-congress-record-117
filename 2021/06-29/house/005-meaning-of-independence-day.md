@@ -1,0 +1,73 @@
+---
+granule: CREC-2021-06-29-pt1-PgH3244
+date: 2021-06-29
+edition: CREC
+section: HOUSE
+page: H3244
+citation: 167 Cong. Rec. H3244
+---
+
+# MEANING OF INDEPENDENCE DAY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                      MEANING OF INDEPENDENCE DAY
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Thompson) for 5 minutes.
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, a quick web search on the 
+meaning of Independence Day will give you the dictionary definition: A 
+day celebrating the anniversary of national independence.
+  For a nation built upon the foundations of freedom, such as the 
+United States of America, there is much more to the meaning of 
+Independence Day than can be described in a dictionary.
+  For Americans, Independence Day is about the people who have lived 
+and died in the defense of freedom. Crispus Attucks, who was killed by 
+British troops in the Boston Massacre, has long been honored as an 
+American hero and the first casualty of the Revolutionary War. Mr. 
+Attucks has proved to be the first in a long legacy of American heroes.
+  Each and every generation of Americans has had their share of men and 
+women willing to pursue a more perfect realization of that most basic 
+of human rights, freedom.
+  Freedom against tyranny was the primary motive during the 
+Revolutionary War for our first President, George Washington, alongside 
+the Founding Fathers, who designed the government for our new Nation 
+and the troops who fought for its right to exist.
+  The great efforts of President Abraham Lincoln during the most trying 
+time in our Nation's history, the Civil War, led armies of brave 
+soldiers who fought not only for the reunification of the country but 
+also the freedom of people held in slavery.
+  This noble fight was taken up not only by soldiers but by civilians 
+who worked in support of those in combat, such as Clara Barton, Army 
+nurse and founder of the American National Red Cross.
+  Hundreds of thousands of young men lost their lives during the Second 
+World War fighting fascism in Europe and around the world. Presidents 
+Franklin Delano Roosevelt and Harry Truman, alongside generals 
+including Eisenhower, Patton, and MacArthur, provided the leadership 
+and strategy necessary to allow our soldiers to gain victory and 
+preserve freedom.
+  As a nation, we have believed in and fought for freedom for so long 
+that it can easily be taken for granted. This is a trap that we must be 
+extra vigilant not to fall into. As President Reagan aptly stated, 
+freedom ``is not passed to our children in the bloodstream.''
+  Pursuing freedom for over 200 years has been the result of a 
+conscious choice, in each era, by every generation. We must continue to 
+make that choice in this era and in this generation.
+  Mr. Speaker, you may have noticed that in my examples from the 
+Revolutionary War, Civil War, and Second World War, I named politicians 
+who served our soldiers and citizens. Make no mistake, it is the 
+soldiers and the citizens of our Nation who do the work to preserve 
+freedom. Therefore, it is the solemn duty of those of us who work in 
+government to lead and represent the people so that they can continue 
+to live in freedom.
+  I urge each and every government official, and especially my fellow 
+Members of Congress, to make the choice to pursue freedom, as so many 
+generations have before us. In this way, we honor the lives of past 
+heroes such as Crispus Attucks and ensure freedom will be defended by 
+future generations.
+  Mr. Speaker, that is the meaning of Independence Day that could never 
+fit in a dictionary.
+
+                          ____________________
+```
