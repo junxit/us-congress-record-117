@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-06-30-pt1-PgH3315-2
+date: 2021-06-30
+edition: CREC
+section: HOUSE
+page: H3315
+citation: 167 Cong. Rec. H3315
+---
+
+# AMENDMENTS 87 AND 89 TO THE INVEST IN AMERICA ACT
+
+**Speaking:** Castor, Kathy (C001066) [D-FL]
+
+```
+           AMENDMENTS 87 AND 89 TO THE INVEST IN AMERICA ACT
+
+  (Ms. CASTOR of Florida asked and was given permission to address the 
+House for 1 minute.)
+  Ms. CASTOR of Florida. Madam Speaker, there is good news. The 
+Congress intends to invest in America through passage of a landmark 
+surface transportation and infrastructure package. This is what 
+President Biden challenged us to do, and we will follow through.
+  It also comes one year after the House Select Committee on the 
+Climate Crisis made landmark recommendations to solve the climate 
+crisis and expand clean energy through a clean energy action plan to 
+cut greenhouse gas pollution, to reach net zero as soon as possible, 
+follow the science, improve our health, and make our communities more 
+resilient to costly climate fuel disasters.
+  Madam Speaker, over the past year, we have already passed 250 
+recommendations here in the House and turned 100 of them into law. But 
+now we are going to build on that progress through the INVEST in 
+America Act.
+  It is the most climate-forward transportation bill in the history of 
+the Congress with record investment in public transit and rail; 
+investments to make roads and bridges more resilient; record investment 
+in electric vehicle charging stations, pedestrian and bicycle trails; 
+progress on environmental justice, clean air, and clean water.
+  This is good news, indeed.
+
+                          ____________________
+```
