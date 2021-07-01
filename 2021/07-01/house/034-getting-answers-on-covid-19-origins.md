@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-07-01-pt1-PgH3591
+date: 2021-07-01
+edition: CREC
+section: HOUSE
+page: H3591
+citation: 167 Cong. Rec. H3591
+---
+
+# GETTING ANSWERS ON COVID-19 ORIGINS
+
+**Speaking:** Kim, Young (K000397) [R-CA]
+
+```
+                  GETTING ANSWERS ON COVID-19 ORIGINS
+
+  (Mrs. KIM of California asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. KIM of California. Mr. Speaker, the COVID-19 pandemic has taken 
+the lives of 4 million individuals across the world, including 600,000 
+Americans. It took the life of my mother-in-law, as well as the loved 
+ones of many of my constituents in the community that I represent.
+  As we safely reopen our communities and evaluate lessons learned, we 
+know no one wants to see another pandemic. As we hear of the new delta 
+variant, I know I am not alone in wanting answers regarding the origins 
+of COVID-19.
+  Reports of this virus having escaped from a lab must be taken 
+seriously and looked into, especially as CCP refuses to cooperate with 
+investigations into COVID-19's origins.
+  As we mark the CCP centennial, and it continues its quest to be the 
+world's top economic, technological, and military superpower, it is 
+more important than ever that we get to the truth.
+  This is a public health issue, economic issue, and a national 
+security issue that, as we saw over the past year, will impact each of 
+us.
+
+                          ____________________
+```
