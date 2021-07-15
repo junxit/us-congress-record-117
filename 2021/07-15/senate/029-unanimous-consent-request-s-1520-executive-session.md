@@ -1,0 +1,116 @@
+---
+granule: CREC-2021-07-15-pt1-PgS4921
+date: 2021-07-15
+edition: CREC
+section: SENATE
+page: S4921
+citation: 167 Cong. Rec. S4921
+---
+
+# Unanimous Consent Request--S. 1520 (Executive Session)
+
+**Speaking:** Gillibrand, Kirsten E. (G000555) [D-NY], Reed, Jack (R000122) [D-RI]
+
+**Measures:** S. 1520
+
+```
+                   Unanimous Consent Request--S. 1520
+
+  Mrs. GILLIBRAND. Mr. President, I rise again today to call for every 
+Senator to have the opportunity to cast their vote on the Military 
+Justice Improvement and Increasing Prevention Act.
+  It is time for us to look at this issue to move serious crimes like 
+sexual assault and murder out of the chain of command and put them in 
+the hands of well-trained military prosecutors who are independent, 
+impartial, and highly trained uniformed prosecutors.
+  This is an issue that deserves urgency. I began calling for this full 
+floor vote on May 24. Since then, it is an estimate that 2,912 
+servicemembers will have been raped or sexually assaulted during that 
+time; more will have been victims of other serious crimes. Many will 
+not even report these crimes because they have no faith in the current 
+system, where decisions about whether to prosecute are made by 
+commanders and not trained lawyers. And yet this vote continues to be 
+delayed and denied, week after week.
+  While I am glad to see that more of our colleagues have acknowledged 
+that we must move sexual assault out of the chain of command, it is not 
+enough. It doesn't address the fundamental flaw in the military justice 
+system, which is that it asks commanders to act as judge and jury in 
+highly complex crimes that they are not trained to do.
+  In fact, the training commanders get includes just a few hours, at 
+the most, on legal topics like military justice and unlawful command 
+influence. No one could be expected to learn in a few hours what it 
+takes lawyers years of study and decades of experience to master.
+  That is why this bill would move serious crimes to the purview of 
+those lawyers who have had the time to properly prepare for the job.
+  Today, I would like to outline exactly which crimes this bill would 
+move out of the chain of command. Opponents have tried to misrepresent 
+these crimes the bill addresses. It does not, for example, deal with 
+larceny under $1,000 or destruction of government property. Those 
+crimes would stay with the commander.
+  The bill includes a finite list of crimes. I will read them all now: 
+recruit maltreatment, nonconsensual distribution of visual images, 
+murder, manslaughter, murder of a pregnant mother, child endangerment, 
+sexual assault, obscene mailing, sexual assault of a child, voyeurism, 
+major financial crimes, major fraud, robbery, bribery, graft, 
+kidnapping, arson, extortion, aggravated sexual assault, maiming, 
+domestic violence, stalking, perjury, obstruction of justice, and 
+retaliation.
+  That is it. That is the list. Those are crimes that have punishment 
+of more than 1 year associated with them.
+  I ask those who oppose this reform to tell me why they would expect a 
+commander with as little as a few hours of training to be prepared to 
+try cases on obscene mailing or to be well versed on the elements of 
+extortion. Tell me about the commander who understands the intricacies 
+of using false documents to claim benefits or has the time to 
+investigate complex financial frauds. Tell me about what leaves our 
+commanders prepared to act as judge and jury in a murder trial or a 
+kidnapping case.
+  Our bill simply recognizes that these are serious crimes that require 
+legal expertise to properly review and prosecute. By moving these 
+crimes to independent military lawyers, this reform allows commanders 
+to focus on what they are trained to do: preparing our troops to fight 
+and win our Nation's wars.
+  Additionally, the chairman has said that this bill would remove from 
+the chain of command ``crimes that have been handled by the military 
+chain of command effectively for years and years and years.''
+  But, actually, that is not the case. They haven't been handled 
+effectively.
+  Just this week the Military Times reported on the case of Private 
+Jonathan Lauture, who is alleged to have shot and killed Jason Lindsay 
+in June 2019, when Lindsay entered Lauture's home in an attempt to 
+intervene in a situation of domestic violence.
+  His chain of command at Fort Bliss was aware of the killing, but they 
+did not inform the Army's criminal investigation division. Instead, 
+they quickly reassigned him to Fort Stewart, where he continued to 
+assault his wife.
+  The Military Times reports:
+
+       Army investigators had no idea that the shooting had even 
+     occurred, much less the domestic violence. . . . Lauture's 
+     Fort Bliss chain of command did not inform the CID of the 
+     shooting. Nobody did, until a domestic violence investigation 
+     in December 2019 by Fort Stewart CID incidentally learned 
+     that Lauture had [allegedly] killed a man who was attempting 
+     to rescue his wife.
+
+  That is how the current system handles alleged murder and domestic 
+violence. It is not only ineffective, it is actively concealing 
+information and hampering justice. That is why the current system is 
+unacceptable.
+  We have to reform the system. The Military Justice Improvement and 
+Increasing Prevention Act is supported by experts, by servicemembers, 
+and by a bipartisan filibuster-proof majority of Senators if we bring 
+it to the floor.
+  Mr. President, as in legislative session, I ask unanimous consent 
+that at a time to be determined by the majority leader, in consultation 
+with the Republican leader, the Senate Armed Services Committee be 
+discharged from further consideration of S. 1520 and the Senate proceed 
+to its consideration; that there be 2 hours for debate, equally divided 
+in the usual form; that upon the use or yielding back of that time, the 
+Senate vote on the bill with no intervening action or debate.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. REED. Mr. President, I object.
+  The PRESIDING OFFICER. Objection is heard.
+
+                          ____________________
+```
