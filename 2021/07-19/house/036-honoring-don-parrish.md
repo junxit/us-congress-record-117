@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-07-19-pt1-PgH3660-3
+date: 2021-07-19
+edition: CREC
+section: HOUSE
+page: H3660
+citation: 167 Cong. Rec. H3660
+---
+
+# HONORING DON PARRISH
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                              {time}  1915
+                          HONORING DON PARRISH
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise to honor the 
+storied career of Mr. Don Parrish as he celebrates his retirement as 
+Senior Director of Regulatory Affairs at the American Farm Bureau 
+Federation.
+  Don is a champion and friend of the U.S. agriculture industry through 
+and through.
+  Don's legacy spans a variety of topics, but namely, he is renowned 
+for his incredible work on the Clean Water Act and the waters of the 
+U.S.
+  Don's role as an integral leader on this topic lead to his placement 
+as chair of the Waters Advisory Coalition and to be named as a ``Top 5 
+Player'' on WOTUS in Politico.
+  Anyone who knows Don knows his deep love for both his work and his 
+family, whom he frequently brags about.
+  The U.S. agriculture industry is better today because of Don's fierce 
+dedication and advocacy.
+  Madam Speaker, I thank Don for his partnership and for the 
+outstanding work he has done to improve the livelihood of America's 
+farmers and ranchers.
+  I wish Don a fulfilling retirement. He has earned every bit of it.
+
+                          ____________________
+```
