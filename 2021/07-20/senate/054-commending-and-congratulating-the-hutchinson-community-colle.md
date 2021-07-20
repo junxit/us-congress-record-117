@@ -1,0 +1,45 @@
+---
+granule: CREC-2021-07-20-pt1-PgS4987-3
+date: 2021-07-20
+edition: CREC
+section: SENATE
+page: S4987
+citation: 167 Cong. Rec. S4987
+---
+
+# COMMENDING AND CONGRATULATING THE HUTCHINSON COMMUNITY COLLEGE BLUE DRAGONS FOOTBALL TEAM FOR WINNING THE 2021 NATIONAL JUNIOR COLLEGE ATHLETIC ASSOCIATION FOOTBALL NATIONAL CHAMPIONSHIP
+
+**Speaking:** Gillibrand, Kirsten E. (G000555) [D-NY]
+
+**Measures:** S.Res. 308
+
+```
+  COMMENDING AND CONGRATULATING THE HUTCHINSON COMMUNITY COLLEGE BLUE 
+  DRAGONS FOOTBALL TEAM FOR WINNING THE 2021 NATIONAL JUNIOR COLLEGE 
+          ATHLETIC ASSOCIATION FOOTBALL NATIONAL CHAMPIONSHIP
+
+  Mrs. GILLIBRAND. Madam President, I ask unanimous consent that the 
+Senate proceed to the consideration of S. Res. 308, submitted earlier 
+today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The senior assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 308) commending and congratulating 
+     the Hutchinson Community College Blue Dragons football team 
+     for winning the 2021 National Junior College Athletic 
+     Association football National Championship.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mrs. GILLIBRAND. I ask unanimous consent that the resolution be 
+agreed to, the preamble be agreed to, and that the motions to 
+reconsider be considered made and laid upon the table with no 
+intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 308) was agreed to.
+  The preamble was agreed to.
+  (The resolution, with its preamble, is printed in today's Record 
+under ``Submitted Resolutions.'')
+
+                          ____________________
+```

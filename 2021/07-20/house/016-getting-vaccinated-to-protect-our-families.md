@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-07-20-pt1-PgH3677-2
+date: 2021-07-20
+edition: CREC
+section: HOUSE
+page: H3677
+citation: 167 Cong. Rec. H3677
+---
+
+# GETTING VACCINATED TO PROTECT OUR FAMILIES
+
+**Speaking:** Lee, Susie (L000590) [D-NV]
+
+```
+               GETTING VACCINATED TO PROTECT OUR FAMILIES
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Nevada (Mrs. Lee) for 5 minutes.
+  Mrs. LEE of Nevada. Madam Speaker, I rise today as COVID cases surge 
+in my home State of Nevada and across this country.
+  In fact, in the past 3 days, Nevada has added over 2,000 new cases, 
+and our 2-week positivity rate has rapidly grown to more than 12 
+percent. Hospitalizations are up, too, with the vast majority being 
+among, you guessed it, the unvaccinated.
+  Unfortunately, just over half of Nevadans are fully or partially 
+vaccinated. We must all do our part to end this pandemic. The best 
+thing you can do to protect yourself, your family, the ones you care 
+about most is to get vaccinated.
+  Getting your vaccine is safe and, now, easier than ever. Believe it 
+or not, back home in Nevada, it comes with the chance to win more than 
+$5 million in prizes. That is how desperate we are to make sure that 
+everyone is motivated to go get a vaccine.
+  Please, go to vaccines.gov to find a clinic. For those who are 
+already vaccinated, please take the time this week to reach out and 
+encourage your peers to do their part, too.
+  Together, we can stop the spread and get our lives back to normal.
+
+                          ____________________
+```
