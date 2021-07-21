@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-07-21-pt1-PgH3768-4
+date: 2021-07-21
+edition: CREC
+section: HOUSE
+page: H3768
+citation: 167 Cong. Rec. H3768
+---
+
+# REQUEST TO CONSIDER H.R. 18, NO TAXPAYER FUNDING FOR ABORTION ACT
+
+**Speaking:** Jacobs, Chris (J000020) [R-NY]
+
+**Measures:** H.R. 18
+
+```
+   REQUEST TO CONSIDER H.R. 18, NO TAXPAYER FUNDING FOR ABORTION ACT
+
+  (Mr. JACOBS of New York asked and was given permission to address the 
+House for 1 minute.)
+  Mr. JACOBS of New York. Mr. Speaker, I rise today in support of H.R. 
+18, the No Taxpayer Funding For Abortion Act. This bill would make the 
+Hyde amendment permanent and government-wide.
+  Mr. Speaker, Hyde saves lives. For more than 40 years, this amendment 
+has protected vulnerable, unborn life by preventing taxpayer dollars 
+from funding abortions. Named after Illinois Congressman Henry Hyde, 
+the Hyde amendment has enjoyed decades of broad, bipartisan support.
+  During this time the Charlotte Lozier Institute estimates the Hyde 
+amendment has saved over 2 million lives. I am proud to stand up for 
+vulnerable life. As the father of a beautiful two-year-old girl, I have 
+come to appreciate the sanctity of newborn life in a profound way. We 
+owe it to them, and to each other, to protect their lives in every way 
+possible.
+  Mr. Speaker, I ask unanimous consent that the Committees on Energy 
+and Commerce, Ways and Means, and the Judiciary be discharged from 
+further consideration of H.R. 18, and I ask for its immediate 
+consideration in the House.
+  The SPEAKER pro tempore (Mr. Kildee). As the Chair previously 
+advised, the request cannot be entertained absent appropriate 
+clearance.
+
+                          ____________________
+```

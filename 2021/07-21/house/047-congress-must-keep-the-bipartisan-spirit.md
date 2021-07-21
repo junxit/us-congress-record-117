@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-07-21-pt1-PgH3791-3
+date: 2021-07-21
+edition: CREC
+section: HOUSE
+page: H3791
+citation: 167 Cong. Rec. H3791
+---
+
+# CONGRESS MUST KEEP THE BIPARTISAN SPIRIT
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                CONGRESS MUST KEEP THE BIPARTISAN SPIRIT
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, throughout this 
+Congress, the House Agriculture Committee has had countless discussions 
+on ways that we can empower our farm families and build a robust rural 
+economy.
+  Earlier this month, we made good on our word. I am proud to be able 
+to work with all members of our committee and support the Broadband 
+Internet Connections for Rural America Act, which provides significant 
+investments into the deployment and development of broadband to rural 
+America.
+  This legislation reflects many of our shared priorities and shared 
+work. And in many ways, it is similar to the bipartisan legislation I 
+introduced earlier this year.
+  I thank all of the members of the Agriculture Committee for their 
+work and enthusiasm to meet the needs of rural Americans. I know this 
+issue is so personal for each of us and the constituents we represent.
+  The House Agriculture Committee is often considered the most 
+bipartisan committee in the House. This markup bill is proof that we 
+can still reach an agreement under extraordinary times, and I hope we 
+can keep this bipartisan spirit as infrastructure talks continue.
+
+                          ____________________
+```
