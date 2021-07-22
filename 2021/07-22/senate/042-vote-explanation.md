@@ -1,0 +1,23 @@
+---
+granule: CREC-2021-07-22-pt1-PgS5044
+date: 2021-07-22
+edition: CREC
+section: SENATE
+page: S5044
+citation: 167 Cong. Rec. S5044
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Kelly, Mark (K000377) [D-AZ]
+
+```
+                            VOTE EXPLANATION
+
+  Mr. KELLY. Mr. President, on July 19, 2021, I missed rollcall vote 
+No. 267 on confirmation of Tiffany P. Cunningham, of Illinois, to be 
+United States Circuit Judge for the Federal Circuit. Had I been in 
+attendance, I would have voted yes on her confirmation.
+
+                          ____________________
+```

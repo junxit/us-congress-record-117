@@ -1,0 +1,48 @@
+---
+granule: CREC-2021-07-22-pt1-PgH3824-4
+date: 2021-07-22
+edition: CREC
+section: HOUSE
+page: H3824
+citation: 167 Cong. Rec. H3824
+---
+
+# REQUEST TO CONSIDER H.R. 18, NO TAXPAYER FUNDING FOR ABORTION ACT
+
+**Speaking:** Chabot, Steve (C000266) [R-OH]
+
+**Measures:** H.R. 18
+
+```
+   REQUEST TO CONSIDER H.R. 18, NO TAXPAYER FUNDING FOR ABORTION ACT
+
+  (Mr. CHABOT asked and was given permission to address the House for 1 
+minute.)
+  Mr. CHABOT. Mr. Speaker, nearly 20 years ago, I introduced 
+legislation in this House, which passed the House and the Senate. 
+President George W. Bush signed it into law, and it went all the way to 
+the U.S. Supreme Court and now is the law of the land. It banned 
+partial-birth abortion in this country.
+  While that was landmark legislation, today, it is more important than 
+ever that we protect innocent unborn life.
+  That is why, a little over a month ago, the city of Lebanon in my 
+congressional district back home became one of more than 30 cities 
+across the country, and the first in Ohio, to become a sanctuary city 
+for the unborn.
+  It is why I have consistently and enthusiastically supported 
+legislation which would get rid of the funding for Planned Parenthood 
+and its affiliates and supported legislation like H.R. 18, which 
+codifies the Hyde amendment to ensure that Federal taxpayer money does 
+not fund abortions.
+  And it is why, Mr. Speaker, I ask unanimous consent that the 
+Committees on Energy and Commerce, Ways and Means, and the Judiciary be 
+discharged from further consideration of H.R. 18, the No Taxpayer 
+Funding for Abortion Act, and I ask for its immediate consideration in 
+the House.
+  We should not allow tax dollars to go for funding other people's 
+abortions.
+  The SPEAKER pro tempore (Mr. Mrvan). As the Chair previously advised, 
+that request cannot be entertained absent appropriate clearance.
+
+                          ____________________
+```

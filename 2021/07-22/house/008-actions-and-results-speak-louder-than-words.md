@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-07-22-pt1-PgH3805-7
+date: 2021-07-22
+edition: CREC
+section: HOUSE
+page: H3805
+citation: 167 Cong. Rec. H3805
+---
+
+# ACTIONS AND RESULTS SPEAK LOUDER THAN WORDS
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+              ACTIONS AND RESULTS SPEAK LOUDER THAN WORDS
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KELLER. Mr. Speaker, actions and results speak louder than words.
+  In the months since President Biden first called for unity and 
+bipartisan cooperation, the President's and Speaker's reckless tax-and-
+spend policies have hurt middle-class families and small businesses. 
+These are the very people they profess to want to help the most.
+  For the third straight month, the cost of living in America has 
+continued to increase, the highest rate of inflation we have witnessed 
+since 2008.
+  Compared to last year, gas prices are up 45 percent. Food prices have 
+increased 2\1/2\ percent. The price of an automobile is up 45 percent 
+for a used car. Americans know they are paying more for what they need 
+to live every day while their paychecks have decreased by almost 2 
+percent.
+  Americans are spending more and getting less. This inflation is a 
+hidden tax and a pay cut on every American family. And the effects of 
+these are felt hardest by our senior citizens and people living on 
+fixed incomes.
+  The cost-of-living adjustment for Social Security this year was 
+barely 1 percent, but rising consumer prices have outpaced that 
+increase by more than four times.
+
+                          ____________________
+```
