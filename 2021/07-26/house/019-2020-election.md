@@ -1,0 +1,34 @@
+---
+granule: CREC-2021-07-26-pt1-PgH3851-5
+date: 2021-07-26
+edition: CREC
+section: HOUSE
+page: H3851
+citation: 167 Cong. Rec. H3851
+---
+
+# 2020 ELECTION
+
+**Speaking:** Jeffries, Hakeem S. (J000294) [D-NY]
+
+```
+                             2020 ELECTION
+
+  (Mr. JEFFRIES asked and was given permission to address the House for 
+1 minute.)
+  Mr. JEFFRIES. Mr. Speaker, is anyone else tired of hearing the 
+insurrectionist in Chief continue to lie about the 2020 election?
+  Over the weekend, once again, the former, twice-impeached, disgraced, 
+so-called President of the United States of America, falsely claimed 
+that he actually won the election, and that it was stolen from him by 
+Joe Biden.
+  Something is really wrong with this guy. And I need some help in 
+trying to figure it out.
+  Is Donald Trump, A, a pathological liar;
+  B, a sociopath;
+  C, a malignant narcissist; or
+  D, all of the above?
+  I will be around all week. Look forward to hearing from you.
+
+                          ____________________
+```

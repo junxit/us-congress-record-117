@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-07-26-pt1-PgH3889
+date: 2021-07-26
+edition: CREC
+section: HOUSE
+page: H3889
+citation: 167 Cong. Rec. H3889
+---
+
+# HONORING THE LIFE OF COLONEL EDWARD IRWIN WEXLER
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+            HONORING THE LIFE OF COLONEL EDWARD IRWIN WEXLER
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to remember and 
+honor the life of Colonel Edward Wexler, of Savannah, Georgia, who 
+passed away on June 30 at the age of 75.
+  Colonel Wexler was a Savannah native who lived a truly remarkable 
+life. After graduating from The Citadel, he was commissioned as a 
+second lieutenant in the United States Air Force. Colonel Wexler 
+traveled the world with the United States Air Force, serving in many 
+different countries. He retired from the Air National Guard in 2006, 
+having over 35 years of service.
+  Following retirement, Colonel Wexler continued to serve his 
+community. He became director of the Combined Federal Campaign for 
+Coastal Georgia, president of the Savannah Military Officers 
+Association, and junior vice commander of the Veterans Council of 
+Chatham County.
+  Colonel Wexler's dedication to improving the lives of others will 
+never be forgotten. My thoughts and prayers are with Colonel Wexler's 
+family, friends, and all who knew him during this most difficult time.
+
+                          ____________________
+```

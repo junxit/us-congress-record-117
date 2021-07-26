@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-07-26-pt1-PgH3889-2
+date: 2021-07-26
+edition: CREC
+section: HOUSE
+page: H3889
+citation: 167 Cong. Rec. H3889
+---
+
+# RESTORING COMMUNITIES LEFT BEHIND
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                   RESTORING COMMUNITIES LEFT BEHIND
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Madam Speaker, I rise this evening to thank Chairwoman 
+Maxine Waters for including the Restoring Communities Left Behind Act 
+in her Housing is Infrastructure bill.
+  This legislation, led by Congresswoman Rashida Tlaib and myself, 
+would direct $5 billion toward programs for homeowner rehabilitation 
+assistance, weatherization, improved accessibility for seniors and 
+people with disabilities, refinancing, and property tax relief.
+  It will restore quality housing in the cities I represent, such as 
+Toledo, Lorain, Sandusky, and Cleveland, which have suffered from 
+decades of job losses, recessions, the foreclosure crisis of 2008, and 
+chronic housing underinvestment.
+  Congress must serve as a partner to our on-the-ground organizations 
+and local leaders who know what resources are needed where and how best 
+to deploy them to revive their neighborhoods.
+  These investments will repair homes, stimulate economic growth, and 
+revitalize communities. I urge all of my colleagues to support its 
+passage, and I send my thanks to all who have helped us along this 
+really vital road.
+
+                          ____________________
+```
