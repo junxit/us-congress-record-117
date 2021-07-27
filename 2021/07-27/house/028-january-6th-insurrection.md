@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-07-27-pt1-PgH3919-2
+date: 2021-07-27
+edition: CREC
+section: HOUSE
+page: H3919
+citation: 167 Cong. Rec. H3919
+---
+
+# JANUARY 6TH INSURRECTION
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                        JANUARY 6TH INSURRECTION
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, today the House convened the 
+first public hearing of the Select Committee to Investigate the January 
+6th Attack on the U.S. Capitol and the very essence of American 
+democracy.
+  In shocking, raw, and real testimony, four brave police officers 
+shared stories of their harrowing experiences that day.
+  United States Capitol Police Sergeant Gonell, an 8-year veteran of 
+the United States Army assigned to some of the most dangerous duties 
+during Operation Iraqi Freedom, said he was more afraid to work at the 
+Capitol on that day than he was in his entire time serving his country 
+in Iraq.
+  The video is hard to watch, and the testimony is emotional, but the 
+committee's work promises truth and transparency. The events of January 
+6 would have yielded more death and destruction were it not for the 
+United States Capitol Police.
+  We are grateful for them and to the committee for working to provide 
+the answers and accountability needed to make sure this event never 
+happens again.
+
+                          ____________________
+```
