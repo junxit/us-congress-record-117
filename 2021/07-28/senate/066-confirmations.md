@@ -1,0 +1,26 @@
+---
+granule: CREC-2021-07-28-pt1-PgS5146-5
+date: 2021-07-28
+edition: CREC
+section: SENATE
+page: S5146
+citation: 167 Cong. Rec. S5146
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 28, 2021:
+
+
+                     NATIONAL LABOR RELATIONS BOARD
+
+       GWYNNE A. WILCOX, OF NEW YORK, TO BE A MEMBER OF THE 
+     NATIONAL LABOR RELATIONS BOARD FOR THE TERM OF FIVE YEARS 
+     EXPIRING AUGUST 27, 2023.
+       DAVID M. PROUTY, OF MARYLAND, TO BE A MEMBER OF THE 
+     NATIONAL LABOR RELATIONS BOARD FOR THE TERM OF FIVE YEARS 
+     EXPIRING AUGUST 27, 2026
+```

@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-07-28-pt1-PgH4095-2
+date: 2021-07-28
+edition: CREC
+section: HOUSE
+page: H4095
+citation: 167 Cong. Rec. H4095
+---
+
+# HONORING THE LIFE OF CHARLES ROSE
+
+**Speaking:** Burchett, Tim (B001309) [R-TN]
+
+```
+                   HONORING THE LIFE OF CHARLES ROSE
+
+  (Mr. BURCHETT asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BURCHETT. Mr. Speaker, I rise today to honor the life of Charles 
+Rose, a good friend of mine. He was a brave veteran who passed away on 
+July 24 at 97 years old.
+  Charles was a corporal in the United States Marine Corps during World 
+War II. He fought in the Battles of Tarawa, Saipan, and Tinian in the 
+Pacific, and was awarded a Bronze Star with valor for his bravery.
+  In 1953, Charles married the love of his life, Jane, and they had 
+four sons: Steve, Tim, Mark, and Dennis.
+  I was honored to speak about Steve on the House floor a few months 
+ago after he passed away. He was a great veteran, just like his dad.
+  Charles also had 12 grandchildren and 28 great-grandchildren, who 
+loved him dearly, and they were his pride and joy.
+  Charles worked hard all his life. In 1969, he decided to go into 
+business for himself. He founded his own septic tank business where the 
+motto is ``A Flush Beats a Full House Every Time.'' It is still going 
+strong today, being run by his sons and grandsons. He also became a 
+Baptist minister and inspired everyone he knew with his love for the 
+Lord.
+  Charles always used to say, ``plain talk is easy understood.'' He hit 
+me with that nugget of wisdom several times, and I won't forget it. It 
+was an honor to call him my friend, and he will be missed by those who 
+knew him. Rest in peace, brother.
+
+                          ____________________
+```

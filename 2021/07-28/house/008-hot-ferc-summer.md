@@ -1,0 +1,49 @@
+---
+granule: CREC-2021-07-28-pt1-PgH4093-7
+date: 2021-07-28
+edition: CREC
+section: HOUSE
+page: H4093
+citation: 167 Cong. Rec. H4093
+---
+
+# HOT FERC SUMMER
+
+**Speaking:** Casten, Sean (C001117) [D-IL]
+
+```
+                            HOT FERC SUMMER
+
+  (Mr. CASTEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. CASTEN. Madam Speaker, I rise to continue our celebration of Hot 
+FERC summer. As climate activist Fergie would certainly say: The FERC-
+alicious definition is to make our planet cooler.
+  So listen up, y'all, `cause this is it. The Federal Energy Regulatory 
+Commission, or better known as the F to the E to the R to the C, is one 
+of the most important Federal agencies to fight climate change. And if 
+I am doing this right, one that a few more of you are now keeping tabs 
+on.
+  Having a well air-conditioned home when it is ``hot-hot''? That is 
+FERCalicious.
+  Getting your electricity from the lowest cost reliable source? 
+FERCalicious.
+  An electric transmission system that keeps everything from electric 
+vehicles to steel mills running with zero carbon electricity? 
+FERCalicious.
+  With record-setting heat waves already causing deadly droughts, 
+wildfires, and overwhelmed power grids, we have run out the clock and 
+must transition to a clean energy economy--and we need FERC's help.
+  So, today, I am proud to introduce the Right to Timely Rehearings at 
+FERC Act with my friend, Mr. Malinowski, a bill to ensure everyone has 
+access to fair and timely hearings at the Commission.
+
+[[Page H4094]]
+
+  But Congress can't do this alone. Moving at the pace demanded by the 
+climate crisis will take all hands on deck. And a fully staffed FERC is 
+going to be critical to that success.
+  Mr. Speaker, I will now go work on my fitness.
+
+                          ____________________
+```
