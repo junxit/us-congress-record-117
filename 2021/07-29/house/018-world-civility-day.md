@@ -1,0 +1,36 @@
+---
+granule: CREC-2021-07-29-pt1-PgH4257
+date: 2021-07-29
+edition: CREC
+section: HOUSE
+page: H4257
+citation: 167 Cong. Rec. H4257
+---
+
+# WORLD CIVILITY DAY
+
+**Speaking:** Mrvan, Frank J. (M001214) [D-IN]
+
+```
+                           WORLD CIVILITY DAY
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Indiana (Mr. Mrvan) for 5 minutes.
+  Mr. MRVAN. Madam Speaker, I rise today to recognize Mr. Chuck Hughes, 
+executive director of the Gary Chamber of Commerce; and Dr. Gordon 
+Bradshaw, chairman of the public policy committee, for establishing the 
+World Civility Day which was celebrated earlier this month on July 8.
+  In 2015, Mr. Hughes and Dr. Bradshaw created the Community Civility 
+Counts initiative with the Gary Chamber of Commerce and established the 
+World Civility Day in order to encourage all individuals to be more 
+mindful of our actions and to bring more understanding, more tolerance, 
+and more listening and empathy into our society.
+  I became a public servant in order to bring people together and solve 
+problems, and that only happens when we treat each other with respect 
+and civility.
+  I commend Mr. Hughes, Dr. Bradshaw, and all of the individuals and 
+organizations engaged in this initiative for their leadership to 
+recognize the timely and worthy goals of World Civility Day.
+
+                          ____________________
+```
