@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-07-30-pt1-PgH4302-2
+date: 2021-07-30
+edition: CREC
+section: HOUSE
+page: H4302
+citation: 167 Cong. Rec. H4302
+---
+
+# HONORING THE LIFE OF ROCK AND ROLL HALL OF FAMER AND ZZ TOP MEMBER, DUSTY HILL
+
+**Speaking:** Nehls, Troy E. (N000026) [R-TX]
+
+```
+  HONORING THE LIFE OF ROCK AND ROLL HALL OF FAMER AND ZZ TOP MEMBER, 
+                               DUSTY HILL
+
+  (Mr. NEHLS asked and was given permission to address the House for 1 
+minute.)
+  Mr. NEHLS. Madam Speaker, I rise today to honor the life of Rock and 
+Roll Hall of Famer and ZZ Top member, Dusty Hill.
+  Dusty was born and raised in Dallas, Texas, and began playing bass at 
+the age of 13. Embarrassment on stage was a great motivator for Dusty, 
+and he soon mastered the bass. From 1966 to 1968, Dusty played with his 
+brother, Rocky Hill, and future ZZ Top bandmate, Frank Beard, in the 
+Dallas-based band, American Blues.
+  In 1970, wanting to focus more on rock and roll and less on blues, 
+Dusty moved to Houston and joined ZZ Top with Frank Beard and Billy 
+Gibbons. The trio performed their first concert together just outside 
+of my district at the Knights of Columbus in Beaumont, Texas, on 
+February 10, 1970.
+  The trio would stay together for the next 50 years, releasing 
+numerous hits and entertaining tens of millions of fans across the 
+world.
+  I know Dusty is missed greatly. And, Frank, I know you are watching. 
+I spoke to Debbie this morning. But Dusty will live on together as a 
+staple of Texas and in rock and roll history.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-07-30-pt1-PgH4301-2
+date: 2021-07-30
+edition: CREC
+section: HOUSE
+page: H4301
+citation: 167 Cong. Rec. H4301
+---
+
+# RECOGNIZING RONNIE SMITH
+
+**Speaking:** Butterfield, G. K. (B001251) [D-NC]
+
+```
+                        RECOGNIZING RONNIE SMITH
+
+  (Mr. BUTTERFIELD asked and was given permission to address the House 
+for 1 minute.)
+  Mr. BUTTERFIELD. Madam Speaker, I rise to recognize the important 
+work being done all across North Carolina to reduce food insecurity.
+  I commend the outgoing president of the North Carolina Association of 
+County Commissioners, Ronnie Smith, for his leadership on this effort. 
+Ronnie is also chair of the Martin County Board of Commissioners, a 
+constituent, and a good friend.
+  Under Ronnie's leadership, the association's Resilience Task Force 
+was formed to develop local strategies to promote food system 
+resilience. The task force recently released a report to help counties 
+deepen relationships with the local food banks, improve efforts to 
+transport food to homes, and strengthen local food sources to reduce 
+food insecurity.
+  To date, nearly a quarter of North Carolina's counties have passed 
+resolutions to support the initiative. This year, 42 million people 
+nationwide will experience food insecurity.
+  Madam Speaker, I applaud President Ronnie Smith's leadership. I 
+applaud him for his leadership and commend him and the members of the 
+Resilience Task Force for their hard work in combating food insecurity 
+in North Carolina. Thank you, Commissioner Ronnie Smith.
+
+                          ____________________
+```
