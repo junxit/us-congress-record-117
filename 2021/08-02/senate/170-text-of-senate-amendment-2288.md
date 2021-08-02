@@ -1,0 +1,145 @@
+---
+granule: CREC-2021-08-02-pt1-PgS5678-4
+date: 2021-08-02
+edition: CREC
+section: SENATE
+page: S5678
+citation: 167 Cong. Rec. S5678
+---
+
+# Text of Senate Amendment 2288
+
+**Speaking:** Barrasso, John (B001261) [R-WY]
+
+```
+  SA 2288. Mr. BARRASSO submitted an amendment intended to be proposed 
+to amendment SA 2137 proposed by Mr. Schumer (for Ms. Sinema (for 
+herself, Mr. Portman, Mr. Manchin, Mr. Cassidy, Mrs. Shaheen, Ms. 
+Collins, Mr. Tester, Ms. Murkowski, Mr. Warner, and Mr. Romney)) to the 
+bill H.R. 3684, to authorize funds for Federal-aid highways, highway 
+safety programs, and transit programs, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+        At the appropriate place in division H, insert the 
+     following:
+
+     SEC. ___. FEDERAL HIGHWAY USER FEE ON ALTERNATIVE FUEL 
+                   VEHICLES.
+
+       (a) Imposition of Fee.--
+       (1) In general.--Subtitle D of the Internal Revenue Code of 
+     1986 is amended by adding at the end the following new 
+     chapter:
+
+        ``CHAPTER 50A--ALTERNATIVE FUEL VEHICLE HIGHWAY USER FEE
+
+``Sec. 5000D. Alternative fuel vehicle highway user fee.
+
+     ``SEC. 5000D. ALTERNATIVE FUEL VEHICLE HIGHWAY USER FEE.
+
+       ``(a) In General.--There is imposed a user fee on any 
+     alternative fuel vehicle used in the United States during the 
+     taxable year.
+       ``(b) Rate of Fee.--
+       ``(1) In general.--The fee imposed under subsection (a) 
+     with respect to any alternative fuel vehicle shall be the 
+     product of--
+       ``(A) the average gallons of fuel consumption per vehicle 
+     for motor vehicles in the same category as such alternative 
+     fuel vehicle, multiplied by
+       ``(B)(i) in the case of an alternative fuel vehicle in a 
+     category of vehicles which are ordinarily powered by 
+     gasoline, the rate of tax under section 4081(a)(2)(A)(i) in 
+     effect for the first day of the calendar year, and
+       ``(ii) in the case of an alternative fuel vehicle in a 
+     category of vehicles which are ordinarily powered by diesel 
+     fuel, the rate of tax under section 4081(a)(2)(A)(iii) in 
+     effect for the first day of the calendar year.
+       ``(2) Categories of vehicles.--
+       ``(A) In general.--For purposes of this subsection, the 
+     Secretary, in consultation with the Secretary of 
+     Transportation, shall--
+       ``(i) establish categories of similar motor vehicles for 
+     purposes of administering this section, and
+       ``(ii) assign all motor vehicles that are commonly sold in 
+     the United States to one of the categories established under 
+     clause (i).
+       ``(B) Criteria.--In establishing the categories under 
+     subparagraph (A)(i) and assigning motor vehicles to such 
+     categories under subparagraph (A)(ii), the Secretary shall 
+     consider--
+       ``(i) gross vehicle weight rating,
+       ``(ii) the number of wheels of the vehicle,
+       ``(iii) the common use of the vehicle,
+       ``(iv) whether comparable vehicles are ordinarily powered 
+     by gasoline or diesel fuel, and
+       ``(v) such other factors as the Secretary, in consultation 
+     with the Secretary of Transportation, deems relevant.
+       ``(3) Average gallons of fuel consumption.--For purposes of 
+     this subsection, the average gallons of fuel consumption for 
+     each category of motor vehicles--
+       ``(A) shall be determined by the Secretary, in consultation 
+     with the Secretary of Transportation, taking into account 
+     only the motor vehicles in such category that are not 
+     alternative fuel vehicles, and
+       ``(B) shall be updated annually.
+       ``(c) Definitions.--For purposes of this section--
+       ``(1) Alternative fuel vehicle.--
+       ``(A) In general.--The term `alternative fuel vehicle' 
+     means any plug-in electric vehicle, any fuel cell electric 
+     vehicle, or any other alternative fuel vehicle.
+       ``(B) Plug-in electric vehicle.--The term `plug-in electric 
+     vehicle' means a motor vehicle which is propelled to a 
+     significant extent by an electric motor which draws 
+     electricity from a battery which--
+       ``(i) has a capacity of not less than 4 kilowatt hours, and
+       ``(ii) is capable of being recharged from an external 
+     source of electricity.
+       ``(C) Fuel cell electric vehicle.--The term `fuel cell 
+     electric vehicle' means a motor vehicle which is propelled to 
+     a significant extent by an electric motor which draws 
+     electricity from hydrogen converted to electricity by a fuel 
+     cell.
+       ``(D) Other alternative fuel vehicle.--The term `other 
+     alternative fuel vehicle' means a motor vehicle (other than a 
+     plug-in electric vehicle or a fuel cell electric vehicle) 
+     which is propelled to a significant extent by an electric 
+     motor which draws power from any source that is not subject 
+     to tax under section 4041 or 4081 (determined without regard 
+     to any exemption for a specific use).
+       ``(2) Motor vehicle.--The term `motor vehicle' means any 
+     vehicle which is manufactured primarily for use on public 
+     streets, roads, and highways (not including a vehicle 
+     operated exclusively on a rail or rails).
+       ``(d) Liability.--The fee imposed under this section shall 
+     be paid by the person who owns the alternative fuel vehicle.
+       ``(e) Administration and Procedure.--
+       ``(1) In general.--The fee imposed under this section shall 
+     be paid upon notice and demand by the Secretary, and shall be 
+     assessed and collected in the same manner as taxes. Except as 
+     otherwise provided, any reference in this title to `tax' 
+     imposed by this title shall be deemed also to refer to the 
+     fee provided by this section.
+       ``(2) Time at which fee collected.--Any fee due under this 
+     section shall be included with a taxpayer's return under 
+     chapter 1 for the taxable year.''.
+       (2) Clerical amendment.--The table of chapters for subtitle 
+     D of the Internal Revenue Code of 1986 is amended by adding 
+     at the end the following new item:
+
+      ``Chapter 50A--Alternative Fuel Vehicle Highway User Fee''.
+
+       (b) Transfers of Fees to Highway Trust Fund.--Section 
+     9503(b)(1) of the Internal Revenue Code of 1986 is amended--
+       (1) by inserting ``and fees'' after ``the taxes'', and
+       (2) by striking ``and'' at the end of subparagraph (D), by 
+     striking the period at the end of subparagraph (E) and 
+     inserting ``, and'', and by inserting after subparagraph (E) 
+     the following new subparagraph:
+       ``(F) section 5000D (relating to alternative fuel vehicle 
+     highway user fee).''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this section.
+                                 ______
+```

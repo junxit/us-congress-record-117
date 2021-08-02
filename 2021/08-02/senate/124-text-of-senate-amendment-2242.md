@@ -1,0 +1,90 @@
+---
+granule: CREC-2021-08-02-pt1-PgS5633
+date: 2021-08-02
+edition: CREC
+section: SENATE
+page: S5633
+citation: 167 Cong. Rec. S5633
+---
+
+# Text of Senate Amendment 2242
+
+**Speaking:** Rounds, Mike (R000605) [R-SD]
+
+```
+  SA 2242. Mr. ROUNDS (for himself, Ms. Smith, Mr. Warnock, Ms. Lummis, 
+Ms. Baldwin, and Mr. Cramer) submitted an amendment intended to be 
+proposed to amendment SA 2137 proposed by Mr. Schumer (for Ms. Sinema 
+(for herself, Mr. Portman, Mr. Manchin, Mr. Cassidy, Mrs. Shaheen, Ms. 
+Collins, Mr. Tester, Ms. Murkowski, Mr. Warner, and Mr. Romney)) to the 
+bill H.R. 3684, to authorize funds for Federal-aid highways, highway 
+safety programs, and transit programs, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+        At the appropriate place in division C, insert the 
+     following:
+
+     SEC. 300__. INCREASED FEDERAL SHARE OF OPERATING COSTS FOR 
+                   CERTAIN AREAS.
+
+       Section 5311(g)(2)(B) of title 49, United States Code, is 
+     amended--
+       (1) in the subparagraph heading, by striking ``Exception'' 
+     and inserting ``Exceptions'';
+       (2) by striking ``A State'' and inserting the following:
+       ``(i) States with nontaxable indian lands or public domain 
+     lands.--Subject to clause (ii), a State''; and
+       (3) by adding at the end the following:
+       ``(ii) Areas with particular needs.--
+
+       ``(I) Definition.--In this clause, the term `area of 
+     persistent poverty' means--
+
+       ``(aa) any county in which not less than 20 percent of the 
+     population has lived in poverty during the most recent 30-
+     year period, as measured by--
+       ``(AA) the second and third most recent decennial censuses; 
+     and
+       ``(BB) the Small Area Income and Poverty Estimates of the 
+     Bureau of the Census for the most recent year for which the 
+     Estimates are available; or
+       ``(bb) any census tract with a poverty rate of not less 
+     than 20 percent, as measured by most recent 5-year data 
+     series available from the American Community Survey of the 
+     Bureau of the Census.
+
+       ``(II) Increased federal share.--A grant made under this 
+     section for operating assistance for a recipient or 
+     subrecipient that operates public transportation that serves 
+     an area that meets 1 or more of the criteria under subclause 
+     (III) shall be for 80 percent of the net operating costs of 
+     the project, as determined by the Secretary.
+       ``(III) Criteria.--The criteria referred to in subclause 
+     (II) are that an area--
+
+       ``(aa) is an area of persistent poverty;
+       ``(bb) is a county in which not less than 25 percent of 
+     residents are age 65 or older, according to the most recent 
+     5-year estimate of the American Community Survey of the 
+     Bureau of the Census;
+       ``(cc) is a county that, or is a county that includes a 
+     site that--
+       ``(AA) has been designated by the Secretary of Health and 
+     Human Services as a health professional shortage area under 
+     section 332(a) of the Public Health Service Act (42 U.S.C. 
+     254e(a)) on the basis of a primary care or mental health care 
+     shortage; and
+       ``(BB) received a health professional shortage area score 
+     for the most recent program year, with respect to primary 
+     care or mental health care, that was not less than the lowest 
+     minimum score, as designated by the Secretary of Health and 
+     Human Services for that program year, necessary for the site 
+     to be eligible for the assignment of National Health Service 
+     Corps members providing primary care or mental health care, 
+     respectively, for fulfillment of obligated service under the 
+     National Health Service Corps Scholarship Program; or
+       ``(dd) is a county with a population density of not more 
+     than 20 persons per square mile of land area, based on the 
+     most recent decennial census.''.
+                                 ______
+```

@@ -1,0 +1,2770 @@
+---
+granule: CREC-2021-08-02-pt1-PgS5649
+date: 2021-08-02
+edition: CREC
+section: SENATE
+page: S5649
+citation: 167 Cong. Rec. S5649
+---
+
+# Text of Senate Amendment 2255
+
+**Speaking:** Lee, Mike (L000577) [R-UT]
+
+**Measures:** H.Con.Res. 71
+
+```
+  SA 2255. Mr. LEE submitted an amendment intended to be proposed to 
+amendment SA 2137 proposed by Mr. Schumer (for Ms. Sinema (for herself, 
+Mr. Portman, Mr. Manchin, Mr. Cassidy, Mrs. Shaheen, Ms. Collins, Mr. 
+Tester, Ms. Murkowski, Mr. Warner, and Mr. Romney)) to the bill H.R. 
+3684, to authorize funds for Federal-aid highways, highway safety 
+programs, and transit programs, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the 
+     ``Transportation Empowerment Act''.
+       (b) Table of Contents.--The table of contents for this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings and purposes.
+
+                        TITLE I--HIGHWAY FUNDING
+
+Sec. 101. Authorization of appropriations.
+Sec. 102. Federalization and defederalization of projects.
+Sec. 103. Reporting requirements.
+Sec. 104. Funding limitation.
+Sec. 105. Reports; certification.
+
+             TITLE II--FEDERAL-AID HIGHWAY PROGRAM REFORMS
+
+Sec. 201. Definitions.
+Sec. 202. Federal-aid system.
+Sec. 203. Apportionment.
+Sec. 204. Additional deposits in Highway Trust Fund.
+Sec. 205. Project approval and oversight.
+Sec. 206. Standards.
+Sec. 207. Nationally significant freight and highway projects.
+Sec. 208. National highway performance program.
+Sec. 209. Federal share payable.
+Sec. 210. Emergency relief.
+Sec. 211. Transferability of Federal-aid highway funds.
+Sec. 212. Toll roads, bridges, tunnels, and ferries.
+Sec. 213. Railway-highway crossings.
+Sec. 214. Surface transportation block grant program.
+Sec. 215. Metropolitan transportation planning.
+Sec. 216. Control of junkyards.
+Sec. 217. Enforcement of requirements.
+Sec. 218. Public transportation.
+Sec. 219. Highway use tax evasion projects.
+Sec. 220. National bridge and tunnel inventory and inspection 
+              standards.
+Sec. 221. Carpool and vanpool projects.
+Sec. 222. Construction of ferry boats and ferry terminal facilities.
+Sec. 223. Highway safety improvement program.
+Sec. 224. Repeal of congestion mitigation and air quality improvement 
+              program.
+Sec. 225. National goals and performance measures.
+Sec. 226. National electric vehicle charging and hydrogen, propane, and 
+              natural gas fueling corridors.
+Sec. 227. Hazard elimination program.
+Sec. 228. National scenic byways program.
+Sec. 229. National highway freight program.
+Sec. 230. Recreational trails program.
+Sec. 231. Bicycle transportation and pedestrian walkways.
+Sec. 232. Alaska highway.
+Sec. 233. Conforming amendments.
+
+            TITLE III--HIGHWAY TRUST FUND AND RELATED TAXES
+
+                Subtitle A--Highway Trust Fund Authority
+
+Sec. 301. Extension of Highway Trust Fund expenditure authority.
+Sec. 302. Termination of Mass Transit Account.
+Sec. 303. Transfer of unused COVID-19 appropriations to the Highway 
+              Trust Fund.
+Sec. 304. Termination of employee retention credit for employers 
+              subject to closure due to COVID-19.
+Sec. 305. Transfer of unused Coronavirus State and Local Fiscal 
+              Recovery Funds to the Highway Trust Fund.
+
+                   Subtitle B--Highway Related Taxes
+
+Sec. 311. Reduction in taxes on gasoline, diesel fuel, kerosene, and 
+              special fuels funding Highway Trust Fund.
+Sec. 312. Extension of highway-related taxes.
+
+[[Page S5650]]
+
+                        TITLE IV--MISCELLANEOUS
+
+Sec. 401. National Environmental Policy Act modifications.
+Sec. 402. Repeal of Davis-Bacon wage requirements.
+
+     SEC. 2. FINDINGS AND PURPOSES.
+
+       (a) Findings.--Congress finds that--
+       (1) the objective of the Federal highway program has been 
+     to facilitate the construction of a modern freeway system 
+     that promotes efficient interstate commerce by connecting all 
+     States;
+       (2) the objective described in paragraph (1) has been 
+     attained, and the Interstate System connecting all States is 
+     near completion;
+       (3) each State has the responsibility of providing an 
+     efficient transportation network for the residents of the 
+     State;
+       (4) each State has the means to build and operate a network 
+     of transportation systems, including highways, that best 
+     serves the needs of the State;
+       (5) each State is best capable of determining the needs of 
+     the State and acting on those needs;
+       (6) the Federal role in highway transportation has, over 
+     time, usurped the role of the States by taxing motor fuels 
+     used in the States and then distributing the proceeds to the 
+     States based on the perceptions of the Federal Government on 
+     what is best for the States;
+       (7) the Federal Government has used the Federal motor fuels 
+     tax revenues to force all States to take actions that are not 
+     necessarily appropriate for individual States;
+       (8) the Federal distribution, review, and enforcement 
+     process wastes billions of dollars on unproductive 
+     activities;
+       (9) Federal mandates that apply uniformly to all 50 States, 
+     regardless of the different circumstances of the States, 
+     cause the States to waste billions of hard-earned tax dollars 
+     on projects, programs, and activities that the States would 
+     not otherwise undertake; and
+       (10) Congress has expressed a strong interest in reducing 
+     the role of the Federal Government by allowing each State to 
+     manage its own affairs.
+       (b) Purposes.--The purposes of this Act are--
+       (1) to provide a new policy blueprint to govern the Federal 
+     role in transportation once existing and prior financial 
+     obligations are met;
+       (2) to return to the individual States maximum 
+     discretionary authority and fiscal responsibility for all 
+     elements of the national surface transportation systems that 
+     are not within the direct purview of the Federal Government;
+       (3) to preserve Federal responsibility for the Dwight D. 
+     Eisenhower National System of Interstate and Defense 
+     Highways;
+       (4) to preserve the responsibility of the Department of 
+     Transportation for--
+       (A) design, construction, and preservation of 
+     transportation facilities on Federal public land;
+       (B) national programs of transportation research and 
+     development and transportation safety; and
+       (C) emergency assistance to the States in response to 
+     natural disasters;
+       (5) to eliminate to the maximum extent practicable Federal 
+     obstacles to the ability of each State to apply innovative 
+     solutions to the financing, design, construction, operation, 
+     and preservation of Federal and State transportation 
+     facilities; and
+       (6) with respect to transportation activities carried out 
+     by States, local governments, and the private sector, to 
+     encourage--
+       (A) competition among States, local governments, and the 
+     private sector; and
+       (B) innovation, energy efficiency, private sector 
+     participation, and productivity.
+
+                        TITLE I--HIGHWAY FUNDING
+
+     SEC. 101. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) In General.--
+       (1) Authorization of appropriations.--The following sums 
+     are authorized to be appropriated out of the Highway Trust 
+     Fund:
+       (A) Federal-aid highway program.--For the national highway 
+     performance program under section 119 of title 23, United 
+     States Code, the surface transportation block grant program 
+     under section 133 of that title, the highway safety 
+     improvement program under section 148 of that title, and the 
+     national highway freight program under section 167 of that 
+     title $18,450,000,000 for each of fiscal years 2022 through 
+     2026.
+       (B) Emergency relief.--For emergency relief under section 
+     125 of title 23, United States Code, $100,000,000 for each of 
+     fiscal years 2022 through 2026.
+       (C) Federal lands programs.--
+       (i) Federal lands transportation program.--For the Federal 
+     lands transportation program under section 203 of title 23, 
+     United States Code, $300,000,000 for each of fiscal years 
+     2022 through 2026, of which--
+
+       (I) $240,000,000 of the amount made available for each 
+     fiscal year shall be the amount for the National Park 
+     Service; and
+       (II) $30,000,000 of the amount made available for each 
+     fiscal year shall be the amount for the United States Fish 
+     and Wildlife Service.
+
+       (ii) Federal lands access program.--For the Federal lands 
+     access program under section 204 of title 23, United States 
+     Code, $250,000,000 for each of fiscal years 2022 through 
+     2026.
+       (b) Funding for Highway Research and Development Program.--
+       (1) Authorization of appropriations.--There is authorized 
+     to be appropriated out of the Highway Trust Fund to carry out 
+     section 503(b) of title 23, United States Code, $115,000,000 
+     for each of fiscal years 2022 through 2026.
+       (2) Applicability of title 23, united states code.--Funds 
+     authorized to be appropriated by paragraph (1) shall--
+       (A) be available for obligation in the same manner as if 
+     those funds were apportioned under chapter 1 of title 23, 
+     United States Code, except that the Federal share of the cost 
+     of a project or activity carried out using those funds shall 
+     be 80 percent, unless otherwise expressly provided by this 
+     Act (including the amendments by this Act); and
+       (B) remain available until expended and not be 
+     transferable.
+
+     SEC. 102. FEDERALIZATION AND DEFEDERALIZATION OF PROJECTS.
+
+       Notwithstanding any other provision of law, beginning on 
+     October 1, 2021--
+       (1) a highway construction or improvement project shall not 
+     be considered to be a Federal highway construction or 
+     improvement project unless and until a State expends Federal 
+     funds for the construction portion of the project;
+       (2) a highway construction or improvement project shall not 
+     be considered to be a Federal highway construction or 
+     improvement project solely by reason of the expenditure of 
+     Federal funds by a State before the construction phase of the 
+     project to pay expenses relating to the project, including 
+     for any environmental document or design work required for 
+     the project; and
+       (3)(A) a State may, after having used Federal funds to pay 
+     all or a portion of the costs of a highway construction or 
+     improvement project, reimburse the Federal Government in an 
+     amount equal to the amount of Federal funds so expended; and
+       (B) after completion of a reimbursement described in 
+     subparagraph (A), a highway construction or improvement 
+     project described in that subparagraph shall no longer be 
+     considered to be a Federal highway construction or 
+     improvement project.
+
+     SEC. 103. REPORTING REQUIREMENTS.
+
+       No reporting requirement, other than a reporting 
+     requirement in effect as of the date of enactment of this 
+     Act, shall apply on or after October 1, 2021, to the use of 
+     Federal funds for highway projects by a public-private 
+     partnership.
+
+     SEC. 104. FUNDING LIMITATION.
+
+       Notwithstanding any other provision of law, if the 
+     Secretary of Transportation determines for any of fiscal 
+     years 2022 through 2026 that the aggregate amount required to 
+     carry out transportation programs and projects under this Act 
+     and the amendments made by this Act exceeds the estimated 
+     aggregate amount in the Highway Trust Fund available for 
+     those programs and projects for the fiscal year, each amount 
+     made available for that program or project shall be reduced 
+     by the pro rata percentage required to reduce the aggregate 
+     amount required to carry out those programs and projects to 
+     an amount equal to the amount available for those programs 
+     and projects in the Highway Trust Fund for the fiscal year.
+
+     SEC. 105. REPORTS; CERTIFICATION.
+
+       (a) Report on Existing Obligations.--
+       (1) In general.--The Director of the Office of Management 
+     and Budget (referred to in this section as the ``Director''), 
+     in consultation with the Secretary of Transportation, shall 
+     develop and submit to Congress a 5-year plan for the use of 
+     revenue deposited in the Highway Trust Fund to pay for unpaid 
+     obligations under Federal-aid highway programs (as in effect 
+     before the date of enactment of this Act) incurred before the 
+     date of enactment of this Act.
+       (2) Requirement.--In developing the plan under paragraph 
+     (1), the Director shall, to the maximum extent practicable, 
+     balance payments for new Federal-aid highway projects with 
+     continued payment of unpaid obligations described in 
+     paragraph (1).
+       (b) Annual Reports.--Not less frequently than annually, the 
+     Director shall submit to Congress a report that includes--
+       (1) a description of the remaining balance of unpaid 
+     obligations under Federal-aid highway programs (as in effect 
+     before the date of enactment of this Act) incurred before the 
+     date of enactment of this Act; and
+       (2) a status update on the progress made toward achieving 
+     the goals of the 5-year plan developed under subsection (a).
+       (c) Certification.--On the date that the Director 
+     determines that there are no remaining unpaid obligations 
+     under Federal-aid highway programs (as in effect before the 
+     date of enactment of this Act) incurred before the date of 
+     enactment of this Act, the Director shall submit to Congress 
+     a certification that there are no such remaining unpaid 
+     obligations.
+
+             TITLE II--FEDERAL-AID HIGHWAY PROGRAM REFORMS
+
+     SEC. 201. DEFINITIONS.
+
+       Section 101(a) of title 23, United States Code, is 
+     amended--
+       (1) by striking paragraph (6) and inserting the following:
+       ``(6) Federal-aid highway.--The term `Federal-aid highway' 
+     means a highway on the Interstate System eligible for 
+     assistance under this chapter.'';
+       (2) in paragraph (12), by striking ``section 103(c)'' and 
+     inserting ``section 103(b)'';
+       (3) by striking paragraph (16); and
+       (4) by redesignating paragraphs (17) through (34) as 
+     paragraphs (16) through (33), respectively.
+
+     SEC. 202. FEDERAL-AID SYSTEM.
+
+       (a) In General.--Section 103(a) of title 23, United States 
+     Code, is amended by striking
+
+[[Page S5651]]
+
+     ``the National Highway System, which includes''.
+       (b) Conforming Amendments.--
+       (1) Section 103 of title 23, United States Code, is 
+     amended--
+       (A) by striking the section designation and heading and 
+     inserting the following:
+
+     ``Sec. 103. Federal-aid system'';
+
+       (B) by striking subsection (b); and
+       (C) by redesignating subsection (c) as subsection (b).
+       (2) Section 127(f) of title 23, United States Code, is 
+     amended by striking ``section 103(c)(4)(A)'' and inserting 
+     ``section 103(b)(4)(A)''.
+       (3) The analysis for chapter 1 of title 23, United States 
+     Code, is amended by striking the item relating to section 103 
+     and inserting the following:
+
+``103. Federal-aid system.''.
+
+     SEC. 203. APPORTIONMENT.
+
+       Section 104 of title 23, United States Code, is amended--
+       (1) in subsection (a)--
+       (A) by striking paragraph (1) and inserting the following:
+       ``(1) In general.--There is authorized to be appropriated 
+     from the Highway Trust Fund for each of fiscal years 2022 
+     through 2026, to be made available to the Secretary for 
+     administrative expenses of the Federal Highway 
+     Administration, an amount equal to 1 percent of the amounts 
+     made available for programs under this title for the fiscal 
+     year.''; and
+       (B) in paragraph (2)(B), by striking ``the Appalachian 
+     development highway system'' and inserting ``the portions of 
+     the Appalachian Development Highway System on the Interstate 
+     System'';
+       (2) in subsection (b)--
+       (A) in the matter preceding paragraph (1), by striking 
+     ``the congestion mitigation and air quality improvement 
+     program, the national highway freight program, and to carry 
+     out section 134'' and inserting ``and the national highway 
+     freight program'';
+       (B) in each of paragraphs (1), (2), and (3), by striking 
+     ``paragraphs (4), (5), and (6)'' and inserting ``paragraph 
+     (4)'';
+       (C) by striking paragraph (4);
+       (D) by redesignating paragraph (5) as paragraph (4);
+       (E) in paragraph (4) (as so redesignated)--
+       (i) by striking subparagraph (B) and inserting the 
+     following:
+       ``(B) Total amount.--The total amount set aside for the 
+     national highway freight program for all States shall be 3.5 
+     percent of the amounts made available for programs under this 
+     title for each of fiscal years 2022 through 2026.''; and
+       (ii) by striking subparagraph (D); and
+       (F) by striking paragraph (6);
+       (3) in subsection (c)--
+       (A) in paragraph (1)--
+       (i) in the matter preceding subparagraph (A), by striking 
+     ``fiscal years 2016 through 2020'' and inserting ``fiscal 
+     years 2022 through 2026'';
+       (ii) in subparagraph (A)--
+
+       (I) by striking clause (i) and inserting the following:
+
+       ``(i) the base apportionment; by''; and
+
+       (II) in clause (ii)(I), by striking ``fiscal year 2015'' 
+     and inserting ``fiscal year 2021''; and
+
+       (iii) in subparagraph (B), by striking ``(other than the 
+     Mass Transit Account)''; and
+       (B) in paragraph (2)--
+       (i) by striking ``fiscal years 2016 through 2020'' and 
+     inserting ``fiscal years 2022 through 2026''; and
+       (ii) by striking ``the congestion mitigation and air 
+     quality improvement program under section 149, the national 
+     highway freight program under section 167, and to carry out 
+     section 134'' and inserting ``and the national highway 
+     freight program under section 167'';
+       (4) by striking subsections (d) and (h);
+       (5) by redesignating subsections (e) through (g) as 
+     subsections (d) through (f), respectively;
+       (6) by striking subsection (e) (as so redesignated) and 
+     inserting the following:
+       ``(e) Transferability of Funds.--
+       ``(1) In general.--To the extent that a State determines 
+     that funds made available under this title to the State for a 
+     purpose are in excess of the needs of the State for that 
+     purpose, the State may transfer the excess funds to, and use 
+     the excess funds for, any surface transportation (including 
+     public transportation and rail) purpose in the State.
+       ``(2) Enforcement.--If the Secretary determines that a 
+     State has transferred funds under paragraph (1) to a purpose 
+     that is not a surface transportation purpose as described in 
+     paragraph (1), the amount of the improperly transferred funds 
+     shall be deducted from any amount the State would otherwise 
+     receive from the Highway Trust Fund for the fiscal year that 
+     begins after the date of the determination.''; and
+       (7) by striking subsection (i) and inserting the following:
+       ``(g) Base Apportionment Defined.--In this section, the 
+     term `base apportionment' means the combined amount 
+     authorized for appropriation for the national highway 
+     performance program under section 119, the surface 
+     transportation block grant program under section 133, the 
+     highway safety improvement program under section 148, and the 
+     national highway freight program under section 167.''.
+
+     SEC. 204. ADDITIONAL DEPOSITS IN HIGHWAY TRUST FUND.
+
+       (a) In General.--Section 105 of title 23, United States 
+     Code, is repealed.
+       (b) Clerical Amendment.--The analysis for chapter 1 of 
+     title 23, United States Code, is amended by striking the item 
+     relating to section 105.
+
+     SEC. 205. PROJECT APPROVAL AND OVERSIGHT.
+
+       Section 106 of title 23, United States Code, is amended--
+       (1) in subsection (c)--
+       (A) by striking paragraphs (1) and (2) and inserting the 
+     following:
+       ``(1) In general.--For any project under this title, the 
+     State may assume the responsibilities of the Secretary under 
+     this title for design, plans, specifications, estimates, 
+     contract awards, and inspections with respect to the project, 
+     unless the Secretary determines that the assumption is not 
+     appropriate.''; and
+       (B) by redesignating paragraphs (3) and (4) as paragraphs 
+     (2) and (3), respectively;
+       (2) in subsection (d), in the matter preceding paragraph 
+     (1), by striking ``this section, section 133, or section 
+     149'' and inserting ``this section or section 133'';
+       (3) in subsection (e)(2)--
+       (A) in subparagraph (A), by striking ``the National Highway 
+     System'' and inserting ``the Interstate System''; and
+       (B) in subparagraph (B), by striking ``the National Highway 
+     System'' and inserting ``the Interstate System''; and
+       (4) in subsection (h)(3)(C), in the second sentence, by 
+     striking ``statewide and metropolitan planning requirements 
+     in sections 134 and 135'' and inserting ``statewide planning 
+     requirements under section 135''.
+
+     SEC. 206. STANDARDS.
+
+       (a) In General.--Section 109 of title 23, United States 
+     Code, is amended--
+       (1) by striking subsection (c);
+       (2) by redesignating subsections (d) through (n) as 
+     subsections (c) through (m), respectively;
+       (3) by striking subsection (o);
+       (4) by redesignating subsections (p) through (r) as 
+     subsections (n) through (p), respectively; and
+       (5) in subsection (n) (as so redesignated), in the matter 
+     preceding paragraph (1), by striking ``Notwithstanding 
+     subsections (b) and (c), the Secretary may approve a project 
+     for the National Highway System'' and inserting 
+     ``Notwithstanding subsection (b), the Secretary may approve a 
+     project for the Interstate System''.
+       (b) Technical and Conforming Amendments.--Section 112 of 
+     title 23, United States Code, is amended--
+       (1) in subsection (b)--
+       (A) in paragraph (2)(F), by striking ``(F)(F) Subparagraphs 
+     (B), (C), (D), and (E) herein'' and inserting the following:
+       ``(F) Limitation.--Subparagraphs (B) through (E)''; and
+       (B) in paragraph (4)(C)(iv)(II), by striking ``section 
+     109(r)'' and inserting ``section 109(p)''; and
+       (2) in subsection (g)(2)(B), by striking ``section 
+     109(e)(2)'' and inserting ``section 109(d)(2)''.
+
+     SEC. 207. NATIONALLY SIGNIFICANT FREIGHT AND HIGHWAY 
+                   PROJECTS.
+
+       Section 117 of title 23, United States Code, is amended--
+       (1) by striking subsection (d) and inserting the following:
+       ``(d) Eligible Projects.--Except as provided in subsection 
+     (e), the Secretary may make a grant under this section only 
+     for a project that--
+       ``(1) is--
+       ``(A) a highway freight project carried out on the National 
+     Highway Freight Network established under section 167;
+       ``(B) a highway or bridge project carried out on the 
+     Interstate System, including a project to add capacity to the 
+     Interstate System to improve mobility; or
+       ``(C) a railway-highway grade crossing or grade separation 
+     project on the Interstate System; and
+       ``(2) has eligible project costs that are reasonably 
+     anticipated to equal or exceed the lesser of--
+       ``(A) $100,000,000; and
+       ``(B) in the case of a project--
+       ``(i) located in 1 State, 30 percent of the amount 
+     apportioned under this chapter to the State in the most 
+     recently completed fiscal year; or
+       ``(ii) located in more than 1 State, 50 percent of the 
+     amount apportioned under this chapter to the participating 
+     State with the largest apportionment under this chapter in 
+     the most recently completed fiscal year.'';
+       (2) in subsection (e)(1), by striking ``described in 
+     subsection (d)(1)(A) that do not satisfy the minimum 
+     threshold under subsection (d)(1)(B)'' and inserting 
+     ``described in subsection (d)(1) that do not satisfy the 
+     minimum threshold under subsection (d)(2)'';
+       (3) by striking subsections (k) and (l);
+       (4) by redesignating subsections (m) and (n) as subsections 
+     (k) and (l), respectively; and
+       (5) in paragraph (1) of subsection (k) (as so 
+     redesignated)--
+       (A) by striking subparagraph (B); and
+       (B) in subparagraph (A)--
+       (i) in the first sentence, by striking ``At least 60 days'' 
+     and inserting ``Not less than 60 days''; and
+       (ii) in the second sentence, by striking ``The 
+     notification'' and inserting the following:
+       ``(B) Inclusions.--Each notification under subparagraph 
+     (A)''.
+
+     SEC. 208. NATIONAL HIGHWAY PERFORMANCE PROGRAM.
+
+       Section 119 of title 23, United States Code, is amended--
+
+[[Page S5652]]
+
+       (1) in subsection (b), by striking ``the National Highway 
+     System'' each place it appears and inserting ``the Interstate 
+     System'';
+       (2) in subsection (c), by striking ``the National Highway 
+     System, as defined in section 103'' and inserting ``the 
+     Interstate System'';
+       (3) in subsection (d)--
+       (A) by striking ``the National Highway System'' each place 
+     it appears and inserting ``the Interstate System'';
+       (B) in paragraph (1)(B), by striking ``sections 134 and 
+     135'' and inserting ``section 135''; and
+       (C) in paragraph (2)--
+       (i) by striking subparagraphs (F) through (H);
+       (ii) by redesignating subparagraphs (I) through (L) as 
+     subparagraphs (F) through (I), respectively; and
+       (iii) by striking subparagraphs (M) through (P);
+       (4) in subsection (e), by striking ``the National Highway 
+     System'' each place it appears and inserting ``the Interstate 
+     System'';
+       (5) in subsection (f)--
+       (A) in the subsection heading, by striking ``and NHS''; and
+       (B) in paragraph (2)--
+       (i) in the paragraph heading, by striking ``NHS'' and 
+     inserting ``Interstate system''; and
+       (ii) by striking ``the National Highway System'' each place 
+     it appears and inserting ``the Interstate System'';
+       (6) by striking subsections (g) through (i); and
+       (7) by redesignating subsection (j) as subsection (g).
+
+     SEC. 209. FEDERAL SHARE PAYABLE.
+
+       Section 120 of title 23, United States Code, is amended--
+       (1) by striking subsection (b);
+       (2) by redesignating subsections (c) through (f) as 
+     subsections (b) through (e), respectively;
+       (3) in subsection (b) (as so redesignated)--
+       (A) by striking paragraph (2);
+       (B) by redesignating paragraph (3) as paragraph (2); and
+       (C) in paragraph (2) (as so redesignated)--
+       (i) in subparagraph (A), in the matter preceding clause 
+     (i), by striking ``paragraph (1), (2), (5)(D), or (6) of 
+     section 104(b)'' and inserting ``paragraph (1) or (2) of 
+     section 104(b)''; and
+       (ii) in subparagraph (C)(i), by striking ``paragraphs (1), 
+     (2), (5)(D), and (6) of section 104(b)'' and inserting 
+     ``paragraphs (1) and (2) of section 104(b)'';
+       (4) in subsection (c) (as so redesignated), in the first 
+     sentence, by striking ``lands referred to in subsections (a) 
+     and (b) of this section'' and inserting ``land referred to in 
+     subsection (a)'';
+       (5) in subsection (d) (as so redesignated), in the matter 
+     preceding paragraph (1)--
+       (A) by striking ``, including the Interstate System,''; and
+       (B) by striking ``subsections (a) and (b)'' and inserting 
+     ``subsection (a)'';
+       (6) by striking subsection (g); and
+       (7) by redesignating subsections (h) through (k) as 
+     subsections (g) through (j), respectively.
+
+     SEC. 210. EMERGENCY RELIEF.
+
+       Section 125 of title 23, United States Code, is amended--
+       (1) in subsection (a), in the matter preceding paragraph 
+     (1), by striking ``highways, roads, and trails,'' and 
+     inserting ``highways on the Interstate System'';
+       (2) in subsection (c)(1), by striking ``(other than the 
+     Mass Transit Account)'';
+       (3) in subsection (d)--
+       (A) in paragraph (3)(C), by inserting ``(as in effect on 
+     the day before the date of enactment of the Transportation 
+     Empowerment Act)'' after ``subsection (e)(1)''; and
+       (B) by striking paragraph (5);
+       (4) by striking subsections (e) and (f); and
+       (5) by redesignating subsection (g) as subsection (e).
+
+     SEC. 211. TRANSFERABILITY OF FEDERAL-AID HIGHWAY FUNDS.
+
+       (a) In General.--Section 126 of title 23, United States 
+     Code, is repealed.
+       (b) Clerical Amendment.--The analysis for chapter 1 of 
+     title 23, United States Code, is amended by striking the item 
+     relating to section 126.
+
+     SEC. 212. TOLL ROADS, BRIDGES, TUNNELS, AND FERRIES.
+
+       (a) In General.--Section 129 of title 23, United States 
+     Code, is amended--
+       (1) by striking subsections (b) and (c);
+       (2) in subsection (a)--
+       (A) by striking ``(a) Basic program.--''; and
+       (B) by redesignating paragraphs (1) through (10) as 
+     subsections (a) through (j), respectively, and indenting 
+     appropriately;
+       (3) in subsection (a) (as so redesignated)--
+       (A) by striking subparagraphs (B) and (F);
+       (B) by redesignating subparagraphs (A), (C), (D), (E), (G), 
+     (H), and (I) as paragraphs (1) through (7), respectively, and 
+     indenting appropriately;
+       (C) in paragraph (1) (as so redesignated), by inserting 
+     ``on the Interstate System'' after ``tunnel'' each place it 
+     appears;
+       (D) in paragraph (3) (as so redesignated), by inserting 
+     ``on the Interstate System'' after ``tunnel'' each place it 
+     appears;
+       (E) in paragraph (4) (as so redesignated), by inserting 
+     ``on the Interstate System'' after ``tunnel'' each place it 
+     appears;
+       (F) in paragraph (6) (as so redesignated), by inserting 
+     ``on the Interstate System'' after ``tunnel''; and
+       (G) in paragraph (7), by striking ``this paragraph'' and 
+     inserting ``this subsection'';
+       (4) in subsection (b) (as so redesignated)--
+       (A) in the matter preceding subparagraph (A), by striking 
+     ``this subsection'' and inserting ``this section''; and
+       (B) by redesignating subparagraphs (A) and (B) as 
+     paragraphs (1) and (2), respectively, and indenting 
+     appropriately;
+       (5) in subsection (c) (as so redesignated)--
+       (A) by redesignating subparagraphs (A) through (C) as 
+     paragraphs (1) through (3), respectively, and indenting 
+     appropriately;
+       (B) in paragraph (1) (as so redesignated), by redesignating 
+     clauses (i) through (v) as subparagraphs (A) through (E), 
+     respectively, and indenting appropriately;
+       (C) in paragraph (2) (as so redesignated)--
+       (i) by redesignating clauses (i) and (ii) as subparagraphs 
+     (A) and (B), respectively, and indenting appropriately; and
+       (ii) in subparagraph (A) (as so redesignated), by striking 
+     ``subparagraph (A)'' and inserting ``paragraph (1)''; and
+       (D) in paragraph (3) (as so redesignated), by striking 
+     ``subparagraph (A)'' each place it appears and inserting 
+     ``paragraph (1)'';
+       (6) in subsection (d) (as so redesignated)--
+       (A) by redesignating subparagraphs (A) and (B) as 
+     paragraphs (1) and (2), respectively, and indenting 
+     appropriately; and
+       (B) in paragraph (2) (as so redesignated), by striking 
+     ``this paragraph'' and inserting ``this subsection'';
+       (7) in subsection (e) (as so redesignated), by striking 
+     ``paragraph (1)'' and inserting ``subsection (a)'';
+       (8) in subsection (f) (as so redesignated), by striking 
+     ``paragraph (3)'' and inserting ``subsection (c)'';
+       (9) in subsection (g) (as so redesignated)--
+       (A) by redesignating subparagraphs (A) through (I) as 
+     paragraphs (1) through (9), respectively, and indenting 
+     appropriately;
+       (B) by striking ``this paragraph'' each place it appears 
+     and inserting ``this subsection'';
+       (C) in paragraph (1) (as so redesignated), by redesignating 
+     clauses (i) and (ii) as subparagraphs (A) and (B), 
+     respectively, and indenting appropriately; and
+       (D) in paragraph (8) (as so redesignated), by redesignating 
+     clauses (i) and (ii) as subparagraphs (A) and (B), 
+     respectively, and indenting appropriately; and
+       (10) in subsection (j) (as so redesignated)--
+       (A) by redesignating subparagraphs (A) through (E) as 
+     paragraphs (1) through (5), respectively, and indenting 
+     appropriately;
+       (B) in the matter preceding paragraph (1) (as so 
+     redesignated), by striking ``this subsection'' and inserting 
+     ``this section'';
+       (C) in paragraph (2) (as so redesignated), by redesignating 
+     clauses (i) and (ii) as subparagraphs (A) and (B), 
+     respectively, and indenting appropriately; and
+       (D) in paragraph (5) (as so redesignated), by striking 
+     ``this subsection'' and inserting ``this section''.
+       (b) Conforming Amendments.--
+       (1) Section 165(c)(6)(A) of title 23, United States Code, 
+     is amended--
+       (A) by striking clause (iii); and
+       (B) by redesignating clauses (iv) through (vii) as clauses 
+     (iii) through (vi), respectively.
+       (2) Section 166(c)(2) of title 23, United States Code, is 
+     amended by striking ``section 129(a)(3)'' and inserting 
+     ``section 129(c)''.
+       (3) Section 9 of the International Bridge Act of 1972 (33 
+     U.S.C. 535f) is amended in the second sentence by striking 
+     ``section 129(a)(3)'' and inserting ``section 129(c)''.
+
+     SEC. 213. RAILWAY-HIGHWAY CROSSINGS.
+
+       (a) In General.--Section 130 of title 23, United States 
+     Code, is repealed.
+       (b) Conforming Amendments.--
+       (1) The analysis for chapter 1 of title 23, United States 
+     Code, is amended by striking the item relating to section 
+     130.
+       (2) Section 409 of title 23, United States Code, is amended 
+     by striking ``sections 130, 144, and 148'' and inserting 
+     ``sections 144 and 148''.
+
+     SEC. 214. SURFACE TRANSPORTATION BLOCK GRANT PROGRAM.
+
+       (a) In General.--Section 133 of title 23, United States 
+     Code, is amended--
+       (1) in subsection (b)--
+       (A) in paragraph (1)--
+       (i) by striking subparagraphs (B), (C), and (E);
+       (ii) by redesignating subparagraphs (D) and (F) as 
+     subparagraphs (B) and (C), respectively;
+       (iii) in subparagraph (A), by inserting ``that are on the 
+     Interstate System'' after ``title 40'';
+       (iv) in subparagraph (B) (as so redesignated)--
+
+       (I) by inserting ``on the Interstate System'' after 
+     ``improvements''; and
+       (II) by inserting ``and'' after the semicolon at the end; 
+     and
+
+       (v) in subparagraph (C) (as so redesignated), by inserting 
+     ``that are on the Interstate System'' before the period at 
+     the end;
+       (B) by striking paragraphs (3), (5), (6), (7), (11), (13), 
+     and (15);
+       (C) by redesignating paragraphs (4), (8), (9), (10), (12), 
+     and (14) as paragraphs (3) through (8), respectively;
+       (D) in paragraph (3) (as so redesignated), by striking`` 
+     and transit safety infrastructure improvements and programs, 
+     including railway-highway grade crossings'' and inserting 
+     ``safety infrastructure improvements and programs on the 
+     Interstate System'';
+       (E) in paragraph (4) (as so redesignated), by striking 
+     ``the National Highway System and a performance-based 
+     management program for other public roads'' and inserting 
+     ``the Interstate System'';
+
+[[Page S5653]]
+
+       (F) in paragraph (5) (as so redesignated), by inserting 
+     ``on the Interstate System'' before the period at the end;
+       (G) in paragraph (6) (as so redesignated), by inserting 
+     ``with respect to the Interstate System'' before the period 
+     at the end;
+       (H) in paragraph (7) (as so redesignated), by inserting 
+     ``on the Interstate System'' before the period at the end; 
+     and
+       (I) in paragraph (8) (as so redesignated), by striking 
+     ``and chapter 53 of title 49'';
+       (2) by striking subsection (c) and inserting the following:
+       ``(c) Location of Projects.--A project under this section 
+     may only be carried out on a road on the Interstate 
+     System.'';
+       (3) in subsection (d)--
+       (A) in paragraph (1)--
+       (i) in the matter preceding subparagraph (A), by striking 
+     ``(after the reservation of funds under subsection (h))''; 
+     and
+       (ii) in subparagraph (A), in the matter preceding clause 
+     (i), by striking ``paragraph (6)'' and inserting ``paragraph 
+     (5)'';
+       (B) by striking paragraph (2);
+       (C) by redesignating paragraphs (3) through (6) as 
+     paragraphs (2) through (5), respectively;
+       (D) in paragraph (4) (as so redesignated), by striking 
+     ``sections 134 and 135'' and inserting ``section 135''; and
+       (E) in paragraph (5) (as so redesignated), by striking 
+     ``is'' and all that follows through the period at the end and 
+     inserting ``is 55 percent for each of fiscal years 2022 
+     through 2026.'';
+       (4) in subsection (e)(1), in the matter preceding 
+     subparagraph (A), by striking ``fiscal years 2016 through 
+     2020'' and inserting ``fiscal years 2022 through 2026''; and
+       (5) by striking subsections (f) through (i).
+       (b) Conforming Amendment.--Section 165(c)(7) of title 23, 
+     United States Code, is amended by striking ``paragraphs (1) 
+     through (4) of section 133(c) and section 133(b)(12)'' and 
+     inserting ``section 133(b)(7)''.
+
+     SEC. 215. METROPOLITAN TRANSPORTATION PLANNING.
+
+       (a) In General.--Section 134 of title 23, United States 
+     Code, is repealed.
+       (b) Conforming Amendments.--
+       (1) The analysis for chapter 1 of title 23, United States 
+     Code, is amended by striking the item relating to section 
+     134.
+       (2) Section 2864(f)(2) of title 10, United States Code, is 
+     amended by inserting ``(as in effect on the day before the 
+     date of enactment of the Transportation Empowerment Act)'' 
+     after ``title 23''.
+       (3) Section 108(d)(5)(A) of title 23, United States Code, 
+     is amended by striking ``sections 134 and 135'' and inserting 
+     ``section 135''.
+       (4) Section 135 of title 23, United States Code, is 
+     amended--
+       (A) in subsection (a)--
+       (i) in paragraph (1), by striking ``Subject to section 134, 
+     to accomplish the objectives stated in section 134(a)'' and 
+     inserting ``To accomplish the objectives stated in section 
+     134(a) (as in effect on the day before the date of enactment 
+     of the Transportation Empowerment Act)''; and
+       (ii) in paragraph (3), by inserting ``(as in effect on the 
+     day before the date of enactment of the Transportation 
+     Empowerment Act)'' after ``section 134(a)'';
+       (B) in subsection (b)(1), by striking ``with the 
+     transportation planning activities carried out under section 
+     134 for metropolitan areas of the State and'';
+       (C) in subsection (f)--
+       (i) in paragraph (2)--
+
+       (I) by striking subparagraph (A); and
+       (II) by redesignating subparagraphs (B), (C), and (D) as 
+     subparagraphs (A), (B), and (C), respectively;
+
+       (ii) by striking paragraph (4);
+       (iii) in paragraph (6), by striking ``paragraph (5)'' and 
+     inserting ``paragraph (4)''; and
+       (iv) by redesignating paragraphs (5) through (9) as 
+     paragraphs (4) through (8), respectively;
+       (D) in subsection (g)--
+       (i) in paragraph (2)--
+
+       (I) by striking subparagraph (A); and
+       (II) by redesignating subparagraphs (B) and (C) as 
+     subparagraphs (A) and (B), respectively;
+
+       (ii) in paragraph (3), by striking ``,,'' and inserting a 
+     comma;
+       (iii) in paragraph (6)(B), by striking ``5310, 5311, 5316, 
+     and 5317'' and inserting ``5310 and 5311''; and
+       (iv) in paragraph (8), by striking ``and section 134'';
+       (E) in subsection (i), by striking ``apportioned under 
+     paragraphs (5)(D) and (6) of section 104(b) of this title 
+     and'';
+       (F) in subsection (j), by striking ``and section 134'' each 
+     place it appears; and
+       (G) by adding at the end the following:
+       ``(n) Definitions.--In this section, the definitions under 
+     section 134(b) (as in effect on the day before the date of 
+     enactment of the Transportation Empowerment Act) shall 
+     apply.''.
+       (5) Section 137 of title 23, United States Code, is 
+     amended--
+       (A) by striking subsection (e); and
+       (B) by redesignating subsections (f) and (g) as subsections 
+     (e) and (f), respectively.
+       (6) Section 166 of title 23, United States Code, is amended 
+     by striking subsection (g).
+       (7) Section 168(a)(3) of title 23, United States Code, is 
+     amended by striking ``metropolitan or statewide 
+     transportation planning under section 134 or 135, 
+     respectively'' and inserting ``statewide transportation 
+     planning under section 135''.
+       (8) Section 201(c)(1) of title 23, United States Code, is 
+     amended by striking ``sections 134 and 135'' and inserting 
+     ``section 135''.
+       (9) Section 327(a)(2)(B)(iv)(I) of title 23, United States 
+     Code, is amended by striking ``134 or''.
+       (10) Section 505 of title 23, United States Code, is 
+     amended--
+       (A) in subsection (a)(2)--
+       (i) by striking ``metropolitan and''; and
+       (ii) by striking ``sections 134 and 135'' and inserting 
+     ``section 135''; and
+       (B) in subsection (b)(2), by striking ``sections 134 and 
+     135'' and inserting ``section 135''.
+       (11) Section 602(a)(3) of title 23, United States Code, is 
+     amended by striking ``sections 134 and 135'' and inserting 
+     ``section 135''.
+       (12) Section 174 of the Clean Air Act (42 U.S.C. 7504) is 
+     amended--
+       (A) in the fourth sentence of subsection (a), by striking 
+     ``the metropolitan planning organization designated to 
+     conduct the continuing, cooperative and comprehensive 
+     transportation planning process for the area under section 
+     134 of title 23, United States Code,'';
+       (B) by striking subsection (b); and
+       (C) by redesignating subsection (c) as subsection (b).
+       (13) Section 176(c) of the Clean Air Act (42 U.S.C. 
+     7506(c)) is amended--
+       (A) in paragraph (1), in the matter preceding subparagraph 
+     (A), by striking the second sentence;
+       (B) in paragraph (7)(A), in the matter preceding clause 
+     (i), by striking ``section 134(i) of title 23, United States 
+     Code, or''; and
+       (C) in paragraph (9)--
+       (i) by striking ``section 134(i) of title 23, United States 
+     Code, or''; and
+       (ii) by striking ``under section 134(j) of such title 23 
+     or''.
+       (14) Section 182(c)(5) of the Clean Air Act (42 U.S.C. 
+     7511a(c)(5)) is amended--
+       (A) by striking ``(A) Beginning'' and inserting 
+     ``Beginning''; and
+       (B) in the last sentence by striking ``and with the 
+     requirements of section 174(b)''.
+       (15) Section 5304(i) of title 49, United States Code, is 
+     amended--
+       (A) by striking ``sections 134 and 135'' each place it 
+     appears and inserting ``section 135''; and
+       (B) by striking ``this this'' and inserting ``this''.
+
+     SEC. 216. CONTROL OF JUNKYARDS.
+
+       Section 136 of title 23, United States Code, is amended--
+       (1) in subsection (a), by striking ``and the primary 
+     system'';
+       (2) in subsection (b), in the first sentence--
+       (A) by striking ``and the primary system''; and
+       (B) by striking ``paragraphs (1) through (6) of section 
+     104(b)'' and inserting ``paragraphs (1) through (4) of 
+     section 104(b)'';
+       (3) in subsection (g), by striking ``and the primary 
+     system'';
+       (4) in subsection (k), by striking ``interstate and primary 
+     systems'' and inserting ``Interstate System''; and
+       (5) by striking subsection (n).
+
+     SEC. 217. ENFORCEMENT OF REQUIREMENTS.
+
+       Section 141 of title 23, United States Code, is amended--
+       (1) in subsection (a), in the first sentence, by striking 
+     ``the Federal-aid primary system, the Federal-aid urban 
+     system, and the Federal-aid secondary system, including the 
+     Interstate System'' and inserting ``the Interstate System''; 
+     and
+       (2) in subsection (b)(2), by striking ``paragraphs (1) 
+     through (6) of section 104(b)'' and inserting ``paragraphs 
+     (1) through (4) of section 104(b)''.
+
+     SEC. 218. PUBLIC TRANSPORTATION.
+
+       (a) In General.--Section 142 of title 23, United States 
+     Code, is amended--
+       (1) in subsection (a)--
+       (A) by striking paragraph (2);
+       (B) in the second sentence, by striking ``If fees'' and 
+     inserting the following:
+       ``(2) Rate.--If fees''; and
+       (C) by striking ``(a)(1) To encourage'' and inserting the 
+     following:
+       ``(a) Construction of Facilities.--
+       ``(1) In general.--To encourage'';
+       (2) by striking subsections (d), (g), (h), and (i);
+       (3) by redesignating subsections (e) and (f) as subsections 
+     (d) and (e), respectively; and
+       (4) in subsection (d) (as so redesignated)--
+       (A) by striking ``of this section'' each place it appears;
+       (B) by striking paragraph (2); and
+       (C) by redesignating paragraph (3) as paragraph (2).
+       (b) Conforming Amendment.--Section 156(a) of title 23, 
+     United States Code, is amended by striking ``section 142(f)'' 
+     and inserting ``section 142(e)''.
+
+     SEC. 219. HIGHWAY USE TAX EVASION PROJECTS.
+
+       Section 143(b)(2)(A) of title 23, United States Code, is 
+     amended by striking ``each of fiscal years 2016 through 
+     2020'' and inserting ``each of fiscal years 2022 through 
+     2026''.
+
+     SEC. 220. NATIONAL BRIDGE AND TUNNEL INVENTORY AND INSPECTION 
+                   STANDARDS.
+
+       Section 144 of title 23, United States Code, is amended--
+       (1) in subsection (a)(2)--
+       (A) in subparagraph (A), by striking ``highway bridges and 
+     tunnels of the United States'' and inserting ``bridges on the 
+     Interstate System'';
+       (B) in subparagraph (B), by striking ``highway bridges and 
+     tunnels'' and inserting ``bridges on the Interstate System''; 
+     and
+       (C) in subparagraph (E), by striking ``National Highway 
+     System bridges and bridges
+
+[[Page S5654]]
+
+     on all public roads'' and inserting ``bridges on the 
+     Interstate System'';
+       (2) in subsection (b)--
+       (A) in paragraph (1), by striking ``all highway bridges on 
+     public roads, on and off Federal-aid highways,'' and 
+     inserting ``all bridges on the Interstate System,''; and
+       (B) in paragraph (2), by striking ``all tunnels on public 
+     roads, on and off Federal-aid highways,'' and inserting ``all 
+     tunnels on the Interstate System,'';
+       (3) in subsection (d)--
+       (A) by striking paragraphs (2) and (4); and
+       (B) by redesignating paragraph (3) as paragraph (2);
+       (4) in subsection (e)(1), by inserting ``on the Interstate 
+     System'' after ``any bridge'';
+       (5) in subsection (f)(1), in the matter preceding 
+     subparagraph (A), by inserting ``on the Interstate System'' 
+     after ``any bridge'';
+       (6) in subsection (g)--
+       (A) in paragraph (1), by inserting ``on the Interstate 
+     System'' after ``any bridge''; and
+       (B) in paragraph (3), by striking ``bridges on and off 
+     Federal-aid highways'' and inserting ``bridges on the 
+     Interstate System'';
+       (7) in subsection (h)--
+       (A) in paragraph (1)(A), by striking ``highway bridges and 
+     tunnels'' and inserting ``bridges and tunnels on the 
+     Interstate System'';
+       (B) in paragraph (2), by striking ``highway'' each place it 
+     appears and inserting ``Interstate System''; and
+       (C) in paragraph (3)(B)(i), by striking ``highway bridges'' 
+     and inserting ``Interstate System bridges'';
+       (8) in subsection (i)(1), by striking ``highway bridge'' 
+     and inserting ``Interstate System bridge''; and
+       (9) in subsection (j)--
+       (A) in paragraph (3)(B), by striking ``a transportation 
+     improvement program under section 134(j) or a statewide 
+     transportation improvement program under section 135, as 
+     applicable'' and inserting ``a statewide transportation 
+     improvement program under section 135''; and
+       (B) in paragraph (4)(A), by striking ``sections 134 and 
+     135'' and inserting ``section 135''.
+
+     SEC. 221. CARPOOL AND VANPOOL PROJECTS.
+
+       (a) In General.--Section 146 of title 23, United States 
+     Code, is repealed.
+       (b) Clerical Amendment.--The analysis for chapter 1 of 
+     title 23, United States Code, is amended by striking the item 
+     relating to section 146.
+
+     SEC. 222. CONSTRUCTION OF FERRY BOATS AND FERRY TERMINAL 
+                   FACILITIES.
+
+       (a) In General.--Section 147 of title 23, United States 
+     Code, is repealed.
+       (b) Clerical Amendment.--The analysis for chapter 1 of 
+     title 23, United States Code, is amended by striking the item 
+     relating to section 147.
+
+     SEC. 223. HIGHWAY SAFETY IMPROVEMENT PROGRAM.
+
+       Section 148 of title 23, United States Code, is amended--
+       (1) in subsection (a)--
+       (A) in paragraph (1), by striking ``roadway functionally 
+     classified as a rural major or minor collector or a rural 
+     local road'' and inserting ``road on the Interstate System'';
+       (B) in paragraph (2), by striking ``all public roads'' and 
+     inserting ``all roads on the Interstate System'';
+       (C) in paragraph (4)--
+       (i) in subparagraph (A), in the matter preceding clause 
+     (i), by striking ``on a public road'' and inserting ``on the 
+     Interstate System''; and
+       (ii) in subparagraph (B)--
+
+       (I) in clause (iii), by striking ``, if the rumble strips 
+     or other warning devices do not adversely affect the safety 
+     or mobility of bicyclists and pedestrians, including persons 
+     with disabilities'';
+       (II) by striking clauses (v), (xviii), (xix), (xxiii), 
+     (xxvi), (xxvii), and (xxviii);
+       (III) by redesignating clauses (vi) through (xvii), (xx) 
+     through (xxii), (xxiv), and (xxv) as clauses (v) through 
+     (xxi), respectively; and
+       (IV) in clause (xix) (as so redesignated), by inserting 
+     ``on the Interstate System'' after ``improvements'';
+
+       (D) in paragraph (9)(A), by striking ``a public road'' and 
+     inserting ``the Interstate System''; and
+       (E) in paragraph (11)(D), by striking ``all public roads, 
+     including non-State-owned public roads and roads on tribal 
+     land'' and inserting ``all roads on the Interstate System, 
+     including non-State owned roads on the Interstate System and 
+     roads on the Interstate System on tribal land'';
+       (2) in subsection (b)(2), by striking ``all public roads, 
+     including non-State-owned public roads and roads on tribal 
+     land'' and inserting ``all roads on the Interstate System, 
+     including non-State owned roads on the Interstate System and 
+     roads on the Interstate System on tribal land'';
+       (3) in subsection (c)(2)--
+       (A) in subparagraph (A)(i), by striking ``all public roads, 
+     including non-State-owned public roads and roads on tribal 
+     land in the State'' and inserting ``all roads on the 
+     Interstate System, including non-State owned roads on the 
+     Interstate System and roads on the Interstate System on 
+     tribal land in the State'';
+       (B) in subparagraph (B)(iii), by striking ``all public 
+     roads'' and inserting ``all roads on the Interstate System'';
+       (C) in subparagraph (C)(i), by striking ``all public 
+     roads'' and inserting ``all roads on the Interstate System''; 
+     and
+       (D) in subparagraph (D)--
+       (i) in clause (ii), by striking ``all public roads, 
+     including public non-State-owned roads and roads on tribal 
+     land'' and inserting ``all roads on the Interstate System, 
+     including non-State owned roads on the Interstate System and 
+     roads on the Interstate System on tribal land'';
+       (ii) in clause (iii), by striking ``all public roads'' and 
+     inserting ``all roads on the Interstate System''; and
+       (iii) in clause (v), by striking ``all public roads in the 
+     State'' and inserting ``all roads on the Interstate System in 
+     the State'';
+       (4) in subsection (d)(1)(B)--
+       (A) in clause (iv), by striking ``rural roads, including 
+     all public roads,'' and inserting ``roads on the Interstate 
+     System in rural areas''; and
+       (B) in clause (viii), by striking ``all public roads, 
+     including non-State-owned public roads and roads on tribal 
+     land'' and inserting ``all roads on the Interstate System, 
+     including non-State owned roads on the Interstate System and 
+     roads on the Interstate System on tribal land'';
+       (5) in subsection (e)(1)--
+       (A) in subparagraph (A), by striking ``on any public road 
+     or publicly owned bicycle or pedestrian pathway or trail'' 
+     and inserting ``on any road on the Interstate System''; and
+       (B) in subparagraph (C), by striking ``a public road'' and 
+     inserting ``a road on the Interstate System'';
+       (6) in subsection (f)(1)(B), by striking ``all public 
+     roads'' each place it appears and inserting ``all roads on 
+     the Interstate System'';
+       (7) in subsection (h)(1)(C), by striking ``all public 
+     roads'' each place it appears and inserting ``all roads on 
+     the Interstate System'';
+       (8) in subsection (i)(2)(D), by striking ``safety safety'' 
+     and inserting ``safety'';
+       (9) in subsection (j), by striking ``sections 120 and 130'' 
+     and inserting ``section 120''; and
+       (10) by striking subsection (k).
+
+     SEC. 224. REPEAL OF CONGESTION MITIGATION AND AIR QUALITY 
+                   IMPROVEMENT PROGRAM.
+
+       (a) In General.--Section 149 of title 23, United States 
+     Code, is repealed.
+       (b) Conforming Amendments.--
+       (1) The analysis for chapter 1 of title 23, United States 
+     Code, is amended by striking the item relating to section 
+     149.
+       (2) Section 322(h)(3) of title 23, United States Code, is 
+     amended by striking ``and the congestion mitigation and air 
+     quality improvement program under section 149''.
+       (3) Section 505(a)(3) of title 23, United States Code, is 
+     amended by striking ``149,''.
+
+     SEC. 225. NATIONAL GOALS AND PERFORMANCE MEASURES.
+
+       Section 150 of title 23, United States Code, is amended--
+       (1) in subsection (b)--
+       (A) in paragraph (1), by striking ``all public roads'' and 
+     inserting ``all roads on the Interstate System''; and
+       (B) in paragraph (3), by striking ``National Highway 
+     System'' and inserting ``Interstate System'';
+       (2) in subsection (c)--
+       (A) in paragraph (3)(A)(ii), by striking subclauses (II) 
+     through (V) and inserting the following:
+
+       ``(II) the condition of bridges on the Interstate System; 
+     and
+       ``(III) the performance of the Interstate System;'';
+
+       (B) by striking paragraph (5); and
+       (C) by redesignating paragraph (6) as paragraph (5);
+       (3) in subsection (d)(1), by striking ``(5), and (6)'' and 
+     inserting ``and (5)''; and
+       (4) in subsection (e), by striking ``National Highway 
+     System'' each place it appears and inserting ``Interstate 
+     System''.
+
+     SEC. 226. NATIONAL ELECTRIC VEHICLE CHARGING AND HYDROGEN, 
+                   PROPANE, AND NATURAL GAS FUELING CORRIDORS.
+
+       Section 151(a) of title 23, United States Code, is amended 
+     by striking ``major national highways'' and inserting ``the 
+     Interstate System''.
+
+     SEC. 227. HAZARD ELIMINATION PROGRAM.
+
+       (a) In General.--Section 152 of title 23, United States 
+     Code, is repealed.
+       (b) Clerical Amendment.--The analysis for chapter 1 of 
+     title 23, United States Code, is amended by striking the item 
+     relating to section 152.
+
+     SEC. 228. NATIONAL SCENIC BYWAYS PROGRAM.
+
+       Section 162(a)(2) of title 23, United States Code, is 
+     amended by inserting ``, subject to the condition that the 
+     road is a road on the Interstate System'' before the period 
+     at the end.
+
+     SEC. 229. NATIONAL HIGHWAY FREIGHT PROGRAM.
+
+       Section 167 of title 23, United States Code, is amended--
+       (1) in subsection (d)(2)--
+       (A) in subparagraph (A), by striking ``subparagraph (E)'' 
+     and inserting ``subparagraphs (E) and (F)''; and
+       (B) by adding at the end the following:
+       ``(F) Requirement.--In redesignating the primary highway 
+     freight system under subparagraph (A), the Administrator 
+     shall ensure that all roads on the primary highway freight 
+     system are roads on the Interstate System.'';
+       (2) in subsection (e)(1), in the matter preceding 
+     subparagraph (A)--
+       (A) by striking ``a public road'' and inserting ``a road on 
+     the Interstate System''; and
+       (B) by striking ``the public road'' and inserting ``the 
+     road'';
+       (3) in subsection (f), by striking ``public road'' each 
+     place it appears and inserting ``road on the Interstate 
+     System'';
+       (4) in subsection (i)--
+
+[[Page S5655]]
+
+       (A) by striking ``section 104(b)(5)'' each place it appears 
+     and inserting ``section 104(b)(4)'';
+       (B) in paragraph (5)--
+       (i) by striking subparagraph (B);
+       (ii) by redesignating subparagraph (C) as subparagraph (B); 
+     and
+       (iii) in subparagraph (C) (as so redesignated)--
+
+       (I) by striking clauses (vi), (xi), (xiv), (xviii), (xxii), 
+     and (xxiii); and
+       (II) by redesignating clauses (vii) through (x), (xii) and 
+     (xiii), (xv) through (xvii), and (xix) through (xxi) as 
+     clauses (vi) through (xvii), respectively;
+
+       (C) in paragraph (6)--
+       (i) in the matter preceding subparagraph (A), by striking 
+     ``for'' and all that follows through ``the necessary costs'' 
+     in subparagraph (B) in the matter preceding clause (i) and 
+     inserting ``for the necessary costs''; and
+       (ii) by redesignating clauses (i) through (iii) as 
+     subparagraphs (A) through (C), respectively, and indenting 
+     appropriately; and
+       (D) in paragraph (7), by striking ``sections 134 and 135'' 
+     and inserting ``section 135'';
+       (5) in subsection (k)(1)(A)(ii), by striking ``ports-of'' 
+     and inserting ``ports of''; and
+       (6) by striking subsection (l).
+
+     SEC. 230. RECREATIONAL TRAILS PROGRAM.
+
+       (a) In General.--Section 206 of title 23, United States 
+     Code, is repealed.
+       (b) Conforming Amendments.--
+       (1) Section 325 of title 23, United States Code, is 
+     amended--
+       (A) by striking subsection (d); and
+       (B) by redesignating subsection (e) as subsection (d).
+       (2) The analysis for chapter 2 of title 23, United States 
+     Code, is amended by striking the item relating to section 
+     206.
+
+     SEC. 231. BICYCLE TRANSPORTATION AND PEDESTRIAN WALKWAYS.
+
+       (a) In General.--Section 217 of title 23, United States 
+     Code, is repealed.
+       (b) Conforming Amendments.--
+       (1) Section 1524(a) of MAP-21 (23 U.S.C. 206 note; Public 
+     Law 112-141) is amended by striking ``sections 162, 206, 213, 
+     and 217'' and inserting ``section 162''.
+       (2) The analysis for chapter 2 of title 23, United States 
+     Code, is amended by striking the item relating to section 
+     217.
+
+     SEC. 232. ALASKA HIGHWAY.
+
+       (a) In General.--Section 218 of title 23, United States 
+     Code, is repealed.
+       (b) Clerical Amendment.--The analysis for chapter 2 of 
+     title 23, United States Code, is amended by striking the item 
+     relating to section 218.
+
+     SEC. 233. CONFORMING AMENDMENTS.
+
+       (a) Control of Outdoor Advertising.--Section 131(t) of 
+     title 23, United States Code, is amended by striking ``, and 
+     any highway which is not on such system but which is on the 
+     National Highway System''.
+       (b) Elimination of Mass Transit Account.--
+       (1) Section 102(b) of title 23, United States Code, is 
+     amended in the first sentence by striking ``(other than the 
+     Mass Transit Account)''.
+       (2) Section 118(a) of title 23, United States Code, is 
+     amended by striking ``(other than the Mass Transit 
+     Account)''.
+       (3) Section 156(a) of title 23, United States Code, is 
+     amended by striking ``(other than the Mass Transit 
+     Account)''.
+       (4) Section 321 of title 23, United States Code, is amended 
+     by striking ``(other than the Mass Transit Account)''.
+       (5) Section 323(b)(1) of title 23, United States Code, is 
+     amended in the matter preceding subparagraph (A) by striking 
+     ``(other than the Mass Transit Account)''.
+       (6) Section 521(b)(10) of title 49, United States Code, is 
+     amended by striking ``(other than the Mass Transit 
+     Account)''.
+       (7) Section 6308 of title 49, United States Code, is 
+     amended by striking ``(other than the Mass Transit 
+     Account)''.
+       (8) Section 31104(g) of title 49, United States Code, is 
+     amended by striking ``(other than the Mass Transit 
+     Account)''.
+       (9) Section 31110(d) of title 49, United States Code, is 
+     amended by striking ``(other than the Mass Transit 
+     Account)''.
+       (10) Section 31138(d)(5) of title 49, United States Code, 
+     is amended by striking ``(other than the Mass Transit 
+     Account)''.
+       (11) Section 31139(g)(5) of title 49, United States Code, 
+     is amended by striking ``(other than the Mass Transit 
+     Account)''.
+       (c) National Highway System Repeal.--Section 111(d)(1) of 
+     title 23, United States Code, is amended in the first 
+     sentence by striking ``the National Highway System'' and 
+     inserting ``the Interstate System''.
+
+            TITLE III--HIGHWAY TRUST FUND AND RELATED TAXES
+
+                Subtitle A--Highway Trust Fund Authority
+
+     SEC. 301. EXTENSION OF HIGHWAY TRUST FUND EXPENDITURE 
+                   AUTHORITY.
+
+       (a) Highway Trust Fund.--Section 9503 of the Internal 
+     Revenue Code of 1986 is amended--
+       (1) by striking ``October 1, 2021'' in subsections 
+     (b)(6)(B), (c)(1), and (e)(3) and inserting ``October 1, 
+     2026'', and
+       (2) by striking ``Continuing Appropriations Act, 2021 and 
+     Other Extensions Act'' in subsections (c)(1) and (e)(3) and 
+     inserting ``Transportation Empowerment Act''.
+       (b) Sport Fish Restoration and Boating Trust Fund.--Section 
+     9504 of such Code is amended--
+       (1) by striking ``Continuing Appropriations Act, 2021 and 
+     Other Extensions Act'' each place it appears in subsection 
+     (b)(2) and inserting ``Transportation Empowerment Act'', and
+       (2) by striking ``October 1, 2021'' in subsection (d)(2) 
+     and inserting ``October 1, 2026''.
+       (c) Leaking Underground Storage Tank Trust Fund.--Section 
+     9508(e)(2) of such Code is amended by striking ``October 1, 
+     2021'' and inserting ``October 1, 2026''.
+
+     SEC. 302. TERMINATION OF MASS TRANSIT ACCOUNT.
+
+       Section 9503(e) of the Internal Revenue Code of 1986 is 
+     amended--
+       (1) in the first sentence of paragraph (2), by inserting 
+     ``, and before October 1, 2021'' after ``March 31, 1983'', 
+     and
+       (2) by adding at the end the following:
+       ``(6) Transfer to highway account.--On the date on which 
+     Director of the Office of Management and Budget submits the 
+     certification under section 105(c) of the Transportation 
+     Empowerment Act, the Secretary shall transfer all amounts in 
+     the Mass Transit Account to the Highway Account.''.
+
+     SEC. 303. TRANSFER OF UNUSED COVID-19 APPROPRIATIONS TO THE 
+                   HIGHWAY TRUST FUND.
+
+       (a) Economic Injury Disaster Loan Subsidy.--
+       (1) Transfer.--Of the unobligated balances from amounts 
+     made available under the heading ``Small Business 
+     Administration--Disaster Loans Program Account'' in title II 
+     of division B of the Paycheck Protection Program and Health 
+     Care Enhancement Act (Public Law 116-139), $13,500,000,000 
+     are hereby transferred to the Highway Trust Fund.
+       (2) Designation.--The amount transferred pursuant to 
+     paragraph (1) that was previously designated by the Congress 
+     as an emergency requirement pursuant to section 
+     251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit 
+     Control Act of 1985 is designated by the Congress as an 
+     emergency requirement pursuant to section 4112(a) of H. Con. 
+     Res. 71 (115th Congress), the concurrent resolution on the 
+     budget for fiscal year 2018, and to section 251(b) of the 
+     Balanced Budget and Emergency Deficit Control Act of 1985.
+       (b) Targeted EIDL Advance.--
+       (1) Of the unobligated balances from amounts made available 
+     under the heading ``Small Business Administration--Targeted 
+     EIDL Advance'' in section 323(d)(1)(D) of division N of the 
+     Consolidated Appropriations Act, 2021 (Public Law 116-260), 
+     $17,578,000,000 are hereby transferred to the Highway Trust 
+     Fund.
+       (2) The unobligated balances from amounts made available in 
+     section 5002(b) of the American Rescue Plan Act of 2021 
+     (Public Law 117-2) are hereby transferred to the Highway 
+     Trust Fund.
+       (c) Economic Stabilization Program.--Of the unobligated 
+     balances from amounts made available in section 4027(a) of 
+     the Coronavirus Aid, Relief, and Economic Security Act (15 
+     U.S.C. 9601), $1,366,100,000 are hereby transferred to the 
+     Highway Trust Fund.
+       (d) Business Loans Program Account.--
+       (1) Of the unobligated balances from amounts made available 
+     under the heading ``Small Business Administration--Business 
+     Loans Program Account, CARES Act'' in section 1107(a)(1) of 
+     the Coronavirus Aid, Relief, and Economic Security Act 
+     (Public Law 116-136), as amended by section 101(a)(2) of 
+     division A of the Paycheck Protection Program and Health Care 
+     Enhancement Act (Public Law 116-139), and in section 
+     323(d)(1)(A) of division N of the Consolidated Appropriations 
+     Act, 2021 (Public Law 116-260) for carrying out paragraphs 
+     (36) and (37) of section 7(a) of the Small Business Act (15 
+     U.S.C. 636(a)), $4,684,000,000 are hereby transferred to the 
+     Highway Trust Fund.
+       (2) Of the unobligated balances from amounts made available 
+     under the heading ``Small Business Administration--Business 
+     Loans Program Account'' in section 323(d)(1)(F) of division N 
+     of the Consolidated Appropriations Act, 2021 (Public Law 116-
+     260), $992,000,000 are hereby transferred to the Highway 
+     Trust Fund.
+       (e) Pandemic Relief for Aviation Workers, Coronavirus Aid, 
+     Relief, and Economic Security Act (CARES Act).--Of the 
+     unobligated balances from amounts made available in section 
+     4120 of the Coronavirus Aid, Relief, and Economic Security 
+     Act (15 U.S.C. 9080), $3,000,000,000 are hereby transferred 
+     to the Highway Trust Fund.
+       (f) Education Stabilization Fund.--
+       (1) Transfer.--Of the unobligated balances from amounts 
+     made available under the heading ``Education Stabilization 
+     Fund'' in title VIII of division B of the Coronavirus Aid, 
+     Relief, and Economic Security Act (Public Law 116-136) and in 
+     title III of division M of the Consolidated Appropriations 
+     Act, 2021 (Public Law 116-260) that were reserved for the 
+     Higher Education Emergency Relief Fund by sections 
+     18004(a)(1) and 18004(a)(2) of division B of the Coronavirus 
+     Aid, Relief, and Economic Security Act (Public Law 116-136) 
+     and sections 314(a)(1), 314(a)(2), and 314(a)(4) of division 
+     M of the Consolidated Appropriations Act, 2021 (Public Law 
+     116-260), $353,400,000 are hereby transferred to the Highway 
+     Trust Fund.
+       (2) Designation.--The amount transferred pursuant to 
+     paragraph (1) that was previously designated by the Congress 
+     as an emergency requirement pursuant to section 
+     251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit 
+     Control Act of 1985 is designated by the Congress as an 
+     emergency requirement pursuant to section 4112(a) of H. Con. 
+     Res. 71 (115th Congress), the concurrent resolution on the 
+     budget for fiscal year 2018, and to section 251(b) of the 
+     Balanced Budget and Emergency Deficit Control Act of 1985.
+       (g) Small Business Administration, Salaries and Expenses.--
+
+[[Page S5656]]
+
+       (1) Rescission.--Of the unobligated balances from amounts 
+     made available under the heading ``Small Business 
+     Administration--Salaries and Expenses'' in section 1107(a)(2) 
+     of the Coronavirus Aid, Relief, and Economic Security Act 
+     (Public Law 116-136), in title II of division B of the 
+     Paycheck Protection Program and Health Care Enhancement Act 
+     (Public Law 116-139), and in section 323(d)(1)(C) of division 
+     N of the Consolidated Appropriations Act, 2021 (Public Law 
+     116-260), $175,000,000 are hereby transferred to the Highway 
+     Trust Fund.
+       (2) Designation.--The amount transferred pursuant to 
+     paragraph (1) that was previously designated by the Congress 
+     as an emergency requirement pursuant to section 
+     251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit 
+     Control Act of 1985 is designated by the Congress as an 
+     emergency requirement pursuant to section 4112(a) of H. Con. 
+     Res. 71 (115th Congress), the concurrent resolution on the 
+     budget for fiscal year 2018, and to section 251(b) of the 
+     Balanced Budget and Emergency Deficit Control Act of 1985.
+       (h) Pandemic Relief for Aviation Workers.--Of the 
+     unobligated balances from amounts made available in section 
+     411 of subtitle A of title IV of division N of the 
+     Consolidated Appropriations Act, 2021 (15 U.S.C. 9101), 
+     $200,000,000 are hereby transferred to the Highway Trust 
+     Fund.
+       (i) Conforming Amendment.--Section 9503(f) of the Internal 
+     Revenue Code of 1986 is amended by redesignating paragraph 
+     (11) as paragraph (12) and by inserting after paragraph (10) 
+     the following new paragraph:
+       ``(11) Transfer of unused covid-19 appropriations.--There 
+     is hereby transferred to the Highway Trust Fund the amounts 
+     described in subsections (a) through (h) of section 303 of 
+     the Transportation Empowerment Act.''.
+
+     SEC. 304. TERMINATION OF EMPLOYEE RETENTION CREDIT FOR 
+                   EMPLOYERS SUBJECT TO CLOSURE DUE TO COVID-19.
+
+       (a) Termination of Credit.--
+       (1) In general.--Section 3134 of the Internal Revenue Code 
+     of 1986 is amended--
+       (A) in subsection (c)(5)--
+       (i) in subparagraph (A), by adding ``and'' at the end,
+       (ii) in subparagraph (B), by striking ``, and'' at the end 
+     and inserting a period, and
+       (iii) by striking subparagraph (C), and
+       (B) in subsection (n), by striking ``January 1, 2022'' and 
+     inserting ``October 1, 2021 (or, in the case of wages paid by 
+     an eligible employer which is a recovery startup business, 
+     January 1, 2022)''.
+       (2) Effective date.--The amendments made by this subsection 
+     shall apply to calendar quarters beginning after September 
+     30, 2021.
+       (b) Transfers of Savings to the Highway Trust Fund.--
+     Section 9503(f) of the Internal Revenue Code of 1986, as 
+     amended by section 303(i), is further amended by 
+     redesignating paragraph (12) as paragraph (13) and by 
+     inserting after paragraph (11) the following new paragraph:
+       ``(12) Savings from termination of employee retention 
+     credit for employers subject to closure due to covid-19.--
+     There are hereby appropriated to the Highway Trust Fund 
+     amounts equivalent to savings achieved as a result of the 
+     amendments made by section 304 of the Transportation 
+     Empowerment Act, as estimated by the Secretary.''.
+
+     SEC. 305. TRANSFER OF UNUSED CORONAVIRUS STATE AND LOCAL 
+                   FISCAL RECOVERY FUNDS TO THE HIGHWAY TRUST 
+                   FUND.
+
+       (a) Transfer of Funds.--
+       (1) In general.--Of the unobligated balances of the amounts 
+     appropriated under sections 602(a) and 603(a) of the Social 
+     Security Act (42 U.S.C. 802(a), 803(a)) as of the date of 
+     enactment of this Act, $70,000,000,000 are hereby transferred 
+     to the Highway Trust Fund.
+       (2) Apportionment.--In carrying out paragraph (1), the 
+     Secretary of the Treasury shall transfer the funds specified 
+     in such paragraph from the unobligated balances of the 
+     amounts appropriated under sections 602(a)(1) and 603(a) of 
+     such Act in equal proportion to the greatest extent 
+     practicable.
+       (b) Conforming Amendments.--
+       (1) Coronavirus state fiscal recovery fund.--Section 
+     602(b)(4) of the Social Security Act (42 U.S.C. 802(b)(4)) is 
+     amended to read as follows:
+       ``(4) Adjustment authority.--The amounts otherwise 
+     determined for allocation and payment under paragraphs (1), 
+     (2), and (3)--
+       ``(A) shall be adjusted by the Secretary on a pro rata 
+     basis to the extent necessary to carry out the transfer of 
+     funds required under section 305(a) of the Transportation 
+     Empowerment Act; and
+       ``(B) may be adjusted by the Secretary on a pro rata basis 
+     to the extent necessary to ensure that all available funds 
+     are allocated to States, territories, and Tribal governments 
+     in accordance with the requirements specified in each such 
+     paragraph (as applicable).''.
+       (2) Coronavirus local fiscal recovery fund.--Section 
+     603(b)(5) of the Social Security Act (42 U.S.C. 803(b)(5) is 
+     amended to read as follows:
+       ``(5) Adjustment authority.--The amounts otherwise 
+     determined for allocation and payment under paragraphs (1), 
+     (2), and (3)--
+       ``(A) shall be adjusted by the Secretary on a pro rata 
+     basis to the extent necessary to carry out the transfer of 
+     funds required under section 305(a) of the Transportation 
+     Empowerment Act; and
+       ``(B) may be adjusted by the Secretary on a pro rata basis 
+     to the extent necessary to ensure that all available funds 
+     are distributed to metropolitan cities, counties, and States 
+     in accordance with the requirements specified in each 
+     paragraph (as applicable) and the certification requirement 
+     specified in subsection (d).''.
+       (c) Conforming Amendment.--Section 9503(f) of the Internal 
+     Revenue Code of 1986, as amended by section 304(b), is 
+     further amended by redesignating paragraph (13) as paragraph 
+     (14) and by inserting after paragraph (12) the following new 
+     paragraph:
+       ``(13) Transfer of unused covid-19 appropriations.--There 
+     is hereby transferred to the Highway Trust Fund the amounts 
+     described in section 305(a) of the Transportation Empowerment 
+     Act.''.
+
+                   Subtitle B--Highway Related Taxes
+
+     SEC. 311. REDUCTION IN TAXES ON GASOLINE, DIESEL FUEL, 
+                   KEROSENE, AND SPECIAL FUELS FUNDING HIGHWAY 
+                   TRUST FUND.
+
+       (a) Reduction in Tax Rate.--
+       (1) In general.--Section 4081(a)(2)(A) of the Internal 
+     Revenue Code of 1986 is amended--
+       (A) in clause (i), by striking ``18.3 cents'' and inserting 
+     ``7 cents'', and
+       (B) in clause (iii), by striking ``24.3 cents'' and 
+     inserting ``8.3 cents''.
+       (2) Conforming amendments.--
+       (A) Section 4081(a)(2)(D) of such Code is amended--
+       (i) by striking ``19.7 cents'' and inserting ``6.7 cents'', 
+     and
+       (ii) by striking ``24.3 cents'' and inserting ``8.3 
+     cents''.
+       (B) Section 6427(b)(2)(A) of such Code is amended by 
+     striking ``7.4 cents'' and inserting ``2.5 cents''.
+       (b) Additional Conforming Amendments.--
+       (1) Section 4041(a)(1)(C)(iii)(I) of the Internal Revenue 
+     Code of 1986 is amended by striking ``7.3 cents per gallon 
+     (4.3 cents per gallon after'' and inserting ``1.5 cents per 
+     gallon (zero cents per gallon after''.
+       (2) Section 4041(a)(2)(B)(ii) of such Code is amended by 
+     striking ``18.3 cents'' and inserting ``7 cents''.
+       (3) Clauses (iii) and (iv) of section 4041(a)(2)(B) of such 
+     Code are each amended by striking ``24.3 cents'' and 
+     inserting ``8.3 cents''.
+       (4) Section 4041(a)(3)(A) of such Code is amended by 
+     striking ``18.3 cents'' and inserting ``7 cents''.
+       (5) Section 4041(m)(1) of such Code is amended--
+       (A) in subparagraph (A)(i), by striking ``9.15 cents'' and 
+     inserting ``3.1 cents'',
+       (B) in subparagraph (A)(ii), by striking ``11.3 cents'' and 
+     inserting ``3.9 cents'', and
+       (C) in subparagraph (B), by striking all after ``2022'' and 
+     inserting ``, zero cents per gallon.''.
+       (6) Section 4081(d)(1) of such Code is amended by striking 
+     ``4.3 cents per gallon'' and inserting ``zero cents per 
+     gallon''.
+       (c) Floor Stock Refunds.--
+       (1) In general.--If--
+       (A) before the applicable date, tax has been imposed under 
+     section 4081 of the Internal Revenue Code of 1986 on any 
+     liquid, and
+       (B) on such date such liquid is held by a dealer and has 
+     not been used and is intended for sale;
+     there shall be credited or refunded (without interest) to the 
+     person who paid such tax (in this subsection referred to as 
+     the ``taxpayer'') an amount equal to the excess of the tax 
+     paid by the taxpayer over the amount of such tax which would 
+     be imposed on such liquid had the taxable event occurred on 
+     such date.
+       (2) Time for filing claims.--No credit or refund shall be 
+     allowed or made under this subsection unless--
+       (A) claim therefor is filed with the Secretary of the 
+     Treasury before the date that is 6 months after the 
+     applicable date, and
+       (B) in any case where liquid is held by a dealer (other 
+     than the taxpayer) on the applicable date--
+       (i) the dealer submits a request for refund or credit to 
+     the taxpayer before the date that is 3 months after the 
+     applicable date, and
+       (ii) the taxpayer has repaid or agreed to repay the amount 
+     so claimed to such dealer or has obtained the written consent 
+     of such dealer to the allowance of the credit or the making 
+     of the refund.
+       (3) Exception for fuel held in retail stocks.--No credit or 
+     refund shall be allowed under this subsection with respect to 
+     any liquid in retail stocks held at the place where intended 
+     to be sold at retail.
+       (4) Definitions.--For purposes of this subsection--
+       (A) Applicable date.--The term ``applicable date'' means 
+     the first day of the first calendar quarter beginning after 
+     the date of the enactment of this Act.
+       (B) Other terms.--The terms ``dealer'' and ``held by a 
+     dealer'' have the respective meanings given to such terms by 
+     section 6412 of such Code; except that the term ``dealer'' 
+     includes a producer.
+       (5) Certain rules to apply.--Rules similar to the rules of 
+     subsections (b) and (c) of section 6412 and sections 6206 and 
+     6675 of such Code shall apply for purposes of this 
+     subsection.
+       (d) Effective Dates.--
+       (1) In general.--Except as provided in paragraphs (2), the 
+     amendments made by this section shall apply to fuel removed 
+     on or
+
+[[Page S5657]]
+
+     after the first day of the first calendar quarter beginning 
+     after the date of the enactment of this Act.
+       (2) Certain conforming amendments.--The amendments made by 
+     paragraphs (1), (2), (3), (4), and (5) of subsection (b) 
+     shall apply to fuel sold or used after the first day of the 
+     first calendar quarter beginning after the date of the 
+     enactment of this Act.
+
+     SEC. 312. EXTENSION OF HIGHWAY-RELATED TAXES.
+
+       (a) In General.--
+       (1) Each of the following provisions of the Internal 
+     Revenue Code of 1986 is amended by striking ``September 30, 
+     2022'' and inserting ``September 30, 2027'':
+       (A) Section 4041(a)(1)(C)(iii)(I).
+       (B) Section 4041(m)(1)(B).
+       (C) Section 4081(d)(1).
+       (2) Each of the following provisions of such Code is 
+     amended by striking ``October 1, 2022'' and inserting 
+     ``October 1, 2027'':
+       (A) Section 4041(m)(1)(A).
+       (B) Section 4051(c).
+       (C) Section 4071(d).
+       (D) Section 4081(d)(3).
+       (b) Extension of Tax, etc., on Use of Certain Heavy 
+     Vehicles.--Each of the following provisions of the Internal 
+     Revenue Code of 1986 is amended by striking ``2023'' each 
+     place it appears and inserting ``2028'':
+       (1) Section 4481(f).
+       (2) Subsections (c)(4) and (d) of section 4482.
+       (c) Floor Stocks Refunds.--Section 6412(a)(1) of the 
+     Internal Revenue Code of 1986 is amended--
+       (1) by striking ``October 1, 2022'' each place it appears 
+     and inserting ``October 1, 2027'',
+       (2) by striking ``March 31, 2023'' each place it appears 
+     and inserting ``March 31, 2027'', and
+       (3) by striking ``January 1, 2023'' and inserting ``January 
+     1, 2028''.
+       (d) Extension of Certain Exemptions.--
+       (1) Section 4221(a) of the Internal Revenue Code of 1986 is 
+     amended by striking ``October 1, 2022'' and inserting 
+     ``October 1, 2027''.
+       (2) Section 4483(i) of such Code is amended by striking 
+     ``October 1, 2023'' and inserting ``October 1, 2028''.
+       (e) Extension of Transfers of Certain Taxes.--
+       (1) In general.--Section 9503 of the Internal Revenue Code 
+     of 1986 is amended--
+       (A) in subsection (b)--
+       (i) by striking ``October 1, 2022'' each place it appears 
+     in paragraphs (1) and (2) and inserting ``October 1, 2027'',
+       (ii) by striking ``October 1, 2022'' in the heading of 
+     paragraph (2) and inserting ``October 1, 2027'',
+       (iii) by striking ``September 30, 2022'' in paragraph (2) 
+     and inserting ``September 30, 2027'', and
+       (iv) by striking ``July 1, 2023'' in paragraph (2) and 
+     inserting ``July 1, 2027'', and
+       (B) in subsection (c)(2), by striking ``July 1, 2023'' and 
+     inserting ``July 1, 2028''.
+       (2) Small-engine fuel tax transfers.--Paragraph (4)(A) of 
+     section 9503(c) of such Code is amended by striking ``October 
+     1, 2022'' and inserting ``October 1, 2027''.
+       (f) Termination of Motorboat Fuel Tax Transfers.--
+       (1) In general.--Paragraph (3)(A)(i) of section 9503(c) of 
+     such Code is amended by striking ``October 1, 2022'' and 
+     inserting ``October 1, 2021''.
+       (2) Conforming amendments to land and water conservation 
+     fund.--Section 200310 of title 54, United States Code, is 
+     amended--
+       (A) by striking ``October 1, 2023'' each place it appears 
+     and inserting ``October 1, 2022''; and
+       (B) by striking ``October 1, 2022'' and inserting ``October 
+     1, 2021''.
+       (g) Effective Date.--The amendments made by this section 
+     shall take effect on October 1, 2021.
+
+                        TITLE IV--MISCELLANEOUS
+
+     SEC. 401. NATIONAL ENVIRONMENTAL POLICY ACT MODIFICATIONS.
+
+       (a) National Environmental Policy Act Modifications.--
+       (1) Applicable timelines.--Title I of the National 
+     Environmental Policy Act of 1969 is amended--
+       (A) by redesignating section 105 (42 U.S.C. 4335) as 
+     section 108; and
+       (B) by inserting after section 104 (42 U.S.C. 4334) the 
+     following:
+
+     ``SEC. 105. PROCESS REQUIREMENTS.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Federal agency.--The term `Federal agency' includes a 
+     State that has assumed the responsibility of a Federal agency 
+     under--
+       ``(A) section 107; or
+       ``(B) section 327 of title 23, United States Code.
+       ``(2) Head of a federal agency.--The term `head of a 
+     Federal agency' includes the governor or head of an 
+     applicable State agency of a State that has assumed the 
+     responsibility of a Federal agency under--
+       ``(A) section 107; or
+       ``(B) section 327 of title 23, United States Code.
+       ``(b) Applicable Timelines.--
+       ``(1) NEPA process.--
+       ``(A) In general.--The head of a Federal agency shall 
+     complete the NEPA process for a proposed action of the 
+     Federal agency, as described in section 109(3)(B)(ii), not 
+     later than 2 years after the date described in section 
+     109(3)(B)(i).
+       ``(B) Environmental documents.--Within the period described 
+     in subparagraph (A), not later than 1 year after the date 
+     described in section 109(3)(B)(i), the head of the Federal 
+     agency shall, with respect to the proposed action--
+       ``(i) issue--
+
+       ``(I) a finding that a categorical exclusion applies to the 
+     proposed action; or
+       ``(II) a finding of no significant impact; or
+
+       ``(ii) publish a notice of intent to prepare an 
+     environmental impact statement in the Federal Register.
+       ``(C) Environmental impact statement.--If the head of a 
+     Federal agency publishes a notice of intent described in 
+     subparagraph (B)(ii), within the period described in 
+     subparagraph (A) and not later than 1 year after the date on 
+     which the head of the Federal agency publishes the notice of 
+     intent, the head of the Federal agency shall complete the 
+     environmental impact statement and, if necessary, any 
+     supplemental environmental impact statement for the proposed 
+     action.
+       ``(D) Penalties.--
+       ``(i) Definitions.--In this subparagraph:
+
+       ``(I) Director.--The term `Director' means the Director of 
+     the Office of Management and Budget.
+       ``(II) Federal agency.--The term `Federal agency' does not 
+     include a State.
+       ``(III) Final nepa compliance date.--The term `final NEPA 
+     compliance date', with respect to a proposed action, means 
+     the date by which the head of a Federal agency is required to 
+     complete the NEPA process under subparagraph (A).
+       ``(IV) Head of a federal agency.--The term `head of a 
+     Federal agency' does not include the governor or head of a 
+     State agency of a State.
+       ``(V) Initial eis compliance date.--The term `initial EIS 
+     compliance date', with respect to a proposed action for which 
+     a Federal agency published a notice of intent described in 
+     subparagraph (B)(ii), means the date by which an 
+     environmental impact statement for that proposed action is 
+     required to be completed under subparagraph (C).
+       ``(VI) Initial nepa compliance date.--The term `initial 
+     NEPA compliance date', with respect to a proposed action, 
+     means the date by which the head of a Federal agency is 
+     required to issue or publish a document described in 
+     subparagraph (B) for that proposed action under that 
+     subparagraph.
+       ``(VII) Initial noncompliance determination.--The term 
+     `initial noncompliance determination' means a determination 
+     under clause (ii)(I)(bb) that the head of a Federal agency 
+     has not complied with the requirements of subparagraph (A), 
+     (B), or (C).
+
+       ``(ii) Initial noncompliance.--
+
+       ``(I) Determination.--
+
+       ``(aa) Notification.--As soon as practicable after the date 
+     described in section 109(3)(B)(i) for a proposed action of a 
+     Federal agency, the head of the Federal agency shall notify 
+     the Director that the head of the Federal agency is beginning 
+     the NEPA process for that proposed action.
+       ``(bb) Determinations of compliance.--
+       ``(AA) Initial determination.--As soon as practicable after 
+     the initial NEPA compliance date for a proposed action, the 
+     Director shall determine whether, as of the initial NEPA 
+     compliance date, the head of the Federal agency has complied 
+     with subparagraph (B) for that proposed action.
+       ``(BB) Environmental impact statement.--With respect to a 
+     proposed action of a Federal agency in which the head of the 
+     Federal agency publishes a notice of intent described in 
+     subparagraph (B)(ii), as soon as practicable after the 
+     initial EIS compliance date for a proposed action, the 
+     Director shall determine whether, as of the initial EIS 
+     compliance date, the head of the Federal agency has complied 
+     with subparagraph (C) for that proposed action.
+       ``(CC) Completion of nepa process.--As soon as practicable 
+     after the final NEPA compliance date for a proposed action, 
+     the Director shall determine whether, as of the final NEPA 
+     compliance date, the head of the Federal agency has complied 
+     with subparagraph (A) for that proposed action.
+
+       ``(II) Identification; penalty; notification.--If the 
+     Director makes an initial noncompliance determination for a 
+     proposed action--
+
+       ``(aa) the Director shall identify the account for the 
+     salaries and expenses of the office of the head of the 
+     Federal agency, or an equivalent account;
+       ``(bb) beginning on the day after the date on which the 
+     Director makes the initial noncompliance determination, the 
+     amount that the head of the Federal agency may obligate from 
+     the account identified under item (aa) for the fiscal year 
+     during which the determination is made shall be reduced by 
+     0.5 percent from the amount initially made available for the 
+     account for that fiscal year; and
+       ``(cc) the Director shall notify the head of the Federal 
+     agency of--
+       ``(AA) the initial noncompliance determination;
+       ``(BB) the account identified under item (aa); and
+       ``(CC) the reduction under item (bb).
+       ``(iii) Continued noncompliance.--
+
+       ``(I) Determination.--Every 90 days after the date of an 
+     initial noncompliance determination, the Director shall 
+     determine whether the head of the Federal agency has complied 
+     with the applicable requirements of subparagraphs (A) through 
+     (C) for the proposed action, until the date on which the 
+     Director determines that the head of the Federal agency has 
+     completed the NEPA process for the proposed action.
+       ``(II) Penalty; notification.--For each determination made 
+     by the Director under subclause (I) that the head of a 
+     Federal agency
+
+[[Page S5658]]
+
+     has not complied with a requirement of subparagraph (A), (B), 
+     or (C) for a proposed action--
+
+       ``(aa) the amount that the head of the Federal agency may 
+     obligate from the account identified under clause 
+     (ii)(II)(aa) for the fiscal year during which the most recent 
+     determination under subclause (I) is made shall be reduced by 
+     0.5 percent from the amount initially made available for the 
+     account for that fiscal year; and
+       ``(bb) the Director shall notify the head of the Federal 
+     agency of--
+       ``(AA) the determination under subclause (I); and
+       ``(BB) the reduction under item (aa).
+       ``(iv) Requirements.--
+
+       ``(I) Amounts not restored.--A reduction in the amount that 
+     the head of a Federal agency may obligate under clause 
+     (ii)(II)(bb) or (iii)(II)(aa) during a fiscal year shall not 
+     be restored for that fiscal year, without regard to whether 
+     the head of a Federal agency completes the NEPA process for 
+     the proposed action with respect to which the Director made 
+     an initial noncompliance determination or a determination 
+     under clause (iii)(I).
+       ``(II) Required timelines.--The violation of subparagraph 
+     (B) or (C), and any action carried out to remediate or 
+     otherwise address the violation, shall not affect any other 
+     applicable compliance date under subparagraph (A), (B), or 
+     (C).
+
+       ``(E) Unexpected circumstances.--If, while carrying out a 
+     proposed action after the completion of the NEPA process for 
+     that proposed action, a Federal agency or project sponsor 
+     encounters a new or unexpected circumstance or condition that 
+     may require the reevaluation of the proposed action under 
+     this title, the head of the Federal agency with 
+     responsibility for carrying out the NEPA process for the 
+     proposed action shall--
+       ``(i) consider whether mitigating the new or unexpected 
+     circumstance or condition is sufficient to avoid significant 
+     effects that may result from the circumstance or condition; 
+     and
+       ``(ii) if the head of the Federal agency determines under 
+     clause (i) that the significant effects that result from the 
+     circumstance or condition can be avoided, mitigate the 
+     circumstance or condition without carrying out the NEPA 
+     process again.
+       ``(2) Authorizations and permits.--
+       ``(A) In general.--Not later than 90 days after the date 
+     described in section 109(3)(B)(ii), the head of a Federal 
+     agency shall issue--
+       ``(i) any necessary permit or authorization to carry out 
+     the proposed action; or
+       ``(ii) a denial of the permit or authorization necessary to 
+     carry out the proposed action.
+       ``(B) Effect of failure to issue authorization or permit.--
+     If a permit or authorization described in subparagraph (A) is 
+     not issued or denied within the period described in that 
+     subparagraph, the permit or authorization shall be considered 
+     to be approved.
+       ``(C) Denial of permit or authorization.--
+       ``(i) In general.--If a permit or authorization described 
+     in subparagraph (A) is denied, the head of the Federal agency 
+     shall describe to the project sponsor--
+
+       ``(I) the basis of the denial; and
+       ``(II) recommendations for the project sponsor with respect 
+     to how to address the reasons for the denial.
+
+       ``(ii) Recommended changes.--If the project sponsor carries 
+     out the recommendations of the head of the Federal agency 
+     under clause (i)(II) and notifies the head of the Federal 
+     agency that the recommendations have been carried out, the 
+     head of the Federal agency--
+
+       ``(I) shall decide whether to issue the permit or 
+     authorization described in subparagraph (A) not later than 90 
+     days after date on which the project sponsor submitted the 
+     notification; and
+       ``(II) shall not carry out the NEPA process with respect to 
+     the proposed action again.''.
+
+       (2) Agency process reforms.--Section 105 of the National 
+     Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) (as 
+     added by paragraph (1)(B)) is amended by adding at the end 
+     the following:
+       ``(c) Prohibitions.--In carrying out the NEPA process, the 
+     head of a Federal agency may not--
+       ``(1) consider whether a proposed action or an alternative 
+     to the proposed action considered by the head of the Federal 
+     agency, including the design, environmental impact, 
+     mitigation measures, or adaptation measures of the proposed 
+     action or alternative to the proposed action, has an effect 
+     on climate change;
+       ``(2) with respect to a proposed action or an alternative 
+     to the proposed action considered by the head of the Federal 
+     agency, consider the effects of the emission of greenhouse 
+     gases on climate change;
+       ``(3) consider an alternative to the proposed action if the 
+     proposed action is not technically or economically feasible 
+     to the project sponsor; or
+       ``(4) consider an alternative to the proposed action that 
+     is not within the jurisdiction of the Federal agency.
+       ``(d) Environmental Documents.--
+       ``(1) EIS required.--In carrying out the NEPA process for a 
+     proposed action that requires the preparation of an 
+     environmental impact statement, the head of a Federal agency 
+     shall produce for the proposed action not more than 1--
+       ``(A) environmental impact statement;
+       ``(B) if necessary, environmental assessment; and
+       ``(C) record of decision.
+       ``(2) EIS not required.--In carrying out the NEPA process 
+     for a proposed action that does not require the preparation 
+     of an environmental impact statement, the head of a Federal 
+     agency shall produce for the proposed action not more than 
+     1--
+       ``(A) environmental assessment; or
+       ``(B) finding of no significant impact.
+       ``(e) Categorical Exclusions.--
+       ``(1) In general.--Notwithstanding any other provision of 
+     law and subject to paragraph (2), the head of a Federal 
+     agency may, without further approval, use a categorical 
+     exclusion under this title that has been approved by--
+       ``(A)(i) another Federal agency; and
+       ``(ii) the Council on Environmental Quality; or
+       ``(B) an Act of Congress.
+       ``(2) Requirements.--The head of a Federal agency may use a 
+     categorical exclusion described in paragraph (1) if the head 
+     of the Federal agency--
+       ``(A) carefully reviews the description of the proposed 
+     action to ensure that it fits within the category of actions 
+     described in the categorical exclusion; and
+       ``(B) considers the circumstances associated with the 
+     proposed action to ensure that there are no extraordinary 
+     circumstances that warrant the preparation of an 
+     environmental assessment or an environmental impact 
+     statement.
+       ``(3) Extraordinary circumstances.--If the head of a 
+     Federal agency determines that extraordinary circumstances 
+     are present with respect to a proposed action, the head of 
+     the Federal agency shall--
+       ``(A) consider whether mitigating circumstances or other 
+     conditions are sufficient to avoid significant effects of the 
+     proposed action; and
+       ``(B) if the head of the Federal agency determines that 
+     those significant effects can be avoided, apply a categorical 
+     exclusion to the proposed action.
+       ``(f) Reuse of Work; Documents Prepared by Qualified 3rd 
+     Parties.--
+       ``(1) In general.--In carrying out the NEPA process for a 
+     proposed action--
+       ``(A) subject to paragraph (2), the head of a Federal 
+     agency shall--
+       ``(i) use any applicable findings and research from a prior 
+     NEPA process of any Federal agency; and
+       ``(ii) incorporate the findings and research described in 
+     clause (i) into any applicable analysis under the NEPA 
+     process; and
+       ``(B) a Federal agency may adopt as an environmental impact 
+     statement, environmental assessment, or other environmental 
+     document to achieve compliance with this title--
+       ``(i) an environmental document prepared under the law of 
+     the applicable State if the head of the Federal agency 
+     determines that the environmental laws of the applicable 
+     State--
+
+       ``(I) provide the same level of environmental analysis as 
+     the analysis required under this title; and
+       ``(II) allow for the opportunity of public comment; or
+
+       ``(ii) subject to paragraph (3), an environmental document 
+     prepared by a qualified third party chosen by the project 
+     sponsor, at the expense of the project sponsor, if the head 
+     of the Federal agency--
+
+       ``(I) provides oversight of the preparation of the 
+     environmental document by the third party; and
+       ``(II) independently evaluates the environmental document 
+     for the compliance of the environmental document with this 
+     title.
+
+       ``(2) Requirement for the reuse of findings and research.--
+     The head of a Federal agency may reuse the applicable 
+     findings and research described in paragraph (1)(A) if--
+       ``(A)(i) the project for which the head of the Federal 
+     agency is seeking to reuse the findings and research was in 
+     close geographic proximity to the proposed action; and
+       ``(ii) the head of the Federal agency determines that the 
+     conditions under which the applicable findings and research 
+     were issued have not substantially changed; or
+       ``(B)(i) the project for which the head of the Federal 
+     agency is seeking to reuse the findings and research was not 
+     in close geographic proximity to the proposed action; and
+       ``(ii) the head of the Federal agency determines that the 
+     proposed action has similar issues or decisions as the 
+     project.
+       ``(3) Requirements for creation of environmental document 
+     by qualified 3rd parties.--
+       ``(A) In general.--A qualified third party may prepare an 
+     environmental document intended to be adopted by a Federal 
+     agency as the environmental impact statement, environmental 
+     assessment, or other environmental document for a proposed 
+     action under paragraph (1)(B)(ii) if--
+       ``(i) the project sponsor submits a written request to the 
+     head of the applicable Federal agency that the head of the 
+     Federal agency approve the qualified third party to create 
+     the document intended to be adopted by a Federal agency as 
+     the environmental impact statement, environmental assessment, 
+     or other environmental document; and
+       ``(ii) the head of the Federal agency determines that--
+
+       ``(I) the third party is qualified to prepare the document; 
+     and
+       ``(II) the third party has no financial or other interest 
+     in the outcome of the proposed action.
+
+       ``(B) Deadline.--The head of a Federal agency that receives 
+     a written request under
+
+[[Page S5659]]
+
+     subparagraph (A)(i) shall issue a written decision approving 
+     or denying the request not later than 30 days after the date 
+     on which the written request is received.
+       ``(C) No prior work.--The head of a Federal agency may not 
+     adopt an environmental document under paragraph (1)(B)(ii) if 
+     the qualified third party began preparing the document prior 
+     to the date on which the head of the Federal agency issues 
+     the written decision under subparagraph (B) approving the 
+     request.
+       ``(D) Denials.--If the head of a Federal agency issues a 
+     written decision denying the request under subparagraph 
+     (A)(i), the head of the Federal agency shall submit to the 
+     project sponsor with the written decision the findings that 
+     served as the basis of the denial.
+       ``(g) Multi-Agency Projects.--
+       ``(1) Definitions.--In this subsection:
+       ``(A) Cooperating agency.--The term `cooperating agency' 
+     means a Federal agency involved in a proposed action that--
+       ``(i) is not the lead agency; and
+       ``(ii) has the jurisdiction or special expertise such that 
+     the Federal agency needs to be consulted--
+
+       ``(I) to use a categorical exclusion; or
+       ``(II) to prepare an environmental assessment or 
+     environmental impact statement, as applicable.
+
+       ``(B) Lead agency.--The term `lead agency' means the 
+     Federal agency selected under paragraph (2)(A).
+       ``(2) Agency designation.--
+       ``(A) Lead agency.--In carrying out the NEPA process for a 
+     proposed action that requires authorization from multiple 
+     Federal agencies, the heads of the applicable Federal 
+     agencies shall determine the lead agency for the proposed 
+     action.
+       ``(B) Invitation.--The head of the lead agency may invite 
+     any relevant State, local, or Tribal agency with Federal 
+     authorization decision responsibility to be a cooperating 
+     agency.
+       ``(3) Responsibilities of lead agency.--The lead agency for 
+     a proposed action shall--
+       ``(A) as soon as practicable and in consultation with the 
+     cooperating agencies, determine whether a proposed action 
+     requires the preparation of an environmental impact 
+     statement; and
+       ``(B) if the head of the lead agency determines under 
+     subparagraph (A) that an environmental impact statement is 
+     necessary--
+       ``(i) be responsible for coordinating the preparation of an 
+     environmental impact statement;
+       ``(ii) provide cooperating agencies with an opportunity to 
+     review and contribute to the preparation of the environmental 
+     impact statement and environmental assessment, as applicable, 
+     of the proposed action, except that the cooperating agency 
+     shall limit comments to issues within the special expertise 
+     or jurisdiction of the cooperating agency; and
+       ``(iii) subject to subsection (c), as soon as practicable 
+     and in consultation with the cooperating agencies, determine 
+     the range of alternatives to be considered for the proposed 
+     action.
+       ``(4) Environmental documents.--In carrying out the NEPA 
+     process for a proposed action, the lead agency shall prepare 
+     not more than 1 of each type of document described in 
+     paragraph (1) or (2) of subsection (d), as applicable--
+       ``(A) in consultation with cooperating agencies; and
+       ``(B) for all applicable Federal agencies.
+       ``(5) Prohibitions.--
+       ``(A) In general.--A cooperating agency may not evaluate an 
+     alternative to the proposed action that has not been 
+     determined to be within the range of alternatives considered 
+     under paragraph (3)(B)(iii).
+       ``(B) Omission.--If a cooperating agency submits to the 
+     lead agency an evaluation of an alternative that does not 
+     meet the requirements of subsection (c), the lead agency 
+     shall omit the alternative from the environmental impact 
+     statement.
+       ``(h) Reports.--
+       ``(1) NEPA data.--
+       ``(A) In general.--The head of each Federal agency that 
+     carries out the NEPA process shall carry out a process to 
+     track, and annually submit to Congress a report containing, 
+     the information described in subparagraph (B).
+       ``(B) Information described.--The information referred to 
+     in subparagraph (A) is, with respect to the Federal agency 
+     issuing the report under that subparagraph--
+       ``(i) the number of proposed actions for which a 
+     categorical exclusion was issued during the reporting period;
+       ``(ii) the length of time the Federal agency took to issue 
+     the categorical exclusions described in clause (i);
+       ``(iii) the number of proposed actions pending on the date 
+     on which the report is submitted for which the issuance of a 
+     categorical exclusion is pending;
+       ``(iv) the number of proposed actions for which an 
+     environmental assessment was issued during the reporting 
+     period;
+       ``(v) the length of time the Federal agency took to 
+     complete each environmental assessment described in clause 
+     (iv);
+       ``(vi) the number of proposed actions pending on the date 
+     on which the report is submitted for which an environmental 
+     assessment is being drafted;
+       ``(vii) the number of proposed actions for which an 
+     environmental impact statement was issued during the 
+     reporting period;
+       ``(viii) the length of time the Federal agency took to 
+     complete each environmental impact statement described in 
+     clause (vii); and
+       ``(ix) the number of proposed actions pending on the date 
+     on which the report is submitted for which an environmental 
+     impact statement is being drafted.
+       ``(2) NEPA costs.--
+       ``(A) In general.--Not later than 1 year after the date of 
+     enactment of this subsection, the Chair of the Council on 
+     Environmental Quality and the Director of the Office of 
+     Management and Budget shall jointly develop a methodology to 
+     assess the comprehensive costs of the NEPA process.
+       ``(B) Requirements.--The head of each Federal agency that 
+     carries out the NEPA process shall--
+       ``(i) adopt the methodology developed under subparagraph 
+     (A); and
+       ``(ii) use the methodology developed under subparagraph (A) 
+     to annually submit to Congress a report describing--
+
+       ``(I) the comprehensive cost of the NEPA process for each 
+     proposed action that was carried out within the reporting 
+     period; and
+       ``(II) for a proposed action for which the head of the 
+     Federal agency is still completing the NEPA process at the 
+     time the report is submitted--
+
+       ``(aa) the amount of money expended to date to carry out 
+     the NEPA process for the proposed action; and
+       ``(bb) an estimate of the remaining costs before the NEPA 
+     process for the proposed action is complete.''.
+       (3) Legal reforms.--Section 105 of the National 
+     Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) (as 
+     amended by paragraph (2)) is amended by adding at the end the 
+     following:
+       ``(i) Judicial Review.--
+       ``(1) Standing.--Notwithstanding any other provision of 
+     law, a plaintiff may only bring a claim arising under Federal 
+     law seeking judicial review of a portion of the NEPA process 
+     if the plaintiff pleads facts that allege that the plaintiff 
+     has personally suffered, or will likely personally suffer, a 
+     direct, tangible harm as a result of the portion of the NEPA 
+     process for which the plaintiff is seeking review.
+       ``(2) Statute of limitations.--
+       ``(A) In general.--Notwithstanding any other provision of 
+     law and except as provided in subparagraph (B)(ii), a claim 
+     arising under Federal law seeking judicial review of any 
+     portion of the NEPA process shall be barred unless it is 
+     filed not later than the earlier of--
+       ``(i) 150 days after the final agency action under the NEPA 
+     process has been taken; and
+       ``(ii) if applicable, an earlier date after which judicial 
+     review is barred that is specified in the Federal law 
+     pursuant to which the judicial review is allowed.
+       ``(B) New information.--
+       ``(i) Consideration.--A Federal agency shall consider for 
+     the purpose of a supplemental environmental impact statement 
+     new information received after the close of a comment period 
+     if the information satisfies the requirements for a 
+     supplemental environmental impact statement under the 
+     regulations of the Federal agency.
+       ``(ii) Statute of limitations based on new information.--If 
+     a supplemental environmental impact statement is required 
+     under the regulations of a Federal agency, a claim for 
+     judicial review of the supplemental environmental impact 
+     statement shall be barred unless it is filed not later than 
+     the earlier of--
+
+       ``(I) 150 days after the publication of a notice in the 
+     Federal Register that the supplemental environmental impact 
+     statement is final; and
+       ``(II) if applicable, an earlier date after which judicial 
+     review is barred that is specified in the Federal law 
+     pursuant to which the judicial review is allowed.
+
+       ``(C) Savings clause.--Nothing in this paragraph creates a 
+     right to judicial review.
+       ``(3) Remedies.--
+       ``(A) Preliminary injunctions and temporary restraining 
+     orders.--
+       ``(i) In general.--Subject to clause (ii), in a motion for 
+     a temporary restraining order or preliminary injunction 
+     against a Federal agency or project sponsor in a claim 
+     arising under Federal law seeking judicial review of any 
+     portion of the NEPA process, the plaintiff shall establish by 
+     clear and convincing evidence that--
+
+       ``(I) the plaintiff is likely to succeed on the merits;
+       ``(II) the plaintiff is likely to suffer irreparable harm 
+     in the absence of the temporary restraining order or 
+     preliminary injunction, as applicable;
+       ``(III) the balance of equities is tipped in the favor of 
+     the plaintiff; and
+       ``(IV) the temporary restraining order or preliminary 
+     injunction is in the public interest.
+
+       ``(ii) Additional requirements.--A court may not grant a 
+     motion described in clause (i) unless the court--
+
+       ``(I) makes a finding of extraordinary circumstances that 
+     warrant the granting of the motion;
+       ``(II) considers the potential effects on public health, 
+     safety, and the environment, and the potential for 
+     significant negative effects on jobs resulting from granting 
+     the motion; and
+       ``(III) notwithstanding any other provision of law, applies 
+     the requirements of Rule 65(c) of the Federal Rules of Civil 
+     Procedure.
+
+       ``(B) Permanent injunctions.--
+       ``(i) In general.--Subject to clause (ii), in a motion for 
+     a permanent injunction against a Federal agency or project 
+     sponsor a claim
+
+[[Page S5660]]
+
+     arising under Federal law seeking judicial review of any 
+     portion of the NEPA process, the plaintiff shall establish by 
+     clear and convincing evidence that--
+
+       ``(I) the plaintiff has suffered an irreparable injury;
+       ``(II) remedies available at law, including monetary 
+     damages, are inadequate to compensate for the injury;
+       ``(III) considering the balance of hardship between the 
+     plaintiff and defendant, a remedy in equity is warranted;
+       ``(IV) the public interest is not disserved by a permanent 
+     injunction; and
+       ``(V) if the error or omission of a Federal agency in a 
+     statement required under this title is the grounds for which 
+     the plaintiff is seeking judicial review, the error or 
+     omission is likely to result in specific, irreparable damage 
+     to the environment.
+
+       ``(ii) Additional showing.--A court may not grant a motion 
+     described in clause (i) unless--
+
+       ``(I) the court makes a finding that extraordinary 
+     circumstances exist that warrant the granting of the motion; 
+     and
+       ``(II) the permanent injunction is--
+
+       ``(aa) as narrowly tailored as possible to correct the 
+     injury; and
+       ``(bb) the least intrusive means necessary to correct the 
+     injury.''.
+       (4) Other reforms.--Title I of the National Environmental 
+     Policy Act of 1969 (42 U.S.C. 4321 et seq.) is amended by 
+     inserting after section 105 (as amended by paragraph (3)) the 
+     following:
+
+     ``SEC. 106. EPA REVIEW.
+
+       ``(a) Definition of Federal Agency.--In this section, the 
+     term `Federal agency' includes a State that has assumed the 
+     responsibility of a Federal agency under--
+       ``(1) section 107; or
+       ``(2) section 327 of title 23, United States Code.
+       ``(b) EPA Comments.--The Administrator of the Environmental 
+     Protection Agency (referred to in this section as the 
+     `Administrator') may comment on a draft or final submission 
+     of an environmental impact statement from any Federal agency.
+       ``(c) Technical Assistance.--The Administrator may, on 
+     request of a Federal agency preparing a draft or final 
+     environmental impact statement, provide technical assistance 
+     in the completion of that environmental impact statement.
+
+     ``SEC. 107. PROJECT DELIVERY PROGRAMS.
+
+       ``(a) Definition of Agency Program.--In this section, the 
+     term `agency program' means a project delivery program 
+     established by a Federal agency under subsection (b)(1).
+       ``(b) Establishment.--
+       ``(1) In general.--The head of each Federal agency, 
+     including the Secretary of Transportation, shall carry out a 
+     project delivery program.
+       ``(2) Assumption of responsibility.--
+       ``(A) In general.--Subject to subparagraph (B), the head of 
+     each Federal agency shall, on request of a State, enter into 
+     a written agreement with the State, which may be in the form 
+     of a memorandum of understanding, in which the head of each 
+     Federal agency may assign, and the State may assume, the 
+     responsibilities of the head of the Federal agency under this 
+     title with respect to 1 or more projects within the State 
+     that are under the jurisdiction of the Federal agency.
+       ``(B) Exception.--The head of a Federal agency shall not 
+     enter into a written agreement under subparagraph (A) if the 
+     head of the Federal agency determines that the State is not 
+     in compliance with the requirements described in subsection 
+     (c)(4).
+       ``(C) Additional responsibility.--If a State assumes 
+     responsibility under subparagraph (A)--
+       ``(i) the head of the Federal agency may assign to the 
+     State, and the State may assume, all or part of the 
+     responsibilities of the head of the Federal agency for 
+     environmental review, consultation, or other action required 
+     under any Federal environmental law pertaining to the review 
+     or approval of a specific project;
+       ``(ii) at the request of the State, the head of the Federal 
+     agency may also assign to the State, and the State may 
+     assume, the responsibilities of the head of the Federal 
+     agency under this title with respect to 1 or more projects 
+     within the State that are under the jurisdiction of the 
+     Federal agency; but
+       ``(iii) the head of the Federal agency may not assign 
+     responsibility for any conformity determination required 
+     under section 176 of the Clean Air Act (42 U.S.C. 7506).
+       ``(D) Procedural and substantive requirements.--A State 
+     shall assume responsibility under this section subject to the 
+     same procedural and substantive requirements as would apply 
+     if that responsibility were carried out by the Federal 
+     agency.
+       ``(E) Federal responsibility.--Any responsibility of a 
+     Federal agency not explicitly assumed by the State by written 
+     agreement under subparagraph (A) shall remain the 
+     responsibility of the Federal agency.
+       ``(F) No effect on authority.--Nothing in this section 
+     preempts or interferes with any power, jurisdiction, 
+     responsibility, or authority of an agency, other than the 
+     Federal agency for which the written agreement applies, under 
+     applicable law (including regulations) with respect to a 
+     project.
+       ``(G) Preservation of flexibility.--The head of the Federal 
+     agency may not require a State, as a condition of 
+     participation in the agency program of the Federal agency, to 
+     forego project delivery methods that are otherwise 
+     permissible for projects under applicable law.
+       ``(H) Legal fees.--A State assuming the responsibilities of 
+     a Federal agency under this section for a specific project 
+     may use funds awarded to the State for that project for 
+     attorneys' fees directly attributable to eligible activities 
+     associated with the project.
+       ``(c) State Participation.--
+       ``(1) Participating states.--Except as provided in 
+     subsection (b)(2)(B), all States are eligible to participate 
+     in an agency program.
+       ``(2) Application.--Not later than 270 days after the date 
+     of enactment of this section, the head of each Federal agency 
+     shall amend, as appropriate, regulations that establish 
+     requirements relating to information required to be contained 
+     in any application of a State to participate in the agency 
+     program, including, at a minimum--
+       ``(A) the projects or classes of projects for which the 
+     State anticipates exercising the authority that may be 
+     granted under the agency program;
+       ``(B) verification of the financial resources necessary to 
+     carry out the authority that may be granted under the agency 
+     program; and
+       ``(C) evidence of the notice and solicitation of public 
+     comment by the State relating to participation of the State 
+     in the agency program, including copies of comments received 
+     from that solicitation.
+       ``(3) Public notice.--
+       ``(A) In general.--Each State that submits an application 
+     under this subsection shall give notice of the intent of the 
+     State to participate in an agency program not later than 30 
+     days before the date of submission of the application.
+       ``(B) Method of notice and solicitation.--The State shall 
+     provide notice and solicit public comment under this 
+     paragraph by publishing the complete application of the State 
+     in accordance with the appropriate public notice law of the 
+     State.
+       ``(4) Selection criteria.--The head of a Federal agency may 
+     approve the application of a State under this section only 
+     if--
+       ``(A) the regulatory requirements under paragraph (2) have 
+     been met;
+       ``(B) the head of the Federal agency determines that the 
+     State has the capability, including financial and personnel, 
+     to assume the responsibility; and
+       ``(C) the head of the State agency having primary 
+     jurisdiction over the project enters into a written agreement 
+     with the head of the Federal agency as described in 
+     subsection (d).
+       ``(5) Other federal agency views.--If a State applies to 
+     assume a responsibility of the Federal agency that would have 
+     required the head of the Federal agency to consult with the 
+     head of another Federal agency, the head of the Federal 
+     agency shall solicit the views of the head of the other 
+     Federal agency before approving the application.
+       ``(d) Written Agreement.--A written agreement under 
+     subsection (b)(2)(A) shall--
+       ``(1) be executed by the Governor or the top-ranking 
+     official in the State who is charged with responsibility for 
+     the project;
+       ``(2) be in such form as the head of the Federal agency may 
+     prescribe;
+       ``(3) provide that the State--
+       ``(A) agrees to assume all or part of the responsibilities 
+     of the Federal agency described in subparagraphs (A) and (C) 
+     of subsection (b)(2);
+       ``(B) expressly consents, on behalf of the State, to accept 
+     the jurisdiction of the Federal courts for the compliance, 
+     discharge, and enforcement of any responsibility of the 
+     Federal agency assumed by the State;
+       ``(C) certifies that State laws (including regulations) are 
+     in effect that--
+       ``(i) authorize the State to take the actions necessary to 
+     carry out the responsibilities being assumed; and
+       ``(ii) are comparable to section 552 of title 5, including 
+     providing that any decision regarding the public availability 
+     of a document under those State laws is reviewable by a court 
+     of competent jurisdiction; and
+       ``(D) agrees to maintain the financial resources necessary 
+     to carry out the responsibilities being assumed;
+       ``(4) require the State to provide to the head of the 
+     Federal agency any information the head of the Federal agency 
+     reasonably considers necessary to ensure that the State is 
+     adequately carrying out the responsibilities assigned to the 
+     State;
+       ``(5) have a term of not more than 5 years; and
+       ``(6) be renewable.
+       ``(e) Jurisdiction.--
+       ``(1) In general.--The United States district courts shall 
+     have exclusive jurisdiction over any civil action against a 
+     State for failure to carry out any responsibility of the 
+     State under this section.
+       ``(2) Legal standards and requirements.--A civil action 
+     under paragraph (1) shall be governed by the legal standards 
+     and requirements that would apply in such a civil action 
+     against the head of a Federal agency had the head of the 
+     Federal agency taken the actions in question.
+       ``(3) Intervention.--The head of a Federal agency shall 
+     have the right to intervene in any action described in 
+     paragraph (1).
+       ``(f) Effect of Assumption of Responsibility.--A State that 
+     assumes responsibility under subsection (b)(2) shall be 
+     solely responsible and solely liable for carrying out, in 
+     lieu of and without further approval of the
+
+[[Page S5661]]
+
+     head of the Federal agency, the responsibilities assumed 
+     under subsection (b)(2), until the agency program is 
+     terminated under subsection (k).
+       ``(g) Limitations on Agreements.--Nothing in this section 
+     permits a State to assume any rulemaking authority of the 
+     head of a Federal agency under any Federal law.
+       ``(h) Audits.--
+       ``(1) In general.--To ensure compliance by a State with any 
+     agreement of the State under subsection (d) (including 
+     compliance by the State with all Federal laws for which 
+     responsibility is assumed under subsection (b)(2)), for each 
+     State participating in an agency program, the head of a 
+     Federal agency shall--
+       ``(A) not later than 180 days after the date of execution 
+     of the agreement, meet with the State to review 
+     implementation of the agreement and discuss plans for the 
+     first annual audit;
+       ``(B) conduct annual audits during each of the first 4 
+     years of State participation; and
+       ``(C) ensure that the time period for completing an annual 
+     audit, from initiation to completion (including public 
+     comment and responses to those comments), does not exceed 180 
+     days.
+       ``(2) Public availability and comment.--
+       ``(A) In general.--An audit conducted under paragraph (1) 
+     shall be provided to the public for comment.
+       ``(B) Response.--Not later than 60 days after the date on 
+     which the period for public comment ends, the head of the 
+     Federal agency shall respond to public comments received 
+     under subparagraph (A).
+       ``(3) Audit team.--
+       ``(A) In general.--An audit conducted under paragraph (1) 
+     shall be carried out by an audit team determined by the head 
+     of the Federal agency, in consultation with the State, in 
+     accordance with subparagraph (B).
+       ``(B) Consultation.--Consultation with the State under 
+     subparagraph (A) shall include a reasonable opportunity for 
+     the State to review and provide comments on the proposed 
+     members of the audit team.
+       ``(i) Monitoring.--After the fourth year of the 
+     participation of a State in an agency program, the head of 
+     the Federal agency shall monitor compliance by the State with 
+     the written agreement, including the provision by the State 
+     of financial resources to carry out the written agreement.
+       ``(j) Report to Congress.--The head of each Federal agency 
+     shall submit to Congress an annual report that describes the 
+     administration of the agency program.
+       ``(k) Termination.--
+       ``(1) Termination by federal agency.--The head of a Federal 
+     agency may terminate the participation of any State in the 
+     agency program of the Federal agency if--
+       ``(A) the head of the Federal agency determines that the 
+     State is not adequately carrying out the responsibilities 
+     assigned to the State;
+       ``(B) the head of the Federal agency provides to the 
+     State--
+       ``(i) a notification of the determination of noncompliance;
+       ``(ii) a period of not less than 120 days to take such 
+     corrective action as the head of the Federal agency 
+     determines to be necessary to comply with the applicable 
+     agreement; and
+       ``(iii) on request of the Governor of the State, a detailed 
+     description of each responsibility in need of corrective 
+     action regarding an inadequacy identified under subparagraph 
+     (A); and
+       ``(C) the State, after the notification and period provided 
+     under subparagraph (B), fails to take satisfactory corrective 
+     action, as determined by the head of the Federal agency.
+       ``(2) Termination by the state.--A State may terminate the 
+     participation of the State in an agency program at any time 
+     by providing to the head of the applicable Federal agency a 
+     notice by not later than the date that is 90 days before the 
+     date of termination, and subject to such terms and conditions 
+     as the head of the Federal agency may provide.
+       ``(l) Capacity Building.--The head of a Federal agency, in 
+     cooperation with representatives of State officials, may 
+     carry out education, training, peer-exchange, and other 
+     initiatives as appropriate--
+       ``(1) to assist States in developing the capacity to 
+     participate in the agency program of the Federal agency; and
+       ``(2) to promote information sharing and collaboration 
+     among States that are participating in the agency program of 
+     the Federal agency.
+       ``(m) Relationship to Locally Administered Projects.--A 
+     State granted authority under an agency program may, as 
+     appropriate and at the request of a local government--
+       ``(1) exercise that authority on behalf of the local 
+     government for a locally administered project; or
+       ``(2) provide guidance and training on consolidating and 
+     minimizing the documentation and environmental analyses 
+     necessary for sponsors of a locally administered project to 
+     comply with this title and any comparable requirements under 
+     State law.''.
+       (5) Prohibition on guidance.--No Federal agency, including 
+     the Council on Environmental Quality, may reissue the final 
+     guidance of the Council on Environmental Quality entitled 
+     ``Final Guidance for Federal Departments and Agencies on 
+     Consideration of Greenhouse Gas Emissions and the Effects of 
+     Climate Change in National Environmental Policy Act Reviews'' 
+     (81 Fed. Reg. 51866 (August 5, 2016)) or substantially 
+     similar guidance unless authorized by an Act of Congress.
+       (6) Definitions.--Title I of the National Environmental 
+     Policy Act of 1969 (42 U.S.C. 4331 et seq.) (as amended by 
+     paragraph (1)(A)) is amended by adding at the end the 
+     following:
+
+     ``SEC. 109. DEFINITIONS.
+
+       ``In this title:
+       ``(1) Environmental assessment.--The term `environmental 
+     assessment' has the meaning given the term in section 1508.9 
+     of title 40, Code of Federal Regulations (or a successor 
+     regulation).
+       ``(2) Environmental impact statement.--The term 
+     `environmental impact statement' means a detailed statement 
+     required under section 102(2)(C).
+       ``(3) NEPA process.--
+       ``(A) In general.--The term `NEPA process' means the 
+     entirety of every process, analysis, or other measure, 
+     including an environmental impact statement, required to be 
+     carried out by a Federal agency under this title before the 
+     agency undertakes a proposed action.
+       ``(B) Period.--For purposes of subparagraph (A), the NEPA 
+     process--
+       ``(i) begins on the date on which the head of a Federal 
+     agency receives an application for a proposed action from a 
+     project sponsor; and
+       ``(ii) ends on the date on which the Federal agency issues, 
+     with respect to the proposed action--
+
+       ``(I) a record of decision, including, if necessary, a 
+     revised record of decision;
+       ``(II) a finding of no significant impact; or
+       ``(III) a categorical exclusion under this title.
+
+       ``(4) Project sponsor.--The term `project sponsor' means a 
+     Federal agency or other entity, including a private or 
+     public-private entity, that seeks approval of a proposed 
+     action.''.
+       (7) Conforming amendments.--
+       (A) Policy review.--Section 309 of the Clean Air Act (42 
+     U.S.C. 7609) is repealed.
+       (B) Surface transportation project delivery program.--
+     Section 327 of title 23, United States Code, is amended--
+       (i) in subsection (a)(1), by striking ``The Secretary'' and 
+     inserting ``Subject to subsection (m), the Secretary''; and
+       (ii) by adding at the end the following:
+       ``(m) Sunset.--
+       ``(1) In general.--Except as provided under paragraph (2), 
+     the authority provided by this section terminates on the date 
+     of enactment of this subsection.
+       ``(2) Existing agreements.--Subject to the requirements of 
+     this section, the Secretary may continue to enforce any 
+     agreement entered into under this section before the date of 
+     enactment of this subsection.''.
+       (b) Attorney Fees in Environmental Litigation.--
+       (1) Administrative procedure.--Section 504(b)(1) of title 
+     5, United States Code, is amended--
+       (A) in subparagraph (E), by striking ``and'' at the end;
+       (B) in subparagraph (F), by striking the period at the end 
+     and inserting ``; and''; and
+       (C) by adding at the end the following:
+       ``(G) `special factor' does not include knowledge, 
+     expertise, or skill in environmental litigation.''.
+       (2) United states as party.--Section 2412(d)(2) of title 
+     28, United States Code, is amended--
+       (A) in subparagraph (H), by striking ``and'' at the end;
+       (B) in subparagraph (I), by striking the period at the end 
+     and inserting ``; and''; and
+       (C) by adding at the end the following:
+       ``(J) `special factor' does not include knowledge, 
+     expertise, or skill in environmental litigation.''.
+
+     SEC. 402. REPEAL OF DAVIS-BACON WAGE REQUIREMENTS.
+
+       (a) In General.--Subchapter IV of chapter 31 of title 40, 
+     United States Code, is repealed.
+       (b) References.--Any reference in any law to a requirement 
+     under subchapter IV of chapter 31 of title 40, United States 
+     Code, shall be null and void.
+       (c) Effective Date and Limitation.--This section, and the 
+     amendment made by this section, shall take effect 30 days 
+     after the date of enactment of this Act but shall not affect 
+     any contract that is--
+       (1) in existence on the date that is 30 days after such 
+     date of enactment; or
+       (2) made pursuant to an invitation for bids outstanding on 
+     the date that is 30 days after such date of enactment.
+                                 ______
+```
