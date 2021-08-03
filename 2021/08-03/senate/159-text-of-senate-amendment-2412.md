@@ -1,0 +1,195 @@
+---
+granule: CREC-2021-08-03-pt1-PgS5769-2
+date: 2021-08-03
+edition: CREC
+section: SENATE
+page: S5769
+citation: 167 Cong. Rec. S5769
+---
+
+# Text of Senate Amendment 2412
+
+**Speaking:** Blackburn, Marsha (B001243) [R-TN]
+
+```
+  SA 2412. Mrs. BLACKBURN (for herself and Mr. Hagerty) submitted an 
+amendment intended to be proposed to amendment SA 2137 proposed by Mr. 
+Schumer (for Ms. Sinema (for herself, Mr. Portman, Mr. Manchin, Mr. 
+Cassidy, Mrs. Shaheen, Ms. Collins, Mr. Tester, Ms. Murkowski, Mr. 
+Warner, and Mr. Romney)) to the bill H.R. 3684, to authorize funds for 
+Federal-aid highways, highway safety programs, and transit programs, 
+and for other purposes; which was ordered to lie on the table; as 
+follows:
+
+        At the appropriate place in division I, insert the 
+     following:
+
+     SEC. 90___. ADDING SERVICE AND SUPPORT COMPANIES TO THE 
+                   SHUTTERED VENUE OPERATORS GRANT PROGRAM.
+
+       (a) In General.--Section 324 of the Economic Aid to Hard-
+     Hit Small Businesses, Nonprofits, and Venues Act (title III 
+     of division N of Public Law 116-260) is amended--
+       (1) in subsection (a)--
+       (A) in paragraph (1)--
+       (i) in subparagraph (A)--
+
+       (I) in the matter preceding clause (i), by inserting ``a 
+     service and support company,'' after ``theatre operator,'';
+       (II) in clause (i)--
+
+       (aa) in the matter preceding subclause (I), by inserting 
+     ``the service and support company,'' after ``theatre 
+     operator,''; and
+       (bb) in subclause (I), by inserting ``a service and support 
+     company,'' after ``theatre operator,'';
+
+       (III) in clause (ii)--
+
+       (aa) in subclause (III), by striking ``and'' at the end;
+       (bb) in subclause (IV), by adding ``and'' at the end; and
+       (cc) by adding at the end the following:
+
+       ``(V) the service and support company is or intends to 
+     resume the services and activities described in paragraph 
+     (11);''; and
+       (IV) in clause (vi), by inserting ``the service and support 
+     company,'' after ``theatre operator,'' each place that term 
+     appears; and
+
+       (ii) in subparagraph (B), by inserting ``service and 
+     support company,'' after ``theatre operator,'' each place 
+     that term appears; and
+       (B) by adding at the end the following:
+       ``(11) Service and support company.--The term `service and 
+     support company'--
+       ``(A) means an individual or entity--
+       ``(i) that is assigned a North American Industry 
+     Classification System code of 532490, 541410, 541420, 541430, 
+     541490, 561920, 711190, or 711320, as appears on the most 
+     recent income tax filing or on the application for a loan 
+     under paragraph (36) or (37) of section 7(a) of the Small 
+     Business Act (15 U.S.C. 636(a)) of the individual or entity, 
+     if applicable; and
+       ``(ii) that--
+
+       ``(I)(aa) as a principal business activity, provide stages, 
+     lighting, sound, casts, or other support for live performing 
+     arts events; and
+       ``(bb) for which not less than 70 percent of the earned 
+     revenue generated through providing the support described in 
+     item (aa) is for live performing arts events organized, 
+     promoted, produced, managed, or hosted by an eligible person 
+     or entity described in paragraph (1)(A)(iii); or
+       ``(II)(aa) showcases performers or pre-packaged productions 
+     to potential buyers; and
+       ``(bb) for which not less than 70 percent of the earned 
+     revenue generated through showcasing performers or pre-
+     packaged productions described in item (aa) is for live 
+     performing arts events--
+
+       ``(AA) organized, promoted, produced, managed, or hosted by 
+     an eligible person or entity described in paragraph 
+     (1)(A)(iii); or
+       ``(BB) hosted in a hotel or convention center facility;
+       ``(B) includes an individual or entity described in 
+     subparagraph (A) that--
+       ``(i) operates for profit;
+       ``(ii) is a nonprofit organization;
+       ``(iii) is government-owned; or
+       ``(iv) is a corporation, limited liability company, or 
+     partnership or operated as a sole proprietorship; and
+       ``(C) does not include--
+       ``(i) an individual or entity described in subparagraph (A) 
+     that--
+
+       ``(I) employs more than 250 full-time employees; or
+       ``(II) is registered or operates outside of the United 
+     States; or
+
+       ``(ii) an entity that is majority owned or controlled by an 
+     entity that is an issuer, the securities of which are listed 
+     on a national securities exchange under section 6 of the 
+     Securities Exchange Act of 1934 (15 U.S.C. 78f).''; and
+       (2) in subsection (b)(2)(B), by adding at the end the 
+     following:
+       ``(iii) Priority for awards to service and support 
+     companies.--
+
+       ``(I) First priority in awarding grants.--During the 
+     initial 14-day period during which service and support 
+     companies are eligible to receive a grant under this 
+     paragraph, in making awards to those companies, the 
+     Administrator shall only award grants to those companies with 
+     revenue during the period beginning on April 1, 2020 and 
+     ending on December 31, 2020, that is not more than 10 percent 
+     of the revenue of the company during the period beginning on 
+     April 1, 2019 and ending on December 31, 2019, due to the 
+     COVID-19 pandemic.
+       ``(II) Second priority in awarding grants.--During the 14-
+     day period immediately following the14-day period described 
+     in clause (i), in making awards to service and support 
+     companies under this paragraph, the Administrator shall only 
+     award grants to those companies with revenue, during the 
+     period beginning on April 1, 2020 and ending on December 31, 
+     2020, that is not more than 30 percent of the revenue of the 
+     company during the period beginning on April 1, 2019 and 
+     ending on December 31, 2019, due to the COVID-19 pandemic.''.
+
+       (b) Transfer of Amounts From Coronavirus State and Local 
+     Fiscal Recovery Funds to Shuttered Venue Operators Program.--
+       (1) Rescission.--Of the unobligated balances of amounts 
+     appropriated under sections 602(a)(1) and 603(a) of the 
+     Social Security Act (as added by section 9901 of the American 
+     Rescue Plan Act of 2021 (Public Law 117-2)) on the date of 
+     enactment of this Act, $4,000,000,000 is rescinded, provided 
+     that amounts shall be rescinded from the unobligated balance 
+     of amounts appropriated under such section 602(a)(1) first, 
+     and amounts shall then be rescinded from the unobligated 
+     balance of amounts appropriated under such
+
+[[Page S5770]]
+
+     section 603(a) only if the unobligated balance of amounts 
+     appropriated under such section 602(a)(1) is less than 
+     $4,000,000,000.
+       (2) APPROPRIATION.--There is appropriated for an additional 
+     amount, out of amounts in the Treasury not otherwise 
+     appropriated, for the fiscal year ending September 30, 2021, 
+     an amount equal to the amount rescinded under paragraph (1), 
+     to remain available until December 31, 2021, under the 
+     heading ``Small Business Administration--Shuttered Venue 
+     Operators'', to make grants to service and support companies 
+     under section 324 of the Economic Aid to Hard Hit Small 
+     Businesses, Nonprofits, and Venues Act (title III of division 
+     N of Public Law 116-260), as amended by subsection (a).
+       (c) Processing Previously Denied Applications.--If a 
+     service and support company, as defined in paragraph (11) of 
+     section 324(a) of the Economic Aid to Hard-Hit Small 
+     Businesses, Nonprofits, and Venues Act (title III of division 
+     N of Public Law 116-260), as added by subsection (a), was 
+     denied a grant under such section before the date of 
+     enactment of this Act due to lack of eligibility but, as a 
+     result of the amendments made by subsection (a), is eligible 
+     for a grant under such section, the Administrator of the 
+     Small Business Administration shall reconsider and process 
+     the application of the service and support company.
+       (d) Regulations.--Not later than 30 days after the date of 
+     enactment of this Act, the Administrator of the Small 
+     Business Administration shall issue regulations to carry out 
+     this Act and the amendments made by this Act without regard 
+     to the notice requirements under section 553(b) of title 5, 
+     United States Code.
+       (e) Sense of Congress.--It is the sense of Congress that 
+     the Administrator of the Small Business Administration 
+     should--
+       (1) issue guidance to ensure that entities whose principal 
+     business is to provide services and support to the live 
+     events industry remain eligible for the program established 
+     under section 324 of the Economic Aid to Hard Hit Small 
+     Businesses, Nonprofits, and Venues Act (title III of division 
+     N of Public Law 116-260); and
+       (2) distribute funds appropriated for that program not 
+     later than 120 days after the date of enactment of this Act.
+                                 ______
+```

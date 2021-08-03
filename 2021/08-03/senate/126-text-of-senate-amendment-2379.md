@@ -1,0 +1,28 @@
+---
+granule: CREC-2021-08-03-pt1-PgS5755-3
+date: 2021-08-03
+edition: CREC
+section: SENATE
+page: S5755
+citation: 167 Cong. Rec. S5755
+---
+
+# Text of Senate Amendment 2379
+
+**Speaking:** Lee, Mike (L000577) [R-UT]
+
+```
+  SA 2379. Mr. LEE submitted an amendment intended to be proposed to 
+amendment SA 2137 proposed by Mr. Schumer (for Ms. Sinema (for herself, 
+Mr. Portman, Mr. Manchin, Mr. Cassidy, Mrs. Shaheen, Ms. Collins, Mr. 
+Tester, Ms. Murkowski, Mr. Warner, and Mr. Romney)) to the bill H.R. 
+3684, to authorize funds for Federal-aid highways, highway safety 
+programs, and transit programs, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+        Beginning on page 2397, strike line 9 and all that follows 
+     through page 2399, line 10.
+       Beginning on page 2691, strike line 13 and all that follows 
+     through page 2692, line 24.
+                                 ______
+```
