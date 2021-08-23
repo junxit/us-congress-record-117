@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-08-23-pt1-PgH4348-5
+date: 2021-08-23
+edition: CREC
+section: HOUSE
+page: H4348
+citation: 167 Cong. Rec. H4348
+---
+
+# DO NOT FORGET WHAT IS HAPPENING ON OUR SOUTHERN BORDER
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+         DO NOT FORGET WHAT IS HAPPENING ON OUR SOUTHERN BORDER
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute.)
+  Mr. GROTHMAN. Madam Speaker, obviously a lot is going on in America 
+right now, and with all the focus on what is going on in Afghanistan, 
+as well as the latest spending bills going through Congress, we are 
+perhaps losing track of the thing that I think will have the biggest 
+impact on America over the next few years.
+  I beg the American public and the American media not to lose sight of 
+what is going on at our southern border. In the last couple of weeks, 
+it has become apparent that, by an estimate, 105,000 people crossed 
+over the border into that country as opposed to 80,000 in June; over a 
+30 percent increase in 1 month, almost entirely unremarked; of that is 
+an estimated 15,000 unaccompanied minors, which is a human relations 
+tragedy.
+  It is going to further increase the amount of illegal drugs in this 
+country. Right now, 90,000 people a year are dying of illegal drugs. It 
+is hard to believe that this time last year only an estimated 8,000 
+people were coming in the country, whereas, this July, again, we are at 
+105,000.
+  It should be banner headlines in any newspaper in this country when 
+we go from about 10,000 people to 105,000 people per month.
+
+                          ____________________
+```

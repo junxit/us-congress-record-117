@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-08-23-pt1-PgH4349
+date: 2021-08-23
+edition: CREC
+section: HOUSE
+page: H4349
+citation: 167 Cong. Rec. H4349
+---
+
+# BIDEN ADMINISTRATION FAILING AT KEEPING AMERICA SAFE
+
+**Speaking:** Miller, Mary E. (M001211) [R-IL]
+
+```
+          BIDEN ADMINISTRATION FAILING AT KEEPING AMERICA SAFE
+
+  (Mrs. MILLER of Illinois asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Mrs. MILLER of Illinois. Madam Speaker, America is less safe today 
+than when President Biden was sworn in 7 months ago.
+  Last week, as the Taliban seized control of Afghanistan, they 
+released 5,000 al-Qaida and Taliban terrorists who are armed with $85 
+billion of U.S. taxpayer-funded weapons as a result of the Biden 
+administration's incompetent withdrawal. Our allies have lost respect 
+for America, and our enemies do not fear us.
+  At the same time, Vice President Kamala Harris has left our southern 
+border completely exposed and vulnerable for anyone to cross, and over 
+200,000 people are crossing each month. This is a national security 
+disaster with dreadful future consequences.
+  But we shouldn't be surprised that Democrats are not concerned with 
+public safety. They have been promoting defund the police and 
+supporting soft-on-crime policies that have caused crime to skyrocket 
+this past year.
+  The key role of government is to keep our families safe, and the 
+Biden administration has failed miserably.
+
+                          ____________________
+```

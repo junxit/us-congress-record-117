@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-08-23-pt1-PgH4350-3
+date: 2021-08-23
+edition: CREC
+section: HOUSE
+page: H4350
+citation: 167 Cong. Rec. H4350
+---
+
+# HONORING BILL HABEL
+
+**Speaking:** Foster, Bill (F000454) [D-IL]
+
+```
+                          HONORING BILL HABEL
+
+  (Mr. FOSTER asked and was given permission to address the House for 1 
+minute.)
+  Mr. FOSTER. Madam Speaker, I rise today in honor of the life and work 
+of Bill Habel, of Naperville, who passed away suddenly just a few weeks 
+ago at the age of 63.
+  Bill was a tireless champion for workers and their families, and he 
+never missed an opportunity to help amplify their voices. He started 
+his career as a union electrician in 1986 and was a dedicated member of 
+IBEW Local 701.
+  Beyond his day-to-day work, Bill made it a priority to give back and 
+to help others begin their careers. He spent 23 years as an instructor 
+for the electrical workers' apprenticeship program, helping introduce 
+others to good-paying career opportunities in the building trades.
+  He was a leading voice for the economic development of the Naperville 
+community and never missed a chance to advocate for job creation and 
+infrastructure development that attracted so many people to Naperville 
+and to DuPage County.
+  Madam Speaker, Bill knew instinctively what many of us have learned, 
+that when you prioritize workers and their families, the entire 
+community benefits. Simply put, the Naperville community is a better 
+place because of the work that he did and what he did to help build it 
+up.
+  I am proud to call Bill a friend and even more proud of the work that 
+he accomplished for his community. We will all miss him dearly.
+
+                          ____________________
+```
