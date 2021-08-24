@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-08-24-pt1-PgH4416-5
+date: 2021-08-24
+edition: CREC
+section: HOUSE
+page: H4416
+citation: 167 Cong. Rec. H4416
+---
+
+# UPHOLDING THE LEGACY OF THE HONORABLE JOHN LEWIS
+
+**Speaking:** Panetta, Jimmy (P000613) [D-CA]
+
+**Measures:** H.R. 4
+
+```
+            UPHOLDING THE LEGACY OF THE HONORABLE JOHN LEWIS
+
+  (Mr. PANETTA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PANETTA. Mr. Speaker, I rise with pride and in support of 
+tonight's passage of the John Lewis Voting Rights Act.
+  As we know, the right to vote is fundamental to our Nation. That is 
+why we should be doing everything possible not to make it more 
+difficult to vote but to enhance voting rights.
+  H.R. 4 does that by modifying the Voting Rights Act to restore and 
+strengthen its antidiscrimination enforcement authorities.
+  Now, in my district, prior to the Shelby decision, we had a voting 
+rights county. But, clearly, the threats to our ability to vote are not 
+limited to my district as this year alone 18 States across the country 
+have passed 30 laws making it harder to vote.
+  That is why I voted for this bill. That is why John Lewis served and 
+sacrificed, and that is why he crossed the Edmund Pettus Bridge in 1965 
+and in 2020 when I was honored to cross it with him, hand in hand.
+  Tonight, we not only upheld the legacy of John Lewis but, by passing 
+H.R. 4, we were able to eventually provide citizens with more 
+opportunity to vote in our democracy.
+
+                          ____________________
+```
