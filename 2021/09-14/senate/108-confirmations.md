@@ -1,0 +1,30 @@
+---
+granule: CREC-2021-09-14-pt1-PgS6514-2
+date: 2021-09-14
+edition: CREC
+section: SENATE
+page: S6514
+citation: 167 Cong. Rec. S6514
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 14, 2021:
+
+
+                        DEPARTMENT OF EDUCATION
+
+       JAMES RICHARD KVAAL, OF MASSACHUSETTS, TO BE UNDER 
+     SECRETARY OF EDUCATION.
+
+
+                             THE JUDICIARY
+
+       DAVID G. ESTUDILLO, OF WASHINGTON, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF WASHINGTON.
+       ANGEL KELLEY, OF MASSACHUSETTS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF MASSACHUSETTS.
+```

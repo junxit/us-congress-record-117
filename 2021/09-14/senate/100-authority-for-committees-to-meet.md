@@ -1,0 +1,60 @@
+---
+granule: CREC-2021-09-14-pt1-PgS6506-6
+date: 2021-09-14
+edition: CREC
+section: SENATE
+page: S6506
+citation: 167 Cong. Rec. S6506
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** Cantwell, Maria (C000127) [D-WA]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mrs. CANTWELL. Mr. President, I have 5 requests for committees to 
+meet during today's session of the Senate. They have the approval of 
+the Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+            Committee on banking, housing, and urban affairs
+
+  The Committee on Banking, Housing, and Urban Affairs is authorized to 
+meet during the session of the Senate on Tuesday, September 14, 2021, 
+at 10 a.m., to conduct a hearing.
+
+
+                     Committee on foreign relations
+
+  The Committee on Foreign Relations is authorized to meet during the 
+session of the Senate on Tuesday, September 14, 2021, at 10 a.m., to 
+conduct a hearing.
+
+
+        Committee On Homeland Security And Governmental Affairs
+
+  The Committee on Homeland Security and Governmental Affairs is 
+authorized to meet during the session of the Senate on Tuesday, 
+September 14, 2021, at 2:30 p.m., to conduct a hearing on nominations.
+
+
+                       committee on the judiciary
+
+  The Committee on the Judiciary is authorized to meet during the 
+session of the Senate on Tuesday, September 14, 2021, at 10 a.m., to 
+conduct a hearing on nominations.
+
+
+                    select committee on intelligence
+
+  The Select Committee on Intelligence is authorized to meet during the 
+session of the Senate on Tuesday, September 14, 2021, at 2:30 p.m., to 
+conduct a hearing.
+
+                          ____________________
+```
