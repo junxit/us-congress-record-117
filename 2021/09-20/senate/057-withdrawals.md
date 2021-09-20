@@ -1,0 +1,28 @@
+---
+granule: CREC-2021-09-20-pt1-PgS6555-3
+date: 2021-09-20
+edition: CREC
+section: SENATE
+page: S6555
+citation: 167 Cong. Rec. S6555
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on 
+September 20, 2021 withdrawing from further Senate consideration the 
+following nominations:
+       NAVY NOMINATION OF BRANDON T. SALES, TO BE LIEUTENANT 
+     COMMANDER, WHICH WAS SENT TO THE SENATE ON JANUARY 6, 2021.
+       ARMY NOMINATION OF MAJ. GEN. BRIAN J. MENNES, TO BE 
+     LIEUTENANT GENERAL, WHICH WAS SENT TO THE SENATE ON JUNE 8, 
+     2021.
+       ADRIANA DOBRA KUGLER, OF MARYLAND, TO BE UNITED STATES 
+     EXECUTIVE DIRECTOR OF THE INTERNATIONAL BANK FOR 
+     RECONSTRUCTION AND DEVELOPMENT FOR A TERM OF TWO YEARS, VICE 
+     JENNIFER D. NORDQUIST, WHICH WAS SENT TO THE SENATE ON AUGUST 
+     9, 2021.
+```

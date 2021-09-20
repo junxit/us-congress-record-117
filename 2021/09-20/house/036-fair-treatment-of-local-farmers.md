@@ -1,0 +1,49 @@
+---
+granule: CREC-2021-09-20-pt1-PgH4545-7
+date: 2021-09-20
+edition: CREC
+section: HOUSE
+page: H4545
+citation: 167 Cong. Rec. H4545
+---
+
+# FAIR TREATMENT OF LOCAL FARMERS
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                    FAIR TREATMENT OF LOCAL FARMERS
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute.)
+
+[[Page H4546]]
+
+  
+
+  Ms. KAPTUR. Madam Speaker, I rise tonight in support of the Biden 
+administration's new guidance regarding the Packers and Stockyards Act, 
+and heartened that the administration took swift and decisive action to 
+protect small farmers and local producers. Too often, local farmers 
+suffer economically at the expense of large integrators that practice 
+oppressive tactics in the marketplace and thwart the ability of small 
+producers to flourish.
+  The COVID-19 pandemic exposed great frailties in our food supply 
+chains. And while Americans are paying higher prices, 14 percent on 
+beef, 12 percent on pork, and 6.6 percent on poultry, the country's top 
+four largest meat processors have increasingly gained the lion's share 
+of the market since the 1970s. They control the entire market, the 
+largest producers.
+  Meanwhile, poultry giants Tysons and Purdue recently settled a $35 
+million lawsuit in which local contract growers cited the combination 
+of low wages and the financial demands of compliance with the 
+companies' barn standards that unjustly pushed them into a debtor's 
+prison.
+  The action taken by the administration will help smaller farmers 
+stand strong, achieve fair contracts, and come forward to speak their 
+truth, without the fear and threat of retaliation.
+  Congratulations to the Biden administration for doing something that 
+is fair and just.
+
+                          ____________________
+```
