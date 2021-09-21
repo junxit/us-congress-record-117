@@ -1,0 +1,45 @@
+---
+granule: CREC-2021-09-21-pt1-PgH4563
+date: 2021-09-21
+edition: CREC
+section: HOUSE
+page: H4563
+citation: 167 Cong. Rec. H4563
+---
+
+# A RADICAL ASSAULT ON THE SANCTITY OF LIFE
+
+**Speaking:** Wagner, Ann (W000812) [R-MO]
+
+**Measures:** H.R. 3755
+
+```
+               A RADICAL ASSAULT ON THE SANCTITY OF LIFE
+
+  (Mrs. WAGNER asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. WAGNER. Madam Speaker, I rise in strong opposition to H.R. 3755, 
+the deceitfully named Women's Health Protection Act. This legislation 
+constitutes a radical assault on the sanctity of life and the dignity 
+of the most vulnerable Americans.
+  I am grieved and shocked beyond words that Democrats are moving to 
+force States across the country to accept abortion on demand, right up 
+until the moment of birth. Along with so many Americans, I believe that 
+life is beautiful, and that all babies must be given the opportunity to 
+thrive. And yet, my colleagues on the other side of the aisle want to 
+eradicate every legal protection these little ones have, rather than 
+welcoming them with the love and joy and hope that they deserve.
+  This bill gives abortionists the ability to decide which precious 
+infants are ``viable'' and worthy of life. It prioritizes the 
+profitability of the abortion industry over genuine and compassionate 
+care for mothers and children.
+  No baby should be discarded because they were allegedly unwanted, and 
+no mother's needs should be subjugated to the demands of the abortion 
+lobby.
+  This is an incredibly urgent time in our Nation. I implore each and 
+every one of my colleagues to stand up and fight for those who cannot 
+protect themselves.
+  Madam Speaker, I urge a ``no'' vote on H.R. 3755.
+
+                          ____________________
+```

@@ -1,0 +1,61 @@
+---
+granule: CREC-2021-09-21-pt1-PgS6582
+date: 2021-09-21
+edition: CREC
+section: SENATE
+page: S6582
+citation: 167 Cong. Rec. S6582
+---
+
+# TRIBUTE TO CHIEF JON SIMPSON
+
+**Speaking:** Boozman, John (B001236) [R-AR]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                      TRIBUTE TO CHIEF JON SIMPSON
+
+● Mr. BOOZMAN. Madam President, I rise today to recognize 
+Bentonville Police Chief Jon Simpson whose dedication to law 
+enforcement and community service will be deeply missed following his 
+retirement as chief of the Bentonville Police Department.
+  Chief Simpson's dedication is grounded in his strong roots to 
+northwest Arkansas as a Bentonville native and graduate of the 
+University of Arkansas. He established a career in public safety, first 
+in the security division of Walmart Stores, Inc., before transitioning 
+to work for the city as a patrol officer in 1994, where his service 
+quickly stood out. After only 2 years with the Bentonville Police 
+Department, Jon was named officer of the year.
+  From there, the chief held numerous supervisory positions and led by 
+example, inspiring officers in both the patrol and criminal divisions. 
+He was promoted to a command staff member in 2006 and, in 2011, was 
+appointed chief of the Bentonville Police Department. In these 
+leadership roles, Chief Simpson reorganized the rank structure of the 
+department, added personnel with further opportunities for advisory 
+positions, and upgraded the department's vehicles and equipment. 
+Additionally, he led an extensive renovation to the police department 
+building that added a bomb squad facility, emergency communication 
+center, criminal investigations building, and emergency operations 
+center.
+  The Bentonville community's rapid growth and unique challenges 
+certainly shaped Chief Simpson's tenure. He recognized the high 
+expectations of Bentonville citizens and was encouraged to do more to 
+ensure his officers lived up to those standards. That approach led to 
+the incredible level of safety and security within the Bentonville 
+community today. Chief Simpson's impact has also been recognized beyond 
+his own department. Recently, the Arkansas Fraternal Order of Police in 
+Little Rock recognized him with its Outstanding Police Chief Award.
+  Chief Simpson has demonstrated a relentless pursuit to improve 
+himself, his team, and the community he served throughout his career. I 
+applaud his dedicated, decades-long commitment to law enforcement and 
+the safety of his fellow Arkansans. He is a true public servant who has 
+strengthened law and order in Bentonville. It has been an honor to work 
+with him during his tenure, and I wish him all the best in his next 
+endeavor.●
+
+                          ____________________
+```
