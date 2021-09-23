@@ -1,0 +1,48 @@
+---
+granule: CREC-2021-09-23-pt1-PgH5106-3
+date: 2021-09-23
+edition: CREC
+section: HOUSE
+page: H5106
+citation: 167 Cong. Rec. H5106
+---
+
+# HONORING ROBERTO ESTRADA
+
+**Speaking:** Herrell, Yvette (H001084) [R-NM]
+
+```
+                        HONORING ROBERTO ESTRADA
+
+  (Ms. HERRELL asked and was given permission to address the House for 
+1 minute.)
+  Ms. HERRELL. Mr. Speaker, today, I rise to honor Mr. Roberto Estrada.
+  Mr. Estrada was a beloved icon in the Las Cruces community and 
+recently lost his life to pancreatic cancer at the age of 84.
+  Estrada learned how to press tortillas at the age of 15, and for 
+decades, he shared his cooking talents with enthusiasm and made Whole 
+Enchilada Fiesta a profound success. His famous tortillas and food 
+products are popular across a wide variety of businesses in New Mexico.
+  From 2000 to 2010, Mr. Estrada held the Guinness World Record for the 
+world's largest enchilada, which was the centerpiece at the annual 
+Whole Enchilada Fiesta.
+  Apart from his cooking talents, Estrada was known for his humility, 
+kindness, strong work ethic, and giving back to his community.
+  He donated much of his food and money to those who needed it the 
+most. The Las Cruces community became a better place because of him.
+  As a testament to the impact Mr. Estrada made on his community, the 
+Dona Ana County Commission declared Wednesday, September 1, as Roberto 
+Estrada Day.
+
+  Estrada was a man of faith and family, a proud member of the Las 
+Cruces Chamber of Commerce and the Las Cruces Hispanic Chamber of 
+Commerce.
+  The Las Cruces Police Department honored Estrada's legacy, saying: 
+``The people who give you their food give you their heart.''
+  Estrada lived his life selflessly and improved the lives and 
+livelihoods of countless others.
+  We mourn the loss of Mr. Roberto Estrada, honor his commitment 
+serving others, and know that his legacy will be preserved forever.
+
+                          ____________________
+```

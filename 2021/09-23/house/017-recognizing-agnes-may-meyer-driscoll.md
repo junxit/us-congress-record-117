@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-09-23-pt1-PgH5101-2
+date: 2021-09-23
+edition: CREC
+section: HOUSE
+page: H5101
+citation: 167 Cong. Rec. H5101
+---
+
+# RECOGNIZING AGNES MAY MEYER DRISCOLL
+
+**Speaking:** Cline, Ben (C001118) [R-VA]
+
+```
+                  RECOGNIZING AGNES MAY MEYER DRISCOLL
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Virginia (Mr. Cline) for 5 minutes.
+  Mr. CLINE. Mr. Speaker, I rise today to recognize one of the greatest 
+code breakers in American history, Agnes May Meyer Driscoll.
+  At the age of 29 Driscoll enlisted in the United States Navy in 1918 
+and was assigned to the code and signals section. While in this unit, 
+she helped develop the machine called CM, later a standard enciphering 
+device for the Navy in the 1920s.
+  She continued her work into World War II, where she was a vital part 
+in breaking the Japanese Navy's JN-25b code, which gave Admiral Nimitz 
+a crucial advantage at the Battle of Midway, a turning point in the war 
+in the Pacific.
+  Nicknamed Miss Aggie and Madame X, Driscoll retired in 1959 at the 
+age of 70. When she passed away in 1971, she was buried amongst fellow 
+American heroes in Arlington National Cemetery.
+  Driscoll forever changed the field of cryptology and was rightfully 
+inducted into the National Security Agency Hall of Honor in 2000.
+  It is a pleasure to recognize her service on behalf of the Colonel 
+Thomas Hughart Chapter of the Daughters of the American Revolution and 
+her great nephew, retired U.S. Navy Captain Victor Meyer, who resides 
+in Staunton, Virginia.
+  Our country is immensely grateful for Miss Aggie's service.
+
+                          ____________________
+```

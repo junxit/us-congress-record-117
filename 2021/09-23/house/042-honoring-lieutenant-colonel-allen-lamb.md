@@ -1,0 +1,36 @@
+---
+granule: CREC-2021-09-23-pt1-PgH5106-5
+date: 2021-09-23
+edition: CREC
+section: HOUSE
+page: H5106
+citation: 167 Cong. Rec. H5106
+---
+
+# HONORING LIEUTENANT COLONEL ALLEN LAMB
+
+**Speaking:** Bishop, Dan (B001311) [R-NC]
+
+```
+                 HONORING LIEUTENANT COLONEL ALLEN LAMB
+
+  (Mr. BISHOP of North Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. BISHOP of North Carolina. Mr. Speaker, today, I rise to honor 
+retired Lieutenant Colonel Allen Lamb of Lumberton, North Carolina, and 
+to extend him best wishes for a very happy 90th birthday.
+  Lieutenant Colonel Lamb, a decorated fighter pilot, led the legendary 
+Wild Weasels tasked with destroying North Vietnam's air defenses, which 
+included Soviet-made surface-to-air missile installations. The Wild 
+Weasels baited the enemy into targeting them with their radar, allowing 
+their teammates to detect and destroy the anti-aircraft system.
+  On December 22, 1965, Lamb was the first Wild Weasel to destroy one 
+of these missile sites, marking a key event in the war and saving 
+countless American lives.
+  For his heroic service, Lieutenant Colonel Lamb received two Silver 
+Stars and a Distinguished Flying Cross. I am honored to call him a 
+constituent.
+  Happy birthday to Lieutenant Colonel Lamb.
+
+                          ____________________
+```
