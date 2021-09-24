@@ -1,0 +1,44 @@
+---
+granule: CREC-2021-09-24-pt1-PgH5164-4
+date: 2021-09-24
+edition: CREC
+section: HOUSE
+page: H5164
+citation: 167 Cong. Rec. H5164
+---
+
+# UNPRECEDENTED GOVERNMENT SPENDING
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                   UNPRECEDENTED GOVERNMENT SPENDING
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, the $3.5 trillion spending plan by the 
+Democrats is the most expensive single piece of legislation in the 
+history of this country. If passed, the Democrats will have added $13 
+trillion in new spending since they took control of the House in 2019.
+  When combined with annual government funding and the $1.9 trillion 
+Biden bailout bill, the $3.5 trillion socialist tax and spending plan 
+would increase yearly government spending by over 73 percent each year 
+for the next 10 years. To pay for these expensive and ill-advised 
+policies, we would see the largest tax increase in American history, 
+with two-thirds of employer tax increases being borne by lower and 
+middle-income Americans.
+  This unprecedented spending spree is fueling inflation right now and 
+hurting low-income and middle-income families the most, the very 
+populations these policies purport to be helping.
+  Inflation is a tax on the poor, running at 7 percent on an annualized
+
+[[Page H5165]]
+
+basis since the Biden administration came in, the highest since the 
+Carter era. Gas prices are up 41 percent. Used car prices are up 41 
+percent. Fish prices are up 8.5 percent. Steak prices are up 10 
+percent.
+  Inflation is hurting the purchasing power of everyday Americans.
+
+                          ____________________
+```

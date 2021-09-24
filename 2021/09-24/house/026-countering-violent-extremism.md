@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-09-24-pt1-PgH5165-4
+date: 2021-09-24
+edition: CREC
+section: HOUSE
+page: H5165
+citation: 167 Cong. Rec. H5165
+---
+
+# COUNTERING VIOLENT EXTREMISM
+
+**Speaking:** Jacobs, Sara (J000305) [D-CA]
+
+```
+                      COUNTERING VIOLENT EXTREMISM
+
+  (Ms. JACOBS of California asked and was given permission to address 
+the House for 1 minute.)
+  Ms. JACOBS of California. Mr. Speaker, the United States should not 
+provide support to foreign military units that repeatedly commit human 
+rights violations. That should be clear.
+  Yet, in Burkina Faso, Guinea, and the Democratic Republic of the 
+Congo, military units backed by the United States did just that; 
+terrorizing civilians in the name of security.
+  Backing these units is supposed to be against U.S. law, but for 
+decades there has been one big loophole, and it is called section 127E, 
+one specific DOD authority that authorizes support for these units 
+without any human rights vetting.
+  This loophole means that we have no assurances that our operatives 
+aren't working with partners who are in direct conflict with our 
+values. And if we are truly focused on countering violent extremism, we 
+have to acknowledge that abuses by security forces often propel victims 
+into violent extremist groups.
+  That is why I brought forward an amendment to the NDAA to close this 
+loophole, and I am proud to say it was adopted with bipartisan support.
+  My amendment ensures that we aren't contributing to the very same 
+problems we aim to solve, and it sends a clear message. When it comes 
+to human rights, there cannot be loopholes, exemptions, or exceptions.
+
+                          ____________________
+```
