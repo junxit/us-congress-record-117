@@ -1,0 +1,45 @@
+---
+granule: CREC-2021-09-28-pt1-PgH5467
+date: 2021-09-28
+edition: CREC
+section: HOUSE
+page: H5467
+citation: 167 Cong. Rec. H5467
+---
+
+# IT IS TIME TO DELIVER INFRASTRUCTURE SOLUTIONS
+
+**Speaking:** Lee, Susie (L000590) [D-NV]
+
+```
+             IT IS TIME TO DELIVER INFRASTRUCTURE SOLUTIONS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Nevada (Mrs. Lee) for 5 minutes.
+  Mrs. LEE of Nevada. Mr. Speaker, I rise today because, believe it or 
+not, yet again, it is infrastructure week here.
+  For decades, our country has been calling for investment to bring our 
+infrastructure into, not just the future, but at this point, the 
+present.
+  For months, we have been meeting, both Democrats and Republicans, to 
+get this bill to work for all of us. Now, it is time to take action and 
+pass it for the American people. The stakes could not be higher.
+  Nevada, where I am from, has been ground zero for this pandemic. We 
+are ground zero for the effects of climate change. But, more 
+importantly, we are ground zero for the promise and the economic 
+opportunities in this bill.
+  Roads, bridges, access to broadband, electric vehicles, electric 
+buses, clean energy, water solutions for the West, all of this is 
+needed and all of it will benefit my State and every corner in this 
+country. That is why we have to put politics aside, come together, and 
+pass this legislation now.
+  I came to Congress because I was tired of the bickering and the 
+dysfunction and the gridlock. I was tired of politics as usual.
+  Safer roads and bridges, these are not partisan political issues. We 
+have the opportunity to pass these investments for every single 
+American and create millions of good-paying jobs and strengthen our 
+recovery and get our economy back on track. The time to deliver 
+solutions is now.
+
+                          ____________________
+```

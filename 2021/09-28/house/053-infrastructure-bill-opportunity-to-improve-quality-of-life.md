@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-09-28-pt1-PgH5499
+date: 2021-09-28
+edition: CREC
+section: HOUSE
+page: H5499
+citation: 167 Cong. Rec. H5499
+---
+
+# INFRASTRUCTURE BILL OPPORTUNITY TO IMPROVE QUALITY OF LIFE
+
+**Speaking:** Himes, James A. (H001047) [D-CT]
+
+```
+       INFRASTRUCTURE BILL OPPORTUNITY TO IMPROVE QUALITY OF LIFE
+
+  (Mr. HIMES asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HIMES. Madam Speaker, I live in southwestern Connecticut, which 
+is on an artery of this Nation's commerce and economy, and that artery 
+is clogged. I spend hours when I am traveling around my district in 
+traffic or worrying that the trains, which move more slowly than they 
+moved 75 years ago, won't get me to where I need to go.
+  We have an opportunity in this Chamber, sometime in the next week or 
+so, of passing a major infrastructure bill, which will alleviate those 
+problems in my district and around the United States.
+  The problems in my district are hardly unique, and it is not just 
+about growth, though every business leader in my district says that 
+transportation infrastructure is their number one or number two 
+problem. It is about quality of life.
+  This infrastructure bill is perhaps a once-in-a-career opportunity to 
+address and make better the challenges that face each and every one of 
+our constituents.
+  Madam Speaker, I urge a vote for the infrastructure bill. It is a 
+jobs bill. It is a future economic bill. And, of course, it is going to 
+repair and improve the quality of life for the constituents of everyone 
+in the Chamber.
+
+                          ____________________
+```
