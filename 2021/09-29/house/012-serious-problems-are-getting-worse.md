@@ -1,0 +1,72 @@
+---
+granule: CREC-2021-09-29-pt1-PgH5512-2
+date: 2021-09-29
+edition: CREC
+section: HOUSE
+page: H5512
+citation: 167 Cong. Rec. H5512
+---
+
+# SERIOUS PROBLEMS ARE GETTING WORSE
+
+**Speaking:** Burchett, Tim (B001309) [R-TN]
+
+```
+                   SERIOUS PROBLEMS ARE GETTING WORSE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Tennessee (Mr. Burchett) for 5 minutes.
+  Mr. BURCHETT. Madam Speaker, Joe Biden preached vague, feel-good 
+messages to voters, like healing our country and pursuing 
+bipartisanship, during his campaign for President. In his victory 
+speech, he ripped off a line from Barack Obama and said: ``I pledge to 
+be a President who seeks not to divide but to unify, who doesn't see 
+red and blue States but a United States.''
+  Madam Speaker, these messages were blatant lies. His record 8 months 
+into his tenure proves his only intention is to govern on behalf of the 
+Democrat Party's far-left base.
+  Look at the ongoing farce on our southern border. The Department of 
+Homeland Security just released thousands of unvetted Haitian migrants 
+into this country, no questions asked. Even worse, the President turned 
+his back on Border Patrol agents over that bogus horse photo.
+  Our government wouldn't behave this way unless it was worried about 
+backlash from leftists who want to open our borders and defund the 
+Immigration and Customs Enforcement agency.
+  The border has been out of control from the moment Joe Biden stepped 
+foot in the Oval Office. Month after month after month, we hear about 
+Border Patrol agents encountering hundreds of thousands of migrants 
+attempting to illegally enter our country. President Biden put Vice 
+President Harris in charge of fixing our southern border, but whatever 
+she is doing to ``address the root cause of migration'' obviously isn't 
+working.
+  Last week, the White House press secretary whined about Republicans 
+giving floor speeches about the crisis at the border. I say to the 
+press secretary: We wouldn't need to be down here raising Hades if your 
+boss would quit being so soft, start doing his job, and enforce the 
+dadgum border laws.
+
+                              {time}  1030
+
+  Chaos at the southern border is just one of the many crises of Joe 
+Biden's own creation. I could stand down here for hours talking about 
+inflation caused by reckless government spending, a failed exit from 
+Afghanistan that left 13 American servicemembers dead, including one of 
+my constituents--his family lives in my neighborhood--and much more.
+  But my point is this, Madam Speaker, Americans across the political 
+spectrum see Joe Biden standing idly by while this country is being 
+destroyed. They think this President is grossly incompetent and 
+incapable of responsibly running the executive branch. I have even 
+talked to Democrats here in Congress who are extremely concerned about 
+these very issues.
+  Serious problems are getting worse, yet Joe Biden doesn't show any 
+interest in solving them. Given this President's lack of interest in 
+serving as Chief Executive, I can confidently say this President is 
+mentally unwell and unfit for office.
+  It is time for Joe Biden to step down. We need a leader who cares 
+about the future of this country, not one who isn't even aware of the 
+damage he is causing.
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+engaging in personalities toward the President.
+
+                          ____________________
+```

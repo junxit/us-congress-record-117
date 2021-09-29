@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-09-29-pt1-PgS6764
+date: 2021-09-29
+edition: CREC
+section: SENATE
+page: S6764
+citation: 167 Cong. Rec. S6764
+---
+
+# Nominaton of Jonathan Eugene Meyer (Executive Calendar)
+
+**Speaking:** Peters, Gary C. (P000595) [D-MI], Barrasso, John (B001261) [R-WY]
+
+```
+                   Nominaton of Jonathan Eugene Meyer
+
+  Mr. PETERS. Madam President, I rise in support of Jonathan Meyer's 
+nomination to be general counsel of the Department of Homeland 
+Security, or DHS.
+  Mr. Meyer is an accomplished lawyer and dedicated public servant who 
+is well qualified to serve as the Department's chief legal officer. His 
+nomination maintains bipartisan support, including from former DHS 
+general counsels who served under both Democratic and Republican 
+administrations.
+  Mr. Meyer's previous government service spans 17 years and includes 
+senior roles in the Department of Justice, the U.S. Senate, and as the 
+deputy general counsel for DHS during the Obama administration.
+  Since returning to private practice in 2016, Mr. Meyer's legal work 
+has continued to focus on cyber security, technology, and homeland 
+security. Throughout the confirmation process, Mr. Meyer has 
+demonstrated that he understands the complex legal issues facing DHS 
+and the importance of ensuring that the Department cooperates with 
+Congressional oversight.
+  DHS has not had a Senate-confirmed general counsel for over 2 years. 
+DHS needs qualified, Senate-confirmed leaders in place to effectively 
+carry out its critical mission of safeguarding our Nation.
+  I urge my colleagues to confirm Mr. Meyer today.
+  I yield the floor.
+```
