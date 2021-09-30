@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-09-30-pt1-PgH5565
+date: 2021-09-30
+edition: CREC
+section: HOUSE
+page: H5565
+citation: 167 Cong. Rec. H5565
+---
+
+# THE VIPER PROGRAM SHOULD BE EXTENDED
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                  THE VIPER PROGRAM SHOULD BE EXTENDED
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, the Buffalo-Niagara region 
+faces a serious and tragic rise in gun violence, as does the entire 
+country. It has devastated neighborhoods and torn families apart.
+  Crime data released this week confirms that this is a local problem 
+and a national problem as well.
+  In 2020, the number of murders in our country spiked by 30 percent, a 
+record increase.
+  This year, the Department of Justice created the Violence Prevention 
+and Elimination Response Task Force, called VIPER. Its aim is getting 
+illegal guns off our streets and stopping violent criminals.
+  VIPER has been remarkably successful at stemming gun violence and 
+saving lives.
+  Buffalo has seen a 50 percent decrease in homicides since the program 
+started.
+  Each person lost to gun violence is another human denied a lifetime 
+of opportunity and a family left behind.
+  VIPER is continuing through October, but the Department of Justice 
+needs to make this a permanent program to stop gun violence in Buffalo 
+and throughout the Nation.
+
+                          ____________________
+```
