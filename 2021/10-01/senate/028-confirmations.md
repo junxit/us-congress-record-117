@@ -1,0 +1,62 @@
+---
+granule: CREC-2021-10-01-pt1-PgS6876-6
+date: 2021-10-01
+edition: CREC
+section: SENATE
+page: S6876
+citation: 167 Cong. Rec. S6876
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate October 1, 2021:
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be general
+
+GEN. JACQUELINE D. VAN OVOST
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                           To be vice admiral
+
+VICE ADM. COLIN J. KILRAIN
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES AIR FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                        To be brigadier general
+
+COL. JAMES D. BRANTINGHAM
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER SECTION 905 OF THE 
+     NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2020:
+
+                           To be rear admiral
+
+REAR ADM. (LH) JEFFREY S. SCHEIDT
+```
