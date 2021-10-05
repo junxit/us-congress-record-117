@@ -1,0 +1,93 @@
+---
+granule: CREC-2021-10-05-pt1-PgS6923-2
+date: 2021-10-05
+edition: CREC
+section: SENATE
+page: S6923
+citation: 167 Cong. Rec. S6923
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                             THE JUDICIARY
+
+        ARMANDO O. BONILLA, OF THE DISTRICT OF COLUMBIA, TO BE A 
+     JUDGE OF THE UNITED STATES COURT OF FEDERAL CLAIMS FOR A TERM 
+     OF FIFTEEN YEARS, VICE EDWARD J. DAMICH, TERM EXPIRED.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                           To be rear admiral
+
+REAR ADM. (LH) PAUL J. SCHLISE
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES AIR FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                             To be colonel
+
+CHRISTIAN M. BERGTHOLDT
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C. 
+     SECTION 624:
+
+                        To be lieutenant colonel
+
+DERRICK H. DUNLAP
+JAMIE E. PITTMAN
+GERALD A. ROBINSON
+ROSILYN C. WOODARD
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C. 
+     SECTION 624:
+
+                        To be lieutenant colonel
+
+MICHELLE S. MCCARROLL
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                             To be colonel
+
+MARCUS S. SNOW
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C. 
+     SECTION 624:
+
+                              To be major
+
+AUGUSTINE A. DIMOH
+
+
+                          IN THE MARINE CORPS
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES MARINE CORPS UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                        To be lieutenant colonel
+
+JOHN C. MORGAN
+
+                          ____________________
+```

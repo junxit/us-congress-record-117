@@ -1,0 +1,128 @@
+---
+granule: CREC-2021-10-05-pt1-PgS6911-2
+date: 2021-10-05
+edition: CREC
+section: SENATE
+page: S6911
+citation: 167 Cong. Rec. S6911
+---
+
+# NOTICES OF A TIE VOTE UNDER S. RES. 27
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH]
+
+**Measures:** S.Res. 27
+
+```
+                      NOTICES OF A TIE VOTE UNDER
+                               S. RES. 27
+
+  Mr. BROWN. Mr. President, I ask unanimous consent to print the 
+following letters into the Congressional Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+         U.S. Senate, Committee on Banking, Housing, and Urban 
+           Affairs,
+                                  Washington, DC, October 5, 2021.
+     To the Secretary of the Senate:
+       PN433, the nomination of Solomon Jeffrey Greene, of the 
+     District of Columbia, to be an Assistant Secretary of Housing 
+     and Urban Development, vice Seth Daniel Appleton, having been 
+     referred to the Committee on Banking, Housing, and Urban 
+     Affairs, the Committee with a quorum present, has vote on the 
+     nomination as follows--
+       1. On the question of reporting the nomination favorably 
+     with the recommendation that the nomination be confirmed 12 
+     ayes to 12 noes; and
+       In accordance with Section 3 paragraph (1)(A) of S. Res. 27 
+     of the 117th Congress, I hereby give notice that the 
+     Committee on Banking, Housing, and Urban Affairs has not 
+     reported the nomination because of a tie vote and ask that 
+     this notice be printed in the Record pursuant to the 
+     Resolution.
+                                  ____
+
+         U.S. Senate, Committee on Banking, Housing, and Urban 
+           Affairs,
+                                  Washington, DC, October 5, 2021.
+     To the Secretary of the Senate:
+       PN604, the nomination of Brian Eddie Nelson, of California, 
+     to be Under Secretary for Terrorism and Financial Crimes, 
+     vice Sigal Mandelker, resigned, having been referred to the 
+     Committee on Banking, Housing, and Urban Affairs, the 
+     Committee with a quorum present, has vote on the nomination 
+     as follows--
+       1. On the question of reporting the nomination favorably 
+     with the recommendation that the nomination be confirmed 12 
+     ayes to 12 noes; and
+       In accordance with Section 3 paragraph (1)(A) of S. Res. 27 
+     of the 117th Congress, I hereby give notice that the 
+     Committee on Banking, Housing, and Urban Affairs has not 
+     reported the nomination because of a tie vote and ask that 
+     this notice be printed in the Record pursuant to the 
+     Resolution.
+                                  ____
+
+         U.S. Senate, Committee on Banking, Housing, and Urban 
+           Affairs,
+                                  Washington, DC, October 5, 2021.
+     To the Secretary of the Senate:
+       PN605, the nomination of Elizabeth Rosenberg, of Vermont, 
+     to be Assistant Secretary for Terrorist Financing, Department 
+     of the Treasury, vice Marshall Billingslea, having been 
+     referred to the Committee on Banking, Housing, and Urban 
+     Affairs, the Committee with a quorum present, has vote on the 
+     nomination as follows--
+       1. On the question of reporting the nomination favorably 
+     with the recommendation that the nomination be confirmed 12 
+     ayes to 12 noes; and
+       In accordance with Section 3 paragraph (1)(A) of S. Res. 27 
+     of the 117th Congress, I hereby give notice that the 
+     Committee on Banking, Housing, and Urban Affairs has not 
+     reported the nomination because of a tie vote and ask that 
+     this notice be printed in the Record pursuant to the 
+     Resolution.
+                                  ____
+
+         U.S. Senate, Committee on Banking, Housing, and Urban 
+           Affairs,
+                                  Washington, DC, October 5, 2021.
+     To the Secretary of the Senate:
+       PN747, the nomination of David Uejio, of California, to be 
+     an Assistant Secretary of Housing and Urban Development, vice 
+     Anna Maria Farias, having been referred to the Committee on 
+     Banking, Housing, and Urban Affairs, the Committee with a 
+     quorum present, has vote on the nomination as follows--
+       1. On the question of reporting the nomination favorably 
+     with the recommendation that the nomination be confirmed 12 
+     ayes to 12 noes; and
+       In accordance with Section 3 paragraph (1)(A) of S. Res. 27 
+     of the 117th Congress, I hereby give notice that the 
+     Committee on Banking, Housing, and Urban Affairs has not 
+     reported the nomination because of a tie vote and ask that 
+     this notice be printed in the Record pursuant to the 
+     Resolution.
+                                  ____
+
+         U.S. Senate, Committee on Banking, Housing, and Urban 
+           Affairs,
+                                  Washington, DC, October 5, 2021.
+     To the Secretary of the Senate:
+       PN767, the nomination of Julia Ruth Gordon, of Maryland, to 
+     be an Assistant Secretary of Housing and Urban Development, 
+     vice Dana T. Wade, having been referred to the Committee on 
+     Banking, Housing, and Urban Affairs, the Committee with a 
+     quorum present, has vote on the nomination as follows--
+       1. On the question of reporting the nomination favorably 
+     with the recommendation that the nomination be confirmed 12 
+     ayes to 12 noes; and
+       In accordance with Section 3 paragraph (1)(A) of S. Res. 27 
+     of the 117th Congress, I hereby give notice that the 
+     Committee on Banking, Housing, and Urban Affairs has not 
+     reported the nomination because of a tie vote and ask that 
+     this notice be printed in the Record pursuant to the 
+     Resolution.
+
+                          ____________________
+```
