@@ -1,0 +1,37 @@
+---
+granule: CREC-2021-10-06-pt1-PgS6939-4
+date: 2021-10-06
+edition: CREC
+section: SENATE
+page: S6939
+citation: 167 Cong. Rec. S6939
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Hawley, Josh (H001089) [R-MO]
+
+```
+                            VOTE EXPLANATION
+
+  Mr. HAWLEY. Mr. President, had there been a recorded vote, I would 
+have voted no on the confirmations of Executive Calendar Nos. 392-399, 
+Jessica D. Aber, of Virginia, to be United States Attorney for the 
+Eastern District of Virginia for the term of four years; Carla B. 
+Freedman, of New York, to be United States Attorney for the Northern 
+District of New York for the term of four years; William J. Ihlenfeld 
+II, of West Virginia, to be United States Attorney for the Northern 
+District of West Virginia for the term of four years; Christopher R. 
+Kavanaugh, of Virginia, to be United States Attorney for the Western 
+District of Virginia for the term of four years; Darcie N. McElwee, of 
+Maine, to be United States Attorney for the District of Maine for the 
+term of four years; Breon S. Peace, of New Jersey, to be United States 
+Attorney for the Eastern District of New York for the term of four 
+years; William S. Thompson, of West Virginia, to be United States 
+Attorney for the Southern District of West Virginia for the term of 
+four years; and Damian Williams, of New York, to be United States 
+Attorney for the Southern District of New York for the term of four 
+years, vice Preet Bharara.
+
+                          ____________________
+```
