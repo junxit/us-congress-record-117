@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-10-20-pt1-PgH5688-7
+date: 2021-10-20
+edition: CREC
+section: HOUSE
+page: H5688
+citation: 167 Cong. Rec. H5688
+---
+
+# DEMOCRATS' RADICAL AND COSTLY POLICIES
+
+**Speaking:** Williams, Roger (W000816) [R-TX]
+
+```
+                 DEMOCRATS' RADICAL AND COSTLY POLICIES
+
+  (Mr. WILLIAMS of Texas asked and was given permission to address the 
+House for 1 minute.)
+  Mr. WILLIAMS of Texas. Mr. Speaker, President Biden and Democrats are 
+pushing to pass a multitrillion-dollar socialist spending agenda that 
+would be the largest tax-and-spending increase in our Nation's history. 
+It is, frankly, money we don't have.
+  At a time when families and businesses are struggling to deal with 
+President Biden's reckless economic policies, the Democrats are pushing 
+to spend trillions more dollars to fund their radical, socialistic, and 
+costly policies.
+  Just a few of the Democrats' far-left socialist policies will hit 
+small business with a larger tax bill, impose costly Green New Deal 
+mandates that simply won't work, increase our energy dependency on 
+Russia and China, weaponize the IRS to target American families and 
+monitor $600 per week bank transactions.
+  I will continue to stand against the Democrats' socialistic tax-and-
+spend spree that will limit our freedoms, make our country less 
+competitive, and destroy Main Street America. Their agenda is anti-
+American.
+  In God we trust.
+
+                          ____________________
+```

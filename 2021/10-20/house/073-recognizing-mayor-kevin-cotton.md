@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-10-20-pt1-PgH5706-2
+date: 2021-10-20
+edition: CREC
+section: HOUSE
+page: H5706
+citation: 167 Cong. Rec. H5706
+---
+
+# RECOGNIZING MAYOR KEVIN COTTON
+
+**Speaking:** Comer, James (C001108) [R-KY]
+
+```
+                     RECOGNIZING MAYOR KEVIN COTTON
+
+  (Mr. COMER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COMER. Madam Speaker, I rise today to recognize Mayor Kevin 
+Cotton from Madisonville, Kentucky, for being named a 2021 Angel in 
+Adoption by the Congressional Coalition on Adoption Institute.
+  The Angels in Adoption program seeks to honor individuals and 
+organizations that focus on adoption, permanency, and child welfare 
+issues.
+  Mayor Cotton and his wife, Donna Cotton, consistently give back to 
+the community by fostering children in their home. Throughout the 
+years, they have provided love and care to 46 children, three of which 
+they adopted.
+  Those who know Mayor Cotton know him best for his love of children, 
+passion for foster care, and desire to make a lasting impact in the 
+community through his business and public service.
+  I appreciate the profound contributions the Cottons have made and am 
+grateful for their dedication to the gift and treasure of adoption. The 
+nomination is symbolic of their devotion to children as well as an 
+ambitious, caring vision for the lives of others.
+  I am proud to recognize Mayor Kevin Cotton and his wife, Donna, for 
+their incredible work in the child welfare arena. On behalf of all my 
+constituents, I congratulate them on their efforts to make the dream of 
+a family a reality for children in need.
+
+                          ____________________
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-10-20-pt1-PgH5707-2
+date: 2021-10-20
+edition: CREC
+section: HOUSE
+page: H5707
+citation: 167 Cong. Rec. H5707
+---
+
+# RESIST VACCINE MANDATES
+
+**Speaking:** Moore, Barry (M001212) [R-AL]
+
+```
+                        RESIST VACCINE MANDATES
+
+  (Mr. MOORE of Alabama asked and was given permission to address the 
+House for 1 minute.)
+  Mr. MOORE of Alabama. Madam Speaker, millions of freedom-loving 
+Americans with legitimate concerns with the vaccine--some are 
+vaccinated, by the way--have had their jobs, livelihoods, and military 
+service held hostage by this new vaccine mandate. They are being told 
+to shut up and take it. That is un-American.
+  With both Army Fort Rucker and Maxwell-Gunter Air Force Base in my 
+district, I am especially disturbed by the new vaccine mandates our 
+military and civilian contractors are having to endure.
+  Last week, I spoke at a meeting of concerned Fort Rucker employees. 
+We expected about 20 to 30 attendees, but hundreds showed up. Clearly, 
+Americans are mobilizing to resist against these mandates.
+  I met with Lieutenant Colonel Theresa Long, a military physician 
+stationed at Fort Rucker. We have seen firsthand the health risks 
+associated with the vaccine that can impact our military readiness. Why 
+are voices like hers being ignored? She has the rank of lieutenant 
+colonel; she has a medical degree; and she is an expert. And if she is 
+not, who is?
+  These mandates are about control and not safety. Every American must 
+have the freedom to make their own health decisions, and our concerns 
+will not be silenced. The American people will continue to resist the 
+vaccine mandates, and I am proud to stand with them.
+
+                          ____________________
+```

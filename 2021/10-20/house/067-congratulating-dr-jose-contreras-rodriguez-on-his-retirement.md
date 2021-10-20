@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-10-20-pt1-PgH5705-3
+date: 2021-10-20
+edition: CREC
+section: HOUSE
+page: H5705
+citation: 167 Cong. Rec. H5705
+---
+
+# CONGRATULATING DR. JOSE CONTRERAS RODRIGUEZ ON HIS RETIREMENT
+
+**Speaking:** Espaillat, Adriano (E000297) [D-NY]
+
+```
+     CONGRATULATING DR. JOSE CONTRERAS RODRIGUEZ ON HIS RETIREMENT
+
+  (Mr. ESPAILLAT asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ESPAILLAT. Madam Speaker, I rise today to congratulate my good 
+friend and constituent, a veteran, a public health servant, Dr. Jose 
+Contreras Rodriguez, on his retirement after dedicating over 65 years 
+of his life to protect our Nation and the community's health.
+  Dr. Contreras hails from Santiago, the Dominican Republic, and he did 
+his residency at the University Hospital in San Juan, Puerto Rico. 
+Before completing his residency, he was drafted by the United States 
+Army to serve during the Vietnam war, where he joined many honorable 
+men and women who risked their lives to defend our freedom and our way 
+of life.
+  After his military service, Dr. Contreras returned to Puerto Rico to 
+complete his residency by 1971. He was also a community doctor. He 
+helped lead efforts to combat the great inequities in the healthcare 
+system and prostate cancer in the male population.
+  Dr. Contreras is a true hero in our community. He is a veteran, a 
+doctor that practiced. He was chief of the department at New York 
+Presbyterian Hospital. For many years he worked for the families in the 
+community of Washington Heights, right there on Fort Washington Avenue, 
+where he still has his office, his practice.
+  Madam Speaker, we congratulate him and we will miss him. We ask that 
+this House would always remember Dr. Jose Contreras.
+
+                          ____________________
+```

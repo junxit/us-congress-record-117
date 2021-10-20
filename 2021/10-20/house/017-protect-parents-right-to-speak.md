@@ -1,0 +1,82 @@
+---
+granule: CREC-2021-10-20-pt1-PgH5684-2
+date: 2021-10-20
+edition: CREC
+section: HOUSE
+page: H5684
+citation: 167 Cong. Rec. H5684
+---
+
+# PROTECT PARENTS' RIGHT TO SPEAK
+
+**Speaking:** Hartzler, Vicky (H001053) [R-MO]
+
+```
+                    PROTECT PARENTS' RIGHT TO SPEAK
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Missouri (Mrs. Hartzler) for 5 minutes.
+  Mrs. HARTZLER. Mr. Speaker, I rise today in solidarity with students, 
+parents, and teachers seeking a brighter academic future. From a 
+student's earliest days of learning the ABC's, recognizing shapes and 
+colors, to the moment they walk across the gymnasium floor to receive a 
+high school diploma, their school days have been filled with learning 
+and exploring, reading, writing, and math. Or they should be.
+  This, however, is not the experience of many of our K-12 students, 
+especially not today. For the last 2 years, students, parents, 
+teachers, and school administrators have been struggling with the 
+global pandemic. COVID-19 has upended routines, hindered learning, 
+shuttered schools, and angered families. These are real challenges 
+requiring active listening and creative solutions. We need parental 
+involvement. We need tutorial advice. We need school board engagement.
+  Parents are concerned with their children's education, health, 
+safety, and well-being. Parents are concerned with what their children 
+are learning, with what is being taught in the school system. Parents 
+want to know that when they send their daughter or son to school, their 
+children will be safe from bullies and predators. Recently, unfiltered 
+frustrations have boiled over at local school board meetings.
+  Mr. Speaker, while I do not and will not condone violence, I was 
+stunned to hear that part of the Federal response to rising parental 
+concern with educational practices and pending school policies was to 
+unleash Federal enforcement on vocal moms and dads. This is deeply 
+disturbing.
+  One particular incident was cited as a catalyst for government's 
+heavy-handedness. At the beginning of the summer, pictures of a dad 
+tackled to the ground and arrested during a Loudoun County school board 
+meeting surfaced. But what is the story behind the headline?
+  This dad was protesting a school policy that would allow biological 
+males access to girls' private facilities. Why? Because his 15-year-old 
+daughter was raped in the girls' bathroom at her school. The situation 
+was expertly covered up and ignored by the very people responsible for 
+protecting his daughter: the school.
+  School officials eventually called the police, not to report a 
+serious crime against a young girl, but to restrain a distraught father 
+when he discovered the school was attempting to sweep the assault under 
+the rug.
+  One such horrific rape should be sufficient for every school district 
+to review who has access to girls' safe spaces. Instead, this half-told 
+story was crafted into a political narrative alleging examples akin to 
+domestic terrorism.
+  Just a few months after this incident, a national school association 
+letter demanded that the Federal Government respond to unrest, name-
+calling, and protests at school board meetings across the U.S. The 
+arrest of this distressed father whose daughter had been raped was one 
+of the examples cited in the correspondence to the President as a need 
+for Federal intervention.
+  Earlier this month, the U.S. Department of Justice validated the 
+concerns raised, not by the father or parent seeking input into their 
+child's education, but to the dubious claims raised by the national 
+association.
+  Instead of adhering to the constitutional charge to oversee Federal 
+issues, it disturbs me that the power of the Federal Government is 
+being wielded to bludgeon everyday parents into silence. This must end.
+  Whether parents voice concerns about a lack of safe spaces for their 
+girls, the type of curriculum that is taught at every grade level, or 
+mask mandates, parents deserve to be heard, and every American has a 
+constitutional right to voice these concerns to the government without 
+being treated like a criminal.
+  It is time we start listening to parents. They are the best arbiters 
+of their child's education, and they deserve respect, not contempt.
+
+                          ____________________
+```
