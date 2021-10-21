@@ -1,0 +1,46 @@
+---
+granule: CREC-2021-10-21-pt1-PgH5732-3
+date: 2021-10-21
+edition: CREC
+section: HOUSE
+page: H5732
+citation: 167 Cong. Rec. H5732
+---
+
+# RECOGNIZING LIBERTY UNIVERSITY'S 50TH ANNIVERSARY
+
+**Speaking:** Cline, Ben (C001118) [R-VA]
+
+```
+                              {time}  1030
+           RECOGNIZING LIBERTY UNIVERSITY'S 50TH ANNIVERSARY
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Virginia (Mr. Cline) for 5 minutes.
+  Mr. CLINE. Madam Speaker, I rise today to recognize the 50th 
+anniversary of Liberty University in Lynchburg, Virginia.
+  Originally founded by Dr. Jerry Falwell, Sr. as Lynchburg Baptist 
+College in 1971, its first classes were held that September for its 154 
+students.
+  Over the years, the college has grown and transformed in many ways, 
+but has always remained a Christian academic community practicing the 
+traditions of evangelical institutions of higher education.
+  The school was renamed Liberty Baptist College in 1975 and became 
+Liberty University in 1985.
+  Now, Liberty University is one of the largest private nonprofit 
+universities in the Nation and the largest university in Virginia, 
+boasting more than 95,000 total undergraduate and postgraduate 
+students, both in person and online.
+
+[[Page H5733]]
+
+  As of 2021, Liberty has more than 250,000 alumni making an impact in 
+their respective fields and in their communities.
+  I congratulate Liberty University and president Jerry Prevo on this 
+milestone and wish the institution another 50 years of success in 
+fulfilling its mission to develop Christ-centered men and women and 
+instill in them the values, knowledge, and skills needed to impact the 
+world.
+
+                          ____________________
+```

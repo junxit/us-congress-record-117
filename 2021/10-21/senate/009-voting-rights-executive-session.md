@@ -1,0 +1,78 @@
+---
+granule: CREC-2021-10-21-pt1-PgS7135-8
+date: 2021-10-21
+edition: CREC
+section: SENATE
+page: S7135
+citation: 167 Cong. Rec. S7135
+---
+
+# Voting Rights (Executive Session)
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                             Voting Rights
+
+  Mr. SCHUMER. Madam President, on voting rights, yesterday, this 
+Chamber had an opportunity to begin debate on protecting the voting 
+rights of American citizens. That right, essential to any democracy, is 
+under attack in ways we have not seen in generations.
+  Despite the obvious danger, Senate Republicans crushed any 
+opportunity this Chamber had to even begin a debate on the Freedom to 
+Vote Act. We didn't ask Republicans to sign their names to any policy. 
+We simply asked them to come to the table so the Senate can work as 
+intended, and they refused.
+  Let there be no mistake, Senate Republicans blocking debate yesterday 
+was their implicit endorsement of the horrid new voter suppression and 
+election subversion laws passed in conservative States across the 
+country. When they wouldn't debate, they said these horrid new laws 
+that suppress voters, that subvert our elections are OK.
+  It is ludicrous--ludicrous--for Republicans to pretend that the 
+Federal Government has no role to play in defense of our liberties. Of 
+course, it does. They should read the Constitution.
+  But despite Republican opposition, the fight to protect our democracy 
+is far from over in the U.S. Senate. Voting rights are too precious, 
+too fundamental to abandon because of obstruction from the minority.
+  As soon as next week, I am prepared to bring another proposal to the 
+floor, the John Lewis Voting Rights Advancement Act.
+  The Voting Rights Act has historically been bipartisan, but following 
+the gutting of the law by recent Supreme Court rulings, the Voting 
+Rights Act needs to be restored, and the Senate ought to, at a minimum, 
+be permitted to debate.
+  The reflexive obstruction from Senate Republicans is not--is not--how 
+the Senate is supposed to work. Not long ago, this Chamber operated 
+differently, in a way more befitting the world's greatest deliberative 
+body: debate, compromise, amend, and legislate--all with the purpose of 
+helping the American people, even when people's views of how to do that 
+differed. There was a debate and amendment.
+  We need to restore that legacy. We need to work to restore the Senate 
+as the world's greatest deliberative body so we can better serve the 
+needs of our Nation. Republicans blocking one bill after another, even 
+from consideration, is not that.
+  The fight to protect our fundamental liberties is as old as the 
+country itself, and we can take note from the lessons of history. In 
+the aftermath of the Civil War, the majorities in Congress passed 
+transformative measures, like the 14th and 15th Amendments to the 
+Constitution--and other civil rights bills--expanding liberty to tens 
+of millions previously deprived of it.
+
+[[Page S7136]]
+
+  These are some of the crowning achievements of this body, but if you 
+were in Congress back then, that is hardly how they were viewed by some 
+at the time. Back then, the minority party refused to provide even a 
+single vote to pass these laws--not even one. The minority condemned 
+them as partisan tools of the angry, vengeful north; a power grab.
+  The minority refused to come to the table, so the majority was 
+willing to act alone--act alone--to pass civil rights legislation. It 
+wasn't partisan; it was patriotic. Their actions made our democracy 
+stronger, and they were willing to do what was necessary, including 
+going it alone to defend our freedoms. Today, we feel the same way.
+  The question now before the Senate is how we will find a path forward 
+on protecting our freedoms in the 21st century. The Members of this 
+Chamber can take inspiration from the great patriots of the past who 
+put country over party, or they can cross their arms and watch as our 
+240-year-old experiment in democracy falls prey to the specters of 
+authoritarian control.
+```

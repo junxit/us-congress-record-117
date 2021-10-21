@@ -1,0 +1,68 @@
+---
+granule: CREC-2021-10-21-pt1-PgS7146-2
+date: 2021-10-21
+edition: CREC
+section: SENATE
+page: S7146
+citation: 167 Cong. Rec. S7146
+---
+
+# Confirmation of Tana Lin (Executive Session)
+
+**Speaking:** Murray, Patty (M001111) [D-WA], Grassley, Chuck (G000386) [R-IA]
+
+```
+                        Confirmation of Tana Lin
+
+  Mrs. MURRAY. Mr. President, I rise today to commend the confirmation 
+of Tana Lin--a trailblazing civil rights lawyer and former public 
+defender--to serve as U.S. District Court judge for the Western 
+District of Washington in the Seattle courthouse.
+  Ms. Lin has led a tremendous career fighting for civil and human 
+rights, and I am very proud to have recommended her to President Biden.
+  There are many reasons to be excited about Tana Lin's confirmation. 
+One of them that is extremely important to me is she will be the first-
+ever public defender serving as U.S. District Court judge in Washington 
+State, and that really matters.
+
+[[Page S7147]]
+
+  It matters when we put a former public defender and civil rights 
+lawyer on the Federal bench. It matters quite a bit, I think, when a 
+Federal judge has represented clients who couldn't afford to hire their 
+own lawyer. It matters that Ms. Lin has represented Washington State 
+farmworkers dealing with wage theft. It matters that Ms. Lin stood up 
+for refugees and immigrants against unconstitutional Executive actions, 
+and that she had successfully challenged discriminatory hiring 
+practices, and has a long career of standing shoulder to shoulder with 
+working people at every turn in her career.
+  Ms. Lin's legal qualifications are excellent. She graduated from 
+Cornell University and New York University School of Law, working 
+multiple jobs during both college and law school. She began her career 
+as a public defender in the District of Columbia. She went on to work 
+at the Civil Rights Division at the Department of Justice, and later 
+the United States Equal Employment Opportunity Commission. She spent 
+multiple years at the Michigan Poverty Law Program until she finally 
+moved to Seattle.
+  In Washington State, Ms. Lin currently serves as president of the 
+Board of Directors of the American Civil Liberties Union, and also 
+works in private practice where she fights for the rights of employees 
+and consumers.
+  She is deeply involved in our local community, mentoring the next 
+generation of lawyers and dedicating her time to a range of pro bono 
+projects in the region.
+  Ms. Lin's legal experience is unquestionable, but I also believe it 
+is important that judges who sit on our Federal bench are reflective of 
+the communities that they serve.
+  Our State is home to more than 1 million immigrants and nearly 1 
+million Asian Americans and Pacific Islanders, and Ms. Lin, who 
+emigrated here with her family from Taiwan at the age of 3, will 
+proudly serve as Washington State's first-ever Asian-American judge to 
+sit on the Federal bench. That is a big deal.
+  Ms. Lin will bring integrity, independence, and compassion to the 
+Seattle courthouse. Americans deserve a justice system that will uphold 
+the rights of everyone, not just the wealthy and well-connected. Let's 
+build a more fair court system and let's do that by appointing more 
+public defenders and more civil rights lawyers like Ms. Lin as Federal 
+judges.
+```
