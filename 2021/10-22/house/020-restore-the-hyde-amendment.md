@@ -1,0 +1,48 @@
+---
+granule: CREC-2021-10-22-pt1-PgH5823-2
+date: 2021-10-22
+edition: CREC
+section: HOUSE
+page: H5823
+citation: 167 Cong. Rec. H5823
+---
+
+# RESTORE THE HYDE AMENDMENT
+
+**Speaking:** Wenstrup, Brad R. (W000815) [R-OH]
+
+```
+                              {time}  1245
+                       RESTORE THE HYDE AMENDMENT
+
+  (Mr. WENSTRUP asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. WENSTRUP. Madam Speaker, there comes a time to dispel the myth 
+that we must choose between women's rights and children's rights. Now 
+is the time because we can protect both.
+  Sadly, abortion reveals society's inability to love, to protect, and 
+to care for the most innocent and helpless among us.
+  When we devalue life, our society suffers. When we deem some to be 
+nonessential, we devalue their lives.
+  I am strongly pro-life, and I consistently stand up for the rights of 
+the unborn and the born.
+  Our society is willing to and does care for the mother in need. 
+Perhaps she is scared and alone. Americans across the country reach out 
+to help mothers and the children that they are nourishing in their 
+wombs.
+  I must rise today to express my grave concern that our Democrat 
+colleagues' proposed spending bill lacks crucial protections that 
+ensure that taxpayer funds do not pay for abortions.
+  Without this protection, taxpayer-funded abortions not only harm us 
+as a society but violate the religious freedoms of thousands of 
+Americans.
+  The longstanding, bipartisan Hyde amendment ensures just that, that 
+taxpayer funds do not go toward abortion. However, the Democrats' 
+currently proposed multitrillion-dollar build back broke plan does not 
+contain those lifesaving protections.
+  In 1994, then-Senator Joe Biden wrote, ``Those of us who are opposed 
+to abortion should not be compelled to pay for them.''
+  In God we trust.
+
+                          ____________________
+```
