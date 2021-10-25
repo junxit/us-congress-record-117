@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-10-25-pt1-PgH5856
+date: 2021-10-25
+edition: CREC
+section: HOUSE
+page: H5856
+citation: 167 Cong. Rec. H5856
+---
+
+# EVERYONE DESERVES A FRESH START
+
+**Speaking:** Scanlon, Mary Gay (S001205) [D-PA]
+
+```
+                    EVERYONE DESERVES A FRESH START
+
+  (Ms. SCANLON asked and was given permission to address the House for 
+1 minute.)
+  Ms. SCANLON. Madam Speaker, for millions of Americans, a minor or 
+decades-old criminal record can pose an insurmountable barrier to full 
+employment, housing, and education. All too often, individuals in this 
+situation are unable to get a fresh start because having eligible 
+records sealed or expunged is so burdensome or expensive.
+  Bureaucratic delays and high legal fees perpetuate the cycle of 
+poverty and make it more difficult for people to transition back into 
+society successfully after being incarcerated.
+  That is why I was proud to join Representative   David Trone and a 
+bipartisan group of our colleagues from the House and the Senate to 
+introduce legislation last week to help these Americans get the second 
+chances they deserve.
+  The Fresh Start Act of 2021 provides Federal grants for States with 
+record sealing or expungement procedures to help improve their 
+automated record infrastructure.
+  As we rebound from a once-in-a-century pandemic and in the name of 
+fairness and equity, we need to eliminate barriers to employment and 
+champion opportunities for our communities to recover and thrive.
+
+                          ____________________
+```

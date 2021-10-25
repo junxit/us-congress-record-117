@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-10-25-pt1-PgH5856-4
+date: 2021-10-25
+edition: CREC
+section: HOUSE
+page: H5856
+citation: 167 Cong. Rec. H5856
+---
+
+# ATLANTA BRAVES ADVANCE TO WORLD SERIES
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                 ATLANTA BRAVES ADVANCE TO WORLD SERIES
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to congratulate 
+the Atlanta Braves for advancing to the World Series for the first time 
+since 1999.
+  In a season plagued by injuries, what the Braves have accomplished is 
+nothing short of remarkable. On August 1, the Braves had a losing 
+record, and things were looking grim. Through much adversity, the 
+Braves relied on some unlikely stars to shine in the postseason during 
+the month of Joctober.
+  What this team has achieved is nothing short of special, and we hope 
+to continue shocking the world.
+  After caving to the lies of the Democrats, Major League Baseball 
+moved the All-Star game out of Atlanta, depriving the community of 
+hundreds of millions of dollars. Well, you may be able to move the All-
+Star game, but you can't move the World Series, and Truist Park is 
+going to be electric.
+  In addition to the players, I would also like to congratulate manager 
+Brian Snitker and the rest of the coaching staff for the tremendous job 
+they did in assembling and guiding this team to the 2021 World Series. 
+Go Braves.
+
+                          ____________________
+```
