@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-10-26-pt1-PgH5884-5
+date: 2021-10-26
+edition: CREC
+section: HOUSE
+page: H5884
+citation: 167 Cong. Rec. H5884
+---
+
+# HEAT YOUR HOME TAX
+
+**Speaking:** Bice, Stephanie I. (B000740) [R-OK]
+
+```
+                           HEAT YOUR HOME TAX
+
+  (Mrs. BICE of Oklahoma asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. BICE of Oklahoma. Madam Speaker, I rise today to address the 
+heat your home tax that Democrats are adding to the partisan 
+reconciliation package during our country's crippling economic crisis.
+  Americans are paying the most for a gallon of gas in 7 years, and now 
+the Federal Government is warning Americans that their home heating 
+bills could cost 54 percent more this winter compared to last.
+  This harmful provision authorizes the EPA to assess a $1,500 tax per 
+ton of methane emissions on energy producers, transmission, storage, 
+processors, import and export, and pipelines. As a result, gas prices 
+will continue to skyrocket, heating bills will increase up to $242 per 
+year, and thousands of jobs could be eliminated in the economy.
+  Madam Speaker, Americans will physically feel the effects of 
+Democrats' senseless tax hike when choosing whether they can afford to 
+heat their homes this winter. Instead of addressing our country's 
+energy crisis at hand, Democrats are actively working to make it worse.
+  Madam Speaker, I urge my colleagues to consider these chilling 
+effects and vote against the Democrats' reckless reconciliation 
+package.
+
+                          ____________________
+```

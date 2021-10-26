@@ -1,0 +1,44 @@
+---
+granule: CREC-2021-10-26-pt1-PgH5911-6
+date: 2021-10-26
+edition: CREC
+section: HOUSE
+page: H5911
+citation: 167 Cong. Rec. H5911
+---
+
+# HONORING AMERICA'S IMMIGRANTS
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+                     HONORING AMERICA'S IMMIGRANTS
+
+  (Mr. CORREA asked and was given permission to address the House for 1 
+minute.)
+  Mr. CORREA. Madam Speaker, today I rise to remind my colleagues of 
+the contributions that immigrants have made to our country.
+  I want to direct your attention to the poster next to me. This is 
+Corporal Jose Angel Garibay; he is a Dreamer who lived in my district 
+and joined the U.S. Marine Corps. Jose Angel Garibay was the first 
+serviceman from Orange County to be killed in action in Iraq. Jose 
+Angel Garibay was a Dreamer who made the ultimate sacrifice for 
+America.
+  Madam Speaker, if I can call your attention to a second poster. This 
+is Gregoria, a farmworker who has risked her life during the worldwide 
+pandemic to feed our country. Even during droughts and fire season in 
+California, these farmworkers still went to work to make sure that our 
+country was fed, and America was kept healthy. Gregoria has been living 
+and working in my district for 28 years. She is a mother and 
+breadwinner.
+  People like these two individuals, Gregoria and Jose Angel Garibay, 
+have
+
+[[Page H5912]]
+
+earned the right to American citizenship. Madam Speaker, I urge my 
+colleagues to continue to fight for a pathway to citizenship for 
+millions of individuals like Gregoria and Jose.
+
+                          ____________________
+```

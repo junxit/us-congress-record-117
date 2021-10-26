@@ -1,0 +1,130 @@
+---
+granule: CREC-2021-10-26-pt1-PgS7380-2
+date: 2021-10-26
+edition: CREC
+section: SENATE
+page: S7380
+citation: 167 Cong. Rec. S7380
+---
+
+# Text of Senate Amendment 3897
+
+**Speaking:** Stabenow, Debbie (S000770) [D-MI]
+
+```
+  SA 3897. Ms. STABENOW submitted an amendment intended to be proposed 
+to amendment SA 3867 submitted by Mr. Reed and intended to be proposed 
+to the bill H.R. 4350, to authorize appropriations for fiscal year 2022 
+for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+        At the end of subtitle C of title VIII, add the following:
+
+     SEC. 838. DEFENSE SUPPLY CHAIN RISK ASSESSMENT FRAMEWORK.
+
+       (a) In General.--Not later than one year after the date of 
+     the enactment of this Act, the Secretary of Defense shall 
+     establish a framework, which may be included as part of a 
+     framework developed under section 2509 of title 10, United 
+     States Code, and pursuant to recommendations provided under 
+     section 5 of Executive Order 14017 (86 Fed. Reg. 11849, 
+     relating to America's supply chains), to consolidate the 
+     information relating to risks to the defense supply chain 
+     that is collected by the elements of the Department of 
+     Defense to--
+       (1) enable Department-wide risk assessments of the defense 
+     supply chain; and
+       (2) support the development of strategies to mitigate risks 
+     to the defense supply chain.
+       (b) Framework Requirements.--The framework established 
+     under subsection (a) shall--
+       (1) provide for the collection, management, and storage of 
+     data from the supply chain risk management processes of the 
+     Department of Defense;
+       (2) provide for the collection of reports on supply chain 
+     risk management from the military departments and Defense 
+     Agencies, and the dissemination of such reports to the 
+     components of the military departments and Defense Agencies 
+     involved in the management of supply chain risk;
+       (3) enable all elements of the Department to analyze the 
+     information collected by such framework to identify risks to 
+     the defense supply chain;
+       (4) enable the Department to--
+       (A) assess the capabilities of foreign adversaries (as 
+     defined in section 8(c) of the Secure and Trusted 
+     Communications Networks Act of 2019 (47 U.S.C. 1607(c))) to 
+     affect the defense supply chain;
+       (B) analyze the ability of the industrial base of the 
+     United States to meet the needs of the defense supply chain;
+       (C) track global technology trends that could affect the 
+     defense supply chain, as determined by the Secretary of 
+     Defense; and
+       (D) assess the risks posed by emerging threats to the 
+     defense supply chain;
+       (5) support the identification of technology in which the 
+     Department may invest to reduce risks to the defense supply 
+     chain, including by improving the resilience of the defense 
+     supply; and
+       (6) provide for--
+       (A) a map of the supply chains for major end items that 
+     supports analysis, monitoring, and reporting with respect to 
+     high-risk subcontractors and risks to such supply chain; and
+       (B) the use of a covered application described in 
+     subsection (c) in the creation of such map to assess risks to 
+     the supply chain for major end items by business sector, 
+     vendor, program, part, or technology.
+       (c) Covered Application Described.--The covered application 
+     described in this subsection is a covered application that 
+     includes the following elements:
+       (1) A centralized database that consolidates multiple 
+     disparate data sources into a single repository to ensure the 
+     consistent availability of data.
+       (2) Centralized reporting to allow for efficient mitigation 
+     and remediation of identified supply chain vulnerabilities.
+       (3) Broad interoperability with other software and systems 
+     to ensure support for the analytical capabilities of user 
+     across the Department.
+       (4) Scalable technology to support multiple users, access 
+     controls for security, and functionality designed for 
+     information-sharing and collaboration.
+
+[[Page S7381]]
+
+       (d) Guidance.--Not later than 180 days after the framework 
+     required under subsection (a) is established, and regularly 
+     thereafter, the Secretary of Defense shall issue guidance on 
+     mitigating risks to the defense supply chain.
+       (e) Reports.--
+       (1) Progress report.--Not later than 180 days after the 
+     date of the enactment of this Act, the Secretary of Defense 
+     shall submit to the congressional defense committees a report 
+     on the progress of establishing the framework as required 
+     under subsection (a).
+       (2) Final report.--Not later than one year after the date 
+     of the enactment of this Act, the Secretary of Defense shall 
+     submit to the congressional defense committees a report 
+     describing the framework established under subsection (a) and 
+     the organizational structure to manage and oversee the 
+     framework.
+       (f) Definitions.--In this section:
+       (1) Covered application.--The term ``covered application'' 
+     means a software-as-a-service application that uses decision 
+     science, commercial data, and machine learning techniques.
+       (2) Defense agency; military department.--The terms 
+     ``Defense Agency'' and ``military department'' have the 
+     meanings given such terms in section 101 of title 10, United 
+     States Code.
+       (3) High-risk subcontractors.--The term ``high-risk 
+     subcontractor'' means a subcontractor at any tier that 
+     supplies major end items for the Department of Defense.
+       (4) Major end item.--The term ``major end item'' means an 
+     item subject to a unique item-level traceability requirement 
+     at any time in the life cycle of such item under Department 
+     of Defense Instruction 8320.04, titled ``Item Unique 
+     Identification (IUID) Standards for Tangible Personal 
+     Property'' and dated September 3, 2015, or any successor 
+     instruction.
+                                 ______
+```
