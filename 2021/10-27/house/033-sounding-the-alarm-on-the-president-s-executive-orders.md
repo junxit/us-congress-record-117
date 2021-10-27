@@ -1,0 +1,36 @@
+---
+granule: CREC-2021-10-27-pt1-PgH5955-4
+date: 2021-10-27
+edition: CREC
+section: HOUSE
+page: H5955
+citation: 167 Cong. Rec. H5955
+---
+
+# SOUNDING THE ALARM ON THE PRESIDENT'S EXECUTIVE ORDERS
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+         SOUNDING THE ALARM ON THE PRESIDENT'S EXECUTIVE ORDERS
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KELLER. Madam Speaker, with executive order after executive 
+order, President Biden dismantled America's energy dominance. In the 
+first days of his administration, President Biden killed the Keystone 
+pipeline, paused new oil and gas production on U.S. lands, and 
+destroyed thousands of good-paying jobs.
+  My Republican colleagues and I sounded the alarm knowing that this 
+type of short-sighted policy would have a devastating impact on our 
+economy and national security. Now energy prices are rising with winter 
+quickly approaching, and hidden deep in the Democrats' reconciliation 
+plan is a tax on heating your home, Madam Speaker, that could leave 
+Americans paying 50 percent more to keep warm this winter.
+  That is absurd. To make it worse, President Biden said he doesn't 
+have a near-term answer for America's energy crisis. Well, we 
+Republicans do. We have an answer. It starts with reversing Biden's 
+harmful energy policies and investing in American energy.
+
+                          ____________________
+```

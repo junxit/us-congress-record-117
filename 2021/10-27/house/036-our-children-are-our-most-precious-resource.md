@@ -1,0 +1,40 @@
+---
+granule: CREC-2021-10-27-pt1-PgH5956
+date: 2021-10-27
+edition: CREC
+section: HOUSE
+page: H5956
+citation: 167 Cong. Rec. H5956
+---
+
+# OUR CHILDREN ARE OUR MOST PRECIOUS RESOURCE
+
+**Speaking:** Bowman, Jamaal (B001223) [D-NY]
+
+```
+              OUR CHILDREN ARE OUR MOST PRECIOUS RESOURCE
+
+  (Mr. BOWMAN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BOWMAN. Madam Speaker, prior to coming to Congress, I worked in 
+education for 20 years. I served as a public school elementary teacher, 
+a high school counselor, and a middle school principal for 10\1/2\ 
+years, and I can tell you without a doubt that the Build Back Better 
+Act is going to be transformative for our democracy for generations to 
+come.
+  The reasons are many, including climate change and investments in 
+home care; however, our investments in our children, particularly in 
+early childhood education, focusing on expanding the child tax credit, 
+universal pre-K programs, and making sure we have almost universal 
+childcare, will prepare our children--our babies--to enter kindergarten 
+hitting the ground running.
+  As we know, when we invest in early childhood education, we have much 
+better health, education, and economic outcomes with decreased costs in 
+prison as well as healthcare.
+  So this is an exciting time, and I am blessed to be a part of this 
+Congress during this time. I just want to celebrate the Build Back 
+Better Act's investment in our youngest, most precious resource: our 
+babies and our children.
+
+                          ____________________
+```

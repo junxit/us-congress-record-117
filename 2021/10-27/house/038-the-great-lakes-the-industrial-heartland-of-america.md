@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-10-27-pt1-PgH5956-3
+date: 2021-10-27
+edition: CREC
+section: HOUSE
+page: H5956
+citation: 167 Cong. Rec. H5956
+---
+
+# THE GREAT LAKES: THE INDUSTRIAL HEARTLAND OF AMERICA
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+          THE GREAT LAKES: THE INDUSTRIAL HEARTLAND OF AMERICA
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute.)
+  Ms. KAPTUR. Madam Speaker, I thought I would like to place on the 
+record this afternoon the fact that very important negotiations are 
+going on on both sides of the Capitol relative to the infrastructure 
+bill and the Build Back Better bill, and I just wanted to point out to 
+all those who hear my voice that there is no one from the Great Lakes a 
+party to those dialogues with a major position in either Chamber.
+  I think it is really important to sensitize those who are in the room 
+that whatever they do, don't forget the industrial heartland of 
+America.
+  Our fine leaders in both parties come from both coasts and they come 
+from other regions of the country, but the industrial heartland is 
+notable by its absence in those in the rooms who are doing the 
+negotiation.
+  I know if we alert them to the fact that we exist and that we have 
+huge needs ranging from rail freight to seaborne commerce to industrial 
+revitalization--the list is very long--but I just wanted to point that 
+fact out. I know if my voice is heard by the administration and by 
+those in the respective committees they will respond accordingly.
+  Madam Speaker, I am grateful for the opportunity to place these words 
+on the record.
+
+                          ____________________
+```

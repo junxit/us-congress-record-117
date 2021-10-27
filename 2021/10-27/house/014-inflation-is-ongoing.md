@@ -1,0 +1,43 @@
+---
+granule: CREC-2021-10-27-pt1-PgH5936-6
+date: 2021-10-27
+edition: CREC
+section: HOUSE
+page: H5936
+citation: 167 Cong. Rec. H5936
+---
+
+# INFLATION IS ONGOING
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                              {time}  1215
+                          INFLATION IS ONGOING
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+
+[[Page H5937]]
+
+  
+
+  Mr. WILSON of South Carolina. Mr. Speaker, sadly the Biden inflation 
+is ongoing, and families are struggling to survive as jobs are being 
+destroyed.
+  Last month I shared the Labor Department report the Consumer Price 
+Index for August was rising at the fastest pace in 13 years. This 
+continued in September, and here are a few price increase examples: 
+gasoline up 42.1 percent; gas utilities up 20.6 percent; bacon up 19.3 
+percent; eggs up 12.6 percent; children's shoes up 11.9 percent; fresh 
+fish and seafood up 10.7 percent.
+  Biden tax-and-spend policies cause inflation and destroy jobs. 
+Clearly, the Democrat elite think they are smarter than anyone with the 
+Democrat voters they see as ignorant making a claim that $3.5 trillion 
+will have zero costs.
+  In conclusion, God bless our troops, who successfully protected 
+America for 20 years as the global war on terrorism continues, moving 
+from Afghanistan to America.
+
+                          ____________________
+```
