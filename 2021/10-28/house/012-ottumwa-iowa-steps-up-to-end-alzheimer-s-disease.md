@@ -1,0 +1,36 @@
+---
+granule: CREC-2021-10-28-pt1-PgH5962-3
+date: 2021-10-28
+edition: CREC
+section: HOUSE
+page: H5962
+citation: 167 Cong. Rec. H5962
+---
+
+# OTTUMWA, IOWA, STEPS UP TO END ALZHEIMER'S DISEASE
+
+**Speaking:** Miller-Meeks, Mariannette (M001215) [R-IA]
+
+```
+           OTTUMWA, IOWA, STEPS UP TO END ALZHEIMER'S DISEASE
+
+  (Mrs. MILLER-MEEKS asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. MILLER-MEEKS. Madam Speaker, I rise today to recognize a group 
+of people from my hometown of Ottumwa for taking part in a great event 
+for an even greater cause.
+  On October 23, 37 teams, comprised of 170 participants, took part in 
+the 2021 Walk to End Alzheimer's in my hometown of Ottumwa.
+  The annual walk, led by the Alzheimer's Association, is held in over 
+600 communities across the United States to raise funds for research 
+and to raise awareness for the disease that over 5.8 million Americans 
+currently live with, as did my mother prior to her death.
+  This year, I am proud to announce that the Walk to End Alzheimer's in 
+Ottumwa has raised $27,636 thus far, with donations still coming in, 
+exceeding their initial goal of $26,000.
+  Thank you to the residents of Ottumwa and the over 600 communities 
+across the United States who have stepped up and stepped forward to put 
+an end to this debilitating disease.
+
+                          ____________________
+```

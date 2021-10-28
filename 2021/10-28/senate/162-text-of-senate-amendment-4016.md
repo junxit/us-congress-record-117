@@ -1,0 +1,173 @@
+---
+granule: CREC-2021-10-28-pt1-PgS7501-4
+date: 2021-10-28
+edition: CREC
+section: SENATE
+page: S7501
+citation: 167 Cong. Rec. S7501
+---
+
+# Text of Senate Amendment 4016
+
+**Speaking:** Kelly, Mark (K000377) [D-AZ]
+
+```
+  SA 4016. Mr. KELLY (for himself, Mrs. Feinstein, Mr. Wyden, and Ms. 
+Sinema) submitted an amendment intended to be proposed to amendment SA 
+3867 submitted by Mr. Reed and intended to be proposed to the bill H.R. 
+4350, to authorize appropriations for fiscal year 2022 for military 
+activities of the Department of Defense, for military construction, and 
+for defense activities of the Department of Energy, to prescribe 
+military personnel strengths for such fiscal year, and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+        At the appropriate place in title X, insert the following:
+
+     SEC. ____ BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN 
+                   EDUCATION MODERNIZATION.
+
+       (a) Clarifying Amendments to Definitions.--Section 1403 of 
+     the Barry Goldwater Scholarship and Excellence in Education 
+     Act (20 U.S.C. 4702) is amended--
+       (1) by striking paragraph (5) and inserting the following:
+       ``(5) The term `State' means each of the 50 States, the 
+     District of Columbia, the Commonwealth of Puerto Rico, Guam, 
+     the United States Virgin Islands, American Samoa, the 
+     Commonwealth of the Northern Marianas, the Republic of the 
+     Marshall Islands, the Federated States of Micronesia, and the 
+     Republic of Palau.''; and
+       (2) in paragraph (6) by inserting ``, a resident of a 
+     State,'' after ``national of the United States''.
+       (b) Barry Goldwater Scholarship and Excellence in Education 
+     Awards.--
+       (1) Section 1405(a) of the Barry Goldwater Scholarship and 
+     Excellence in Education Program (20 U.S.C. 4704(a)) is 
+     amended--
+       (A) in the subsection heading, by striking ``Award of 
+     Scholarships and Fellowships'' and inserting ``Award of 
+     Scholarships, Fellowships, and Research Internships'';
+       (B) in paragraph (1)--
+       (i) by striking ``scholarships and fellowships'' and 
+     inserting ``scholarships, fellowships, and research 
+     internships''each place the term appears; and
+       (ii) by striking ``science and mathematics'' and inserting 
+     ``the natural sciences, engineering, and mathematics'';
+       (C) in paragraph (2), by striking ``mathematics and the 
+     natural sciences'' and inserting ``the natural sciences, 
+     engineering, and mathematics'';
+       (D) in paragraph (3), by striking ``mathematics and the 
+     natural sciences'' and inserting ``the natural sciences, 
+     engineering, and mathematics'';
+       (E) by redesignating paragraph (4) as paragraph (5);
+       (F) in paragraph (5), as so redesignated, by striking 
+     ``scholarships and fellowships'' and inserting 
+     ``scholarships, fellowships, and research internships''; and
+       (G) by inserting after paragraph (3) the following:
+       ``(4) Research internships shall be awarded to outstanding 
+     undergraduate students who intend to pursue careers in the 
+     natural sciences, engineering, and mathematics, which shall 
+     be prioritized for students attending community colleges.''.
+       (2) Section 1405(b) of the Barry Goldwater Scholarship and 
+     Excellence in Education Program (20 U.S.C. 4704(b)) is 
+     amended by adding at the end the following: ``Recipients of 
+     research internships under this title shall be known as 
+     `Barry Goldwater Interns'.''
+       (c) Stipends.--Section 1406 of the Barry Goldwater 
+     Scholarship and Excellence in Education Act (20 U.S.C. 4705) 
+     is amended by adding at the end the following: ``Each person 
+     awarded a research internship under this title shall receive 
+     a stipend as may be prescribed by the Board, which shall not 
+     exceed the maximum stipend amount awarded for a scholarship 
+     or fellowship.''
+       (d) Scholarship and Research Internship Conditions.--
+     Section 1407 of the Barry Goldwater Scholarship and 
+     Excellence in Education Act (20 U.S.C. 4706) is amended--
+       (1) in the section heading, by inserting ``and research 
+     internship'' after ``scholarship'';
+       (2) in subsection (a), by striking the subsection heading 
+     and inserting ``Scholarship Conditions'';
+       (3) in subsection (b), by striking the subsection heading 
+     and inserting ``Reports on Scholarships''; and
+       (4) by inserting at the end the following:
+       ``(c) Research Internship Conditions.--A person awarded a 
+     research internship under this title may receive payments 
+     authorized under this title only during such periods as the 
+     Foundation finds that the person is maintaining satisfactory 
+     proficiency and is not engaging in gainful employment other 
+     than employment approved by the Foundation pursuant to 
+     regulations of the Board.
+       ``(d) Reports on Research Internships.--The Foundation may 
+     require reports containing such information in such form and 
+     to be filed at such times as the Foundation determines to be 
+     necessary from any person awarded a research internship under 
+     this title. Such reports may be accompanied by a certificate 
+     from an appropriate official at the institution of higher 
+     education or internship employer, approved by the Foundation, 
+     stating that such person is maintaining satisfactory progress 
+     in the internship, and is not engaged in gainful employment, 
+     except as otherwise provided in subsection (c).''.
+       (e) Sustainable Investments of Funds.--Section 1408 of the 
+     Barry Goldwater Scholarship and Excellence in Education Act 
+     (20 U.S.C. 4707) is amended--
+       (1) in subsection (a), by striking ``subsection (d)'' and 
+     inserting ``subsection (f)'';
+
+[[Page S7502]]
+
+       (2) by redesignating subsections (c) and (d) as subsections 
+     (e) and (f), respectively; and
+       (3) by inserting after subsection (b) the following:
+       ``(c) Investment in Securities.--Notwithstanding subsection 
+     (b), the Secretary of the Treasury may invest not more than 
+     40 percent of the fund's assets in securities other than 
+     public debt securities of the United States, if--
+       ``(1) the Secretary receives a determination from the Board 
+     that such investments are necessary to enable the Foundation 
+     to carry out the purposes of this title; and
+       ``(2) the securities in which such funds are invested are 
+     traded in established United States markets.
+       ``(d) Construction.--Nothing in this section shall be 
+     construed to limit the authority of the Board to increase the 
+     number of scholarships provided under section 1405, or to 
+     increase the amount of the stipend authorized by section 
+     1406, as the Board considers appropriate and is otherwise 
+     consistent with the requirements of this title.''.
+       (f) Administrative Provisions.--Section 1411(a) of the 
+     Barry Goldwater Scholarship and Excellence in Education Act 
+     (20 U.S.C. 4710(a)) is amended--
+       (1) by striking paragraph (1) and inserting the following:
+       ``(1) appoint and fix the rates of basic pay of such 
+     personnel (in addition to the Executive Secretary appointed 
+     under section 1410) as may be necessary to carry out the 
+     provisions of this chapter, without regard to the provisions 
+     in chapter 33 of title 5, United States Code, governing 
+     appointment in the competitive service or the provisions of 
+     chapter 51 and subchapter III of chapter 53 of such title, 
+     except that--
+       ``(A) a rate of basic pay set under this paragraph may not 
+     exceed the maximum rate provided for employees in grade GS-15 
+     of the General Schedule under section 5332 of title 5, United 
+     States Code; and
+       ``(B) the employee shall be entitled to the applicable 
+     locality-based comparability payment under section 5304 of 
+     title 5, United States Code, subject to the applicable 
+     limitation established under subsection (g) of such 
+     section;'';
+       (2) in paragraph (2) by striking ``grade GS-18 under 
+     section 5332 of such title'' and inserting ``level IV of the 
+     Executive Schedule'';
+       (3) in paragraph (7), by striking ``and'' at the end;
+       (4) by redesignating paragraph (8) as paragraph (10); and
+       (5) by inserting after paragraph (7) the following:
+       ``(8) expend not more than 5 percent of the Foundation's 
+     annual operating budget on programs that, in addition to or 
+     in conjunction with the Foundation's scholarship financial 
+     awards, support the development of Barry Goldwater Scholars 
+     and Barry Goldwater interns throughout their professional 
+     careers;
+       ``(9) expend not more than 5 percent of the Foundation's 
+     annual operating budget to pay the costs associated with 
+     fundraising activities, including public and private 
+     gatherings; and''.
+                                 ______
+```
