@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-11-02-pt1-PgS7686-5
+date: 2021-11-02
+edition: CREC
+section: SENATE
+page: S7686
+citation: 167 Cong. Rec. S7686
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate November 2, 2021:
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       JONATHAN DAVIDSON, OF MARYLAND, TO BE DEPUTY UNDER 
+     SECRETARY OF THE TREASURY.
+
+
+                          DEPARTMENT OF STATE
+
+       DAVID L. COHEN, OF PENNSYLVANIA, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO CANADA.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE RESERVE 
+     OF THE AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. JOHN D. CAINE
+```

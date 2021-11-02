@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-11-02-pt1-PgH6083-5
+date: 2021-11-02
+edition: CREC
+section: HOUSE
+page: H6083
+citation: 167 Cong. Rec. H6083
+---
+
+# OPPOSING DEPARTMENT OF DEFENSE VACCINE MANDATE
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+             OPPOSING DEPARTMENT OF DEFENSE VACCINE MANDATE
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I rise today in opposition to the 
+Department of Defense's vaccine mandate.
+  My district is home to the Sierra Army Depot in Lassen County, which 
+uses a large contingent of civilian military contractors. Sierra Army 
+Depot repairs equipment, salvages old tanks and armored carriers for 
+platforms that are still serviceable.
+  Over the past year, the depot has served as the Army's global storage 
+and distribution center for COVID-19 testing kits and personal 
+protective equipment. As a Nation, we leaned on the Sierra Army Depot, 
+and other similar ones around the country, to protect our 
+servicemembers while they were busy protecting us. They put it on the 
+line during the worst of the pandemic and didn't question it.
+  Now, the Biden administration is planning to fire hundreds of these 
+contractors because they have not made the personal choice to be 
+vaccinated with emergency-use vaccines, two of which are still under 
+emergency-use authorization.
+  After a year, putting the weight of the Army on this workforce, 
+asking them to work overtime and get the job done, and take the risks 
+we did not know about a year and a half ago, the President is going to 
+fire them? Is that really the kind of message we want to send to our 
+military?
+
+                          ____________________
+```
