@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-11-03-pt1-PgH6131-5
+date: 2021-11-03
+edition: CREC
+section: HOUSE
+page: H6131
+citation: 167 Cong. Rec. H6131
+---
+
+# ADDRESSING AMERICA'S ENERGY CRISIS
+
+**Speaking:** Stauber, Pete (S001212) [R-MN]
+
+```
+                   ADDRESSING AMERICA'S ENERGY CRISIS
+
+  (Mr. STAUBER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. STAUBER. Madam Speaker, this time last year, America was energy 
+independent. Now our Nation is facing a full-blown energy crisis, 
+leaving the American people to ask, ``What changed?''
+  Well, the answer is simple.
+  Unlike the Trump administration, the Biden administration is 
+determined to make it more difficult for American energy producers to 
+develop affordable and reliable energy here at home.
+  On his first day in office, Joe Biden canceled the Keystone pipeline. 
+Soon after, he banned all new oil and gas leases on Federal lands. As a 
+result, Americans are paying exponentially more at the pump with gas 
+prices reaching a 7-year high. And this winter, the cost to heat our 
+homes is expected to jump 54 percent.
+  As the top Republican on the Subcommittee on Energy and Mineral 
+Resources, I have been disappointed to see Joe Biden and Democrats in 
+Congress double down on their failed agenda by pushing a $5.5 trillion 
+tax-and-spend package that will only increase our energy prices.
+  Instead of canceling commonsense energy projects, let's empower 
+American energy workers to do what they do best. Instead of targeting 
+American energy companies, let's make it easier for them to increase 
+domestic oil and gas production.
+  If we do this, the next century can be an American century.
+
+                          ____________________
+```
