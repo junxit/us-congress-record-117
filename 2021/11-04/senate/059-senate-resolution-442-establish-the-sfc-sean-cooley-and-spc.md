@@ -1,0 +1,85 @@
+---
+granule: CREC-2021-11-04-pt1-PgS7798-2
+date: 2021-11-04
+edition: CREC
+section: SENATE
+page: S7798
+citation: 167 Cong. Rec. S7798
+---
+
+# SENATE RESOLUTION 442--ESTABLISH THE SFC SEAN COOLEY AND SPC CHRISTOPHER HORTON CONGRESSIONAL GOLD STAR FAMILY FELLOWSHIP PROGRAM FOR THE SENATE, AND FOR OTHER PURPOSES
+
+**Measures:** H.Res. 107, S.Res. 442
+
+```
+     SENATE RESOLUTION 442--ESTABLISH THE SFC SEAN COOLEY AND SPC 
+ CHRISTOPHER HORTON CONGRESSIONAL GOLD STAR FAMILY FELLOWSHIP PROGRAM 
+                 FOR THE SENATE, AND FOR OTHER PURPOSES
+
+  Mrs. BLACKBURN (for herself, Mr. Crapo, Ms. Sinema, Ms. Rosen, Ms. 
+Ernst, Ms. Hassan, Mr. Scott of Florida, Mr. Peters, Mr. Cramer, Mr. 
+Hagerty, Mr. Hoeven, Mr. Wicker, and Mr. Warnock) submitted the 
+following resolution; which was considered and agreed to:
+
+                              S. Res. 442
+
+       Resolved,
+
+     SECTION 1. SFC SEAN COOLEY AND SPC CHRISTOPHER HORTON 
+                   CONGRESSIONAL GOLD STAR FAMILY FELLOWSHIP 
+                   PROGRAM.
+
+       (a) Definitions.--In this section--
+       (1) the term ``eligible individual'' means an individual 
+     who meets the eligibility criteria established under 
+     subsection (d)(1)(A);
+       (2) the term ``Program'' means the SFC Sean Cooley and SPC 
+     Christopher Horton Congressional Gold Star Family Fellowship 
+     Program established under subsection (b); and
+       (3) the term ``Sergeant at Arms'' means the Sergeant at 
+     Arms and Doorkeeper of the Senate.
+       (b) Establishment.--Not later than December 31, 2023, and 
+     subject to the availability of appropriations, the Sergeant 
+     at Arms shall establish a fellowship program to be known as 
+     the SFC Sean Cooley and SPC Christopher Horton Congressional 
+     Gold Star Family Fellowship Program for family members of 
+     members of the Armed Forces who die in the line of duty or of 
+     veterans who die of service-connected injuries.
+       (c) Fellowships.--Under the Program, an eligible individual 
+     may serve a 24-month fellowship in the office of a Senator.
+       (d) Administration.--
+       (1) In general.--The Committee on Rules and Administration 
+     of the Senate shall promulgate regulations for the 
+     administration of the Program, including establishing the 
+     criteria for--
+       (A) eligibility to participate in a fellowship under the 
+     Program; and
+       (B) a method of prioritizing the assignment of fellowships 
+     to the offices of Senators under the Program, if the amount 
+     made available to carry out the Program for a fiscal year is 
+     not enough to provide fellowships in all offices requesting 
+     to participate in the Program for such fiscal year.
+       (2) Placement.--An eligible individual may serve in a 
+     fellowship under the Program at the office of a Senator in 
+     the District of Columbia or at a State office of the Senator.
+       (3) Authority for agreement.--The Sergeant at Arms may 
+     enter into an agreement with the Chief Administrative Officer 
+     of the House of Representatives for the joint operation of 
+     the Program, the Congressional Gold Star Family Fellowship 
+     Program established under House Resolution 107, 116th 
+     Congress, agreed to October 29, 2019, and the Wounded Warrior 
+     Fellowship Program carried out by the Chief Administrative 
+     Officer.
+       (e) Exclusion of Appointees for Purposes of Compensation 
+     Limits.--The compensation paid to any eligible individual
+
+[[Page S7799]]
+
+     serving in a fellowship under the Program in the office of a 
+     Senator shall not be included in the determination of the 
+     aggregate gross compensation for employees employed by the 
+     Senator under section 105(d)(1) of the Legislative Branch 
+     Appropriation Act, 1968 (20 U.S.C. 4575(d)(1)).
+
+                          ____________________
+```

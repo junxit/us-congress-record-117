@@ -1,0 +1,39 @@
+---
+granule: CREC-2021-11-04-pt1-PgH6192-3
+date: 2021-11-04
+edition: CREC
+section: HOUSE
+page: H6192
+citation: 167 Cong. Rec. H6192
+---
+
+# BUILD BACK BETTER--AN AMERICAN PLAN
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+                  BUILD BACK BETTER--AN AMERICAN PLAN
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COHEN. The President is trying to help America, help the middle 
+class, help the forgotten.
+  The Build Back Better bill will give people childcare that they need 
+and women to go to work. It will give a child tax credit and make it 
+permanent, lifting half the children in this country out of poverty. It 
+will give elderly people who are infirm and need to be at home elderly 
+in-home care so they can stay in their homes. That is wonderful for 
+those people, something they need.
+  It will provide for family and medical leave, something every other 
+industrial country in the world has. It will put $500 billion in 
+unbelievable investment in the future of our planet, on climate 
+controls, and credits for folks to go into renewables and solar and 
+heat, wind-powered energy, and improving the electrical grid.
+  It will do many wonderful things, and it is all paid for. And the 
+only Americans paying more in taxes are those making $10 million and 
+above, they will pay a surtax.
+  Madam Speaker, it is a great plan. It is an American plan. It should 
+be a bipartisan plan. And I am for it. Thank you, President Biden.
+
+                          ____________________
+```

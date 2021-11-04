@@ -1,0 +1,44 @@
+---
+granule: CREC-2021-11-04-pt1-PgH6189-3
+date: 2021-11-04
+edition: CREC
+section: HOUSE
+page: H6189
+citation: 167 Cong. Rec. H6189
+---
+
+# SUPPORTING THE SECOND AMENDMENT
+
+**Speaking:** Miller, Mary E. (M001211) [R-IL]
+
+```
+                    SUPPORTING THE SECOND AMENDMENT
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Illinois (Mrs. Miller) for 5 minutes.
+  Mrs. MILLER of Illinois. Mr. Speaker, President Biden and the 
+Democrats want to defund the police, take away your Second Amendment 
+right to self-defense, and then stand by and watch crime skyrocket in 
+cities like Chicago.
+  The new push by the left, intended to diminish your Second Amendment 
+rights, is to pass so-called red-flag gun confiscation laws.
+  This is a disguised attempt by Congressional Democrats and some 
+Republicans to seize lawfully owned firearms and violate the Second 
+Amendment rights of American citizens.
+  Congressional Democrats and some Republicans voted to pass the 
+National Defense Authorization Act, which includes red-flag gun 
+confiscation provisions.
+  I urge the Senate to reject red-flag gun confiscation provisions in 
+the NDAA.
+  I will always stand up for the Second Amendment rights of my 
+constituents.
+  Shootings in Chicago are up 220 percent due to the pro-crime policies 
+of the left. Businesses and citizens are leaving Illinois at a record 
+number. Officers are retiring from the Chicago police force at a record 
+pace.
+  Our Second Amendment right to defend our home and family has never 
+been more important. I will always stand up for the Constitution and 
+for the safety of the people in Illinois.
+
+                          ____________________
+```
