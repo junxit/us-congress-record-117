@@ -1,0 +1,34 @@
+---
+granule: CREC-2021-11-05-pt1-PgH6212-4
+date: 2021-11-05
+edition: CREC
+section: HOUSE
+page: H6212
+citation: 167 Cong. Rec. H6212
+---
+
+# CRISIS AT THE BORDER
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ]
+
+```
+                          CRISIS AT THE BORDER
+
+  (Mr. BIGGS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BIGGS. Madam Speaker, while the border is porous and 200,000 
+people are being apprehended every month, another 100,000 are illegally 
+entering who we don't know where they are coming from. They are not 
+caught; they are gotaways this administration is going to offer 
+$450,000.
+  What is interesting about that is the President himself said he 
+didn't know about it. He has had to walk that back, hasn't he?
+  So there will be $450,000 offered to a certain segment of illegal 
+migrants. Not only that, we will continue to see opioids, fentanyl. We 
+will see additional drugs and human trafficking continue across our 
+border until we secure our border. I am hoping this administration will 
+make that a priority rather than ignoring it and encouraging people to 
+come across our border.
+
+                          ____________________
+```
