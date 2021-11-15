@@ -1,0 +1,187 @@
+---
+granule: CREC-2021-11-15-pt1-PgS8090
+date: 2021-11-15
+edition: CREC
+section: SENATE
+page: S8090
+citation: 167 Cong. Rec. S8090
+---
+
+# Text of Senate Amendment 4558
+
+**Speaking:** Menendez, Robert (M000639) [D-NJ]
+
+```
+  SA 4558. Mr. MENENDEZ (for himself and Mrs. Blackburn) submitted an 
+amendment intended to be proposed to amendment SA 3867 submitted by Mr. 
+Reed and intended to be proposed to the bill H.R. 4350, to authorize 
+appropriations for fiscal year 2022 for military activities of the 
+Department of Defense, for military construction, and for defense 
+activities of the Department of Energy, to prescribe military personnel 
+strengths for such fiscal year, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+        At the appropriate place in title X, insert the following:
+
+     SEC. ____. NATIONAL MANUFACTURING EXTENSION PARTNERSHIP 
+                   SUPPLY CHAIN DATABASE.
+
+       (a) Definitions.--In this section:
+       (1) Center.--The term ``Center'' has the meaning given such 
+     term in section 25(a) of the National Institute of Standards 
+     and Technology Act (15 U.S.C. 278k(a)).
+       (2) Database.--The term ``Database'' means the National 
+     Manufacturing Extension Partnership Supply Chain Database 
+     established under subsection (b).
+       (3) Director.--The term ``Director'' means the Director of 
+     the National Institute of Standards and Technology.
+       (4) Institute.--The term ``Institute'' means the National 
+     Institute of Standards and Technology.
+       (b) Establishment of Database.--
+       (1) In general.--Subject to the availability of 
+     appropriations, the Director shall establish a database to 
+     assist the United States in minimizing disruptions in the 
+     supply chain by providing a resource for manufacturers in the 
+     United States.
+       (2) Designation.--The database established under paragraph 
+     (1) shall be known as the ``National Manufacturing Extension 
+     Partnership Supply Chain Database''.
+       (c) Considerations.--In establishing the Database, the 
+     Director shall consider the findings and recommendations from 
+     the study required under section 9413 of the William M. (Mac) 
+     Thornberry National Defense Authorization Act for Fiscal Year 
+     2021 (Public Law 116-283), including measures to secure and 
+     protect the Database from adversarial attacks and 
+     vulnerabilities.
+       (d) Connections With Hollings Manufacturing Extension 
+     Partnerships Centers.--
+       (1) In general.--The Director shall create the 
+     infrastructure for the Database through the Hollings 
+     Manufacturing Extension Partnership, established under 
+     section 25 of the National Institute of Standards and 
+     Technology Act (15 U.S.C. 278k), by connecting information 
+     from the Centers through the Database.
+       (2) National view.--The Director shall ensure that 
+     connections under paragraph (1)--
+       (A) provide a national overview of the networks of supply 
+     chains of the United States; and
+       (B) support understanding of whether there is a need for 
+     some manufacturers to retool in some critical areas to meet 
+     the urgent need for key products, such as defense supplies, 
+     food, and medical devices, including personal protective 
+     equipment.
+       (3) Individual hollings manufacturing extension partnership 
+     center databases.--
+       (A) In general.--The Director shall ensure that--
+       (i) each Center is connected to the Database; and
+       (ii) each supply chain database maintained by a Center is 
+     interoperable with the Database.
+       (B) Rule of construction.--Nothing in this section shall be 
+     construed to require a State or territory of the United 
+     States to establish a new supply chain database through the 
+     Hollings Manufacturing Extension Partnership program.
+       (e) Maintenance of National Supply Chain Database.--The 
+     Director, acting through the Hollings Manufacturing Extension 
+     Partnership program or a designee of the program--
+       (1) shall maintain the Database as an integration of State-
+     level databases from the Center of each State or territory of 
+     the United States; and
+       (2) may populate the Database with information from past, 
+     current, or potential clients of Centers.
+       (f) Database Content.--
+       (1) In general.--The Database may include the following:
+       (A) Basic company information.
+       (B) An overview of capabilities, accreditations, and 
+     products.
+       (C) Proprietary information.
+       (D) Such other items as the Director considers necessary.
+       (2) Standard classification system.--The Database shall use 
+     the North American Industry Classification System (NAICS) 
+     Codes as follows:
+       (A) Sector 31-33 - Manufacturing.
+       (B) Sector 54 - Professional, Scientific, and Technical 
+     Services.
+       (C) Sector 48-49 - Transportation and Warehousing.
+       (3) Levels.--The Database shall be multi-leveled as 
+     follows:
+       (A) Level 1 shall have basic company information and shall 
+     be available to the public.
+       (B) Level 2 shall have a deeper, nonproprietary overview 
+     into capabilities, products, and accreditations and shall be 
+     available to all companies that contribute to the Database 
+     and agree to terms of mutual disclosure.
+       (C) Level 3 shall hold proprietary information.
+       (4) Matters relating to disclosure and access.--
+       (A) FOIA exemption.--The Database, and any information 
+     contained therein that is not publicly released by the 
+     Institute, shall be exempt from public disclosure under 
+     section 552(b)(3) of title 5, United States Code.
+       (B) Limitation on access to content.--Access to a 
+     contributing company's nonpublic content in the Database 
+     shall be limited to the contributing company, the Institute, 
+     and staff from a Center who sign such nondisclosure agreement 
+     as the Director considers appropriate.
+       (C) Aggregated information.--The Director may make 
+     aggregated, de-identified information available to 
+     contributing companies, Centers, or the public, as the 
+     Director considers appropriate, in support of the purposes of 
+     this section.
+       (g) Coordination With National Technology and Industrial 
+     Base.--The Director, acting through the Hollings 
+     Manufacturing Extension Partnership program, may work with 
+     the National Defense Technology and Industrial Base Council 
+     established by section 2502(a) of title 10, United States 
+     Code, as the Director considers appropriate, to include in 
+     the Database information regarding the defense manufacturing 
+     supply chain.
+       (h) Protections.--
+       (1) In general.--Supply chain information that is 
+     voluntarily and lawfully submitted by a private entity and 
+     accompanied by an express statement described in paragraph 
+     (2)--
+       (A) shall be exempt from disclosure under section 552(b)(3) 
+     of title 5, United States Code;
+       (B) shall not be made available pursuant to any Federal, 
+     State, local, or Tribal authority pursuant to any Federal, 
+     State, local, or Tribal law requiring public disclosure of 
+     information or records; and
+       (C) shall not, without the written consent of the person or 
+     entity submitting such information, be used directly by the 
+     Director, or any other Federal, State, or local authority in 
+     any civil enforcement action brought by a Federal, State, or 
+     local authority.
+       (2) Express statement.--The express statement described in 
+     this paragraph, with respect to information or records, is--
+
+[[Page S8091]]
+
+       (A) in the case of written information or records, a 
+     written marking on the information or records substantially 
+     similar to the following: ``This information is voluntarily 
+     submitted to the Federal Government in expectation of 
+     protection from disclosure as provided by the provisions of 
+     section [___](h) of the National Defense Authorization Act 
+     for Fiscal Year 2022.''; or
+       (B) in the case of oral information, a written statement 
+     similar to the statement described in subparagraph (A) 
+     submitted within a reasonable period following the oral 
+     communication.
+       (i) Rules of Construction.--
+       (1) Private entities.--Nothing in this section shall be 
+     construed to require any private entity to share data with 
+     the Director specifically for to the Database.
+       (2) Prohibition on new regulatory authority.--Nothing in 
+     this section shall be construed to grant the Director, or the 
+     head of any other Federal agency, with any authority to 
+     promulgate regulations or set standards on manufacturers, 
+     based on data within the Database, that was not in effect on 
+     the day before the date of enactment of this section.
+       (j) Authorization of Appropriations.--There are authorized 
+     to be appropriated--
+       (1) $31,000,000 for fiscal year 2022 to develop and launch 
+     the Database; and
+       (2) $26,000,000 for each of fiscal years 2023 through 2026 
+     to maintain, update, and support Federal coordination of the 
+     State supply chain databases maintained by the Centers.
+                                 ______
+```

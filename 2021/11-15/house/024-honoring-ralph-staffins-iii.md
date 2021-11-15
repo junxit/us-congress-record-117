@@ -1,0 +1,46 @@
+---
+granule: CREC-2021-11-15-pt1-PgH6258-2
+date: 2021-11-15
+edition: CREC
+section: HOUSE
+page: H6258
+citation: 167 Cong. Rec. H6258
+---
+
+# HONORING RALPH STAFFINS, III
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                              {time}  1915
+                      HONORING RALPH STAFFINS, III
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to honor Ralph 
+Staffins, III, for being named a member of Georgia Trend's 40 Under 40 
+Class of 2021.
+  Since receiving his master of public administration from Georgia 
+College & State University, Ralph has passionately served businesses 
+across the State of Georgia. Most recently, Ralph served as the 
+president and CEO of the Brunswick Golden Isles Chamber of Commerce, 
+working hard to maintain its status as one of the best-run chambers in 
+the State of Georgia.
+  An important aspect of the chamber's success is preparing the next 
+generation to be valuable members of the workforce. Serving on the 
+boards of directors at the Coastal Pines Technical College and the 
+Golden Isles College and Career Academy Foundation, Ralph is a 
+committed advocate of workforce education. In every role, Ralph has 
+worked to ensure that businesses and communities across the State 
+flourished.
+  Ralph's dedication to his community is nothing short of remarkable. I 
+am honored to recognize Ralph for this prestigious accomplishment, and 
+I am thankful for his continued service throughout Georgia's First 
+Congressional District.
+
+[[Page H6259]]
+
+  
+
+                          ____________________
+```
