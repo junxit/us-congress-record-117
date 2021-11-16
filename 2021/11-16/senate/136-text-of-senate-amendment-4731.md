@@ -1,0 +1,119 @@
+---
+granule: CREC-2021-11-16-pt1-PgS8313
+date: 2021-11-16
+edition: CREC
+section: SENATE
+page: S8313
+citation: 167 Cong. Rec. S8313
+---
+
+# Text of Senate Amendment 4731
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+```
+  SA 4731. Mr. THUNE submitted an amendment intended to be proposed by 
+him to the bill H.R. 4350, to authorize appropriations for fiscal year 
+2022 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place in title X, insert the following:
+
+     SEC. ___. DEVELOPMENT AND TESTING OF DYNAMIC SCHEDULING AND 
+                   MANAGEMENT OF SPECIAL ACTIVITY AIRSPACE.
+
+       (a) Sense of Congress on Special Activity Airspace 
+     Scheduling and Management.--It is the sense of Congress 
+     that--
+       (1) where it does not conflict with safety, dynamic 
+     scheduling and management of special activity airspace (also 
+     referred to as ``dynamic airspace'') is expected to optimize 
+     the use of the national airspace system for all stakeholders; 
+     and
+       (2) the Administrator of the Federal Aviation 
+     Administration and the Secretary of Defense should take such 
+     actions as may be necessary to support ongoing efforts to 
+     develop dynamic scheduling and management of special activity 
+     airspace, including--
+       (A) the continuation of formal partnerships between the 
+     Federal Aviation Administration and the Department of Defense 
+     that focus on special activity airspace, future airspace 
+     needs, and joint solutions; and
+       (B) maturing research within their federally funded 
+     research and development centers, Federal partner agencies, 
+     and the aviation community.
+       (b) Pilot Program.--
+       (1) Pilot program required.--Not later than 90 days after 
+     the date of the enactment of this Act, the Administrator of 
+     the Federal Aviation Administration, in coordination with the 
+     Secretary of Defense, shall establish a pilot program on 
+     developing and testing dynamic management of special activity 
+     airspace in order to accommodate emerging military training 
+     requirements through flexible scheduling, along with 
+     increasing access to existing special activity airspace used 
+     by the Department of Defense for test and training.
+       (2) Testing of special activity airspace scheduling and 
+     management.--Under the pilot program established under 
+     paragraph (1), the Administrator and the Secretary shall 
+     jointly test not fewer than three areas of episodic or 
+     permanent special activity airspace designated by the Federal 
+     Aviation Administration for use by the Department of Defense, 
+     of which--
+       (A) at least one shall be over coastal waters of the United 
+     States;
+       (B) at least two shall be over land of the United States;
+       (C) access to airspace available for test and training is 
+     increased to accommodate dynamic scheduling of existing 
+     airspace to more efficiently and realistically provide test 
+     and training capabilities to Department of Defense aircrews; 
+     and
+       (D) any increase in access to airspace made available for 
+     test and training shall not conflict with the safe management 
+     of the national airspace system or the safety of all 
+     stakeholders of the national airspace system.
+       (c) Report by the Administrator.--
+       (1) In general.--Not less than two years after the date of 
+     the establishment of the pilot program under subsection 
+     (b)(1), the Administrator shall submit to the appropriate 
+     committees of Congress a report on the interim findings of 
+     the Administrator with respect to the pilot program.
+       (2) Elements.--The report submitted under paragraph (1) 
+     shall include the following:
+       (A) An analysis of how the pilot program established under 
+     subsection (b)(1) affected access to special activity 
+     airspace by nonmilitary users of the national airspace 
+     system.
+       (B) An analysis of whether the dynamic management of 
+     special activity airspace conducted for the pilot program 
+     established under subsection (b)(1) contributed to more
+
+[[Page S8314]]
+
+     efficient use of the national airspace system by all 
+     stakeholders.
+       (d) Report by the Secretary.--Not less than two years after 
+     the date of the establishment of the pilot program under 
+     subsection (b)(1), the Secretary shall submit to the 
+     appropriate committees of Congress a report on the interim 
+     findings of the Secretary with respect to the pilot program. 
+     Such report shall include an analysis of how the pilot 
+     program affected military test and training.
+       (e) Definitions.--In this section:
+       (1) The term ``appropriate committees of Congress'' means--
+       (A) the Committee on Commerce, Science, and Transportation 
+     and the Committee on Armed Services of the Senate; and
+       (B) the Committee on Transportation and Infrastructure, the 
+     Committee on Science, Space, and Technology, and the 
+     Committee on Armed Services of the House of Representatives.
+       (2) The term ``special activity airspace'' means the 
+     following airspace with defined dimensions within the 
+     National Airspace System wherein limitations may be imposed 
+     upon aircraft operations:
+       (A) Restricted areas.
+       (B) Military operations areas.
+       (C) Air Traffic Control assigned airspace.
+       (D) Warning areas.
+                                 ______
+```

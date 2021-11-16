@@ -1,0 +1,84 @@
+---
+granule: CREC-2021-11-16-pt1-PgS8242-2
+date: 2021-11-16
+edition: CREC
+section: SENATE
+page: S8242
+citation: 167 Cong. Rec. S8242
+---
+
+# SENATE RESOLUTION 450--DESIGNATING NOVEMBER 17, 2021, AS "NATIONAL GIS DAY"
+
+**Measures:** S.Res. 450
+
+```
+SENATE RESOLUTION 450--DESIGNATING NOVEMBER 17, 2021, AS ``NATIONAL GIS 
+                                 DAY''
+
+  Mr. RISCH submitted the following resolution; which was referred to 
+the Committee on the Judiciary:
+
+                              S. Res. 450
+
+       Whereas the management, use, and exchange of geographic 
+     information and geospatial data and analysis are essential 
+     for operations and decision making in Federal agencies;
+       Whereas Geographic Information System technology (referred 
+     to in this preamble as ``GIS'') embraces new and innovative 
+     ways to use, discover, and share geospatial data through 
+     online portals and web services;
+       Whereas GIS facilitates the sharing of geographic data, 
+     services, and maps within a digital domain;
+       Whereas GIS helps provide shared and trusted geospatial 
+     data, services, and applications for use--
+       (1) by the public; and
+       (2) by government agencies and partners of government 
+     agencies to carry out the missions of such agencies and 
+     partners;
+       Whereas GIS helps foster collaboration and partnerships to 
+     advance the National Spatial Data Infrastructure (referred to 
+     in this preamble as the ``NSDI'');
+       Whereas GIS provides a common framework for the Federal 
+     Government and State, Tribal, and local governments, non-
+     Federal partners, communities, constituents, and professional 
+     bodies for standards, data catalogs, partnerships, and tools 
+     that make up the NSDI;
+       Whereas GIS is used to investigate and address societal and 
+     cultural issues, including--
+       (1) local issues;
+       (2) global issues;
+       (3) issues from the past;
+       (4) issues in the present; and
+       (5) future issues identified through modeling;
+       Whereas GIS and related geospatial technologies are used in 
+     classrooms to engage students in science, technology, 
+     engineering, and mathematics (STEM) learning;
+       Whereas GIS is an interdisciplinary tool used by students, 
+     teachers, researchers, universities, local institutions, and 
+     practitioners in numerous fields and disciplines;
+       Whereas GIS fosters competition within the sector of 
+     geospatial technologies, which the Department of Labor 
+     considers to be a high-growth industry; and
+       Whereas many Federal agencies, State and local government 
+     agencies, nonprofit organizations, schools, libraries, and 
+     universities will join other persons around the world to 
+     showcase their GIS mapping and geospatial applications on 
+     November 17, 2021: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates November 17, 2021, as ``National GIS Day''; 
+     and
+       (2) encourages users of Geographic Information System 
+     technology (referred to in this resolution as ``GIS''), 
+     educators, students, and innovators to continue to employ 
+     GIS--
+       (A) to learn and explore;
+       (B) to analyze and address societal challenges; and
+       (C) to drive economic growth for the betterment of the 
+     people of the United States and individuals around the world.
+
+[[Page S8243]]
+
+  
+
+                          ____________________
+```

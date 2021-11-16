@@ -1,0 +1,45 @@
+---
+granule: CREC-2021-11-16-pt1-PgH6300-4
+date: 2021-11-16
+edition: CREC
+section: HOUSE
+page: H6300
+citation: 167 Cong. Rec. H6300
+---
+
+# AMERICAN SUPPLY CHAIN CRISIS
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                      AMERICAN SUPPLY CHAIN CRISIS
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, the American supply chain crisis has 
+reached a very critical point. A record number of container ships are 
+waiting to enter U.S. ports, especially off of L.A. and Long Beach. 
+They even miss the trip up to Oakland sometimes, too.
+  This leaves small businesses and grocery stores with empty shelves. 
+It leaves farmers and others that produce things in California and the 
+U.S. waiting and wondering if they can get their products on to ships.
+  At the same time, reckless spending has caused inflation for 
+Americans to skyrocket. Food on the shelves is more expensive. This 
+isn't just a problem for upper-class people, as some in the 
+administration are saying. This hits all Americans, especially those on 
+fixed incomes, really hard.
+  Now, a good thing, everyone saved 16 cents on their Fourth of July 
+barbecue that the Biden administration was touting recently; though 
+Thanksgiving is predicted to be the most expensive meal in the history 
+of the holiday this year.
+  The current inflation rate has forced households to spend another 
+$175 a month on food, fuel, and housing; let alone what is coming in 
+the home heating oil this winter.
+  Inflation has climbed over 6 percent in the last year, making it the 
+worst year since 1990, according to the Bureau of Labor Statistics.
+  We need to get to work solving this problem for the American people, 
+not focusing on unprecedented spending sprees.
+  Happy Thanksgiving, everybody.
+
+                          ____________________
+```

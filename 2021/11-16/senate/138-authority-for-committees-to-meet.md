@@ -1,0 +1,60 @@
+---
+granule: CREC-2021-11-16-pt1-PgS8314-2
+date: 2021-11-16
+edition: CREC
+section: SENATE
+page: S8314
+citation: 167 Cong. Rec. S8314
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** Murray, Patty (M001111) [D-WA]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mrs. MURRAY. Mr. President, I have 5 requests for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority Leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+               COMMITTEE ON ENERGY AND NATURAL RESOURCES
+
+  Committee on Energy and Natural Resources is authorized to meet 
+during the session of the Senate on Tuesday, November 16, 2021, at 
+10:00 a.m., to conduct a hearing.
+
+
+               COMMITTEE ON ENERGY AND NATURAL RESOURCES
+
+  The Committee on Energy and Natural Resources is authorized to meet 
+during the session of the Senate on Tuesday, November 16, 2021, at 
+10:00 a.m., to conduct a business meeting.
+
+
+                          COMMITTEE ON FINANCE
+
+  The Committee on Finance is authorized to meet during the session of 
+the Senate on Tuesday, November 16, 2021, at 10:15 a.m., to conduct a 
+hearing on nominations.
+
+
+                       COMMITTEE ON THE JUDICIARY
+
+  The Committee on the Judiciary is authorized to meet during the 
+session of the Senate on Tuesday, November 16, 2021, at 10:00 a.m., to 
+conduct a hearing.
+
+
+                    SELECT COMMITTEE ON INTELLIGENCE
+
+  The Select Committee on Intelligence is authorized to meet during the 
+session of the Senate on Tuesday, November 16, 2021, at 2:30 p.m., to 
+conduct a closed briefing.
+
+                          ____________________
+```
