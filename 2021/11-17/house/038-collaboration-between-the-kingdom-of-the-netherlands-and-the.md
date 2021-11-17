@@ -1,0 +1,46 @@
+---
+granule: CREC-2021-11-17-pt1-PgH6329
+date: 2021-11-17
+edition: CREC
+section: HOUSE
+page: H6329
+citation: 167 Cong. Rec. H6329
+---
+
+# COLLABORATION BETWEEN THE KINGDOM OF THE NETHERLANDS AND THE UNITED STATES
+
+**Speaking:** Huizenga, Bill (H001058) [R-MI]
+
+```
+  COLLABORATION BETWEEN THE KINGDOM OF THE NETHERLANDS AND THE UNITED 
+                                 STATES
+
+  (Mr. HUIZENGA asked and was given permission to address the House for 
+1 minute.)
+  Mr. HUIZENGA. Madam Speaker, I rise today to recognize a symbol of 
+true bilateral relations and collaboration between the Kingdom of the 
+Netherlands and the United States.
+  One hundred years ago, a group of Dutch Americans, including Franklin 
+D. Roosevelt, established the Netherland-America Foundation. The 
+creation of this foundation, commonly known as NAF, has spurred 
+innovation and cooperation between our two nations through engagement 
+with the arts, business, and public policy.
+  NAF works alongside the Caucus on the Kingdom of the Netherlands, 
+which I am proud to co-chair, to strengthen the existing relationship 
+between the United States and the Kingdom of the Netherlands.
+  The Dutch-American network has established deep connections 
+throughout both of our nations, which is evident by the many NAF 
+chapters spread from coast to coast here in the United States, 
+including in my home area of west Michigan, as well as the Netherlands.
+  One of the greatest examples of exchanges between our nations is the 
+prestigious NAF-Fulbright Fellowships that enable the foundation to 
+offer awards to Dutch and American scholars pursuing graduate study 
+degrees.
+  I am honored to recognize the Netherland-America Foundation and its 
+100-year record of success in celebrating our shared heritage and 
+enhancing our cultural exchange. These strong bonds will continue to 
+build on our past successes and develop a more prosperous and mutually 
+beneficial relationship in the future.
+
+                          ____________________
+```
