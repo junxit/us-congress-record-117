@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-11-18-pt1-PgS8441-8
+date: 2021-11-18
+edition: CREC
+section: SENATE
+page: S8441
+citation: 167 Cong. Rec. S8441
+---
+
+# ADAMS STATE UNIVERSITY CENTENNIAL
+
+**Speaking:** Bennet, Michael F. (B001267) [D-CO]
+
+```
+                   ADAMS STATE UNIVERSITY CENTENNIAL
+
+● Mr. BENNET. Madam President, it is my honor to congratulate 
+Adams State University on 100 years of educating students in Alamosa, 
+CO. The school was established on May 4, 1921, as Adams State Normal 
+School by the Colorado Legislature following the tireless advocacy of 
+Colorado State Representative William ``Billy'' H. Adams. Founded as a 
+teacher's college, Adams State now has more than 3,000 students 
+enrolled in 27 bachelor's degree programs, nine master's degree 
+programs, and one Ph.D. degree program.
+  Located in the San Luis Valley with deep Hispano roots, Adams State 
+was the first federally designated Hispanic serving institution in 
+Colorado. The school has also fostered an elite distance-running 
+culture over decades after hosting the U.S. Olympic Marathon Trials in 
+August 1968.
+  Over the past 100 years, Adams State has educated thousands of 
+community leaders, businessowners, doctors, attorneys, farmers and 
+ranchers, and, most
+
+[[Page S8442]]
+
+important, teachers and has been a key economic and cultural 
+educational institution for Alamosa and the entire San Luis 
+Valley.●
+
+                          ____________________
+```
