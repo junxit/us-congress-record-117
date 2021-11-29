@@ -1,0 +1,93 @@
+---
+granule: CREC-2021-11-29-pt1-PgS8784-8
+date: 2021-11-29
+edition: CREC
+section: SENATE
+page: S8784
+citation: 167 Cong. Rec. S8784
+---
+
+# Text of Senate Amendment 4845
+
+**Speaking:** Marshall, Roger (M001198) [R-KS]
+
+```
+  SA 4845. Mr. MARSHALL submitted an amendment intended to be proposed 
+to amendment SA 3867 proposed by Mr. Reed to the bill H.R. 4350, to 
+authorize appropriations for fiscal year 2022 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+        At the end of subtitle G of title XII, add the following:
+
+     SEC. 1283. IMPOSITION OF SANCTIONS WITH RESPECT TO CHINESE 
+                   AND RUSSIAN COMPANIES THAT SIGN CONTRACTS OR 
+                   OTHERWISE DO BUSINESS WITH THE TALIBAN IN 
+                   STRATEGIC RESOURCE SECTORS.
+
+       (a) In General.--The President shall impose the sanctions 
+     described in subsection (b) with respect to any covered 
+     foreign entity that, on or after the date of the enactment of 
+     this Act--
+       (1) signs a contract with the Taliban with respect to a 
+     strategic resource sector; or
+       (2) otherwise agrees to do business with the Taliban in a 
+     strategic resource sector.
+       (b) Sanctions.--
+       (1) Blocking of property.--
+       (A) In general.--The President shall exercise all of the 
+     powers granted to the President under the International 
+     Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the 
+     extent necessary to block and prohibit all transactions in 
+     property and interests in property of a covered foreign 
+     entity described in subsection (a) if such property and 
+     interests in property are in the United States, come within 
+     the United States, or are or come within the possession or 
+     control of a United States person.
+       (B) Penalties.--The penalties provided for in subsections 
+     (b) and (c) of section 206 of the International Emergency 
+     Economic Powers Act (50 U.S.C. 1705) shall apply to a person 
+     that violates, attempts to violate, conspires to violate, or 
+     causes a violation of any regulation, license, or order 
+     issued to carry out subparagraph (A) to the same extent that 
+     such penalties apply to a person that commits an unlawful act 
+     described in subsection (a) of that section.
+       (C) Implementation.--The President may exercise all 
+     authorities under sections 203 and 205 of the International 
+     Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to 
+     carry out this paragraph.
+       (2) Inclusion on entity list.--The President shall include 
+     any covered foreign entity described in subsection (a) on the 
+     entity list maintained by the Bureau of Industry and Security 
+     and set forth in Supplement No. 4 to part 744 of title 15, 
+     Code of Federal Regulations.
+       (c) Definitions.--In this section:
+       (1) Covered foreign entity.--The term ``covered foreign 
+     entity'' means--
+       (A) an entity organized under the laws of the People's 
+     Republic of China or the Russian Federation, including any 
+     jurisdiction within either such country; or
+       (B) a significant subsidiary (as defined in section 210.1-
+     02(w) of title 17, Code of Federal Regulations, or successor 
+     regulations) of an entity described in subparagraph (A).
+       (2) Critical mineral.--The term ``critical mineral'' means 
+     a critical mineral--
+       (A) included in the final list of critical minerals 
+     published by the Secretary of the Interior in the Federal 
+     Register on May 18, 2018 (83 Fed. Reg. 23295); or
+       (B) as defined in section 7002(a) of the Energy Act of 2020 
+     (30 U.S.C. 1606(a)).
+       (3) Strategic resource sector.--The term ``strategic 
+     resource sector'' means a sector of the economy relating to 
+     trade or investment in any critical mineral.
+       (4) United states person.--the term ``United States 
+     person'' means--
+       (A) a United States citizen or an alien lawfully admitted 
+     to the United States for permanent residence; and
+       (B) an entity organized under the laws of the United States 
+     or any jurisdiction within the United States (including any 
+     foreign branch of such an entity).
+                                 ______
+```
