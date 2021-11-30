@@ -1,0 +1,46 @@
+---
+granule: CREC-2021-11-30-pt1-PgH6679-8
+date: 2021-11-30
+edition: CREC
+section: HOUSE
+page: H6679
+citation: 167 Cong. Rec. H6679
+---
+
+# HONORING PASTOR JAMES D. CORBETT
+
+**Speaking:** Murphy, Gregory F. (M001210) [R-NC]
+
+```
+                    HONORING PASTOR JAMES D. CORBETT
+
+  (Mr. MURPHY of North Carolina asked and was given permission to 
+address the House for 1 minute.)
+  Mr. MURPHY of North Carolina. Mr. Speaker, I rise today to pay a 
+heartfelt tribute to Pastor James D. Corbett of Greenville, North 
+Carolina, to honor his long and illustrious service to God and to his 
+country.
+  In his younger years, Pastor Corbett served this great Nation of ours 
+in the United States Army. He then left military service to begin his 
+ministry.
+  In 1984, Pastor Corbett and the late Pastor Delores Corbett founded 
+Greenville Community Christian Church. God gave him a vision to 
+minister to the whole man: spirit, soul and body.
+  Pastor Corbett also currently serves as the Eastern Regional Director 
+and Trustee for the International Convention of Faith Ministries. Their 
+vision includes reaching communities with the Gospel and taking the 
+message of Jesus Christ around the whole world.
+  Lives are saved, healed, and delivered by the power of God through 
+his ministry. I have personally been blessed by his wonderful services 
+and sermons for many years now.
+  Mr. Speaker, please join me in honoring the accomplishments of a 
+wonderful man, a caring father, grandfather, and leader of his flock, 
+Pastor James D. Corbett, and recognizing all that he has done for his 
+community.
+
+[[Page H6680]]
+
+  
+
+                          ____________________
+```
