@@ -1,0 +1,37 @@
+---
+granule: CREC-2021-12-01-pt1-PgH6838
+date: 2021-12-01
+edition: CREC
+section: HOUSE
+page: H6838
+citation: 167 Cong. Rec. H6838
+---
+
+# HIGHLIGHTING BUILD BACK BETTER
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                     HIGHLIGHTING BUILD BACK BETTER
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute.)
+  Ms. KAPTUR. Madam Speaker, I rise today to highlight how the Build 
+Back Better Act will improve the lives of people all across our 
+country.
+  For far too long, pharmaceutical giants have charged outrageous 
+prices for lifesaving medication. The Build Back Better Act will 
+finally allow Medicare to negotiate prices and cap the price of insulin 
+at $35 a month.
+  For years, hardworking people who fell ill or cared for an aging 
+loved one were forced to choose between their livelihood and their 
+health or that of their loved ones. Finally, the Build Back Better Act 
+will ensure more people have decent healthcare and that their coverage 
+is more affordable.
+  Importantly, all of this will be paid for without raising taxes on 
+middle-class families because when billionaires pay their fair share, 
+we can invest in those who make and build what makes and builds 
+America.
+
+                          ____________________
+```

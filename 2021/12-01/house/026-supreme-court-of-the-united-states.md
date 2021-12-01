@@ -1,0 +1,37 @@
+---
+granule: CREC-2021-12-01-pt1-PgH6723-6
+date: 2021-12-01
+edition: CREC
+section: HOUSE
+page: H6723
+citation: 167 Cong. Rec. H6723
+---
+
+# SUPREME COURT OF THE UNITED STATES
+
+**Speaking:** Kuster, Ann M. (K000382) [D-NH]
+
+```
+                   SUPREME COURT OF THE UNITED STATES
+
+  (Ms. KUSTER asked and was given permission to address the House for 1 
+minute.)
+  Ms. KUSTER. Madam Speaker, the Supreme Court is poised to make one of 
+the most consequential rulings for women and their bodies in over a 
+generation. For nearly 50 years, women have come to rely upon the 
+precedent of Roe v. Wade and the freedom to make their own reproductive 
+decisions without government interference in our personal lives. Now 
+our freedoms are under attack as the Court considers a case asking for 
+Roe v. Wade to be overturned.
+  As an adoption attorney for 25 years, I worked with more than 300 
+birth mothers making the most difficult and personal decision of their 
+lives. They consulted family, loved ones, and doctors, but not one 
+birth mother looked to the government to make that choice for her.
+  Earlier this year we passed the Women's Health Protection Act, 
+legislation to codify the constitutional right to safe, legal abortion. 
+Regardless of the Court's decision, we must make this bill law to 
+permanently protect the reproductive freedoms of women across this 
+land.
+
+                          ____________________
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2021-12-01-pt1-PgH6837-6
+date: 2021-12-01
+edition: CREC
+section: HOUSE
+page: H6837
+citation: 167 Cong. Rec. H6837
+---
+
+# INFLATION IS TAXATION
+
+**Speaking:** Carl, Jerry L. (C001054) [R-AL]
+
+```
+                         INFLATION IS TAXATION
+
+  (Mr. CARL asked and was given permission to address the House for 1 
+minute.)
+  Mr. CARL. Madam Speaker, I stand here representing families all 
+across this country who are struggling with rising costs of virtually 
+everything, from gas to groceries. And there doesn't seem to be an end 
+in sight.
+  Inflation is taxation, and it has increased every single month since 
+Joe Biden has been President. Last month marked a 30-year record high 
+in inflation.
+  Even worse, real wages have decreased under Biden almost every month 
+since he has been in office.
+  So what is causing this inflation? President Biden and his allies in 
+Congress are continuing to borrow trillions and trillions of dollars to 
+pay for a massive Big Government expansion. It
+
+[[Page H6838]]
+
+is unsustainable, and we cannot afford it.
+  It is past time we get this runaway spending under control. As I have 
+said countless times, Washington has a spending problem, not a revenue 
+problem.
+  The American people deserve better than this. It is time that we put 
+them first and get our economy back on track.
+
+                          ____________________
+```
