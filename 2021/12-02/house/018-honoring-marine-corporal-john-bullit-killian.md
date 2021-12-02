@@ -1,0 +1,52 @@
+---
+granule: CREC-2021-12-02-pt1-PgH6863-5
+date: 2021-12-02
+edition: CREC
+section: HOUSE
+page: H6863
+citation: 167 Cong. Rec. H6863
+---
+
+# HONORING MARINE CORPORAL JOHN "BULLIT" KILLIAN
+
+**Speaking:** Norman, Ralph (N000190) [R-SC]
+
+```
+            HONORING MARINE CORPORAL JOHN ``BULLIT'' KILLIAN
+
+  (Mr. NORMAN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. NORMAN. Mr. Speaker, I rise today to honor and recognize the 
+service of Marine Corporal John ``Bullit'' Killian of Chester, South 
+Carolina.
+  John is no stranger to service and sacrifice. In fact, military 
+service runs in the Killian family. John's father was a marine in World 
+War II in the Pacific Theater.
+  A true American hero, John bravely served our country throughout the 
+Vietnam war. John's military career began in 1965 after he and several 
+of his classmates were selected for the draft.
+  John went through basic training at Parris Island, which he credits 
+for sufficiently preparing him to survive Vietnam. His first duty 
+station was Marine Corps Air Station (MCAS) in Cherry Point, North 
+Carolina, where he trained as an electrician and attended an air 
+conditioning and refrigeration school.
+  After completing his schooling, John shipped out to Vietnam. He was 
+based at Camp Evans, which he and his fellow marines called Disneyland 
+because they got to live in hooches instead of tents.
+  Affectionately known as Cackalack, John was discharged after 1 year, 
+11
+
+[[Page H6864]]
+
+months, and 22 days in the Marine Corps. He left Vietnam the day the 
+Tet Offensive started. His time in the Marine Corps dramatically 
+affected his life. John said in some ways his service made him harder, 
+but in other ways softer.
+  On behalf of the Fifth District of South Carolina, I want to thank 
+Marine Corporal John Killian for his outstanding service. He has 
+created a lasting legacy of duty, honor, and courage, and our Nation is 
+better off for his sacrifice. May God continue to bless John and his 
+great family.
+
+                          ____________________
+```
