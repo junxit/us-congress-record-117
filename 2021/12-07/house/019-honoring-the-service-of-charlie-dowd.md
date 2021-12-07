@@ -1,0 +1,38 @@
+---
+granule: CREC-2021-12-07-pt1-PgH6920-2
+date: 2021-12-07
+edition: CREC
+section: HOUSE
+page: H6920
+citation: 167 Cong. Rec. H6920
+---
+
+# HONORING THE SERVICE OF CHARLIE DOWD
+
+**Speaking:** Rosendale, Matthew M. (R000103) [R-MT]
+
+```
+                  HONORING THE SERVICE OF CHARLIE DOWD
+
+  (Mr. ROSENDALE asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. ROSENDALE. Mr. Speaker, on this National Pearl Harbor Remembrance 
+Day, the 80th anniversary of the attack on Pearl Harbor, I rise to 
+honor Charlie Dowd, Montana's last living Pearl Harbor survivor.
+  Charlie was just a 17-year-old radioman stationed at Pearl Harbor 
+when he was awakened by the sound of the Japanese surprise attack, a 
+day which lives in infamy. Charlie immediately raced to the window of 
+the ship where he saw a nearby hangar go up in a plume of flames. 
+Wearing just a T-shirt, he grabbed a rifle and climbed on to the roof 
+where he and other volunteers started firing at the attacking planes, 
+some of the first shots fired by Americans in World War II.
+  Charlie's heroism, and that of others on that day, undoubtedly saved 
+lives, and their bravery and resolve should be commended. He served for 
+nearly 5 years in the United States Navy.
+  Charlie lives in Anaconda, Montana, and will be celebrating his 98th 
+birthday on December 23. On behalf of all Montanans and a grateful 
+Nation, I want to thank Charlie Dowd for his service and wish him an 
+early happy birthday.
+
+                          ____________________
+```

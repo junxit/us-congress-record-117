@@ -1,0 +1,36 @@
+---
+granule: CREC-2021-12-07-pt1-PgS8944-6
+date: 2021-12-07
+edition: CREC
+section: SENATE
+page: S8944
+citation: 167 Cong. Rec. S8944
+---
+
+# Recognizing Delaware Day (Executive Calendar)
+
+**Speaking:** Carper, Thomas R. (C000174) [D-DE]
+
+```
+                        Recognizing Delaware Day
+
+  Mr. CARPER. Madam President, 234 years ago today, the State of 
+Delaware became the first State to ratify the Constitution. For 1 whole 
+week, Delaware was the entire United States of America. And we opened 
+it up, and 49 other States have joined us since then. For the most 
+part, I think it has turned out well.
+  But the preamble to the Constitution didn't say that we are going to 
+form a perfect union when they adopted it all those years ago. They 
+said, ``in Order to form a more perfect Union . . . ''--acknowledging 
+that we are not perfect, haven't gotten it right, and we may never get 
+it right.
+  But today, we take a big step--or perhaps we can take a big step 
+towards making our Union a bit closer to perfection.
+
+[[Page S8945]]
+
+  The Constitution lays out a balance of powers that certain 
+responsibilities fall on the executive branch--the President--and 
+certain responsibilities fall on us; and, of course, the courts have 
+responsibilities of their own.
+```
