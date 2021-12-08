@@ -1,0 +1,521 @@
+---
+granule: CREC-2021-12-08-pt1-PgH7543
+date: 2021-12-08
+edition: CREC
+section: HOUSE
+page: H7543
+citation: 167 Cong. Rec. H7543
+---
+
+# COLLECTING AND ANALYZING RESOURCES INTEGRAL AND NECESSARY FOR GUIDANCE FOR SOCIAL DETERMINANTS ACT OF 2021
+
+**Measures:** H.Res. 8, H.R. 3894
+
+```
+COLLECTING AND ANALYZING RESOURCES INTEGRAL AND NECESSARY FOR GUIDANCE 
+                  FOR SOCIAL DETERMINANTS ACT OF 2021
+
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, the 
+unfinished business is the vote on the motion to suspend the rules and 
+pass the bill (H.R. 3894) to require the Secretary of Health and Human 
+Services to issue and disseminate guidance to States to clarify 
+strategies to address social determinants of health under the Medicaid 
+program and the Children's Health Insurance Program, and for other 
+purposes, as amended, on which the yeas and nays were ordered.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from New Jersey (Mr. Pallone) that the House suspend the 
+rules and pass the bill, as amended.
+  The vote was taken by electronic device, and there were--yeas 378, 
+nays 48, not voting 7, as follows:
+
+                             [Roll No. 425]
+
+                               YEAS--378
+
+     Adams
+     Aderholt
+     Aguilar
+     Allen
+     Allred
+     Amodei
+     Armstrong
+     Auchincloss
+     Axne
+     Bacon
+     Baird
+     Balderson
+     Barr
+     Barragan
+     Bass
+     Beatty
+     Bentz
+     Bera
+     Bergman
+     Beyer
+     Bice (OK)
+     Bilirakis
+     Bishop (GA)
+     Blumenauer
+     Blunt Rochester
+     Bonamici
+     Bost
+     Bourdeaux
+     Bowman
+     Boyle, Brendan F.
+     Brady
+     Brooks
+     Brown (MD)
+     Brown (OH)
+     Brownley
+     Buchanan
+     Bucshon
+     Burgess
+     Bush
+     Bustos
+     Butterfield
+     Calvert
+     Cammack
+     Carbajal
+     Cardenas
+     Carey
+     Carl
+     Carson
+     Carter (GA)
+     Carter (LA)
+     Cartwright
+     Case
+     Casten
+     Castor (FL)
+     Castro (TX)
+     Cawthorn
+     Chabot
+     Cheney
+     Chu
+     Cicilline
+     Clark (MA)
+     Clarke (NY)
+     Cleaver
+     Clyburn
+     Cohen
+     Cole
+     Connolly
+     Cooper
+     Correa
+     Costa
+     Courtney
+     Craig
+     Crawford
+     Crenshaw
+     Crist
+     Crow
+     Cuellar
+     Curtis
+     Davids (KS)
+     Davis, Danny K.
+     Davis, Rodney
+     Dean
+     DeFazio
+     DeGette
+     DeLauro
+     DelBene
+     Delgado
+     Demings
+     DeSaulnier
+     DesJarlais
+     Deutch
+     Diaz-Balart
+     Dingell
+     Doggett
+     Donalds
+     Duncan
+     Dunn
+     Ellzey
+     Emmer
+     Escobar
+     Eshoo
+     Espaillat
+     Evans
+     Feenstra
+     Ferguson
+     Fischbach
+     Fitzgerald
+     Fitzpatrick
+     Fleischmann
+     Fletcher
+     Fortenberry
+     Foster
+     Foxx
+     Frankel, Lois
+     Franklin, C. Scott
+     Gallagher
+     Gallego
+     Garamendi
+     Garbarino
+     Garcia (CA)
+     Garcia (IL)
+     Garcia (TX)
+     Gibbs
+     Gimenez
+     Golden
+     Gomez
+     Gonzales, Tony
+     Gonzalez (OH)
+     Gonzalez, Vicente
+     Gottheimer
+     Graves (LA)
+     Graves (MO)
+     Green, Al (TX)
+     Griffith
+     Grijalva
+     Grothman
+     Guest
+     Guthrie
+     Hagedorn
+     Harder (CA)
+     Harshbarger
+     Hartzler
+     Hayes
+     Hern
+     Herrera Beutler
+     Higgins (NY)
+     Hill
+     Himes
+     Hinson
+     Hollingsworth
+     Horsford
+     Houlahan
+     Hoyer
+     Hudson
+     Huffman
+     Huizenga
+     Issa
+     Jackson Lee
+     Jacobs (CA)
+     Jacobs (NY)
+     Jayapal
+     Jeffries
+     Johnson (GA)
+     Johnson (LA)
+     Johnson (OH)
+     Johnson (SD)
+     Johnson (TX)
+     Jones
+     Joyce (OH)
+     Joyce (PA)
+     Kahele
+     Kaptur
+     Katko
+     Keating
+     Keller
+     Kelly (IL)
+     Kelly (MS)
+     Kelly (PA)
+     Khanna
+     Kildee
+     Kilmer
+     Kim (CA)
+     Kim (NJ)
+     Kind
+     Kirkpatrick
+     Krishnamoorthi
+     Kuster
+     Kustoff
+     LaHood
+     LaMalfa
+     Lamb
+     Langevin
+     Larson (CT)
+     Latta
+     LaTurner
+     Lawrence
+     Lawson (FL)
+     Lee (CA)
+     Lee (NV)
+     Leger Fernandez
+     Lesko
+     Letlow
+     Levin (CA)
+     Levin (MI)
+     Lieu
+     Lofgren
+     Long
+     Loudermilk
+     Lowenthal
+     Lucas
+     Luetkemeyer
+     Luria
+     Lynch
+     Mace
+     Malinowski
+     Malliotakis
+     Maloney, Carolyn B.
+     Maloney, Sean
+     Manning
+     Mast
+     Matsui
+     McBath
+     McCarthy
+     McCaul
+     McClain
+     McClintock
+     McCollum
+     McEachin
+     McGovern
+     McHenry
+     McKinley
+     McNerney
+     Meeks
+     Meijer
+     Meng
+     Meuser
+     Mfume
+     Miller (WV)
+     Miller-Meeks
+     Moolenaar
+     Mooney
+     Moore (AL)
+     Moore (UT)
+     Moore (WI)
+     Morelle
+     Moulton
+     Mrvan
+     Mullin
+     Murphy (NC)
+     Nadler
+     Napolitano
+     Neal
+     Neguse
+     Newhouse
+     Newman
+     Norcross
+     Nunes
+     O'Halleran
+     Obernolte
+     Ocasio-Cortez
+     Omar
+     Owens
+     Palazzo
+     Pallone
+     Panetta
+     Pappas
+     Pascrell
+     Payne
+     Pence
+     Perlmutter
+     Peters
+     Pfluger
+     Phillips
+     Pingree
+     Pocan
+     Porter
+     Pressley
+     Price (NC)
+     Quigley
+     Raskin
+     Reed
+     Reschenthaler
+     Rice (NY)
+     Rice (SC)
+     Rodgers (WA)
+     Rogers (AL)
+     Rogers (KY)
+     Rose
+     Ross
+     Rouzer
+     Roybal-Allard
+     Ruiz
+     Ruppersberger
+     Rush
+     Rutherford
+     Ryan
+     Salazar
+     Sanchez
+     Sarbanes
+     Scalise
+     Scanlon
+     Schakowsky
+     Schiff
+     Schneider
+     Schrader
+     Schrier
+     Scott (VA)
+     Scott, Austin
+     Scott, David
+     Sewell
+     Sherman
+     Sherrill
+     Simpson
+     Sires
+     Smith (NE)
+     Smith (NJ)
+     Smith (WA)
+     Smucker
+     Soto
+     Spanberger
+     Spartz
+     Speier
+     Stansbury
+     Stanton
+     Stauber
+     Steel
+     Stefanik
+     Steil
+     Stevens
+     Stewart
+     Strickland
+     Suozzi
+     Swalwell
+     Takano
+     Tenney
+     Thompson (CA)
+     Thompson (MS)
+     Thompson (PA)
+     Tiffany
+     Timmons
+     Titus
+     Tlaib
+     Tonko
+     Torres (CA)
+     Torres (NY)
+     Trahan
+     Trone
+     Turner
+     Underwood
+     Upton
+     Valadao
+     Van Drew
+     Van Duyne
+     Vargas
+     Veasey
+     Vela
+     Velazquez
+     Wagner
+     Walberg
+     Walorski
+     Waltz
+     Wasserman Schultz
+     Waters
+     Watson Coleman
+     Welch
+     Wenstrup
+     Westerman
+     Wexton
+     Wild
+     Williams (GA)
+     Williams (TX)
+     Wilson (FL)
+     Wilson (SC)
+     Wittman
+     Womack
+     Yarmuth
+     Young
+     Zeldin
+
+                                NAYS--48
+
+     Arrington
+     Babin
+     Banks
+     Biggs
+     Bishop (NC)
+     Boebert
+     Buck
+     Budd
+     Burchett
+     Carter (TX)
+     Cline
+     Cloud
+     Clyde
+     Comer
+     Davidson
+     Estes
+     Fallon
+     Fulcher
+     Gaetz
+     Gohmert
+     Good (VA)
+     Gooden (TX)
+     Gosar
+     Granger
+     Green (TN)
+     Greene (GA)
+     Harris
+     Herrell
+     Hice (GA)
+     Higgins (LA)
+     Jackson
+     Lamborn
+     Mann
+     Massie
+     Miller (IL)
+     Nehls
+     Norman
+     Palmer
+     Perry
+     Rosendale
+     Roy
+     Schweikert
+     Sessions
+     Smith (MO)
+     Steube
+     Taylor
+     Weber (TX)
+     Webster (FL)
+
+                             NOT VOTING--7
+
+     Doyle, Michael F.
+     Jordan
+     Kinzinger
+     Larsen (WA)
+     Murphy (FL)
+     Posey
+     Slotkin
+
+                              {time}  2031
+
+  So (two-thirds being in the affirmative) the rules were suspended and 
+the bill, as amended, was passed.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+
+    Members Recorded Pursuant to House Resolution 8, 117th Congress
+
+     Bacon (Fitzpatrick)
+     Baird (Bucshon)
+     Bass (Brownley)
+     Cleaver (Butterfield)
+     Crist (Soto)
+     Cuellar (Veasey)
+     DeFazio (Brown (MD))
+     Demings (Soto)
+     Dunn (Wilson (SC))
+     Fulcher (Johnson (OH))
+     Gallego (Torres (CA))
+     Gomez (Beyer)
+     Green (TX) (Butterfield)
+     Guthrie (Barr)
+     Hagedorn (Carl)
+     Hice (GA) (Greene (GA))
+     Kahele (Jeffries)
+     Kim (CA) (McCaul)
+     Lawrence (Stevens)
+     Lawson (FL) (Evans)
+     Lesko (Miller (WV))
+     Meeks (Jeffries)
+     McHenry (Bucshon)
+     Moore (UT) (Carl)
+     Pascrell (Pallone)
+     Payne (Pallone)
+     Rush (Quigley)
+     Sires (Pallone)
+     Smith (WA) (Beyer)
+     Swalwell (Brownley)
+     Underwood (Casten)
+     Waltz (Franklin, C. Scott)
+     Wilson (FL) (Hayes)
+
+                          ____________________
+```
