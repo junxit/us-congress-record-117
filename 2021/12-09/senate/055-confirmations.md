@@ -1,0 +1,26 @@
+---
+granule: CREC-2021-12-09-pt1-PgS9100-5
+date: 2021-12-09
+edition: CREC
+section: SENATE
+page: S9100
+citation: 167 Cong. Rec. S9100
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate December 9, 2021:
+
+
+             CHEMICAL SAFETY AND HAZARD INVESTIGATION BOARD
+
+       STEPHEN A. OWENS, OF ARIZONA, TO BE A MEMBER OF THE 
+     CHEMICAL SAFETY AND HAZARD INVESTIGATION BOARD FOR A TERM OF 
+     FIVE YEARS.
+       SYLVIA E. JOHNSON, OF NORTH CAROLINA, TO BE A MEMBER OF THE 
+     CHEMICAL SAFETY AND HAZARD INVESTIGATION BOARD FOR A TERM OF 
+     FIVE YEARS.
+```

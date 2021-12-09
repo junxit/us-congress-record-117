@@ -1,0 +1,41 @@
+---
+granule: CREC-2021-12-09-pt1-PgH7560
+date: 2021-12-09
+edition: CREC
+section: HOUSE
+page: H7560
+citation: 167 Cong. Rec. H7560
+---
+
+# ATTACKS ON ELECTIONS MUST BE STOPPED
+
+**Speaking:** Kilmer, Derek (K000381) [D-WA]
+
+```
+                  ATTACKS ON ELECTIONS MUST BE STOPPED
+
+  (Mr. KILMER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILMER. Madam Speaker, I have been to every nook and cranny of 
+the region I represent. I have never spoken to anyone anywhere who 
+thought elected officials should be able to use their public office for 
+personal profit.
+  I have never spoken to anyone anywhere who believes that elected 
+officials should be able to interfere in independent investigations or 
+to punish whistleblowers.
+  I have never spoken to anyone anywhere in my district who thinks we 
+should allow foreign countries to interfere in our elections.
+  Addressing these issues is what the Protecting Our Democracy Act is 
+all about.
+  Importantly, this bill includes the Honest Ads Act, a bill that I led 
+to increase accountability for online political ads. There are 
+disclaimer requirements for print, broadcast, and radio ads, and our 
+bipartisan bill would set those same requirements for online ads so 
+that the American people can know who is paying for the ads they are 
+seeing online and so we can keep foreign money out.
+  We know that foreign adversaries have attacked our elections in the 
+past, and we have to stop it. That is why I am proud to cosponsor this 
+legislation, and I encourage my colleagues to pass this bill today.
+
+                          ____________________
+```
