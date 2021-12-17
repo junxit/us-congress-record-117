@@ -1,0 +1,25 @@
+---
+granule: CREC-2021-12-17-pt1-PgS9300
+date: 2021-12-17
+edition: CREC
+section: SENATE
+page: S9300
+citation: 167 Cong. Rec. S9300
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Rubio, Marco (R000595) [R-FL]
+
+```
+                            VOTE EXPLANATION
+
+  Mr. RUBIO. Mr. President, on the vote to confirm Marcela Escobari, I 
+wish to be recorded as a no vote. Had there been a rollcall vote, I 
+would have voted no.
+  Mr. President, on the vote to confirm Julissa Reynoso Pantaleon, I 
+wish to be recorded as voting no vote. Had there been a rollcall vote, 
+I would have voted no.
+
+                          ____________________
+```
