@@ -1,0 +1,171 @@
+---
+granule: CREC-2022-01-10-pt1-PgS120-3
+date: 2022-01-10
+edition: CREC
+section: SENATE
+page: S120
+citation: 168 Cong. Rec. S120
+---
+
+# EMMETT TILL AND MAMIE TILL-MOBLEY CONGRESSSIONAL GOLD MEDAL ACT OF 2021
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+**Measures:** S. 450
+
+```
+EMMETT TILL AND MAMIE TILL-MOBLEY CONGRESSSIONAL GOLD MEDAL ACT OF 2021
+
+  Mr. SCHUMER. Madam President, I ask unanimous consent that the 
+Committee on Banking, Housing, and Urban Affairs be discharged from 
+further consideration of S. 450 and the Senate proceed to its immediate 
+consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 450) to award posthumously the Congressional 
+     Gold Medal to Emmett Till and Mamie Till-Mobley.
+
+  There being no objection, the committee was discharged, and the 
+Senate proceeded to consider the bill.
+  Mr. SCHUMER. Madam President, I ask unanimous consent that the Burr 
+substitute amendment at the desk be considered and agreed to; the bill, 
+as amended, be considered read a third time and passed; and that the 
+motion to reconsider be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 4897) in the nature of a substitute was agreed to 
+as follows:
+
+                (Purpose: In the nature of a substitute)
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+[[Page S121]]
+
+  
+
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Emmett Till and Mamie Till-
+     Mobley Congressional Gold Medal Act of 2021''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds the following:
+       (1) The brutal lynching of Emmett Till and the subsequent 
+     bravery and boldness of his mother, Mamie Till-Mobley, became 
+     a catalyst for the civil rights movement.
+       (2) On August 28, 1955, 14-year-old Emmett Till was 
+     kidnapped, beaten, and shot in Money, Mississippi, where he 
+     had traveled from Chicago to stay with his great uncle, Moses 
+     Wright.
+       (3) The corpse of Emmett Till was discovered 3 days later 
+     in the Tallahatchie River and his murderers were acquitted 
+     despite Moses Wright providing an eyewitness testimony that 
+     the men on trial kidnapped Emmett Till.
+       (4) Mamie Till-Mobley, the mother of Emmett Till, 
+     demonstrated her love for her son and her courage and 
+     strength in suffering in the days that followed as she 
+     brought the body of Emmett Till back to Chicago for burial 
+     and demanded an open casket funeral, which drew more than 
+     50,000 attendees.
+       (5) Mamie Till-Mobley further allowed a photograph to be 
+     taken of Emmett Till in his casket, which was shown 
+     throughout the world.
+       (6) The original casket of Emmett Till stands on display at 
+     the National Museum of African American History and Culture 
+     as an enduring reminder of the racial violence that is a part 
+     of the history of the United States that the people of the 
+     United States must confront.
+       (7) The heroic actions of Mamie Till-Mobley in the midst of 
+     evil, injustice, and grief became a catalyst for the civil 
+     rights movement and continued in the years to come as she 
+     worked for justice and honored the legacy of Emmett Till.
+       (8) Mamie Till-Mobley went on to create the Emmett Till 
+     Players, which was a significant national cultural 
+     contribution as teenagers traveled throughout the country 
+     presenting Martin Luther King Jr. speeches in the name of 
+     Emmett Till.
+       (9) Mamie Till-Mobley also served as chair and co-founder 
+     of the Emmett Till Justice Campaign, which had the dual 
+     mission of reopening the murder of Emmett Till for a 
+     reinvestigation and a passage into law of Federal legislation 
+     to ensure that other racially motivated murders during the 
+     civil rights era were investigated and, when possible, 
+     prosecuted.
+       (10) The efforts of the Emmett Till Justice Campaign led to 
+     the successful joint investigation by the State of 
+     Mississippi, the Federal Bureau of Investigation, and the 
+     Department of Justice in 2004, the passage of the Emmett Till 
+     Unsolved Civil Rights Crime Act of 2007 (Public Law 110-344; 
+     122 Stat. 3934), signed into law by President George W. Bush, 
+     and the Emmett Till Unsolved Civil Rights Crimes 
+     Reauthorization Act of 2016 (Public Law 114-325; 130 Stat. 
+     1965), signed into law by President Barack Obama.
+       (11) The people of the United States honor the legacy of 
+     Emmett Till and the incredible suffering and equally 
+     incredible courage, resilience, and efforts of Mamie Till-
+     Mobley that led to the civil rights movement that began in 
+     the 1950s.
+
+     SEC. 3. CONGRESSIONAL GOLD MEDAL.
+
+       (a) Presentation Authorized.--The Speaker of the House of 
+     Representatives and the President pro tempore of the Senate 
+     shall make appropriate arrangements for the posthumous 
+     presentation, on behalf of Congress, of a gold medal of 
+     appropriate design in commemoration of Emmett Till and Mamie 
+     Till-Mobley.
+       (b) Design and Striking.--For purposes of the presentation 
+     referred to in subsection (a), the Secretary of the Treasury 
+     (referred to in this Act as the ``Secretary'') shall strike a 
+     gold medal with suitable emblems, devices, and inscriptions, 
+     to be determined by the Secretary. The design shall bear an 
+     image of, and inscriptions of the name of, ``Emmett Till'' 
+     and ``Mamie Till-Mobley''.
+       (c) Award of Medal.--
+       (1) In general.--After the award of the gold medal referred 
+     to in subsection (a), the gold medal shall be given to the 
+     National Museum of African American History and Culture, 
+     where it shall be displayed as appropriate.
+       (2) Sense of congress.--It is the sense of Congress that 
+     the National Museum of African American History and Culture 
+     should make the gold medal received under paragraph (1) 
+     available for display elsewhere, particularly at other 
+     locations and events associated with Emmett Till and Mamie 
+     Till-Mobley.
+
+     SEC. 4. DUPLICATE MEDALS.
+
+       The Secretary may strike and sell duplicates in bronze of 
+     the gold medal struck under section 3, at a price sufficient 
+     to cover the costs of the medals, including labor, materials, 
+     dies, use of machinery, and overhead expenses.
+
+     SEC. 5. STATUS OF MEDALS.
+
+       (a) National Medals.--Medals struck under this Act are 
+     national medals for purposes of chapter 51 of title 31, 
+     United States Code.
+       (b) Numismatic Items.--For purposes of section 5134 of 
+     title 31, United States Code, all medals struck under this 
+     Act shall be considered to be numismatic items.
+
+     SEC. 6. AUTHORITY TO USE FUND AMOUNTS; PROCEEDS OF SALE.
+
+       (a) Authority to Use Fund Amounts.--There is authorized to 
+     be charged against the United States Mint Public Enterprise 
+     Fund such amounts as may be necessary to pay for the costs of 
+     the medals struck under this Act.
+       (b) Proceeds of Sales.--Amounts received from the sale of 
+     duplicate bronze medals authorized under section 4 shall be 
+     deposited into the United States Mint Public Enterprise Fund.
+
+  The bill (S. 450), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
