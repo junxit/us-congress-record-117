@@ -1,0 +1,90 @@
+---
+granule: CREC-2022-01-11-pt1-PgS156-2
+date: 2022-01-11
+edition: CREC
+section: SENATE
+page: S156
+citation: 168 Cong. Rec. S156
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Sinema, Kyrsten (S001191) [D-AZ]
+
+```
+                            VOTE EXPLANATION
+
+  Ms. SINEMA. Madam President, I was necessarily absent, but had I been 
+present I would have voted yes on rollcall vote 1 on the motion to 
+invoke cloture on Anne Witkowsky to be an Assistant Secretary of State 
+(Conflict and Stabilization Operations).
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 2 on the confirmation of Anne Witkowsky to be an 
+Assistant Secretary of State (Conflict and Stabilization Operations).
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 510 on the motion to invoke cloture on Jinsook 
+Ohta to be U.S. District Judge for the Southern District of California.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 511 on the confirmation of Jinsook Ohta to be U.S. 
+District Judge for the Southern District of California.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 512 on the motion to invoke cloture on David Urias 
+to be U.S. District Judge for the District of New Mexico.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 513 on the confirmation of David Urias to be U.S. 
+District Judge for the District of New Mexico.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 514 on the motion to invoke cloture on Maame 
+Frimpong to be U.S. District Judge for the Central District of 
+California.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 515 on the confirmation of Maame Frimpong to be 
+U.S. District Judge for the Central District of California.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 516 on the motion to invoke cloture on Jane 
+Beckering to be U.S. District Judge for the Western District of 
+Michigan.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 517 on the confirmation of Jane Beckering to be 
+U.S. District Judge for the Western District of Michigan.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 518 on the motion to invoke cloture on Shalina 
+Kumar to be U.S. District Judge for the Eastern District of Michigan.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 519 on the confirmation of Shalina Kumar to be 
+U.S. District Judge for the Eastern District of Michigan.
+
+[[Page S157]]
+
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 520 on the motion to invoke cloture on Jennifer 
+Thurston to be U.S. District Judge for the Eastern District of 
+California.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 521 on the confirmation of Jennifer Thurston to be 
+U.S. District Judge for the Eastern District of California.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 522 on the motion to invoke cloture on Katherine 
+Menendez to be U.S. District Judge for the District of Minnesota.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 523 on the confirmation of Katherine Menendez to 
+be U.S. District Judge for the District of Minnesota.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 524 on the motion to invoke cloture on Mary Dimke 
+to be U.S. District Judge for the Eastern District of Washington.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 525 on the confirmation of Mary Dimke to be U.S. 
+District Judge for the Eastern District of Washington.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 526 on the confirmation of Rahm Emanuel to be 
+Ambassador Extraordinary and Plenipotentiary of the United States of 
+America to Japan.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 527 on the motion to invoke cloture on Gabriel 
+Sanchez to be U.S. Circuit Judge for the Ninth Circuit.
+  I was necessarily absent, but had I been present I would have voted 
+yes on rollcall vote 528 on the motion to invoke cloture on Holly 
+Thomas to be U.S. Circuit Judge for the Ninth Circuit.
+
+                          ____________________
+```

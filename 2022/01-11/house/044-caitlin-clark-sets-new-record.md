@@ -1,0 +1,34 @@
+---
+granule: CREC-2022-01-11-pt1-PgH22-3
+date: 2022-01-11
+edition: CREC
+section: HOUSE
+page: H22
+citation: 168 Cong. Rec. H22
+---
+
+# CAITLIN CLARK SETS NEW RECORD
+
+**Speaking:** Miller-Meeks, Mariannette (M001215) [R-IA]
+
+```
+                     CAITLIN CLARK SETS NEW RECORD
+
+  (Mrs. MILLER-MEEKS asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. MILLER-MEEKS. Madam Speaker, I rise today to recognize a record-
+setting student-athlete at the University of Iowa.
+  On January 2, sophomore guard Caitlin Clark became the fastest player 
+in Big Ten history to reach 1,000 career points. She accomplished this 
+in just 40 games, passing the previous record holder from Ohio State.
+  Reaching this mark against Evansville University, Caitlin put up a 
+career-high 44 points in the 93-56 win for the Hawkeyes.
+  A lifelong Iowan, Caitlin was named a high school All-American before 
+coming to Iowa City and earning numerous accolades as a freshman, 
+including Big Ten Freshman of the Year, First Team All-Big Ten, 
+National Freshman of the Year, and First Team All-American honors.
+  Congratulations to Caitlin. I look forward to watching her continue 
+to dominate for the next 2 years. Go Iowa, and Go Hawkeyes.
+
+                          ____________________
+```

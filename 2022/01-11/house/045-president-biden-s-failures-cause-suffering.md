@@ -1,0 +1,36 @@
+---
+granule: CREC-2022-01-11-pt1-PgH22-4
+date: 2022-01-11
+edition: CREC
+section: HOUSE
+page: H22
+citation: 168 Cong. Rec. H22
+---
+
+# PRESIDENT BIDEN'S FAILURES CAUSE SUFFERING
+
+**Speaking:** Carl, Jerry L. (C001054) [R-AL]
+
+```
+               PRESIDENT BIDEN'S FAILURES CAUSE SUFFERING
+
+  (Mr. CARL asked and was given permission to address the House for 1 
+minute.)
+  Mr. CARL. Madam Speaker, I am a firm believer that when the President 
+of the United States does well, be it Republican or Democrat, we as 
+America benefit the most. Unfortunately, President Biden's performance 
+during his first year in office has been absolutely terrible, and 
+virtually all Americans are suffering because of his failures.
+  There is so much about this President that actually frustrates me. He 
+left behind Americans in Afghanistan, and he has completely refused to 
+secure our southern border. Meanwhile, he is punishing hardworking 
+Americans by imposing illegal vaccine mandates on them.
+  All across America, businesses are struggling to keep their doors 
+open and their shelves stocked, but President Biden has done nothing to 
+fix these issues.
+  I am urging President Biden to show up and work on leadership for a 
+change. The American people deserve much, much more and much better 
+than what they are receiving today.
+
+                          ____________________
+```

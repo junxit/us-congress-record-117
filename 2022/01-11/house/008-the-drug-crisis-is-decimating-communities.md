@@ -1,0 +1,45 @@
+---
+granule: CREC-2022-01-11-pt1-PgH12-2
+date: 2022-01-11
+edition: CREC
+section: HOUSE
+page: H12
+citation: 168 Cong. Rec. H12
+---
+
+# THE DRUG CRISIS IS DECIMATING COMMUNITIES
+
+**Speaking:** Joyce, John (J000302) [R-PA]
+
+```
+               THE DRUG CRISIS IS DECIMATING COMMUNITIES
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Joyce) for 5 minutes.
+  Mr. JOYCE of Pennsylvania. Mr. Speaker, I rise to address the drug 
+crisis that is decimating communities and destroying families.
+  Earlier this month, the CDC released data showing that fentanyl 
+overdoses are now the number one killer of Americans ages 18 to 45: 
+number one killer. This data is tragic. No family should have to deal 
+with the sudden loss of a loved one.
+  Fentanyl is often ingested unknowingly, and a dose smaller than the 
+size of a penny can be lethal.
+  In 2021, President Biden swung open the doors to our southern border, 
+and the impact of that continues to be negative. That decision invited 
+drug traffickers into our country. Last year, Border Patrol agents 
+seized enough fentanyl to kill every man, woman and child in my home 
+State of Pennsylvania.
+  We cannot solve this crisis while our borders remain open. We cannot 
+solve this crisis while the Biden administration fails to act.
+  This deadly drug will continue to pour into our country if we fail to 
+build the wall. It will continue to pour into our country if we do not 
+get the border agents the support and the tools that they need.
+  This issue is far too important to continue to ignore. Our 
+communities continue to suffer. Congress should act now to make 
+fentanyl analogs a schedule one narcotic.
+  The Biden administration must secure our southern border. Our 
+communities, they are counting on us to act. We can no longer continue 
+to let them down.
+
+                          ____________________
+```

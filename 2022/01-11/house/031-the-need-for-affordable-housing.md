@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-01-11-pt1-PgH20-7
+date: 2022-01-11
+edition: CREC
+section: HOUSE
+page: H20
+citation: 168 Cong. Rec. H20
+---
+
+# THE NEED FOR AFFORDABLE HOUSING
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                    THE NEED FOR AFFORDABLE HOUSING
+
+  (Ms. DEAN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. DEAN. Madam Speaker, last week a fire in Philadelphia killed 12 
+people, including 8 children. While our city mourned, just days later, 
+a fire in New York killed 17, including 8 children.
+  These two events have at least three things in common: a high loss of 
+life, an extraordinary number of children killed, all in public housing 
+overcrowded with families who cannot afford to move.
+  Too many families are in this position because of our Nation's 
+housing crisis. We say we need affordable housing, so let me speak 
+plainly. We need more housing, affordable public and private housing, 
+that families with low income can actually afford.
+  In the Philadelphia area, there are tens of thousands of people on 
+waiting lists that are nearly a decade closed or years long.
+  We in Congress have a role to play. In the Build Back Better Act is 
+$150 billion to repair and restore existing housing and to build more 
+public and affordable private housing. That will be a powerful start.
+  As the Senate stalls, more families are in danger. It is time this 
+House, and their house, helps others find theirs.
+
+                          ____________________
+```
