@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-01-12-pt1-PgH45-7
+date: 2022-01-12
+edition: CREC
+section: HOUSE
+page: H45
+citation: 168 Cong. Rec. H45
+---
+
+# HONORING THE LIFE AND SERVICE OF LIEUTENANT COLONEL ROBERT CHISOLM
+
+**Speaking:** Escobar, Veronica (E000299) [D-TX]
+
+```
+   HONORING THE LIFE AND SERVICE OF LIEUTENANT COLONEL ROBERT CHISOLM
+
+  (Ms. ESCOBAR asked and was given permission to address the House for 
+1 minute.)
+  Ms. ESCOBAR. Mr. Speaker, I rise today to honor the life of Robert 
+Chisolm, an American hero who passed away peacefully on January 4, 
+2022, after a lifetime of service to our country and to El Paso.
+  Lieutenant Colonel Chisolm served in the Army in World War II, the 
+Korean war, and the Vietnam war. He was a paratrooper in the 82nd 
+Airborne Division when he parachuted into combat in Normandy, France, 
+on D-day, a day that liberated Western Europe from Nazi rule.
+  He was also recognized in 2012 by the French Government and awarded 
+the French Legion of Honor medal.
+  After 29 years of faithful service, he retired from the military and 
+settled in El Paso, Texas, with his wife, Margaret. Lieutenant Colonel 
+Chisolm helped create a community for local veterans as a founding 
+member of the Benavidez-Patterson All Airborne Chapter of the 82nd 
+Airborne Division Association, which awards scholarships to the 
+children and grandchildren of paratroopers.
+  May Lieutenant Colonel Robert Chisolm's legacy of devotion to our 
+country, his fellow veterans, and his unwavering commitment to service 
+continue to inspire us all.
+
+                          ____________________
+```

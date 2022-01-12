@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-01-12-pt1-PgH49
+date: 2022-01-12
+edition: CREC
+section: HOUSE
+page: H49
+citation: 168 Cong. Rec. H49
+---
+
+# HONORING THE SERVICE OF HENRY AND ARLENE LANGREHR
+
+**Speaking:** Miller-Meeks, Mariannette (M001215) [R-IA]
+
+```
+           HONORING THE SERVICE OF HENRY AND ARLENE LANGREHR
+
+  (Mrs. MILLER-MEEKS asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. MILLER-MEEKS. Mr. Speaker, I rise today to recognize an 
+incredible veteran from my district for his service to our country and 
+eastern Iowa.
+  Henry Langrehr of Clinton served in Europe during World War II with 
+the 82nd Airborne Division. Because of his heroic and brave actions in 
+France, he received two Bronze Stars, two Purple Hearts, and the French 
+Legion of Honor.
+  Henry was a paratrooper who flew on a C-47 transport plane across the 
+English Channel before being dropped into Normandy on D-day during the 
+Allied invasion.
+  During the campaign, Henry was injured by shrapnel and taken as a 
+German prisoner of war. He successfully escaped a Nazi work camp and 
+made his way back to his countrymen.
+  Henry always makes sure to praise Arlene, his wife of nearly 80 
+years. While Henry was in Europe, Arlene worked 12 hours a day, 7 days 
+a week, making machine gun stands needed for the war effort, a real-
+life Rosie the Riveter.
+  I am incredibly grateful to have amazing Americans like Henry and 
+Arlene living in my district.
+  Thank you for your incredible service to and love for the United 
+States, Iowa, and Clinton.
+
+                          ____________________
+```
