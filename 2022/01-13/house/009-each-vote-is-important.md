@@ -1,0 +1,47 @@
+---
+granule: CREC-2022-01-13-pt1-PgH81-8
+date: 2022-01-13
+edition: CREC
+section: HOUSE
+page: H81
+citation: 168 Cong. Rec. H81
+---
+
+# EACH VOTE IS IMPORTANT
+
+**Speaking:** Miller-Meeks, Mariannette (M001215) [R-IA]
+
+```
+                         EACH VOTE IS IMPORTANT
+
+  (Mrs. MILLER-MEEKS asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. MILLER-MEEKS. Madam Speaker, I rise today to speak on an issue 
+that is important for every American. I know the importance of each 
+vote and understand the difference one vote or six can make. Our 
+country was founded on the right to vote in fair and free elections and 
+faith in the election systems that conduct those elections.
+  Since Iowa implemented new voting laws in 2017, our elections have 
+seen record turnout and participation.
+  Right now, the majority is pushing a Federal takeover of elections, 
+overriding laws in States like Iowa.
+  The proposed legislation would limit voter ID laws, which are 
+supported by the overwhelming majority of Americans. It would also 
+allow politicians to use taxpayer dollars to run political ads; meaning 
+your money could go to candidates and issues you do not support.
+  Finally, it would implement a ``one-size-fits-all'' set of 
+regulations instead
+
+[[Page H82]]
+
+of allowing individual States to establish laws that work for them as 
+provided in our Constitution.
+  Voters in each congressional district across the country are best 
+informed to choose their congressional representation. They do not need 
+interference from Washington, D.C.
+  We should be working to pass bipartisan and commonsense voting laws, 
+not pushing a partisan agenda and playing political games. Let's make 
+sure that everyone can vote and that every vote counts.
+
+                          ____________________
+```

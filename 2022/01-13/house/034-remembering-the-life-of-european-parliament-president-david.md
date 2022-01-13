@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-01-13-pt1-PgH182-6
+date: 2022-01-13
+edition: CREC
+section: HOUSE
+page: H182
+citation: 168 Cong. Rec. H182
+---
+
+# REMEMBERING THE LIFE OF EUROPEAN PARLIAMENT PRESIDENT DAVID SASSOLI
+
+**Speaking:** Costa, Jim (C001059) [D-CA]
+
+```
+  REMEMBERING THE LIFE OF EUROPEAN PARLIAMENT PRESIDENT DAVID SASSOLI
+
+  (Mr. COSTA asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COSTA. Madam Speaker, I rise today to honor the life of a 
+champion for democracy, David Sassoli, President of the European 
+Parliament, who passed away earlier this week.
+  President Sassoli was a respected leader of conviction and principle; 
+a distinguished Italian journalist-turned-public-servant dedicated to 
+his service to helping vulnerable women, homelessness, individuals and 
+the rights of refugees.
+  Sassoli was a symbol of balance and generosity to Europe. His 
+leadership and commitment to social justice will not be forgotten. He 
+will be remembered as a stalwart defender of the shared European and 
+American values of human rights, the rule of law, and equality.
+  I send my deepest condolences, as I know Members of the House do, to 
+the people of the European Union. And my thoughts and prayers are with 
+his family and loved ones.
+
+[[Page H183]]
+
+  
+
+                          ____________________
+```
