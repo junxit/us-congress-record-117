@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-01-20-pt1-PgH257-2
+date: 2022-01-20
+edition: CREC
+section: HOUSE
+page: H257
+citation: 168 Cong. Rec. H257
+---
+
+# SPEAKER PHELAN SETS THE BAR HIGH
+
+**Speaking:** Weber, Randy K. Sr. (W000814) [R-TX]
+
+```
+                              {time}  0915
+                    SPEAKER PHELAN SETS THE BAR HIGH
+
+  (Mr. WEBER of Texas asked and was given permission to address the 
+House for 1 minute.)
+  Mr. WEBER of Texas. Mr. Speaker, today I rise to recognize the 76th 
+Speaker of the Texas House of Representatives, Representative Dade 
+Phelan of Beaumont, Texas.
+  Speaker Phelan, who is serving his fourth term representing the great 
+District 21, is one of the most conservative Speakers in our State's 
+history and has made it his priority to significantly improve the lives 
+of Texans every single day.
+  As only the fourth Republican to hold the Texas House Speakership 
+since 1871, or 151 years, he has set the bar high for any who might 
+follow in his footsteps. He fought to pass landmark legislation that 
+protects businesses, taxpayers, the unborn, religious freedoms, and our 
+Second Amendment rights.
+  Under his leadership, the Texas House led on criminal justice reform 
+issues, healthcare affordability, police funding, and addressing winter 
+storm Uri's long-term impact on our State.
+  I cannot express how proud we are in Texas 14 to claim Speaker 
+Phelan, his wife Kim, and their four precious boys, Ford, Mack, Hank, 
+and little Luke, as our own.
+  Mr. Speaker, I thank Speaker Phelan for all he does for Texas.
+
+                          ____________________
+```

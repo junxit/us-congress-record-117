@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-01-20-pt1-PgH272-5
+date: 2022-01-20
+edition: CREC
+section: HOUSE
+page: H272
+citation: 168 Cong. Rec. H272
+---
+
+# LIFE: GOD'S FIRST GIFT
+
+**Speaking:** Walberg, Tim (W000798) [R-MI]
+
+```
+                         LIFE: GOD'S FIRST GIFT
+
+  (Mr. WALBERG asked and was given permission to address the House for 
+1 minute.)
+  Mr. WALBERG. Mr. Speaker, I rise today, having done this many times 
+over the course of the past 14 years, to speak on behalf of life 
+itself. It is the first and foremost gift that is given to us, and I 
+think of the over 60 million children who have been taken out of that 
+opportunity.
+  It is my hope that we will never have to march again for the repeal 
+of Roe v. Wade after the Supreme Court decides but, rather, that we 
+stand and continue to march for life and the freedom of opportunities 
+for individuals to not only
+
+[[Page H273]]
+
+grow and be benefited by the greatness of this country but also to 
+bring the greatness of this country.
+  Life is a gift of God. It can only be sustained by people who 
+understand that same gift, and I just pray that the Supreme Court and, 
+ultimately, Congress and the legislatures of our land will stand for 
+life.
+
+                          ____________________
+```

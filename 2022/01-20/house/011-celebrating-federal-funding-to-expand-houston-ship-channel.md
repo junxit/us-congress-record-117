@@ -1,0 +1,36 @@
+---
+granule: CREC-2022-01-20-pt1-PgH256-3
+date: 2022-01-20
+edition: CREC
+section: HOUSE
+page: H256
+citation: 168 Cong. Rec. H256
+---
+
+# CELEBRATING FEDERAL FUNDING TO EXPAND HOUSTON SHIP CHANNEL
+
+**Speaking:** Garcia, Sylvia R. (G000587) [D-TX]
+
+```
+       CELEBRATING FEDERAL FUNDING TO EXPAND HOUSTON SHIP CHANNEL
+
+  (Ms. GARCIA of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. GARCIA of Texas. Mr. Speaker, I rise today to celebrate the 
+Federal dollars coming to the Houston area to solve the supply chain 
+issues facing our community and to create more jobs.
+  Yesterday, the Biden administration announced over $14 billion for 
+projects that will improve our Nation's ports, waterways, and 
+railroads. That includes $147 million for a project to expand the 
+Houston Ship Channel on the way to the Port of Houston.
+  This project will make it easier for ships to reach the docks and 
+help more cargo move faster from the container ship to the store shelf. 
+This will create jobs, jobs, and more jobs. This is huge for Texas, 
+huge for Houston, and huge for the whole country.
+  Thanks to the Infrastructure Investment and Jobs Act passed by this 
+Chamber, we are solving the real problems facing everyday Americans.
+  I am grateful for the leadership of President Biden and my colleagues 
+in Congress for getting this done.
+
+                          ____________________
+```
