@@ -1,0 +1,190 @@
+---
+granule: CREC-2022-02-01-pt1-PgS433
+date: 2022-02-01
+edition: CREC
+section: SENATE
+page: S433
+citation: 168 Cong. Rec. S433
+---
+
+# Government Funding (Executive Calendar)
+
+**Speaking:** Reed, Jack (R000122) [D-RI], Moran, Jerry (M000934) [R-KS], Barrasso, John (B001261) [R-WY], Portman, Rob (P000449) [R-OH]
+
+**Measures:** S. 3541
+
+```
+                           Government Funding
+
+  Mr. REED. Mr. President, we are 4 months into the fiscal year, and 
+our colleagues on the other side of the aisle have still not agreed to 
+a deal to fund the Federal Government, including the Department of 
+Defense. In a matter of days, we will face the prospect of a long-term 
+continuing resolution or government shutdown if an agreement on overall 
+funding levels cannot be reached.
+  From the moment President Biden submitted his budget request, 
+Republican leaders said his proposed $12.6 billion increase for defense 
+was not enough. So, on a bipartisan basis, we worked to raise that 
+number to a level proposed by the ranking member of the Armed Services 
+Committee and supported by every Republican on the committee as well as 
+the 88 Senators who voted for the final National Defense Authorization 
+Act.
+  But even with that defense number in hand, our Republican colleagues 
+continue to draw out negotiations on a top-line funding number for the 
+Federal Government. In doing so, they risk pushing us into a full-year 
+continuing resolution that would fund defense at a level that is less 
+than President Biden's initial request.
+  Let me say that again. They were deeply critical of the President's 
+proposal. They worked and we worked with them to get a robust increase 
+in defense spending, and now they are prepared to accept a number even 
+below President Biden's request.
+  Make no mistake, a full-year CR will short-change our military, and 
+it will disrupt the efficient operations of the Federal Government in 
+the midst of international tension, the ongoing COVID-19 pandemic, and 
+a fragile economic recovery.
+  As my colleague from Ohio just pointed out, we are in a serious 
+confrontation on the Ukrainian border between Russian forces and 
+Ukrainian forces. And we have indicated that we want to help. A big 
+part of that help would come from the Department of Defense, but it 
+would be very difficult with a continuing resolution to marshal the 
+help and support to our colleagues and our friends in Ukraine.
+  As I noted, the outlines of a reasonable agreement for both defense 
+and nondefense funding have been evident for some time. Indeed, the 
+National Defense Authorization Act, which passed on a bipartisan basis 
+in December, set a funding level for defense that is 5 percent higher 
+than last year's enacted level. It reflects the level proposed by 
+Ranking Member Inhofe. And, as chairman of the Senate Armed Services 
+Committee, I fully supported that funding level and cosponsored Senator 
+Inhofe's amendment to authorize the increase.
+  For his part, Senator Leahy has adopted the NDAA defense funding 
+levels in the bills that the Appropriations Committee introduced in 
+November. He accommodated that increase by reducing funding for 
+domestic programs by $22.5 billion from the level in the 
+administration's request.
+  So Democrats have agreed to increase defense funding and to reduce 
+nondefense funding from the levels requested by the President. In doing 
+so, Democrats proposed a budget that funds defense activities at a 
+level that is higher than nondefense activities.
+  Let me underscore that point, because GOP leaders often say there 
+should be parity between defense and nondefense spending. Senate 
+Democrats have proposed spending bills that have $777.5 billion for 
+defense and $753 billion for every other discretionary program--the VA, 
+education, agriculture, FBI, Department of Homeland Security, and so 
+on. Democrats have offered our Republican colleagues nearly everything 
+they have asked for, but they won't take yes for an answer.
+  As we drift toward the full-year CR, our colleagues on the other side 
+of the aisle are reacting with nonchalance to the impacts on defense.
+  Let me remind my colleagues what a full-year CR will mean for 
+national defense. It will mean that defense spending would be about $37 
+billion lower than the levels set out in the NDAA and lower than the 
+funding levels requested by President Biden--yes, those levels they 
+criticized so aggressively that President Biden suggests. If they 
+pursue this path of a CR, the numbers for defense will be less than the 
+President's initial request.
+  It means military personnel accounts will be funded $5 billion below 
+what the Department requested. A CR means DOD will have to cannibalize 
+other accounts in order to provide the pay raise and other benefit 
+increases that our servicemembers rightfully deserve.
+  It means the Pentagon may have to delay or suspend permanent change-
+of-station moves and accession of troops--again, all of this in the 
+context, as my colleague from Ohio pointed out, of a major crisis in 
+Europe and a growing concern about Chinese activities in the Pacific.
+  It means training and readiness accounts will fall about $5.3 billion 
+short of what the Department requested. And the key to the morale of 
+soldiers--among one of the most important keys--is that they are well 
+trained and they are prepared. We owe it to them to give them that 
+training and ensure they are prepared.
+  It means the military healthcare account will be short over $1 
+billion.
+  A CR also means that we will be tied to funding priorities from a 
+year ago, even though circumstances have changed markedly. For example, 
+our military engagements with Afghanistan and Eastern Europe are vastly 
+different from last year. Funding will be trapped in the wrong accounts 
+and the Defense Department will not have the flexibility to move it 
+where it is needed.
+  A CR will prevent the Defense Department from effectively modernizing 
+and reinvesting in new programs. Because new program starts are not 
+allowed under a CR, the Department of Defense will be forced into 
+funding legacy systems that are outdated and inefficient. Meanwhile, 
+important new initiatives and acquisitions would be delayed.
+
+  We won't be able to fund three additional ships and seven more Joint 
+Strike Fighters in the Navy's 2022 budget. The Marines would have to 
+delay procurement of the MQ-9A Reaper UAV, and the Amphibious Combat 
+Vehicle.
+  The Space Force would have to cut two of the five planned national 
+security space launch missions, and the Air Force would have to delay 
+the Ground-Based Strategic Deterrent Program and the long-range 
+standoff weapon.
+  DOD also won't be able to start over 100 military construction 
+projects--new facilities that our servicemembers need to do their jobs 
+safely and effectively. This includes, among others: $32 million in Air 
+Force corrosion and simulator projects in Florida, $55 million for a 
+joint operation center at Fort Polk in Louisiana, $56 million in total 
+projects for Wisconsin, $75 million in total projects for Georgia, $94 
+million in total projects for Michigan, $161 million in total projects 
+for Texas, $186 million in total projects for California, $251 million 
+for a runway extension at Joint Base Elmendorf-Richardson in Alaska, 
+$251 million in total projects for South Dakota, and $321 million in 
+total projects for North Carolina.
+  Finally, a CR will disrupt DOD's partnerships with outside partners 
+in the private sector and academia, and with our allies, because they 
+inject uncertainty, instability, and additional costs to R&D and 
+acquisition processes.
+  In short, a yearlong CR will make us less competitive with our 
+adversaries and less able to respond to the rapidly changing global 
+landscape, which was illustrated so eloquently by my colleague from 
+Ohio. It would be a self-inflicted wound at a dangerous time for the 
+country and our international partners.
+  The impact will not only be felt on the defense side of the ledger. 
+As the COVID-19 pandemic continues to produce new and potentially 
+dangerous strains, we risk losing $5 billion in research at the NIH and 
+$2.4 billion in funding for our public health infrastructure, including 
+funding for the CDC, BARDA, and the National Disaster Medical System.
+  And a CR would sacrifice $3 billion in new investments in mental 
+health, and
+
+[[Page S434]]
+
+one of the obvious outcomes of this pandemic is the mental health 
+challenge that is facing all Americans, and particularly young 
+Americans.
+  We risk losing a proposed $400 increase in the maximum Pell grant, 
+just as schools and students are trying to finalize financial aid 
+packages. Too many students have put off their college education due to 
+economic hardship and uncertainty during the pandemic. This Congress 
+should not make matters worse by withholding student aid.
+  A CR would also be a slap in the face to the Capitol Police, who have 
+been stretched to the limit in the aftermath of the January 6 assault 
+on the Capitol. It would deny the department needed funding to hire new 
+officers, for overtime and retention payments, as well as resources for 
+officer wellness and mental health support.
+  Chairman Leahy has bent over backward to engage our Republican 
+colleagues. Four months into the fiscal year, we need them to reach an 
+agreement. Otherwise, we risk a full-year CR in which everybody loses--
+most of all the American people.
+  I yield the floor.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The senior assistant legislative clerk proceeded to call the roll.
+  Mr. MORAN. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from Kansas.
+  Mr. MORAN. First of all, I ask unanimous consent that I be permitted 
+to speak for up to 7 minutes and Senator Barrasso be permitted to speak 
+for up to 10 minutes prior to the scheduled rollcall votes.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (The remarks of Mr. MORAN pertaining to the introduction of S. 3541 
+are printed in today's Record under ``Statements on Introduced Bills 
+and Joint Resolutions.'')
+  Mr. MORAN. I yield the floor.
+  The PRESIDING OFFICER. The Senator from Wyoming.
+  Mr. BARRASSO. Mr. President, first, I would like to commend my 
+colleague, the senior Senator from Kansas, for his incredible ongoing 
+leadership on the issue of the veterans of our Nation and his strong 
+commitment to each and every one of those veterans and to the men and 
+women who wear the uniform and go to battle to keep us safe and keep us 
+free, and it is his long history of leadership for which I am most 
+grateful.
+```

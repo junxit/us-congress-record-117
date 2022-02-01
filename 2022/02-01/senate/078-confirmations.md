@@ -1,0 +1,26 @@
+---
+granule: CREC-2022-02-01-pt1-PgS462-2
+date: 2022-02-01
+edition: CREC
+section: SENATE
+page: S462
+citation: 168 Cong. Rec. S462
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate February 1, 2022:
+
+
+                             THE JUDICIARY
+
+       BRIDGET MEEHAN BRENNAN, OF OHIO, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF OHIO.
+       CHARLES ESQUE FLEMING, OF OHIO, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF OHIO.
+       DAVID AUGUSTIN RUIZ, OF OHIO, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE NORTHERN DISTRICT OF OHIO.
+```
