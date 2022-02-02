@@ -1,0 +1,61 @@
+---
+granule: CREC-2022-02-02-pt1-PgS465-2
+date: 2022-02-02
+edition: CREC
+section: SENATE
+page: S465
+citation: 168 Cong. Rec. S465
+---
+
+# Appropriations (Executive Session)
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+                             Appropriations
+
+  Mr. DURBIN. Mr. President, I want to follow up on the statement made 
+by the Republican Senate leader, and I agree with many of the things he 
+said. We disagree with others. But there is a way for us to show our 
+commitment not only to our troops but to the defense of causes that are 
+important to America, and it is in his hands. It is known as the 
+appropriations bill for the Department of Defense. It is known as the 
+appropriations and budget for the United States of America.
+  Where are we now? We are on something called a continuing resolution. 
+That means we haven't decided. We can't get an agreement from the 
+Republican leader to move forward on the spending bills for this fiscal 
+year, which began October 1. We are spending at last year's levels when 
+the Biden administration has asked for more money for the Nation's 
+defense, and who is stopping him? The Republican leader.
+  So he can't have it both ways and argue we need to invest more in the 
+defense of America and then stop us from an appropriations process that 
+does just that. Let's get it done. This should have been done before 
+last October 1, and his cooperation means it can be done now.
+  Now, let me say there is another aspect to it. Many speeches are 
+given about the rise in crime in America. I know this personally, 
+representing the State of Illinois and the great city of Chicago. The 
+number of violent gun crimes in this last calendar year was just 
+shocking. When you look at all of the people who have been hurt and 
+killed with the use of guns in cities across America, it is clear that 
+we need to invest in our police force and law enforcement. Hold them 
+accountable for the right values and the right conduct, but put in 
+their hands the resources to
+
+[[Page S466]]
+
+protect us in our homes and our neighborhoods.
+  What is holding that up? The same decision by the Republican leader 
+not to bring any appropriations bills forward for approval by the 
+Congress. This is just mindless. You can't preach on one hand that you 
+want to fund the police and then stop the appropriations process, which 
+the Republicans in the Senate have done.
+  It is time to pass the Omnibus appropriations bill so the resources 
+are going to ATF and to the U.S. Attorney's Offices and other law 
+enforcement agencies that can help the State and local law enforcement 
+efforts to try to suppress this violent crime.
+  So don't preach about the need for this money and then turn around 
+and stop the effort here on Capitol Hill. Why aren't we voting on an 
+Omnibus appropriations bill this week? Why? Why can't we get this done 
+next week? It was supposed to be done last October, and it is time for 
+us to do it.
+```

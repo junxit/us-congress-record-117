@@ -1,0 +1,44 @@
+---
+granule: CREC-2022-02-02-pt1-PgH357-2
+date: 2022-02-02
+edition: CREC
+section: HOUSE
+page: H357
+citation: 168 Cong. Rec. H357
+---
+
+# RESIGNATION AS MEMBER OF COMMITTEE ON VETERANS' AFFAIRS
+
+```
+        RESIGNATION AS MEMBER OF COMMITTEE ON VETERANS' AFFAIRS
+
+  The SPEAKER pro tempore laid before the House the following 
+resignation as a member of the Committee on Veterans' Affairs:
+
+
+                                     House of Representatives,
+
+                                                 February 1, 2022.
+     Hon. Nancy Pelosi,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Speaker Pelosi: I write today to request to be removed 
+     from the House Veterans Affairs Committee to allow the newly 
+     elected Representative from Florida's 20th Congressional 
+     District, Sheila Cherfilus-McCormick, to serve on this 
+     committee. I know that Rep. Cherfilus-McCormick will bring a 
+     fresh and unique perspective to this committee's work and our 
+     country's veteran population will be better served because of 
+     it.
+       It has been an honor to serve on this critically important 
+     committee to try and improve the lives of our nation's 
+     veterans. Thank you for your consideration.
+           Sincerely,
+                                                 Anthony G. Brown.
+
+  The SPEAKER pro tempore. Without objection, the resignation is 
+accepted.
+  There was no objection.
+
+                          ____________________
+```

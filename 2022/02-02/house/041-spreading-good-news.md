@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-02-02-pt1-PgH346-10
+date: 2022-02-02
+edition: CREC
+section: HOUSE
+page: H346
+citation: 168 Cong. Rec. H346
+---
+
+# SPREADING GOOD NEWS
+
+**Speaking:** Cartwright, Matt (C001090) [D-PA]
+
+```
+                          SPREADING GOOD NEWS
+
+  (Mr. CARTWRIGHT asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CARTWRIGHT. Madam Speaker, over the last 2 months since we passed 
+the Infrastructure Investment and Jobs
+
+[[Page H347]]
+
+Act, House Democrats have been spreading the good news.
+  In fact, we have had over 1,000 events across this Nation where House 
+Democrats bring home to Americans what we have done with the 
+Infrastructure Investment and Jobs Act, strengthening our water systems 
+and sewer systems, rebuilding our roads and our bridges.
+  We just had a catastrophic bridge failure in Pittsburgh that brings 
+home the need to do these things.
+  Expanding broadband internet into the rural places that need them the 
+most, this is a wonderful thing that is highlighting the fact that 
+Democrats delivered with the Infrastructure Investment and Jobs Act.
+  That is not the wonder, Madam Speaker. The wonder in all of this is 
+that we had 200 House Republicans voting no, voting against investing 
+in America and helping our companies and our country compete with 
+China, Europe, and places abroad.
+  They voted no. They voted against infrastructure, and they need to 
+explain why.
+
+                          ____________________
+```

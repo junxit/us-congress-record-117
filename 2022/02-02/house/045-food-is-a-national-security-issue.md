@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-02-02-pt1-PgH347-4
+date: 2022-02-02
+edition: CREC
+section: HOUSE
+page: H347
+citation: 168 Cong. Rec. H347
+---
+
+# FOOD IS A NATIONAL SECURITY ISSUE
+
+**Speaking:** Costa, Jim (C001059) [D-CA]
+
+```
+                   FOOD IS A NATIONAL SECURITY ISSUE
+
+  (Mr. COSTA asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COSTA. Madam Speaker, I rise to speak on behalf of the America 
+COMPETES Act of 2022, which makes a critical $45 billion investment in 
+supply chain resiliency--critical.
+  Farmers in my district have suffered from a backlog seen in American 
+ports and harbors. The California Farm Bureau estimates that in a 4-
+month period last year, California agriculture exports fell by $2 
+billion--important and significant.
+  Food, I believe, is a national security issue. This supply chain 
+crisis hurts farmers and only increases food insecurity and prices for 
+those in need; i.e., the American consumer.
+  That is why I am cosponsoring an amendment in the COMPETES Act that 
+requires the Secretary of Agriculture and Assistant Secretary of supply 
+chain resilience and crisis response to monitor food and agriculture 
+supply chains and provide Congress with their findings so that we can 
+protect and improve our critical supply chain in this country.
+  Our country must ensure that we have safeguards in place to keep our 
+supply chains strong, which contributes to success on the global 
+economic stage.
+
+                          ____________________
+```
