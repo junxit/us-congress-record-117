@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-02-03-pt1-PgH921-9
+date: 2022-02-03
+edition: CREC
+section: HOUSE
+page: H921
+citation: 168 Cong. Rec. H921
+---
+
+# LUNAR NEW YEAR IS A TIME OF CELEBRATION
+
+**Speaking:** Bass, Karen (B001270) [D-CA]
+
+```
+                LUNAR NEW YEAR IS A TIME OF CELEBRATION
+
+  (Ms. BASS asked and was given permission to address the House for 1 
+minute.)
+  Ms. BASS. Madam Speaker, Lunar New Year is a time of celebration for 
+so many people in Los Angeles and millions around the world.
+  As we welcome the Year of the Tiger--a symbol of bravery--we honor 
+the history and heritage of the Asian Pacific Islander communities 
+across America and stand in support and active defense in the face of 
+challenges,
+
+[[Page H922]]
+
+like the rise of anti-Asian violence and hate.
+  Over the past 2 years, I have been greatly alarmed and concerned by 
+what I have seen and heard from businessowners, restaurant owners, 
+teachers, parents, and young people in my district and across the 
+country.
+  To honor the celebration of the Lunar New Year, I have cosponsored 
+legislation led by my colleague Grace Meng to make Lunar New Year a 
+Federal holiday in the U.S.
+  I want to wish everyone warm wishes of health, success, and happiness 
+in the years ahead. Though many were not able to gather in person with 
+their families to celebrate this week, we continue to forge ahead in 
+our recovery from the pandemic.
+
+                          ____________________
+```

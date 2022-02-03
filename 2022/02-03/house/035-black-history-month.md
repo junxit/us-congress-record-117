@@ -1,0 +1,37 @@
+---
+granule: CREC-2022-02-03-pt1-PgH944
+date: 2022-02-03
+edition: CREC
+section: HOUSE
+page: H944
+citation: 168 Cong. Rec. H944
+---
+
+# BLACK HISTORY MONTH
+
+**Speaking:** Underwood, Lauren (U000040) [D-IL]
+
+```
+                              {time}  1930
+                          BLACK HISTORY MONTH
+
+  (Ms. UNDERWOOD asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. UNDERWOOD. Madam Speaker, I rise today to celebrate the beginning 
+of Black History Month and highlight the contributions and impact of 
+Black Americans in my community.
+  When I was elected to Congress in 2018, I became the first Black 
+woman to represent the 14th District and the youngest Black woman in 
+Congress. I am honored to hold a place in Illinois 14th's Black history 
+alongside the trailblazers that came before me--like Batavia-native 
+Charles Edward Hall, whose 35-year career at the Census Bureau 
+fundamentally changed our national understanding of Black communities; 
+or Civil War veteran, Henry Beard, and his wife, Julia, who after 
+escaping slavery, became the first Black residents of Sycamore in 1871; 
+and Dr. Lloyd from Elgin, who revolutionized food, drug, and cosmetic 
+preservation with the creation of a sterilization process.
+  These are just a few of the Black Illinoisans who have made a mark on 
+my community and our country, and I am very proud to honor them.
+
+                          ____________________
+```
