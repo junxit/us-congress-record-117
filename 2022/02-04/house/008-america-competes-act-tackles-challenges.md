@@ -1,0 +1,45 @@
+---
+granule: CREC-2022-02-04-pt1-PgH949-7
+date: 2022-02-04
+edition: CREC
+section: HOUSE
+page: H949
+citation: 168 Cong. Rec. H949
+---
+
+# AMERICA COMPETES ACT TACKLES CHALLENGES
+
+**Speaking:** Schrader, Kurt (S001180) [D-OR]
+
+```
+                AMERICA COMPETES ACT TACKLES CHALLENGES
+
+  (Mr. SCHRADER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. SCHRADER. Madam Speaker, I rise today in support of the America 
+COMPETES Act of 2022.
+  This comprehensive bill tackles the challenges everyday Oregonians 
+face right now with supply chain and consequent rising consumer prices. 
+It is a huge investment in our competitiveness on the global stage for 
+the 21st century. It invests $45 billion to strengthen and improve our 
+supply chains while incentivizing manufacturing of critical security 
+goods that should be made right here in the United States.
+  As the pandemic has shown us, active ingredients of lifesaving 
+pharmaceuticals and PPE gear should not be all made overseas.
+  I am also glad that leadership included the $52 billion in emergency 
+CHIPS Act funding, a priority for my Problem Solvers Caucus and the 
+State of Oregon. Without this Federal investment, our semiconductor 
+problems would only grow worse. We will continue to see critical 
+shortages, hindering a wide range of industries in my district and 
+across the Nation. Passage here will strengthen our domestic supply and 
+lead to good-paying jobs for our citizens and companies as they move to 
+expand and set up our domestic manufacturing facilities.
+
+[[Page H950]]
+
+  This bill contains bipartisan proposals to keep us innovating and 
+creating in critical industries and makes sure that the United States 
+is not at the mercy of a tenuous international supply chain.
+
+                          ____________________
+```
