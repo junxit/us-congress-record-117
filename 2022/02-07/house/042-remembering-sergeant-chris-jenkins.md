@@ -1,0 +1,44 @@
+---
+granule: CREC-2022-02-07-pt1-PgH997-4
+date: 2022-02-07
+edition: CREC
+section: HOUSE
+page: H997
+citation: 168 Cong. Rec. H997
+---
+
+# REMEMBERING SERGEANT CHRIS JENKINS
+
+**Speaking:** Burchett, Tim (B001309) [R-TN]
+
+```
+                   REMEMBERING SERGEANT CHRIS JENKINS
+
+  (Mr. BURCHETT asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BURCHETT. Madam Speaker, I rise tonight with a heavy heart as the 
+citizens of my district and, especially, Loudon County mourn the loss 
+of Sergeant Chris Jenkins, a military veteran and long-time member of 
+the Loudon County Sheriff's Office.
+  Sergeant Jenkins was killed last week. He was hit by an intoxicated 
+driver behind the wheel of a semitruck. His life was cut way too short, 
+but the impact he had on his community will live on long into the 
+future.
+  Sergeant Jenkins served with honor, proudly going to work every day 
+in service to others and knowing that any day he could be asked to make 
+the ultimate sacrifice.
+  Today, I had the privilege of speaking on the phone with Sergeant 
+Jenkins' sweet mother, Faye, and his son Clay, who is also a Loudon 
+County Sheriff's deputy. Many of my friends in the Chamber know that 
+those are the hardest calls to make.
+  To me, our servicemembers and first responders are all heroes. But 
+talking to mothers like Faye, Madam Speaker, you are reminded that 
+these heroes are so much more: they are mothers and fathers, sons and 
+daughters, brothers and sisters.
+
+  So, Madam Speaker, I ask that my colleagues join me in honoring the 
+life and service of Sergeant Chris Jenkins and offer up a prayer 
+tonight that his family find some comfort in their loss.
+
+                          ____________________
+```

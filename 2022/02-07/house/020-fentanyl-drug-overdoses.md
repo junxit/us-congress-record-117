@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-02-07-pt1-PgH982-9
+date: 2022-02-07
+edition: CREC
+section: HOUSE
+page: H982
+citation: 168 Cong. Rec. H982
+---
+
+# FENTANYL DRUG OVERDOSES
+
+**Speaking:** Walberg, Tim (W000798) [R-MI]
+
+```
+                        FENTANYL DRUG OVERDOSES
+
+  (Mr. WALBERG asked and was given permission to address the House for 
+1 minute.)
+  Mr. WALBERG. Mr. Speaker, each year, too many lives are cut short 
+because of drug overdoses. And fentanyl and its analogs, most of which 
+originate from China, are making this crisis even worse.
+  Sadly, under the Biden administration's porous border policies, many 
+of these deadly drugs are flooding across the southern border and 
+devastating communities across the country. We need to use every 
+available resource to fight back, including giving law enforcement the 
+flexibility to go after drug traffickers who flout the law. Unless we 
+take action, an important tool--the DEA's emergency scheduling order 
+for fentanyl-related substances--will expire this very month.
+  It is past time to make this scheduling classification permanent, and 
+I am proud to cosponsor the HALT Fentanyl Act to do just that.
+  Mr. Speaker, let's pass this bill, secure the border, and stem the 
+tide of the growing fentanyl crisis.
+
+[[Page H983]]
+
+  
+
+                          ____________________
+```

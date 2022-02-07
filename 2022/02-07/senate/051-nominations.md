@@ -1,0 +1,34 @@
+---
+granule: CREC-2022-02-07-pt1-PgS548
+date: 2022-02-07
+edition: CREC
+section: SENATE
+page: S548
+citation: 168 Cong. Rec. S548
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                    UNITED STATES INSTITUTE OF PEACE
+
+        MARY GREEN SWIG, OF CALIFORNIA, TO BE A MEMBER OF THE 
+     BOARD OF DIRECTORS OF THE UNITED STATES INSTITUTE OF PEACE 
+     FOR A TERM OF FOUR YEARS, VICE JOHN A. LANCASTER, TERM 
+     EXPIRED.
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+        ALICE HILL, OF THE DISTRICT OF COLUMBIA, TO BE DEPUTY 
+     ADMINISTRATOR FOR RESILIENCE, FEDERAL EMERGENCY MANAGEMENT 
+     AGENCY, DEPARTMENT OF HOMELAND SECURITY, VICE DANIEL J. 
+     KANIEWSKI.
+
+                          ____________________
+```

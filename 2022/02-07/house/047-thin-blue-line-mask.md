@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-02-07-pt1-PgH998-3
+date: 2022-02-07
+edition: CREC
+section: HOUSE
+page: H998
+citation: 168 Cong. Rec. H998
+---
+
+# THIN BLUE LINE MASK
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                          THIN BLUE LINE MASK
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, this last week, a 13-year-old young man 
+was verbally berated in his school classroom in Grass Valley, 
+California, in my district, by a substitute math teacher, all because 
+he was wearing a mask that had the thin blue line on it, which is known 
+all over the country and internationally as being the one symbol that 
+supports law enforcement.
+  The flag--it is an American flag adapted to that--is a sign that just 
+shows support for our law enforcement, who we know protect us from 
+chaos and anarchy, and they help uphold ideals of justice, freedom, 
+bravery, and solidarity.
+  The boy's father and stepmother are members of law enforcement, so it 
+is natural that he would be wearing that mask, not only in general for 
+law enforcement but for his parents. Then we have a grown adult in a 
+classroom setting who attacks this boy because he says he wants to 
+compare this to the new Confederate flag. It is ridiculous. He berated 
+a child.
+  We are all raised to respect law enforcement, and this is what is 
+going on in the classroom. I commend the school district for not 
+bringing that substitute teacher back anymore.
+  Hang in there young man and your parents.
+
+                          ____________________
+```
