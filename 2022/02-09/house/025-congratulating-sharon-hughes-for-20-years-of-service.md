@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-02-09-pt1-PgH1089-5
+date: 2022-02-09
+edition: CREC
+section: HOUSE
+page: H1089
+citation: 168 Cong. Rec. H1089
+---
+
+# CONGRATULATING SHARON HUGHES FOR 20 YEARS OF SERVICE
+
+**Speaking:** Davidson, Warren (D000626) [R-OH]
+
+```
+          CONGRATULATING SHARON HUGHES FOR 20 YEARS OF SERVICE
+
+  (Mr. DAVIDSON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. DAVIDSON. Mr. Speaker, I rise today to congratulate and thank 
+Sharon Hughes for her 20 years of service to the Eighth District of 
+Ohio.
+  Sharon was born in Marion, Ohio, and attended Bowling Green State 
+University. She worked for Congressman John Boehner from 2002 to 2016, 
+and she has been a dedicated staff member in my office since 2016. She 
+served as a caseworker and office manager, and also directed the 
+military academy nomination process with excellence, and the 
+Congressional Art Competition with excellence as well.
+  Outside of her congressional work, she also served in several 
+leadership roles for the Butler Philharmonic Orchestra.
+  During her 20 years of service to the Eighth District of Ohio, Sharon 
+has made a difference in the lives of countless constituents, including 
+assisting in
+
+[[Page H1090]]
+
+securing Federal benefits; solving tax return problems; and acquiring 
+service records, passports, and military service-connected disability 
+compensation.
+  I thank Sharon so much for everything that she has done for Ohio's 
+Eighth District. May she enjoy her well-earned retirement.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-02-09-pt1-PgH1092-3
+date: 2022-02-09
+edition: CREC
+section: HOUSE
+page: H1092
+citation: 168 Cong. Rec. H1092
+---
+
+# HUMAN DIGNITY IS A BASIC HUMAN RIGHT
+
+**Speaking:** Lee, Barbara (L000551) [D-CA]
+
+```
+                  HUMAN DIGNITY IS A BASIC HUMAN RIGHT
+
+  (Ms. LEE of California asked and was given permission to address the 
+House for 1 minute.)
+  Ms. LEE of California. Mr. Speaker, I rise today to celebrate the 
+passage of the Global Respect Act. I thank Congressman Cicilline for 
+sponsoring this legislation and also Chairman Meeks and the Speaker for 
+bringing it to the floor.
+  Human dignity is a basic human right, yet LGBTQ individuals are often 
+targets for harassment, violence, and even death, simply based on their 
+sexual orientation or gender identity.
+  As chair of the State, Foreign Operations Appropriations 
+Subcommittee, I am committed to protecting and promoting the human 
+rights and dignity of all people, especially those who are marginalized 
+and most vulnerable, such as LGBTQ individuals.
+  I am so proud that in the House FY22 SFOPS bill we provided $15 
+million for the Global Equality Fund at the State Department and $10 
+million for the protection of LGBTQ persons at USAID.
+  The Global Respect Act will ensure that the administration has the 
+tools it needs to advance the rights of all human beings, regardless of 
+who they are or who they love. This bill upholds our core values of 
+tolerance and compassion for our fellow human beings. I want to 
+congratulate this body for voting for this bill today.
+
+                          ____________________
+```
