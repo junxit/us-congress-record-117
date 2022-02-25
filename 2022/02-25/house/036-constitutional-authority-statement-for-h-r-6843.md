@@ -1,0 +1,20 @@
+---
+granule: CREC-2022-02-25-pt1-PgH1148-10
+date: 2022-02-25
+edition: CREC
+section: HOUSE
+page: H1148
+citation: 168 Cong. Rec. H1148
+---
+
+# Constitutional Authority Statement for H.R. 6843
+
+**Measures:** H.R. 6843
+
+```
+            By Mr. KILMER:
+        H.R. 6843.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8 of the U.S. Constitution
+```
