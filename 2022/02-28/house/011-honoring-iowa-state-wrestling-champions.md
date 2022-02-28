@@ -1,0 +1,36 @@
+---
+granule: CREC-2022-02-28-pt1-PgH1152-2
+date: 2022-02-28
+edition: CREC
+section: HOUSE
+page: H1152
+citation: 168 Cong. Rec. H1152
+---
+
+# HONORING IOWA STATE WRESTLING CHAMPIONS
+
+**Speaking:** Miller-Meeks, Mariannette (M001215) [R-IA]
+
+```
+                HONORING IOWA STATE WRESTLING CHAMPIONS
+
+  (Mrs. MILLER-MEEKS asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. MILLER-MEEKS. Mr. Speaker, I rise today to recognize the 
+accomplishments of seven young men from Iowa's Second Congressional 
+District.
+  Timothy Koester of Bettendorf, Marcel Lopez of New London, Hunter 
+Garvin of Iowa City West, Eric Kinkaid of Camanche, Blaine Frazier and 
+C.J. Walrath of Burlington Notre Dame, and Ben Kueter of Iowa City 
+earned the title of State champion at the Iowa State wrestling 
+championships earlier this month.
+  Wrestling holds a special place in the homes of many across Iowa, and 
+these young men should be incredibly proud of their achievements. 
+Through hard work and dedication, these student-athletes were able to 
+dominate their competition and bring home victory to their school, 
+family, and community.
+  These young men proved that the possibilities are endless if you work 
+hard enough. Congratulations to all of our State champions.
+
+                          ____________________
+```
