@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-03-01-pt1-PgH1185-4
+date: 2022-03-01
+edition: CREC
+section: HOUSE
+page: H1185
+citation: 168 Cong. Rec. H1185
+---
+
+# RECOGNIZING LIZ BOLHOUSE
+
+**Speaking:** Lee, Susie (L000590) [D-NV]
+
+```
+                        RECOGNIZING LIZ BOLHOUSE
+
+  (Mrs. LEE of Nevada asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. LEE of Nevada. Mr. Speaker, I rise today to honor Liz Bolhouse, 
+a pediatric ICU nurse back home in Las Vegas. Tonight, President Biden 
+will address this Congress and the Nation in the State of the Union 
+address, and Liz is my guest.
+  While we continue to recover from this pandemic, let's reflect on 
+what we have done. We have put over 500 million shots in arms of 
+Americans, our kids are back in school, our economy is getting back on 
+track, and a record-breaking 6.7 million jobs were created in the 
+President's first year.
+  It is hardworking Americans in southern Nevada, and all across this 
+Nation, who are the true heroes in this recovery. Liz is one of those 
+heroes. Liz has lived and worked in Nevada for 22 years as a nurse. It 
+goes without saying that these have been two of the hardest years in 
+all of our lives, but these 2 years have brought out the best in our 
+dedicated and selfless healthcare heroes, including Liz, and the 
+hundreds of Nevada nurses she represents as the SEIU Local 1107 chief 
+nursing steward.
+  I thank Liz and I thank every nurse back home and across this great 
+Nation for your hard work and dedication in keeping our communities 
+healthy and safe.
+
+                          ____________________
+```
