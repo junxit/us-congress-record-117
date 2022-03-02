@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-03-02-pt1-PgH1257-6
+date: 2022-03-02
+edition: CREC
+section: HOUSE
+page: H1257
+citation: 168 Cong. Rec. H1257
+---
+
+# STATE OF THE UNION LACKED TANGIBLE PLANS
+
+**Speaking:** Bice, Stephanie I. (B000740) [R-OK]
+
+```
+                STATE OF THE UNION LACKED TANGIBLE PLANS
+
+  (Mrs. BICE OF Oklahoma asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. BICE of Oklahoma. Madam Speaker, I rise today in response to 
+President Biden's State of the Union address.
+  While I appreciated that Biden emphasized the importance of 
+continuing to support Ukraine, overall, his speech was a lot of talk 
+without tangible plans
+
+[[Page H1258]]
+
+to solve the numerous issues that are devastating the Nation.
+  The President's speech didn't address the root causes of inflation, a 
+crisis that is crushing many American families.
+  I found it ironic that Biden talked about securing the border when, 
+throughout his entire time in office, he has actively ignored the 
+unprecedented number of illegal crossings, which are due to his open 
+border policies currently in place.
+  Finally, I am incredibly disappointed that he made no plan to restore 
+American energy independence. We can produce affordable, reliable, and 
+sustainable energy right here at home in States like my home State of 
+Oklahoma.
+  Frankly, his address focused a lot on rehashing and disguising Build 
+Back Better while lacking concrete solutions to the pressing issues 
+negatively impacting the lives of American people.
+
+                          ____________________
+```

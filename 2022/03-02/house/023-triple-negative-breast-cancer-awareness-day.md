@@ -1,0 +1,36 @@
+---
+granule: CREC-2022-03-02-pt1-PgH1216-8
+date: 2022-03-02
+edition: CREC
+section: HOUSE
+page: H1216
+citation: 168 Cong. Rec. H1216
+---
+
+# TRIPLE-NEGATIVE BREAST CANCER AWARENESS DAY
+
+**Speaking:** Morelle, Joseph D. (M001206) [D-NY]
+
+```
+              TRIPLE-NEGATIVE BREAST CANCER AWARENESS DAY
+
+  (Mr. MORELLE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. MORELLE. Madam Speaker, six years ago this month, I heard the 
+phrase triple-negative breast cancer for the first time in my life. I 
+was in the oncologist's office with my newly diagnosed 29-year-old 
+daughter, Lauren, a day forever etched in my memory.
+  In the weeks that followed, I learned a great deal about this very 
+aggressive, rare form of breast cancer. Roughly 12 percent of breast 
+cancer survivors are designated as triple-negative.
+  It is the only form of breast cancer that doesn't respond to hormone 
+therapy, often requiring chemotherapy instead. And it claims the lives 
+of thousands of women and men each year. It stole Lauren from our 
+family in August of 2017.
+  Tomorrow, March 3, is Triple-Negative Breast Cancer Awareness Day. I 
+am humbled to sponsor a resolution to call attention to this awful 
+disease and to let the thousands of victims of triple-negative breast 
+cancer know they are not alone.
+
+                          ____________________
+```
