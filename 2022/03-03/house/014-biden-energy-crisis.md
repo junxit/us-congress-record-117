@@ -1,0 +1,44 @@
+---
+granule: CREC-2022-03-03-pt1-PgH1278-5
+date: 2022-03-03
+edition: CREC
+section: HOUSE
+page: H1278
+citation: 168 Cong. Rec. H1278
+---
+
+# BIDEN ENERGY CRISIS
+
+**Speaking:** Moore, Barry (M001212) [R-AL]
+
+```
+                          BIDEN ENERGY CRISIS
+
+  (Mr. MOORE of Alabama asked and was given permission to address the 
+House for 1 minute.)
+  Mr. MOORE of Alabama. Madam Speaker, we are in the depths of the 
+Biden energy crisis.
+  On day one of Joe Biden's Presidency, he launched his war on American 
+energy when he killed the Keystone XL pipeline, which could be 
+supplying 830,000 barrels of oil a day from Canada to U.S. refineries. 
+As recently as a few days ago, we imported 600,000 barrels of oil from 
+Russia.
+  During the State of the Union, President Biden claimed he wanted to 
+``Buy American.'' But regrettably, he did not apply that to our oil or 
+our natural gas. Biden has made it crystal clear that his anti-energy 
+agenda would continue.
+  He also announced that he would once again tap into the Strategic 
+Petroleum Reserve and release 30 million barrels of oil in another 
+desperate attempt to reduce gas prices here at home. The SPR is 
+supposed to be used for national security emergencies and
+
+[[Page H1279]]
+
+for major weather events, not for Biden to use as a political Hail Mary 
+when his policies fail us. Energy security is national security.
+  Let me say this: Winston Churchill said appeasement is like feeding a 
+crocodile and hoping he eats you last. We must stop appeasing Russia. 
+We must be Churchill in this moment, not Chamberlain.
+
+                          ____________________
+```
