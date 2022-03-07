@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-03-07-pt1-PgH1316
+date: 2022-03-07
+edition: CREC
+section: HOUSE
+page: H1316
+citation: 168 Cong. Rec. H1316
+---
+
+# RECOGNIZING WGY RADIO STATION ON ITS 100TH ANNIVERSARY
+
+**Speaking:** Tonko, Paul (T000469) [D-NY]
+
+```
+         RECOGNIZING WGY RADIO STATION ON ITS 100TH ANNIVERSARY
+
+  (Mr. TONKO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TONKO. Madam Speaker, I rise today to recognize New York's 
+Capital Region radio station, WGY, on the occasion of its 100th 
+anniversary.
+  Through decades of informing and entertaining Capital Region 
+listeners, WGY has long stood as a pillar of the Schenectady community.
+  This pioneering station, established by engineers at General Electric 
+in 1922, has spent a century at the forefront of innovations in radio 
+technology.
+  From conducting the first two-way radio transmission to England to 
+being one of the first two radio stations to broadcast baseball's World 
+Series, WGY has played a key role in establishing New York's Capital 
+District as a global and national hub for technological advancement.
+  I extend my warm congratulations to everyone at WGY for reaching this 
+historic milestone. Throughout its first 100 years, the station has 
+connected with listeners through its talented and revered hosts.
+  Here is to many more successful years delivering powerful stories and 
+quality news to our communities. Congratulations to WGY.
+
+                          ____________________
+```

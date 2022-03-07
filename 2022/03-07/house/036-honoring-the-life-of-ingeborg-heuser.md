@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-03-07-pt1-PgH1315-4
+date: 2022-03-07
+edition: CREC
+section: HOUSE
+page: H1315
+citation: 168 Cong. Rec. H1315
+---
+
+# HONORING THE LIFE OF INGEBORG HEUSER
+
+**Speaking:** Escobar, Veronica (E000299) [D-TX]
+
+```
+                  HONORING THE LIFE OF INGEBORG HEUSER
+
+  (Ms. ESCOBAR asked and was given permission to address the House for 
+1 minute.)
+  Ms. ESCOBAR. Madam Speaker, it is with a heavy heart that I rise 
+today to honor the life of Ingeborg Heuser, who passed away after a 
+lifetime in the arts.
+  Ingeborg immigrated to the United States from Germany after World War 
+II, arriving to El Paso in 1953 as the wife of a servicemember.
+  As a classical ballet dancer, she opened her first studio that year 
+and became ballet director of the Texas Western Civic Ballet. Over the 
+next 47 years, she would establish and direct Ballet El Paso, Ballet of 
+the Americas, and the University of Texas El Paso ballet. Thousands of 
+students passed through her studio doors, and countless audience 
+members were exposed to a wide range of classical ballet through her 
+service.
+  Her cross-border collaborations with companies in Europe, Mexico, and 
+Latin America contributed to the exchange of international artistic 
+endeavors, including the first U.S.-Mexico repertory exchange in 1977.
+  Madam Speaker, we have lost one of El Paso's shining stars, a 
+trailblazer of the arts for our region. I ask you to join me in paying 
+tribute to the life of Ingeborg Heuser. May her legacy and commitment 
+to the arts continue to be an inspiration to us all.
+
+                          ____________________
+```

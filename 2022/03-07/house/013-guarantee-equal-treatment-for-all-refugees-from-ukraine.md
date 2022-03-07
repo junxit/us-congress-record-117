@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-03-07-pt1-PgH1306-7
+date: 2022-03-07
+edition: CREC
+section: HOUSE
+page: H1306
+citation: 168 Cong. Rec. H1306
+---
+
+# GUARANTEE EQUAL TREATMENT FOR ALL REFUGEES FROM UKRAINE
+
+**Speaking:** Plaskett, Stacey E. (P000610) [D-VI]
+
+```
+        GUARANTEE EQUAL TREATMENT FOR ALL REFUGEES FROM UKRAINE
+
+  (Ms. PLASKETT asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. PLASKETT. Madam Speaker, the nation of Ukraine is dealing with an 
+alarming crisis, a war. I have been overwhelmed by the number of images 
+and stories of families trying to escape the terrors and war crimes 
+being unjustly committed against the people of this country. Since 
+February 24, more than 870,000--now we understand more than 1 million--
+Ukrainians have fled the country.
+  However, within that exodus are disturbing reports of mistreatment of 
+Black families, Africans, and Asians as they try to evacuate a deadly 
+war zone. This is unacceptable.
+  My office has been working with other members of the Congressional 
+Black Caucus--Chairman  Greg Meeks of the Foreign Affairs Committee and 
+Barbara Lee of the Appropriations Committee--to determine the veracity, 
+the specifics, and the extent of the allegations.
+  While we stand with Ukraine and encourage America's commitment to the 
+Ukrainian Government, any engagement of the United States and American 
+dollars appropriated to humanitarian efforts or lethal weapons must 
+guarantee that all refugees, all fleeing, are treated equally. We will 
+not move from that position.
+
+                          ____________________
+```
