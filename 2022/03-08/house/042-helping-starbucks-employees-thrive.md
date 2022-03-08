@@ -1,0 +1,36 @@
+---
+granule: CREC-2022-03-08-pt1-PgH1345-5
+date: 2022-03-08
+edition: CREC
+section: HOUSE
+page: H1345
+citation: 168 Cong. Rec. H1345
+---
+
+# HELPING STARBUCKS EMPLOYEES THRIVE
+
+**Speaking:** Norcross, Donald (N000188) [D-NJ]
+
+```
+                   HELPING STARBUCKS EMPLOYEES THRIVE
+
+  (Mr. NORCROSS asked and was given permission to address the House for 
+1 minute.)
+  Mr. NORCROSS. Mr. Speaker, I am here to talk about a company you 
+might have heard about: Starbucks. They made the $8 cup of coffee a 
+little popular.
+  The workers there through the pandemic are now struggling to form a 
+union. Well, Kevin Johnson, the CEO, got a 39 percent raise. Not bad. 
+The workers took a cut.
+  Those profits didn't magically appear. Starbucks didn't pour their 
+own coffee. It was the men and women who went out during the pandemic 
+and went to work. Yet, Kevin Johnson gets a $20 million bonus.
+  If Kevin is listening, he should do the right thing.
+  We hear the ethical sourcing that Starbucks talks about helping 
+people thrive. Well, he needs to do it right here in America and treat 
+his employees right.
+  Mr. Speaker, Kevin should do the right thing and take care of his 
+employees.
+
+                          ____________________
+```
