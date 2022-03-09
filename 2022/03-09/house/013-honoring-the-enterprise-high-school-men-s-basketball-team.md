@@ -1,0 +1,37 @@
+---
+granule: CREC-2022-03-09-pt1-PgH1380-5
+date: 2022-03-09
+edition: CREC
+section: HOUSE
+page: H1380
+citation: 168 Cong. Rec. H1380
+---
+
+# HONORING THE ENTERPRISE HIGH SCHOOL MEN'S BASKETBALL TEAM
+
+**Speaking:** Moore, Barry (M001212) [R-AL]
+
+```
+       HONORING THE ENTERPRISE HIGH SCHOOL MEN'S BASKETBALL TEAM
+
+  (Mr. MOORE of Alabama asked and was given permission to address the 
+House for 1 minute.)
+  Mr. MOORE of Alabama. Mr. Speaker, it is my great privilege to honor 
+Enterprise High School men's basketball team on winning their first-
+ever Class 7A championship.
+  As a Wildcat alum, I could not be prouder of these men for their 
+dedication and performance. The players who sweated through countless 
+practices, the coaches who led them, and the faithful Wildcat fans who 
+traveled to support the team should all be proud of this remarkable 
+achievement.
+  Coach Rhett Harrelson, a friend and fellow Enterprise native, and his 
+staff deserve great credit for leading our young men to this 
+championship. Our fans have our sincere appreciation for ensuring that 
+the home games were rowdy and our team always had familiar faces 
+screaming at the away games.
+  As a fellow Wildcat, I want to honor this amazing team for all they 
+have accomplished, and I look forward to watching this program continue 
+to grow.
+
+                          ____________________
+```

@@ -1,0 +1,47 @@
+---
+granule: CREC-2022-03-09-pt1-PgH1379-7
+date: 2022-03-09
+edition: CREC
+section: HOUSE
+page: H1379
+citation: 168 Cong. Rec. H1379
+---
+
+# OLATHE EAST HIGH SCHOOL SHOOTING
+
+**Speaking:** Davids, Sharice (D000629) [D-KS]
+
+```
+                    OLATHE EAST HIGH SCHOOL SHOOTING
+
+  (Ms. DAVIDS of Kansas asked and was given permission to address the 
+House for 1 minute.)
+  Ms. DAVIDS of Kansas. Madam Speaker, last Friday a student brought a 
+gun into Olathe East High School. By noon, three people, an assistant 
+principal, a school resource officer, and a student were on their way 
+to the Overland Park Regional Medical Center with gunshot wounds.
+  Students hid in classrooms sending texts that every parent dreads 
+receiving: Someone is shooting inside the school. Thanks to the actions 
+of Officer Erik Clark and the assistant principal Kaleb Stoppel, those 
+parents were able to reunite with their students safely on Friday 
+afternoon.
+  We are all grateful and hoping for their full recovery. I know I am 
+not alone in thinking that things could have been much worse were it 
+not for their intervention.
+  I would also like to commend the Olathe Police Department, fire 
+department, and Johnson County MED-ACT for their exemplary response. 
+Thank you for helping keep our community safe. These are the headlines 
+that every American is tired of reading, that everyone fears will come 
+to their doorstep.
+  We must step up mental health support in schools--not just in the 
+aftermath of trauma, but permanently. I stand with every parent, 
+educator, student, and Kansan who has come together to call for 
+commonsense gun safety. We have to be brave enough to put our kids' 
+lives first.
+
+[[Page H1380]]
+
+  
+
+                          ____________________
+```

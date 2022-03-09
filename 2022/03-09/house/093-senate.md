@@ -1,0 +1,22 @@
+---
+granule: CREC-2022-03-09-pt2-PgH-FrontMatter
+date: 2022-03-09
+edition: CREC
+section: HOUSE
+page: H1427
+citation: 168 Cong. Rec. H1427
+---
+
+# Senate
+
+```
+                              S E N A T E
+
+
+Vol. 168
+
+
+WASHINGTON, WEDNESDAY, MARCH 9, 2022
+
+No. 42--Book II
+```
