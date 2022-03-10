@@ -1,0 +1,48 @@
+---
+granule: CREC-2022-03-10-pt1-PgS1129-5
+date: 2022-03-10
+edition: CREC
+section: SENATE
+page: S1129
+citation: 168 Cong. Rec. S1129
+---
+
+# Text of Senate Amendment 4999
+
+**Speaking:** Ernst, Joni (E000295) [R-IA]
+
+```
+  SA 4999. Ms. ERNST submitted an amendment intended to be proposed by 
+her to the bill H.R. 2471, to measure the progress of post-disaster 
+recovery and efforts to address corruption, governance, rule of law, 
+and media freedoms in Haiti; which was ordered to lie on the table; as 
+follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. __. REPORT REGARDING ACCESS TO CAPITAL FOR SMALL 
+                   BUSINESSES.
+
+       Not later than 1 year after the date of enactment of this 
+     Act, the Administrator of the Small Business Administration 
+     shall submit to Congress a report that--
+       (1) provides a description of the effect of inflation and 
+     supply chain disruption during the 3-year period ending on 
+     the date of enactment of this Act on the cost to small 
+     business concerns (as defined under section 3 of the Small 
+     Business Act (15 U.S.C. 636)) of obtaining access to capital, 
+     disaggregated by industry; and
+       (2) makes recommendations, in partnership with the Office 
+     of Advocacy of the Small Business Administration, on how to 
+     support access to capital for small business concerns 
+     involved in domestic manufacturing, agriculture, and 
+     production of technologies listed on the Critical and 
+     Emerging Technologies List issued by the National Security 
+     Council, or any successor thereto.
+
+[[Page S1130]]
+
+  
+
+                          ____________________
+```
