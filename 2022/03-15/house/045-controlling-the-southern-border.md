@@ -1,0 +1,46 @@
+---
+granule: CREC-2022-03-15-pt1-PgH3735-6
+date: 2022-03-15
+edition: CREC
+section: HOUSE
+page: H3735
+citation: 168 Cong. Rec. H3735
+---
+
+# CONTROLLING THE SOUTHERN BORDER
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                    CONTROLLING THE SOUTHERN BORDER
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, last week, I joined several of my 
+Republican colleagues on an official trip to view the southern border 
+in Arizona.
+  We received an operational briefing from the Border Patrol stationed 
+in Yuma and toured their processing center. We also went on field tours 
+to see the halted construction of the border wall and a staging site 
+used by cartels for smuggling children across the border.
+  I was horrified by what I saw. When President Biden halted 
+construction of the border wall, he left giant strips of the border 
+wide open for cartels to smuggle illegal drugs and even human 
+trafficking victims into our country, women and children being abused 
+in ways that are unimaginable.
+  I was appalled to learn how the cartel recycles the child victims so 
+that they are basically the conduit to bring adults across. Then, when 
+they are done with that child inside this country, they take them back 
+and recycle them again through the process.
+  They prey on families by telling them what they think they owe to the 
+cartel and use their children in such a way. The filth, the trash left 
+behind, the containers of drugs and pills you find there in the 
+arroyos, in the washes, it is horrific all the way around. We must 
+control our border.
+
+[[Page H3736]]
+
+  
+
+                          ____________________
+```

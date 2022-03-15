@@ -1,0 +1,58 @@
+---
+granule: CREC-2022-03-15-pt1-PgS1170
+date: 2022-03-15
+edition: CREC
+section: SENATE
+page: S1170
+citation: 168 Cong. Rec. S1170
+---
+
+# Nomination of Shalanda D. Young (Executive Calendar)
+
+**Speaking:** Van Hollen, Chris (V000128) [D-MD], Peters, Gary C. (P000595) [D-MI], Murkowski, Lisa (M001153) [R-AK]
+
+```
+                    Nomination of Shalanda D. Young
+
+  Mr. VAN HOLLEN. Mr. President, I rise to support the historic 
+nomination of Shalanda Young to be the next Director of the Office of 
+Management and Budget. Ms. Young brings deep experience with the 
+Federal budget process to her role at OMB, having served as staff 
+director of the House Committee on Appropriations. She has been serving 
+as Acting Director of OMB for the past year, and her top-notch 
+performance in that role leaves no doubt that she is eminently 
+qualified to be confirmed as OMB Director.
+  Ms. Young came into OMB in March 2021, the same month that Congress 
+passed the American Rescue Plan. This was a time when the Nation faced 
+an uncertain future, with coronavirus vaccines just starting to go out 
+and unemployment remaining stubbornly high at 6 percent. Under Ms. 
+Young's leadership, OMB played a key role to implement the American 
+Rescue Plan to fight the pandemic and move our economy forward. The 
+results have been widespread vaccinations, millions of new jobs, 
+unemployment falling to 3.8 percent, and the fastest economic growth in 
+nearly 40 years.
+  We have achieved a great deal during the first year of the Biden 
+administration, but we must recognize that there is still so much left 
+to accomplish. Shalanda Young is the right person to have at the helm 
+of OMB to craft responsible budgets and turn the policies we craft into 
+actions that make a real difference for the American people.
+  The PRESIDING OFFICER (Mr. Murphy). The Senator from Michigan.
+  Mr. PETERS. Mr. President, I ask unanimous consent to speak for 2 
+minutes.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. PETERS. Mr. President, I rise in support of Shalanda Young's 
+nomination to be Director of the Office of Management and Budget.
+  Ms. Young has done an exemplary job serving as OMB's Acting Director 
+for the past year. She is a dedicated public servant and a proven 
+leader.
+  She has played a key role in the administration's efforts to help the 
+Nation recover from the pandemic. She has worked closely with Congress 
+to pass the historic bipartisan infrastructure package, and she is 
+truly committed to making the Federal Government work better for the 
+American people.
+  I have absolutely no doubt that Ms. Young is the right choice to lead 
+the OMB going forward. I urge my colleagues to join me in voting to 
+confirm Shalanda Young to be the Director of OMB.
+
+[[Page S1171]]
+```
