@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-03-17-pt1-PgH3788
+date: 2022-03-17
+edition: CREC
+section: HOUSE
+page: H3788
+citation: 168 Cong. Rec. H3788
+---
+
+# ENDING MASK MANDATES ON PUBLIC TRANSPORTATION
+
+**Speaking:** Huizenga, Bill (H001058) [R-MI]
+
+**Measures:** H.J.Res. 72
+
+```
+             ENDING MASK MANDATES ON PUBLIC TRANSPORTATION
+
+  (Mr. HUIZENGA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. HUIZENGA. Madam Speaker, I rise today to demand a vote on H.J. 
+Res. 72, a Congressional Review Act resolution that would end the CDC's 
+mask mandate for airlines, trains, buses, and other public 
+transportation hubs.
+  Tuesday night, the Senate voted in a rare bipartisan manner to end 
+these mandates in what even CNN called a ``bipartisan rebuke of Biden 
+administration policy.''
+  States and cities, big and small, across the country have ended or 
+are in the process of ending their mask mandates at schools, basketball 
+games, and even crowded restaurants.
+  Thousands of fans will pack arenas in the coming days to cheer on 
+their teams during March Madness. At these games, they rightly won't be 
+required to wear a mask. But as soon as they step onto a plane, a bus, 
+a train, or even a metro, unelected bureaucrats, at the direction of 
+President Biden, have decreed that masks must be put on and must be 
+worn.
+  It is past time for this unscientific mask mandate to end. I am 
+calling on Speaker Pelosi to hold a vote on repealing this mask 
+mandate. Americans want their lives back, and it is time to vote.
+
+                          ____________________
+```
