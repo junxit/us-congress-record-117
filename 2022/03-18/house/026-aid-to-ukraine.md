@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-03-18-pt1-PgH3844-4
+date: 2022-03-18
+edition: CREC
+section: HOUSE
+page: H3844
+citation: 168 Cong. Rec. H3844
+---
+
+# AID TO UKRAINE
+
+**Speaking:** Costa, Jim (C001059) [D-CA]
+
+```
+                             AID TO UKRAINE
+
+  (Mr. COSTA asked and was given permission to address the House for 1 
+minute.)
+  Mr. COSTA. Madam Speaker, as Vladimir Putin attempts to drape the 
+Iron Curtain over Russia once again, I stress the importance of working 
+together with our European allies to support Ukraine's sovereignty and 
+democracies around the world. Make no mistake about it: This is the 
+test of our time.
+  As the co-chair of the Transatlantic Legislators' Dialogue, I work 
+closely with my European Co-Chair Radoslaw ``Radek'' Sikorski. Congress 
+and the European Parliament have taken steps to deal with this pariah 
+Putin.
+  Congress passed $13.6 billion last week for Ukraine, which provides 
+support for humanitarian aid, military assistance, and economic 
+resolve. American allies, such as Poland and other European countries, 
+are doing a great deal to deal with the refugee problem.
+  President Biden separately provided an additional $800 million for 
+Stinger missiles and other anti-aircraft, anti-armor weapons to help 
+the valiant, brave Ukrainians. Members of the European Parliament have 
+also done their part with another $500 million in assistance.
+  NATO, today, is stronger than at any time since the Cold War. But 
+there is much more work ahead of us. We must continue to unite the 
+front against Vladimir Putin with our European allies.
+  As President Zelenskyy reminded us: The cost of freedom is not free.
+
+                          ____________________
+```

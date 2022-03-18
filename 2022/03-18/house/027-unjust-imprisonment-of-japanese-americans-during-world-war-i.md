@@ -1,0 +1,37 @@
+---
+granule: CREC-2022-03-18-pt1-PgH3844-5
+date: 2022-03-18
+edition: CREC
+section: HOUSE
+page: H3844
+citation: 168 Cong. Rec. H3844
+---
+
+# UNJUST IMPRISONMENT OF JAPANESE AMERICANS DURING WORLD WAR II
+
+**Speaking:** Obernolte, Jay (O000019) [R-CA]
+
+**Measures:** H.R. 6434
+
+```
+     UNJUST IMPRISONMENT OF JAPANESE AMERICANS DURING WORLD WAR II
+
+  (Mr. OBERNOLTE asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. OBERNOLTE. Madam Speaker, several weeks ago, we witnessed a very 
+unfortunate milestone, the 80th anniversary of the signature of an 
+executive order by the President of the United States to incarcerate 
+over 100,000 Japanese Americans during World War II.
+  This was a direct violation of the founding principles of our country 
+that say that no one should be deprived of their liberty without just 
+cause.
+  That is why I was so proud to see this body pass my bill, H.R. 6434, 
+this week that would create a historic network of sites linked to the 
+incarceration of Japanese Americans during World War II.
+  Madam Speaker, the power of history is to gain perspective and learn 
+from the mistakes of the past. I am in hopes that this network will 
+call attention to this unjust imprisonment and ensure that this 
+injustice never occurs in the United States again.
+
+                          ____________________
+```

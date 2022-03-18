@@ -1,0 +1,46 @@
+---
+granule: CREC-2022-03-18-pt1-PgH3845-2
+date: 2022-03-18
+edition: CREC
+section: HOUSE
+page: H3845
+citation: 168 Cong. Rec. H3845
+---
+
+# THOUGHTS ON PRESIDENT ZELENSKYY'S REMARKS TO CONGRESS
+
+**Speaking:** Palmer, Gary J. (P000609) [R-AL]
+
+```
+         THOUGHTS ON PRESIDENT ZELENSKYY'S REMARKS TO CONGRESS
+
+  (Mr. PALMER asked and was given permission to address the House for 1 
+minute.)
+  Mr. PALMER. Madam Speaker, I have been asked many times this week 
+about my thoughts on the address to Congress by the President of 
+Ukraine, Volodymyr Zelenskyy.
+  I was moved and inspired by his commitment to the defense of his 
+stricken nation and its besieged people. President Zelenskyy's remarks 
+reminded me of another time when a courageous and determined leader 
+sought the aid of America in defense of his nation as it was being 
+threatened by the armed might of Hitler's Nazi forces.
+  On February 9, 1941, Winston Churchill addressed the British 
+Parliament with a speech that was broadcast by the BBC. Churchill spoke 
+to Parliament, but he was really speaking to the United States, and, in 
+particular, to President Franklin Delano Roosevelt.
+  At the end of that speech, Churchill said this: ``Put your confidence 
+in us. Give us your faith and your blessing, and, under Providence, all 
+will be well.''
+  He concluded his message to Parliament and to America by saying: 
+``Give us the tools, and we will finish the job.''
+  That is what I heard President Zelenskyy saying to the Congress of 
+the United States. Madam Speaker, it is time to listen to the people 
+who are face-to-face with the enemy fighting for their country.
+  Madam Speaker, they know better what they need, far better than 
+people in suits sitting behind desks who are thousands of miles from 
+the battlefields of Ukraine.
+  We should heed their call and give them the tools to defend their 
+country.
+
+                          ____________________
+```

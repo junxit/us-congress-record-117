@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-03-18-pt1-PgH3844-2
+date: 2022-03-18
+edition: CREC
+section: HOUSE
+page: H3844
+citation: 168 Cong. Rec. H3844
+---
+
+# CONDEMNING HATE CRIMES AGAINST ASIAN AMERICANS
+
+**Speaking:** Bourdeaux, Carolyn (B001312) [D-GA]
+
+```
+             CONDEMNING HATE CRIMES AGAINST ASIAN AMERICANS
+
+  (Ms. BOURDEAUX asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. BOURDEAUX. Madam Speaker, I rise today to commemorate the 1-year 
+anniversary of the Atlanta spa shootings.
+  Across our country, the Asian-American community has been under 
+attack because of misinformation and xenophobia that wrongly blamed 
+them for the COVID-19 pandemic.
+  On March 16, 2021, 1 year ago, in Atlanta, eight innocent people, six 
+of whom were women of Asian descent, were senselessly murdered. The 
+victims of this attack included mothers and grandmothers, fathers and 
+sons, teachers, and veterans. These are lives that cannot be restored, 
+leaving pain that cannot be forgotten.
+  These attacks in Georgia were a wake-up call for the public to the 
+reality the Asian-American community is facing each and every day.
+  Acts of violence like these demonstrate why we must always call out 
+bigotry and hate whenever or wherever we see it. We must all speak out 
+against it.
+  I would like to thank CAPAC Chair Judy Chu for her leadership on this 
+issue and encourage my colleagues to continue to speak out as we stand 
+together with the Asian-American community.
+
+                          ____________________
+```

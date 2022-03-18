@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-03-18-pt1-PgH3832-5
+date: 2022-03-18
+edition: CREC
+section: HOUSE
+page: H3832
+citation: 168 Cong. Rec. H3832
+---
+
+# RECOGNIZING DANNY POWERS
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                        RECOGNIZING DANNY POWERS
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize a 
+good friend of mine, Mr. Danny Powers, on his selection to serve as the 
+Grand Marshal of Savannah, Georgia's, 198th St. Patrick's Day parade.
+  The St. Patrick's Day parade in Savannah is the third-largest St. 
+Patrick's Day celebration in the entire country. We will be expecting 
+around 400,000 spectators to attend Savannah's signature event.
+  Since 1824, Savannah has been the home of this fabulous celebration 
+of the rich Irish heritage of our city.
+  The grand marshal is an honor that recognizes members of our 
+community for their great service, and Danny is well-deserving of that.
+  Danny has been the Chatham County tax commissioner for 27 years, 
+since 1995. During his tenure, Danny has boosted property tax 
+collection rates; integrated online technology to improve 
+accessibility; and has added satellite offices for vehicle tag 
+renewals.
+  Danny has been an integral and influential member of the Savannah 
+community for many years, and we are so grateful to have him.
+  Madam Speaker, I congratulate Danny on this tremendous honor; he has 
+earned it.
+
+                          ____________________
+```
