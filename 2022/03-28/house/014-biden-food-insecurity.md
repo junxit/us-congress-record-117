@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-03-28-pt1-PgH3868-4
+date: 2022-03-28
+edition: CREC
+section: HOUSE
+page: H3868
+citation: 168 Cong. Rec. H3868
+---
+
+# BIDEN FOOD INSECURITY
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                         BIDEN FOOD INSECURITY
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, I rise today to talk about the situation 
+we have with agriculture and water in California and the President's 
+acknowledgment just a couple of days ago that we are going to see a 
+food shortage in the world but partially even in the United States of 
+America.
+  That is unbelievable to me. How could we, the United States of 
+America, be facing possible food shortages? Indeed, already on the 
+store shelves is empty space.
+  I remember a story just a few years ago where Boris Yeltsin, 
+President of Russia, of all places, came over and was visiting. They 
+took him to a grocery store in the United States, and he was amazed and 
+blown away and even emotional by the variety we have here.
+  Yet, the priorities don't seem to be producing for Americans or even 
+producing for those we help around the world. It seems to be based more 
+on environmental needs, like in my home State of California where they 
+are releasing more water out to the ocean than what is going to go to 
+agriculture this year.
+  Why does this affect all Americans? Why does this affect you? Because 
+so many of the crops that we grow in California supply somewhere 
+between 90 and 98 percent of what Americans eat of those crops, and we 
+are still doing this environmental stuff in California.
+
+                          ____________________
+```

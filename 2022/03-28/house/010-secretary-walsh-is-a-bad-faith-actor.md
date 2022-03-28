@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-03-28-pt1-PgH3867-9
+date: 2022-03-28
+edition: CREC
+section: HOUSE
+page: H3867
+citation: 168 Cong. Rec. H3867
+---
+
+# SECRETARY WALSH IS A BAD-FAITH ACTOR
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                  SECRETARY WALSH IS A BAD-FAITH ACTOR
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Madam Speaker, Labor Secretary Marty Walsh needs to 
+remember that he is a Cabinet member, not an activist. His one-sided 
+involvement in active labor disputes is unfair and unprecedented.
+  He is a former union president and the first union member in nearly 
+half a century to lead the Department of
+
+[[Page H3868]]
+
+Labor. If you believe he can be an impartial arbiter, then I have 
+swampland in New Mexico to sell you. The head of the AFL-CIO herself 
+expressed approval of Walsh's willingness to work ``behind the 
+scenes.''
+  Walsh's infamous picket line participation with strikers at the 
+Kellogg's factory won't be his last attempt to interfere with labor-
+management disputes. Politico recently reported Walsh is ``eager to 
+help with others.''
+  Walsh's pro-union advocacy disqualifies him from acting as an honest 
+broker. He would rather protect his union boss cronies than protect 
+workers and job creators.
+
+                          ____________________
+```
