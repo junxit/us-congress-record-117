@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-03-29-pt1-PgH3955
+date: 2022-03-29
+edition: CREC
+section: HOUSE
+page: H3955
+citation: 168 Cong. Rec. H3955
+---
+
+# PRESIDENT BIDEN'S FOREIGN POLICY BLUNDERS
+
+**Speaking:** Rose, John W. (R000612) [R-TN]
+
+```
+               PRESIDENT BIDEN'S FOREIGN POLICY BLUNDERS
+
+  (Mr. ROSE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ROSE. Madam Speaker, once again, the President of the United 
+States made a terrible foreign policy blunder when he embarrassingly 
+said that Vladimir Putin cannot remain in power.
+  Almost immediately, the White House communications team did 
+everything they could to save face and walk back the President's 
+remarks. Thankfully, the Secretary of State issued a statement 
+clarifying the President's comments, saying that the U.S. has no 
+strategy of regime change in Russia.
+  Unfortunately, it was too little, too late, as Moscow was quick to 
+seize on the President's gaffe to embolden Putin's undeniably false 
+message that Russia is the one under attack.
+  Mistakes like these directly undermine Ukrainian efforts to protect 
+their sovereignty and stall momentum for peace. President Biden's 
+actions have been misguided from the onset of this war. He has failed 
+to deter Russia, and he was late to give Ukraine the military 
+assistance it so badly needed.
+  The world expects clear and resolute leadership from the Oval Office. 
+Unfortunately, it doesn't look like there is a chance of that anytime 
+soon.
+
+                          ____________________
+```
