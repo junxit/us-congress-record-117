@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-03-30-pt1-PgH4002-4
+date: 2022-03-30
+edition: CREC
+section: HOUSE
+page: H4002
+citation: 168 Cong. Rec. H4002
+---
+
+# REMEMBERING DON YOUNG
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                         REMEMBERING DON YOUNG
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to remember 
+the life and legacy of the gentleman from Alaska, Representative Don 
+Young, the dean of the House.
+  Don was a dear colleague, friend, and brother in the Lord. He loved 
+Alaska and respected the institution of the House, where he represented 
+his constituents for five decades. As dean of the House, he was the 
+longest-serving Republican in the U.S. House of Representatives' 
+history.
+  He was a tireless fighter for Alaska and an unparalleled public 
+servant. It has been a privilege to serve with such a strong 
+longstanding Member, who was truly a force of nature. My closest 
+moments with Don were shared on the House floor at our weekly Bible 
+study where we discussed the promises of God's Word.
+  While we mourn his passing and lift his family in prayer, I will be 
+celebrating a life well-lived.
+  Madam Speaker, Scriptures in 1 Thessalonians 4:13-18 instructs us 
+with these words: ``Brothers and sisters, we do not want you to be 
+uninformed about those who sleep in death, so that you do not grieve 
+like the rest of mankind, who have no hope.''
+  Don Young had hope.
+  Well done, good and faithful servant.
+
+                          ____________________
+```

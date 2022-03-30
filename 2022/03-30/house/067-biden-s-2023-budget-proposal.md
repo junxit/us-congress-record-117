@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-03-30-pt1-PgH4003
+date: 2022-03-30
+edition: CREC
+section: HOUSE
+page: H4003
+citation: 168 Cong. Rec. H4003
+---
+
+# BIDEN'S 2023 BUDGET PROPOSAL
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                      BIDEN'S 2023 BUDGET PROPOSAL
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, with Americans facing higher prices 
+everywhere--at the gas pump, the grocery store, car dealership, 
+clothing stores, and even at hotels--Americans are paying more 
+everywhere, thanks to incredible inflation brought on by President 
+Biden's plan for spending.
+  Well, with the new budget now coming out, we are going to see an even 
+bigger amount of deficit. American families are facing a $3,500 yearly 
+inflation tax, the Biden administration wants to spend $73 trillion 
+over the next 10 years--just in the budget year, not new spending, not 
+COVID spending. This is what normal budgets will start to look like, 
+which was $8 trillion more than what the CBO is predicting for the same 
+period of time.
+  Under this budget, Biden can easily add $15 trillion more to the 
+national debt, which would make it $45-$46 trillion by the year 2032. 
+We can't manage this. If the price of interest goes up much more, it 
+will completely eviscerate our ability to do anything besides mandatory 
+spending in our budget.
+  More families are going to suffer and the things we care about in the 
+budget that we can't control will suffer as well.
+
+                          ____________________
+```

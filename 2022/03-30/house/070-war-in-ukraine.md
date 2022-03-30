@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-03-30-pt1-PgH4003-4
+date: 2022-03-30
+edition: CREC
+section: HOUSE
+page: H4003
+citation: 168 Cong. Rec. H4003
+---
+
+# WAR IN UKRAINE
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                              {time}  1630
+                             WAR IN UKRAINE
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute.)
+  Ms. JACKSON LEE. Madam Speaker, in a building that conspicuously 
+marked its exterior with the word ``children,'' the brutal Putin bombed 
+without stopping this safe house in Mariupol. Obviously, it was 
+completely destroyed. There were 300 people dead and little children 
+sitting around the dead bodies of their parents.
+  The whole city has been leveled. The whole country has been attacked 
+by a brutal dictator. Of course, we know the peace talks are going on, 
+I encourage that. As well, I believe that the allies should continue to 
+give weapons and there should be some process for giving them fighter 
+jets.
+  Madam Speaker, I want to thank the Secretary of Homeland Security for 
+recognizing that we will have to receive Ukrainian refugees, Haitian 
+refugees, and, yes, refugees from the border. We are, in fact, a humane 
+country. We have the ability to be able to assure the world that we 
+will be a refuge and, as well, protect the American people.
+  That is what we do: we protect the American people, provide them 
+jobs, give them safety, but, as well, we are a refuge for the world.
+  Madam Speaker, I thank the Secretary for his work. Let's let Ukraine 
+win this, either in peace or in war.
+
+                          ____________________
+```

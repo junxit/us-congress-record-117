@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-03-30-pt1-PgH3982-8
+date: 2022-03-30
+edition: CREC
+section: HOUSE
+page: H3982
+citation: 168 Cong. Rec. H3982
+---
+
+# CAPPING THE COST OF INSULIN
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                      CAPPING THE COST OF INSULIN
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, over 34 million people in the 
+United States have diabetes.
+  Nearly a quarter require insulin to stay alive, but the cost of 
+insulin is bankrupting American families, and that must change.
+  According to research conducted by RAND, Americans pay an average of 
+$99 for a unit of insulin while Canadians spend just $12.
+  This study looked at insulin prices in 32 other countries. It found 
+that the cost of insulin was always higher, often 5 and 10 times more 
+expensive for people living in the United States versus that of people 
+living in other countries.
+  That is why I rise today in support of legislation that would cap the 
+maximum cost of insulin at $35 a month.
+  Insulin is necessary and lifesaving. It shouldn't be costing families 
+their life savings.
+
+[[Page H3983]]
+
+  
+
+                          ____________________
+```

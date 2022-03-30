@@ -1,0 +1,44 @@
+---
+granule: CREC-2022-03-30-pt1-PgH3979-2
+date: 2022-03-30
+edition: CREC
+section: HOUSE
+page: H3979
+citation: 168 Cong. Rec. H3979
+---
+
+# RECOGNIZING THE MONTH OF THE MILITARY CHILD
+
+**Speaking:** McMorris Rodgers, Cathy (M001159) [R-WA]
+
+```
+              RECOGNIZING THE MONTH OF THE MILITARY CHILD
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Washington (Mrs. Rodgers) for 5 minutes.
+  Mrs. RODGERS of Washington. Madam Speaker, I rise today to recognize 
+the month of April as the Month of the Military Child.
+  I have always said that when someone joins the military, it is not 
+just a job; it is a family commitment to our country. This is 
+especially true for the more than 1.6 million children who have a 
+parent on Active Duty serving our Nation, including nearly 2,000 who 
+call Fairchild Air Force Base in eastern Washington home.
+  Over the next few weeks, I urge my colleagues to join me in honoring 
+the thousands of brave men and women who demonstrate their courage and 
+commitment to freedom, selflessly serving our country around the world. 
+Let us take this time to say thank you to those in uniform keeping us 
+safe and remind them that while they are taking care of us, we are 
+taking care of their children.
+  To all the children of Active-Duty servicemembers, we salute you. We 
+recognize your commitment to our country. We share in your struggles of 
+not seeing your mom and dad. We support you unconditionally. Just 
+like your parents, you are a hero in your own way, and in April, we 
+celebrate you.
+
+  Madam Speaker, I ask my colleagues to join me in recognizing the 
+incredible sacrifices of military children across the country and 
+invite my fellow Americans to help us honor them with unwavering 
+support and appreciation today and every day.
+
+                          ____________________
+```

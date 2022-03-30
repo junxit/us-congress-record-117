@@ -1,0 +1,86 @@
+---
+granule: CREC-2022-03-30-pt1-PgS1844-3
+date: 2022-03-30
+edition: CREC
+section: SENATE
+page: S1844
+citation: 168 Cong. Rec. S1844
+---
+
+# Coronavirus (Executive Session)
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+                              Coronavirus
+
+  Mr. DURBIN. Mr. President, we have some rare good news on the public 
+health front. COVID cases are down at the lowest level since July. 
+Crucially, hospitalizations and deaths are also down dramatically, more 
+than 70 percent lower than they were in January during the Omicron 
+wave. Compared to just a few months ago, our Nation is experiencing far 
+less suffering and death, thank goodness.
+  But despite the progress we have made, COVID continues to be a 
+threat. Every day, 800 American families lose a loved one to COVID--800 
+a day--and catch new infections, which present an opportunity for the 
+virus to mutate.
+  We are at a turning point in this fight against COVID. Now, we need 
+to strengthen our healthcare system. We need to stay a step ahead of 
+this deadly virus. That is especially true since the subvariant of 
+Omicron--BA.2, as it is known--has become dominant in America.
+  Remember the frenzy last holiday season when we were running from 
+pharmacy to pharmacy trying to find rapid tests for our families or 
+waiting in the freezing cold for hours on end to get a PCR test? Why 
+would we ever want to be caught flatfooted again? We need to sustain 
+our public health funding so that our hospitals and healthcare 
+professionals have the equipment and tools they need to keep us safe.
+  The one thing dramatically worse than returning to the dark days of 
+COVID-19 and the deadly variants would be to return unprepared. If we 
+want to keep our masks off--and I do--if we want to keep our kids in 
+school--and I do--and our businesses open, we need to make smart 
+investments in America's capacity to confront future strains of these 
+variants. We can't continue this cycle of neglect and panic. These 
+pendulum swings harm our health system and contribute to unnecessary 
+costs and suffering.
+  Congress must come together on a bipartisan basis. And shouldn't we 
+all agree on this: that we move as a nation in the same direction? That 
+means providing funding to purchase new booster doses, including those 
+which the FDA authorized this week for adults over the age of 50. I got 
+mine yesterday morning. If we don't purchase these vaccines now ahead 
+of time, then we
+
+[[Page S1845]]
+
+will be sleepwalking into the next deadly wave.
+  We also need to ensure that as soon as the FDA authorizes a vaccine 
+for kids under the age of 5, parents can get their kids protected as 
+soon as possible.
+  Funding also is needed for oral antivirals and other therapeutics to 
+treat patients who contract a serious case of COVID. These treatments 
+will keep our hospitals from being overwhelmed.
+  And we need funding to maintain the testing infrastructure we have 
+built up over the last several months, like President Biden's 
+successful program to put up to 1 billion--billion--rapid tests right 
+at the doors of every American who wants one.
+  The fact is, Congress should have already provided funding for these 
+lifesaving resources, but we still haven't done it. This lack of 
+funding has already hit my home State of Illinois. Last week, shipments 
+of monoclonal antibody treatments to our State were scaled back 35 
+percent to preserve the supply. Also last week, thanks to a lack of 
+funds, the Department of Health and Human Services announced they would 
+no longer pay hospitals and health clinics for testing they have 
+provided to 30 million uninsured Americans.
+  Several free community-based testing sites and pharmacies in Illinois 
+are now closing up. The money is running dry. At one community health 
+center in Illinois, one-third of the patients are uninsured. That 
+clinic has received more than $150,000 to test, treat, and vaccinate 
+the patients--money well spent not just to protect these patients but 
+every Illinoisan. If Congress doesn't provide new funding, that health 
+center may be forced to close for good.
+  All of us want to keep the masks off for good and move past this 
+coronavirus, but to think we can just wish away COVID forever would be 
+naive, irresponsible, and fiscally unwise.
+  I urge my Republican colleagues to join in a bipartisan effort to 
+provide new funding for our COVID preparation response efforts. Let's 
+be ready for whatever this virus might bring.
+```

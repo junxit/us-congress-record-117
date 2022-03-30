@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-03-30-pt1-PgH4003-3
+date: 2022-03-30
+edition: CREC
+section: HOUSE
+page: H4003
+citation: 168 Cong. Rec. H4003
+---
+
+# ENDING TITLE 42 AT THE SOUTHERN BORDER
+
+**Speaking:** Roy, Chip (R000614) [R-TX]
+
+```
+                 ENDING TITLE 42 AT THE SOUTHERN BORDER
+
+  (Mr. ROY asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ROY. Madam Speaker, as we sit here in the Chamber of the United 
+States House of Representatives today, the Secretary of Homeland 
+Security has announced that he is ready to end the use of Title 42 at 
+our southern border. This is as we speak, while in March, we have had 
+100,000 apprehensions in the first half of the month, barreling towards 
+200,000, of which half have been able to be turned away under Title 42.
+  When the Secretary ends Title 42, there will be a deluge at our 
+southern border. This is known, which is evidenced by the fact that the 
+Secretary is already working with FEMA behind the scenes and quietly to 
+deal with the emergency that is no doubt about to occur at our southern 
+border. This is going to cause massive injury to migrants, cartels 
+empowered, Americans endangered, fentanyl pouring across our border, 
+all because the Secretary refuses to do his job.
+  This is an inexcusable dereliction of duty by the Secretary of 
+Homeland Security. It is an impeachable act to not carry out his 
+constitutional duty to defend the border of the United States.
+  Madam Speaker, I urge my colleagues to join together to condemn the 
+Secretary, condemn the administration, and demand that the Secretary 
+actually do his job to secure the border and not end Title 42, even as 
+Americans continue to wear masks on airplanes during a public health 
+emergency.
+
+                          ____________________
+```
