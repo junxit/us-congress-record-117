@@ -1,0 +1,47 @@
+---
+granule: CREC-2022-03-31-pt1-PgH4015-2
+date: 2022-03-31
+edition: CREC
+section: HOUSE
+page: H4015
+citation: 168 Cong. Rec. H4015
+---
+
+# CONGRATULATING U.S. MEN'S NATIONAL SOCCER TEAM
+
+**Speaking:** LaHood, Darin (L000585) [R-IL]
+
+```
+             CONGRATULATING U.S. MEN'S NATIONAL SOCCER TEAM
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Illinois (Mr. LaHood) for 5 minutes.
+  Mr. LaHOOD. Mr. Speaker, I rise today to congratulate the United 
+States men's national soccer team on qualifying for the 2022 World Cup 
+this November in Qatar.
+  Last night, the U.S. men's national soccer team completed their 
+qualifying campaign in Costa Rica. It was a fitting ending to the 
+team's qualifying run, filled with ups and downs and exciting matches, 
+including big wins over Mexico, Panama, Jamaica, and Costa Rica.
+  After missing out on the 2018 World Cup, the United States team is 
+headed back to the World Cup for the first time in 8 years.
+  From day one of the 2022 qualifying campaign, Coach Gregg Berhalter 
+and the team set out on one mission and one goal, and that was to 
+qualify. Bolstered by a golden generation of young and exciting talent, 
+including players such as Christian Pulisic, Gio Reyna, Weston 
+McKennie, Tyler Adams, Tim Weah, and many others, the U.S. put together 
+a strong qualifying performance, including an undefeated record against 
+the Mexican national team this past year, which is the first time that 
+has been done in decades.
+  I am proud that Illinois is home to the United States Soccer 
+Federation, which supports our men's and women's programs at all 
+levels.
+  I know I join with many in Congress and across the country in 
+congratulating the U.S. men's national soccer team. This qualification 
+is a well-deserved result that is a testament to the hard work put in 
+by all of U.S. soccer and the men's team.
+  The team has made their country proud, and I look forward to cheering 
+them on at the World Cup in November.
+
+                          ____________________
+```

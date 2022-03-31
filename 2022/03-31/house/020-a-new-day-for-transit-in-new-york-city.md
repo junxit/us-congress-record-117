@@ -1,0 +1,73 @@
+---
+granule: CREC-2022-03-31-pt1-PgH4015-3
+date: 2022-03-31
+edition: CREC
+section: HOUSE
+page: H4015
+citation: 168 Cong. Rec. H4015
+---
+
+# A NEW DAY FOR TRANSIT IN NEW YORK CITY
+
+**Speaking:** Espaillat, Adriano (E000297) [D-NY]
+
+```
+                 A NEW DAY FOR TRANSIT IN NEW YORK CITY
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from New 
+York (Mr. Espaillat) for 5 minutes.
+  Mr. ESPAILLAT. Mr. Speaker, I have the privilege of representing two 
+historic and iconic districts in the 13th Congressional District.
+  Harlem is the center, the mecca, of the African-American diaspora. It 
+is the center of culture, of music, of literature for the Black 
+community with the Apollo, the Schomburg, and other great historical 
+institutions.
+  The other neighborhood that I represent, Mr. Speaker, is East Harlem, 
+El Barrio, which is the launching pad for the Latino experience in New 
+York City. It was the home, the cradle, for the Puerto Rican community 
+that opened its doors to Dominicans, Ecuadorians, Colombians, Central 
+and South Americans.
+
+[[Page H4016]]
+
+  They really are two historic districts within the 13th Congressional 
+District. Today, we mark a new day for those two communities with 
+regard to transit access.
+  This week, President Biden announced and submitted to Congress a 
+strong and visionary budget. It included $4.5 billion for the Capital 
+Investment Grant program, which includes $400 million for the 
+construction of the second phase of the Second Avenue subway extension.
+  The first phase was completed not too long ago, several years ago, 
+and it went from 96th Street south to 72nd Street, touching some of the 
+most affluent ZIP Codes in the country.
+  This phase, the second phase, will go north to 125th Street. Some 
+people have categorized it and called it Uptown Grand Central. It would 
+connect East Harlem, El Barrio, and Harlem at 125th Street to the rest 
+of the world.
+  These stops will connect a transportation desert where over 75 
+percent of its residents use public transportation to the Lexington 
+Avenue line, which is the most overcrowded subway line in the city, if 
+not the country.
+  East Harlem, as I said earlier, is currently a transportation desert, 
+and this second phase will change the lives of over 100,000 New Yorkers 
+who will use it on a daily basis.
+  This phase will extend train services to 96th Street and 125th 
+Street, a 2-mile stretch, and benefit thousands upon thousands of New 
+Yorkers. But it would also connect to Metro-North, a total of 124 
+stations in seven different counties in upstate New York, suburban New 
+York, as well as Connecticut. As such, it will also connect folks to 
+LaGuardia Airport via bus and future water transportation in the Hudson 
+River and Harlem River.
+  This is truly a regional project that will connect Harlem and East 
+Harlem, El Barrio, to the rest of the world.
+  I am happy and proud that President Biden included $400 million for 
+the second phase of the Second Avenue subway.
+  The first phase saw 160,000 people benefit on a regular basis, $842 
+million in wages, and $2.87 billion in economic activity in that 
+region.
+  Mr. Speaker, I am happy to see this new initiative.
+  I thank President Biden for bringing the second phase of the Second 
+Avenue Subway to the 13th Congressional District.
+
+                          ____________________
+```
