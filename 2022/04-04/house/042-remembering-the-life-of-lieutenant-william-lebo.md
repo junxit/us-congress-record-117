@@ -1,0 +1,47 @@
+---
+granule: CREC-2022-04-04-pt1-PgH4146-6
+date: 2022-04-04
+edition: CREC
+section: HOUSE
+page: H4146
+citation: 168 Cong. Rec. H4146
+---
+
+# REMEMBERING THE LIFE OF LIEUTENANT WILLIAM LEBO
+
+**Speaking:** Meuser, Daniel (M001204) [R-PA]
+
+```
+            REMEMBERING THE LIFE OF LIEUTENANT WILLIAM LEBO
+
+  (Mr. MEUSER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MEUSER. Madam Speaker, I rise today to honor the life of 
+Lieutenant William Lebo of the Lebanon City, Pennsylvania, Police 
+Department. Lieutenant Lebo was shot and killed in the line of duty 
+last week.
+  Lieutenant Lebo was a dedicated, 40-year veteran of the Lebanon City 
+Police Department and planned to retire on May 1 of this year.
+  Lieutenant Lebo and two other officers, Ryan Adams and Derek 
+Underkoffler, were responding to a domestic disturbance last Thursday 
+when the offender immediately opened fire on them. All three officers 
+were shot, and tragically, Lieutenant Lebo was fatally wounded.
+  Lieutenant Lebo has been remembered by his colleagues and those he 
+served as a calm, kind, and ethical police officer who was deeply 
+devoted to protecting the Lebanon community.
+  This tragedy serves as a devastating reminder that every day law 
+enforcement officers put on their uniforms and go to work, as my father 
+did, to protect and serve, always knowing full well that they may not 
+return home.
+  Today and always, we owe our continued support to our police officers 
+and their families in Pennsylvania and across America.
+  We all send our deepest condolences to Lieutenant Lebo's wife, Lora; 
+his daughter, Corrine; and his entire family, as well as the Lebanon 
+City Police
+
+[[Page H4147]]
+
+Department, the Lebanon DA's office, and the entire Lebanon community.
+
+                          ____________________
+```

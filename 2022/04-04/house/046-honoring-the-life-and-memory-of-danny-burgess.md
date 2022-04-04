@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-04-04-pt1-PgH4147-4
+date: 2022-04-04
+edition: CREC
+section: HOUSE
+page: H4147
+citation: 168 Cong. Rec. H4147
+---
+
+# HONORING THE LIFE AND MEMORY OF DANNY BURGESS
+
+**Speaking:** Comer, James (C001108) [R-KY]
+
+```
+             HONORING THE LIFE AND MEMORY OF DANNY BURGESS
+
+  (Mr. COMER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COMER. Madam Speaker, I rise today to honor the life and memory 
+of my good friend Danny ``Flapper'' Burgess from my home area of Monroe 
+County, Kentucky.
+  Flapper was a larger-than-life figure. If you ever met Flapper 
+Burgess, you left with a positive and memorable impression. He was an 
+effective, old-school, local politician, who owned a little country 
+store called Flapper's Market in Fountain Run, Kentucky. If you were a 
+candidate for local office and wanted to carry the Fountain Run 
+precinct, you had to have Flapper's support.
+  Here is the last picture I have of Flapper and I in his store eating 
+one of his signature baloney sandwiches.
+  Flapper served many years on the Monroe County Fiscal Court 
+representing the Gamaliel, White Oak Ridge, and Fountain Run precincts. 
+Flapper truly was a man of the people.
+  On behalf of the U.S. House of Representatives and all the people of 
+south central Kentucky, I extend my deepest sympathies to the family of 
+Danny ``Flapper'' Burgess.
+
+                          ____________________
+```
