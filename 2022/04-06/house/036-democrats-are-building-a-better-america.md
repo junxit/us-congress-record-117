@@ -1,0 +1,33 @@
+---
+granule: CREC-2022-04-06-pt1-PgH4202-5
+date: 2022-04-06
+edition: CREC
+section: HOUSE
+page: H4202
+citation: 168 Cong. Rec. H4202
+---
+
+# DEMOCRATS ARE BUILDING A BETTER AMERICA
+
+**Speaking:** Lieu, Ted (L000582) [D-CA]
+
+```
+                DEMOCRATS ARE BUILDING A BETTER AMERICA
+
+  (Mr. LIEU asked and was given permission to address the House for 1 
+minute.)
+  Mr. LIEU. Mr. Speaker, President Joe Biden has done an awesome job 
+creating jobs. He is a jobs President.
+  Last year, 6.6 million jobs were created. In the last 14 months 
+working with congressional Democrats 7.4 million jobs were created, the 
+most in United States history.
+  Democrats are building a better America for the future and for the 
+people.
+  What are Republicans doing? I don't know.
+  Last week, Republican Congressman Madison Cawthorn bragged about 
+being invited to cocaine-fueled sex orgies by senior Republicans. Don't 
+believe me? Search for ``Madison Cawthorn Republican Caucus'' on the 
+internet.
+
+                          ____________________
+```
