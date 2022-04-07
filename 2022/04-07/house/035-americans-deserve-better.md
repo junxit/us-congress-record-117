@@ -1,0 +1,48 @@
+---
+granule: CREC-2022-04-07-pt1-PgH4422-4
+date: 2022-04-07
+edition: CREC
+section: HOUSE
+page: H4422
+citation: 168 Cong. Rec. H4422
+---
+
+# AMERICANS DESERVE BETTER
+
+**Speaking:** Casten, Sean (C001117) [D-IL]
+
+```
+                        AMERICANS DESERVE BETTER
+
+  (Mr. CASTEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. CASTEN. Madam Speaker, I want you to imagine a world where the 
+Republican Party praised the President of the United States for raising 
+the price of oil by 24 percent. That sounds crazy, right?
+  Well, that is exactly what happened 2 years ago this month when Trump 
+threatened to remove U.S. troops from Saudi Arabia unless they cut oil 
+production.
+  Oil prices, of course, are not set by the President, but they are a 
+function of global supply and demand. And when the President pressures 
+another country to slash supply, the price at the pump and oil industry 
+profits surge accordingly. That is exactly what happened in April of 
+2020.
+  The GOP praised Trump's approach. What's more, nearly 50 of my 
+Republican House colleagues wrote a letter directly to the Saudi Crown 
+Prince demanding that he cut crude output. They wanted higher oil 
+company profits, so they forced a reduction in supply to make that 
+happen.
+  Fast forward to today. Those same Republicans who pressured Saudi to 
+cut oil supply and increase prices 2 years ago are now berating 
+President Biden for using the Strategic Petroleum Reserve to boost 
+supply, and blocking every effort to invest in energy efficiency and 
+renewables that would cut our fossil fuel demand.
+
+  Why would a party that fought to raise oil prices 2 years ago fight 
+to raise them again? Because given a choice between your wallet and the 
+fossil fuel industry, they will always take from you and subsidize 
+them.
+  Americans deserve better.
+
+                          ____________________
+```

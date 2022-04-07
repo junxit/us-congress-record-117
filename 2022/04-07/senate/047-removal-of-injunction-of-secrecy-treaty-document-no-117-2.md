@@ -1,0 +1,53 @@
+---
+granule: CREC-2022-04-07-pt1-PgS2078-2
+date: 2022-04-07
+edition: CREC
+section: SENATE
+page: S2078
+citation: 168 Cong. Rec. S2078
+---
+
+# REMOVAL OF INJUNCTION OF SECRECY--TREATY DOCUMENT NO. 117-2
+
+**Speaking:** Murphy, Christopher (M001169) [D-CT]
+
+```
+      REMOVAL OF INJUNCTION OF SECRECY--TREATY DOCUMENT NO. 117-2
+
+  Mr. MURPHY. I ask unanimous consent that the injunction of secrecy be 
+removed from the following treaty transmitted to the Senate on April 7, 
+2022, by the President of the United States: the extradition treaty 
+with the Republic of Albania, Treaty Document No. 117-2. I further ask 
+that the treaty be considered as having been read the first time; that 
+it be referred with accompanying papers to the Committee on Foreign 
+Relations and ordered to be printed; and that the President's message 
+be printed in the Record.
+  THE PRESIDING OFFICER. Without objection, it is so ordered.
+  The message of the President is as follows:
+
+To the Senate of the United States:
+  With a view to receiving the advice and consent of the Senate to 
+ratification, I transmit herewith the Extradition Treaty between the 
+Government of the United States of America and the Government of the 
+Republic of Albania (the ``Treaty''), signed at Tirana on December 22, 
+2020. I also transmit, for the information of the Senate, the report of 
+the Department of State with respect to the Treaty.
+  The Treaty would replace the extradition treaty between the United 
+States and Albania, signed at Tirana on March 1, 1933. The Treaty 
+follows generally the form and content of other extradition treaties 
+recently concluded by the United States. It would replace an outmoded 
+list of extraditable offenses with a modern ``dual criminality'' 
+approach, which would enable extradition for such offenses as money 
+laundering, cyber-related crimes, and other newer offenses not 
+appearing on the list. The Treaty also contains a modernized 
+``political offense'' clause and provides that extradition shall not be 
+refused based on the nationality of the person sought. Finally, the 
+Treaty incorporates a series of procedural improvements to streamline 
+and expedite the extradition process.
+  I recommend that the Senate give early and favorable consideration to 
+the Treaty, and give its advice and consent to ratification.
+                                                 Joseph R. Biden, Jr.  
+The White House, April 7, 2022.
+
+                          ____________________
+```

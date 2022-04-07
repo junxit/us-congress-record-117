@@ -1,0 +1,23 @@
+---
+granule: CREC-2022-04-07-pt1-PgS2073-2
+date: 2022-04-07
+edition: CREC
+section: SENATE
+page: S2073
+citation: 168 Cong. Rec. S2073
+---
+
+# LEGISLATIVE SESSION
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                          LEGISLATIVE SESSION
+
+  Mr. SCHUMER. Madam President, I move to proceed to legislative 
+session.
+  The PRESIDING OFFICER. The question is on agreeing to the motion.
+  The motion was agreed to.
+
+                          ____________________
+```

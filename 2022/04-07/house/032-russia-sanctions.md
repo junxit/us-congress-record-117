@@ -1,0 +1,35 @@
+---
+granule: CREC-2022-04-07-pt1-PgH4422
+date: 2022-04-07
+edition: CREC
+section: HOUSE
+page: H4422
+citation: 168 Cong. Rec. H4422
+---
+
+# RUSSIA SANCTIONS
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                            RUSSIA SANCTIONS
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Madam Speaker, I rise today to support Congress' 
+bipartisan approval of harsher sanctions on Vladimir Putin and his 
+vicious Russian enablers. We all support suspending normal trade 
+relations and support destabilizing the Russian economy as the price of 
+their savageness.
+  The nations of the free world and all freedom-loving people have an 
+obligation to stand up resolutely against the tyranny and murder being 
+unleashed against Ukraine.
+  Let liberty lovers continue arming Ukraine's brave defenders. Let 
+free nations send them the lethal and defensive equipment they need. 
+And let civil nations continue to isolate this rogue and criminal state 
+from all that it needs to function.
+  The murder of innocent, men, women, and children simply cannot be 
+tolerated.
+
+                          ____________________
+```
