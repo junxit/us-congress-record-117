@@ -1,0 +1,100 @@
+---
+granule: CREC-2022-04-26-pt1-PgS2170
+date: 2022-04-26
+edition: CREC
+section: SENATE
+page: S2170
+citation: 168 Cong. Rec. S2170
+---
+
+# VETERANS RAPID RETRAINING ASSISTANCE PROGRAM RESTORATION AND RECOVERY ACT OF 2022
+
+**Speaking:** Hassan, Margaret Wood (H001076) [D-NH]
+
+**Measures:** S. 4089
+
+```
+ VETERANS RAPID RETRAINING ASSISTANCE PROGRAM RESTORATION AND RECOVERY 
+                              ACT OF 2022
+
+  Ms. HASSAN. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. 4089, which was introduced 
+earlier today.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 4089) to restore entitlement to educational 
+     assistance under Veterans Rapid Retraining Program in cases 
+     of a closure of an educational institution or a disapproval 
+     of a program of education, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Ms. HASSAN. I further ask unanimous consent that the bill be 
+considered read three times.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill was ordered to be engrossed for a third reading and was read 
+the third time.
+  Ms. HASSAN. I know of no further debate on the bill.
+  The PRESIDING OFFICER. If there is no further debate and the bill 
+having been read the third time, the question is, Shall the bill pass?
+  The bill (S. 4089) was passed, as follows:
+
+                                S. 4089
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Veterans Rapid Retraining 
+     Assistance Program Restoration and Recovery Act of 2022''.
+
+     SEC. 2. RESTORATION OF ENTITLEMENT UNDER VETERANS RAPID 
+                   RETRAINING ASSISTANCE PROGRAM.
+
+       (a) In General.--Section 8006 of the American Rescue Plan 
+     Act of 2021 (Public Law 117-2), as amended by the Training in 
+     High-demand Roles to Improve Veteran Employment Act (Public 
+     Law 117-16), is further amended--
+       (1) by redesignating subsection (n) as subsection (o); and
+       (2) by inserting after subsection (m), the following new 
+     subsection (n):
+       ``(n) Effects of Closure of an Educational Institution or 
+     Disapproval of a Program of Education.--
+       ``(1) In general.--Any payment of retraining assistance 
+     under subsection (d)(1) shall not be charged against any 
+     entitlement to retraining assistance described in subsection 
+     (a) if the Secretary determines that an individual was unable 
+     to complete a course or program of education as a result of 
+     --
+       ``(A) the closure of an educational institution; or
+       ``(B) the disapproval of a program of education by the 
+     State approving agency or the Secretary when acting in the 
+     role of the State approving agency.
+       ``(2) Period not charged.--The period for which, by reason 
+     of this subsection, retraining assistance is not charged 
+     shall be equal to the full amount of retraining assistance 
+     provided for enrollment in the program of education.
+       ``(3) Halt of payments to certain educational 
+     institutions.--In the event of a closure or disapproval, as 
+     described in paragraph (1), the educational institution shall 
+     not receive any further payments under subsection (d).
+       ``(4) Recovery of funds.--In the event of a closure or 
+     disapproval, as described in paragraph (1), any payment 
+     already made under subsection (d) to the educational 
+     institution shall be considered an overpayment and constitute 
+     a liability of such institution to the United States.''.
+       (b) Conforming Amendment.--In subsection (b)(3) of such 
+     section, strike the period and insert ``, except for an 
+     individual described in subsection (n).''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply as if included in the American Rescue Plan Act of 
+     2021 (Public Law 117-2).
+
+  Ms. HASSAN. I ask unanimous consent that the motion to reconsider be 
+considered made and laid upon the table with no intervening action or 
+debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

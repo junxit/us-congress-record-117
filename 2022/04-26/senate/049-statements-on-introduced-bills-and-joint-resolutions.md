@@ -1,0 +1,274 @@
+---
+granule: CREC-2022-04-26-pt1-PgS2156
+date: 2022-04-26
+edition: CREC
+section: SENATE
+page: S2156
+citation: 168 Cong. Rec. S2156
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+**Measures:** S. 4089, S. 4090
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. DURBIN:
+  S. 4089. A bill to restore entitlement to educational assistance 
+under Veterans Rapid Retraining Program in cases of a closure of an 
+educational institution or a disapproval of a program of education, and 
+for other purposes; considered and passed.
+  Mr. DURBIN. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  Without objection, the text of the bill was ordered to be printed in 
+the Record, as follows:
+
+                                S. 4089
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Veterans Rapid Retraining 
+     Assistance Program Restoration and Recovery Act of 2022''.
+
+     SEC. 2. RESTORATION OF ENTITLEMENT UNDER VETERANS RAPID 
+                   RETRAINING ASSISTANCE PROGRAM.
+
+       (a) In General.--Section 8006 of the American Rescue Plan 
+     Act of 2021 (Public Law 117-2), as amended by the Training in 
+     High-demand Roles to Improve Veteran Employment Act (Public 
+     Law 117-16), is further amended--
+       (1) by redesignating subsection (n) as subsection (o); and
+       (2) by inserting after subsection (m), the following new 
+     subsection (n):
+       ``(n) Effects of Closure of an Educational Institution or 
+     Disapproval of a Program of Education.--
+       ``(1) In general.--Any payment of retraining assistance 
+     under subsection (d)(1) shall not be charged against any 
+     entitlement to retraining assistance described in subsection 
+     (a) if the Secretary determines that an individual was unable 
+     to complete a course or program of education as a result of 
+     --
+       ``(A) the closure of an educational institution; or
+       ``(B) the disapproval of a program of education by the 
+     State approving agency or the Secretary when acting in the 
+     role of the State approving agency.
+       ``(2) Period not charged.--The period for which, by reason 
+     of this subsection, retraining assistance is not charged 
+     shall be equal to the full amount of retraining assistance 
+     provided for enrollment in the program of education.
+       ``(3) Halt of payments to certain educational 
+     institutions.--In the event of a closure or disapproval, as 
+     described in paragraph (1), the educational institution shall 
+     not receive any further payments under subsection (d).
+       ``(4) Recovery of funds.--In the event of a closure or 
+     disapproval, as described in paragraph (1), any payment 
+     already made under subsection (d) to the educational 
+     institution shall be considered an overpayment and constitute 
+     a liability of such institution to the United States.''.
+       (b) Conforming Amendment.--In subsection (b)(3) of such 
+     section, strike the period and insert ``, except for an 
+     individual described in subsection (n).''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply as if included in the American Rescue Plan Act of 
+     2021 (Public Law 117-2).
+                                 ______
+                                 
+      By Mr. DURBIN (for himself and Mr. Braun):
+  S. 4090. A bill to improve transparency and availability of 
+information regarding dietary supplements by amending the Federal Food, 
+Drug, and Cosmetic Act to require manufacturers of dietary supplements 
+to list dietary supplements with the Food and Drug Administration; to 
+the Committee on Health, Education, Labor, and Pensions.
+  Mr. DURBIN. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  Without objection, the text of the bill was ordered to be printed in 
+the Record, as follows:
+
+                                S. 4090
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Dietary Supplement Listing 
+     Act of 2022''.
+
+     SEC. 2. REGULATION OF DIETARY SUPPLEMENTS.
+
+       (a) In General.--Chapter IV of the Federal Food, Drug, and 
+     Cosmetic Act (21 U.S.C. 341 et seq.) is amended by inserting 
+     after section 403C of such Act the following:
+
+     ``SEC. 403D. DIETARY SUPPLEMENT LISTING REQUIREMENT.
+
+       ``(a) In General.--Each dietary supplement shall be listed 
+     with the Secretary in accordance with this section.
+       ``(b) Listing Submissions.--
+       ``(1) In general.--Each responsible person, or, if the 
+     responsible person is a foreign entity, the United States 
+     agent, shall submit to the Secretary in accordance with this 
+     section the following information for each dietary supplement 
+     that will be marketed:
+       ``(A) Any proprietary name of the dietary supplement and 
+     the statement of identity, including brand name and specified 
+     flavors, if applicable.
+       ``(B) The full name, address, and telephone number for the 
+     responsible person, and the name and e-mail address of the 
+     owner, operator, or agent in charge of the responsible 
+     person.
+       ``(C) The full name, address, telephone number, and e-mail 
+     address for the United States agent, if the responsible 
+     person is a foreign entity.
+       ``(D) The full business name and address of all locations 
+     at which the responsible person manufactures, packages, 
+     labels, or holds the dietary supplement.
+       ``(E) An electronic copy of the label for the dietary 
+     supplement, and an electronic copy of the package insert, if 
+     any.
+       ``(F) A list of all ingredients in the dietary supplement 
+     required to appear on the label under sections 101.4 and 
+     101.36 of title 21, Code of Federal Regulations, including--
+       ``(i) the amount per serving of each listed ingredient, if 
+     such information is required to appear on the label; and
+       ``(ii) if required by section 101.36 of title 21, Code of 
+     Federal Regulations, the percent of the daily value of each 
+     listed ingredient.
+       ``(G) The number of servings per container for each 
+     container size.
+       ``(H) The conditions of use.
+       ``(I) Warnings and precautions.
+       ``(J) Statements regarding major food allergens, as defined 
+     in section 201(qq) of the Federal Food, Drug, and Cosmetic 
+     Act (21 U.S.C. 321(qq)).
+       ``(K) The dosage form, such as pill, capsule, liquid, or 
+     powder.
+       ``(L) Any claim that--
+       ``(i) characterizes the relationship of any nutrient which 
+     is of the type required by section 403(q)(1) or section 
+     (q)(2) to be in the label or labeling of the food to a 
+     disease or a health-related condition; or
+       ``(ii) is subject to notification under section 403(r)(6) 
+     that appears in the supplement's labeling.
+       ``(M) The unique dietary supplement identifier for the 
+     product, provided in accordance with paragraph (3).
+       ``(2) Format.--A listing submitted under this section shall 
+     be in such electronic form and manner as the Secretary may 
+     prescribe. The Secretary shall promptly confirm, 
+     electronically, receipt of a complete listing under this 
+     section.
+       ``(3) Unique listing identification numbers.--
+       ``(A) In general.--The Secretary shall establish a unique 
+     dietary supplement identifier system that shall be used by 
+     the responsible person under this section.
+       ``(B) Reservation of numbers.--The system shall allow a 
+     responsible person to reserve multiple dietary supplement 
+     identifier numbers in advance of listing.
+       ``(C) Use requirement.--Any unique dietary supplement 
+     identifier shall be used only in connection with the product 
+     for which the identifier was used during the listing process.
+       ``(4) Submission dates.--A responsible person under this 
+     section shall report to the Secretary the listing information 
+     described in paragraph (1) pursuant to the following 
+     timelines:
+       ``(A) In general.--
+       ``(i) Existing dietary supplements.--In the case of a 
+     dietary supplement that is being offered in interstate 
+     commerce on the date that is 18 months after the date of 
+     enactment of the Dietary Supplement Listing Act of 2022, a 
+     listing for each such dietary supplement formulation 
+     introduced or delivered for introduction into interstate 
+     commerce by the responsible person for commercial 
+     distribution shall be submitted by the responsible person 
+     with the Secretary under this section not later than 60 days 
+     after the date that is 18 months after the date of enactment 
+     of such Act.
+       ``(ii) New dietary supplements.--In the case of a dietary 
+     supplement that is not being offered in interstate commerce 
+     on the date that is 18 months after the date of enactment. of 
+     the Dietary Supplement Listing Act of 2022, a listing for 
+     each such dietary supplement formulation introduced or 
+     delivered for introduction into interstate commerce by the 
+     responsible person for commercial distribution which has not 
+     been included in any listing previously submitted by the 
+     responsible person to the Secretary under this section shall 
+     be submitted to the Secretary prior to introducing the 
+     dietary supplement into interstate commerce.
+       ``(B) Reformulations.--A listing of each dietary supplement 
+     formulation introduced by the responsible person for 
+     commercial distribution that has a label that differs for 
+     such dietary supplement from the representative label 
+     provided under subsection (a) with respect to the product 
+     name, amount of dietary ingredients, or other distinguishing 
+     characteristics such as dosage form (such as pill, capsule, 
+     liquid, or powder) shall be submitted to the Secretary not 
+     later than 15 business days after introducing the dietary
+
+[[Page S2157]]
+
+     supplement with the change into interstate commerce.
+       ``(C) Discontinued dietary supplements.--If the responsible 
+     person has discontinued the commercial marketing of a dietary 
+     supplement formulation included in a listing submitted by the 
+     responsible person under subparagraph (A) or (B), the 
+     responsible person shall report to the Secretary the date of 
+     such discontinuance, within 90 days of the discontinuance of 
+     the dietary supplement.
+       ``(5) Supplier information record keeping requirement.--
+     Each responsible person subject to the requirements of this 
+     subsection shall maintain a record of the full business name 
+     and address from which the responsible person receives any 
+     dietary ingredient or combination of dietary ingredients that 
+     the responsible person uses in the manufacture of the dietary 
+     supplement, or, if applicable, from which the responsible 
+     person receives the dietary supplement. The responsible 
+     person shall make this information available to the Secretary 
+     within 72 hours of request from the Secretary.
+       ``(c) Electronic Database.--Beginning not later than 2 
+     years after the Secretary specifies a unique dietary 
+     supplement identifier system pursuant to subsection (b)(3), 
+     the Secretary shall maintain an electronic database that--
+       ``(1) is publicly accessible;
+       ``(2) is populated with information regarding dietary 
+     supplements that is provided under this section or any other 
+     provision of this Act; and
+       ``(3) enables the public to search the database by a 
+     dietary supplement's unique dietary supplement identifier or 
+     other field of information or combination of fields.
+       ``(d) Authorization of Appropriations.--For purposes of 
+     conducting activities under this section and hiring personnel 
+     to carry out this section, there are authorized to be 
+     appropriated $4,000,000 for fiscal year 2022 and $1,000,000 
+     for each of fiscal years 2023 through 2026.''.
+       (b) Misbranding.--Section 403 of the Federal Food, Drug, 
+     and Cosmetic Act (21 U.S.C. 343) is amended by adding at the 
+     end the following:
+       ``(z) If it is a dietary supplement for which a responsible 
+     person is required to file a listing under section 403D and 
+     such responsible person has not made a listing with respect 
+     to such dietary supplement.''.
+       (c) New Prohibited Act.--Section 301 of the Federal Food, 
+     Drug, and Cosmetic Act (21 U.S.C. 331) is amended by adding 
+     at the end the following:
+       ``(fff) The introduction or delivery for introduction into 
+     interstate commerce of a dietary supplement that has been 
+     prepared, packed, or held using the assistance of, or at the 
+     direction of, a person debarred under section 306.''.
+       (d) Rule of Construction.--Nothing in the amendments made 
+     by subsections (a) through subsection (c) shall be construed 
+     to expand the existing authorities of the Food and Drug 
+     Administration, other than as specified in such amendments. 
+     This subsection shall not be construed to--
+       (1) limit the existing authorities of the Food and Drug 
+     Administration; or
+       (2) limit the authorities specified in the amendments made 
+     by subsections (a) through subsection (c).
+
+                          ____________________
+```
