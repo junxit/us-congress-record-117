@@ -1,0 +1,54 @@
+---
+granule: CREC-2022-04-27-pt1-PgH4561-2
+date: 2022-04-27
+edition: CREC
+section: HOUSE
+page: H4561
+citation: 168 Cong. Rec. H4561
+---
+
+# MOMENT OF SILENCE IN MEMORY OF FORMER CONGRESSMAN J. ROY ROWLAND, JR.
+
+**Speaking:** Bishop, Sanford D. (B000490) [D-GA]
+
+```
+ MOMENT OF SILENCE IN MEMORY OF FORMER CONGRESSMAN J. ROY ROWLAND, JR.
+
+  (Mr. BISHOP of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BISHOP of Georgia. Mr. Speaker, as dean of the Georgia 
+delegation, I regret to inform the House that our former colleague, the 
+Honorable James Roy Rowland, Jr., passed away. He was a beloved 
+husband, father, and friend. I had the honor of working with him and 
+serving with him in the Georgia State legislature as well as here in 
+this House of Representatives.
+  He was courageous in his convictions and a steadfast advocate for 
+better healthcare for all Americans, especially our military veterans.
+  He served in the House from 1983 through 1995. During that time, he 
+was a member of several committees including the Veterans' Affairs, 
+Armed Services, Public Works and Transportation, and Government 
+Operations, as well as the Select Committee on Narcotics Abuse and 
+Control and the Select Committee on Children, Youth, and Families.
+  We were both Distinguished Eagle Scouts, and I had the pleasure of 
+presenting him with that award in 2014. In attendance were many current 
+and former congressional colleagues, both Democrats and Republicans. It 
+was a testament to the warmth and care he embodied as well as his 
+bipartisanship.
+  I noted at the time that the trail that Eagle Scouts walk never ends. 
+Such was the life of J. Roy Rowland who became an Eagle Scout in 1942. 
+He went on to serve the U.S. Army and was a veteran of World War II. He 
+was a physician, an author, a philanthropist, and a public servant who 
+made our community and our world a better place to live in so many 
+ways.
+  He led a distinguished and honorable life, and he will be greatly 
+missed. Our
+
+[[Page H4562]]
+
+thoughts and prayers go out to his wife, Luella, his children, and his 
+entire family.
+  Mr. Speaker, I ask that this House observe a moment of silence in 
+remembrance of the late Honorable James Roy Rowland, Jr.
+
+                          ____________________
+```

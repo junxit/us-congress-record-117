@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-04-27-pt1-PgH4563-2
+date: 2022-04-27
+edition: CREC
+section: HOUSE
+page: H4563
+citation: 168 Cong. Rec. H4563
+---
+
+# HONORING GERDA WEISSMANN KLEIN
+
+**Speaking:** Jacobs, Chris (J000020) [R-NY]
+
+```
+                     HONORING GERDA WEISSMANN KLEIN
+
+  (Mr. JACOBS of New York asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. JACOBS of New York. Madam Speaker, today, on Holocaust 
+Remembrance Day, I honor the life of Gerda Weissmann Klein, who passed 
+away on April 3.
+  Gerda was born in Poland in May 1925 and was only a teenager when her 
+homeland was invaded by the Nazis. In 1942, she was sent to the Gross-
+Rosen camp system.
+  In 1945, Gerda was taken on a 3-month death march through 
+Czechoslovakia. Luckily, the failed ignition of an incendiary device 
+saved Gerda and 120 other women, who were liberated soon after.
+  After the war, Gerda immigrated to western New York, my home, to 
+raise her family, and she traveled the country sharing her story. 
+Gerda's first book, ``All But My Life,'' told her story and was adapted 
+into an Oscar-winning documentary called ``One Survivor Remembers.''
+  Gerda has received numerous honors and awards, including the 
+Presidential Medal of Freedom. Gerda also spoke before the United 
+Nations General Assembly on the first International Holocaust 
+Remembrance Day.
+  Gerda is survived by 3 children, 8 grandchildren, and 18 great-
+grandchildren. May her memory be a blessing to us all.
+
+                          ____________________
+```

@@ -1,0 +1,33 @@
+---
+granule: CREC-2022-04-27-pt1-PgS2186
+date: 2022-04-27
+edition: CREC
+section: SENATE
+page: S2186
+citation: 168 Cong. Rec. S2186
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Casey, Robert P., Jr. (C001070) [D-PA]
+
+```
+                            VOTE EXPLANATION
+
+  Mr. CASEY. Mr. President, last week, I travelled overseas as part of 
+a congressional delegation conducting meetings on Russian aggression, 
+security, and food security, among other things. Our delegation was 
+scheduled to return on Monday, April 25, but due to mechanical problems 
+with our aircraft, we were delayed for a day.
+  As a result of that delay, I missed two votes. I take seriously my 
+duties in service to the people of Pennsylvania, including voting on 
+policies and nominations. Accordingly, I wish for the record to show 
+that, had I not been absent due to mechanical difficulties with the 
+plane, I would have voted yea on the following votes: yea on vote No. 
+135, on the motion to invoke cloture: Lael Brainerd to be Vice-Chairman 
+of the Board of Governors of the Federal Reserve System; yea on vote 
+No. 136, on confirmation: Lael Brainerd, to be Vice-Chairman of the 
+Board of Governors of the Federal Reserve System.
+
+                          ____________________
+```

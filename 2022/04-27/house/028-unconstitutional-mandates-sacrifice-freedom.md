@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-04-27-pt1-PgH4520
+date: 2022-04-27
+edition: CREC
+section: HOUSE
+page: H4520
+citation: 168 Cong. Rec. H4520
+---
+
+# UNCONSTITUTIONAL MANDATES SACRIFICE FREEDOM
+
+**Speaking:** Cawthorn, Madison (C001104) [R-NC]
+
+```
+              UNCONSTITUTIONAL MANDATES SACRIFICE FREEDOM
+
+  (Mr. CAWTHORN asked and was given permission to address the House for 
+1 minute.)
+  Mr. CAWTHORN. Mr. Speaker, the United States was born out of 
+disobedience. It was disobedience to a tyrannical government that led 
+to the founding of our Constitution and our American ideals. Today, 
+patriots still sometimes disobey, even at the cost of great personal 
+hardship.
+  Twenty-year veterans of law enforcement agencies have turned in their 
+badges because they refuse to bow the knee to vaccine mandates.
+  Nurses have worked and studied for years, only to have their jobs 
+stripped away because of a virus that they themselves committed to 
+defeating.
+  Servicemembers, firefighters, EMTs, are all sacrificing their careers 
+to stand for their convictions and for freedom.
+  Unconstitutional mandates sacrifice freedom on the altar of safety. 
+Mask mandates are dying because patriots have fought back. Let's do it 
+again with vaccine mandates. This is not a matter of health; it is a 
+matter of liberty.
+  These heroes will not go away quietly, and we will defend them 
+because they have defended us.
+  Mr. Speaker, it is time to end medical tyranny, end Federal 
+Government overreach, and end vaccine mandates.
+
+                          ____________________
+```
