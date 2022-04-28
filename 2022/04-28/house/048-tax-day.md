@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-04-28-pt1-PgH4602-2
+date: 2022-04-28
+edition: CREC
+section: HOUSE
+page: H4602
+citation: 168 Cong. Rec. H4602
+---
+
+# TAX DAY
+
+**Speaking:** Rose, John W. (R000612) [R-TN]
+
+```
+                                TAX DAY
+
+  (Mr. ROSE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ROSE. Madam Speaker, Monday of last week was liberals' favorite 
+holiday: Tax Day--which usually serves as an annual reminder of just 
+how big the government has gotten.
+  However, instead of paying taxes on only one day of the year, 
+Americans are being forced to pay an invisible tax every day this year: 
+inflation--which is a constant reminder of the cost of Big Government 
+and big deficit spending.
+  Make no mistake, President Biden's and congressional Democrats' 
+willingness to borrow trillions of dollars to pay for ever-growing 
+wasteful government programs has caused record-high inflation. Prices 
+at the pump and at the grocery store were already skyrocketing well 
+before Vladimir Putin's evil invasion of Ukraine.
+  Unfortunately, the Biden administration wants to double down on these 
+disastrous, inflation-inducing spending bills. His budget proposal 
+calls for shelling out $73 trillion over the next 10 years and would 
+only add to the pain we all feel when we reach for our pocketbooks. 
+Tennesseans can't afford another year of one-party Democratic control 
+of Government.
+
+                          ____________________
+```

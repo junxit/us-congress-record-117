@@ -1,0 +1,59 @@
+---
+granule: CREC-2022-04-28-pt1-PgS2221-2
+date: 2022-04-28
+edition: CREC
+section: SENATE
+page: S2221
+citation: 168 Cong. Rec. S2221
+---
+
+# Introductory Statement on S. 4113
+
+**Speaking:** Hirono, Mazie K. (H001042) [D-HI]
+
+**Measures:** S. 4113
+
+```
+      By Ms. HIRONO (for herself, Mr. Booker, Mrs. Gillibrand, and Mrs. 
+        Feinstein):
+  S. 4113. A bill to provide for the independent investigation and 
+prosecution of sexual harassment under the Uniform Code of Military 
+Justice, and for other purposes; to the Committee on Armed Services.
+  Ms. HIRONO. Mr. President, I rise today to introduce the Sexual 
+Harassment Independent Investigations and Prosecution Act, also known 
+as the SHIIP Act, which addresses longstanding systemic problems in the 
+way that the military investigates and prosecutes sexual harassment. I 
+thank Senators Booker, Gillibrand, and Feinstein for being original 
+cosponsors and Representative Speier for introducing this important 
+legislation in the U.S. House of Representatives.
+  It has been 2 years since Army SPC Vanessa Guillen was murdered after 
+she reported being sexually harassed by another servicemember. Her 
+tragic death was the catalyst to an investigation that led the 
+Independent Review Commission to recommend key changes to the way the 
+Department of Defense handles sexual assault and sexual harassment. 
+Some of these changes, including the codification of sexual harassment 
+as a crime, were established last year through the Fiscal Year 2022 
+National Defense Authorization Act. Others, unfortunately, were left 
+out.
+  We must continue to build on the important work of the Independent 
+Review Commission and the steps taken in the Fiscal Year 2022 National 
+Defense Authorization Act for the sake of our servicemembers. This 
+includes codifying the requirement that any sexual harassment or 
+assault complaint to be reviewed by a third-party investigator outside 
+the chain of command. This change is essential to restoring the trust 
+between soldiers and their superiors. Servicemembers would no longer 
+have to fear their voices being stifled or dismissed altogether.
+  That is why I am introducing the SHIIP Act to require that all 
+complaints of sexual assault and harassment be reviewed by a specially 
+trained investigator outside the chain of command. The provisions in 
+this legislation will move prosecutorial decisions on sexual harassment 
+cases to the new special trial counsel, created by the Fiscal Year 2022 
+National Defense Authorization Act, and require that independent sexual 
+harassment investigators be outside the chain of command and trained to 
+investigate sexual harassment. These changes are essential to ensure 
+servicemembers feel safe reporting any misconduct and that their 
+complaints are investigated properly.
+  I urge my colleagues to pass the SHIIP Act as another step forward 
+toward restoring faith in the military justice system.
+                                 ______
+```

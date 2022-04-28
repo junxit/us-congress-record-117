@@ -1,0 +1,35 @@
+---
+granule: CREC-2022-04-28-pt1-PgH4584-2
+date: 2022-04-28
+edition: CREC
+section: HOUSE
+page: H4584
+citation: 168 Cong. Rec. H4584
+---
+
+# ADMINISTRATION MUST SECURE BORDER
+
+**Speaking:** Steel, Michelle (S001135) [R-CA]
+
+```
+                              {time}  1215
+                   ADMINISTRATION MUST SECURE BORDER
+
+  (Mrs. STEEL asked and was given permission to address the House for 1 
+minute.)
+  Mrs. STEEL. Mr. Speaker, every day, we see more and more illegal 
+crossings at the southern border. March was the worst month yet, with 
+over 221,000 migrant encounters.
+  Instead of securing our border and empowering law enforcement, this 
+administration continues to make this crisis worse every day.
+  I am a proud immigrant and first-generation American. I came here 
+legally. There are 4.4 million people waiting their turn to legally 
+come to the greatest country in the whole world. Meanwhile, this 
+administration continues to allow millions of illegal migrants to take 
+advantage of our weak border policies.
+  We are a nation of laws, and enough is enough. The administration 
+must stop the flow of drugs and crime into our country and secure the 
+border to protect our citizens.
+
+                          ____________________
+```
