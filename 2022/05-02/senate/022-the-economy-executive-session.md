@@ -1,0 +1,152 @@
+---
+granule: CREC-2022-05-02-pt1-PgS2240
+date: 2022-05-02
+edition: CREC
+section: SENATE
+page: S2240
+citation: 168 Cong. Rec. S2240
+---
+
+# The Economy (Executive Session)
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH], Thune, John (T000250) [R-SD]
+
+```
+                              The Economy
+
+  Mr. BROWN. Mr. President, for generations, manufacturing was the 
+lifeblood of communities across Ohio and throughout the country. It was 
+heavily unionized. The jobs paid well. It is not a coincidence that 
+those two things go together. We know carrying a union card means 
+better wages, better hope in retirement benefits, and more control over 
+the workers' schedule.
+  These jobs allowed generations of Americans to build a middle-class 
+life. But beginning in the seventies and eighties, we stopped making 
+things in this country. Look at places like my hometown of Mansfield, 
+OH. I went to Johnny Appleseed Junior High School, Mansfield Senior 
+High School. I walked the halls with sons and daughters of autoworkers 
+from GM and machinists of Ohio Brass and electrical workers from 
+Westinghouse and rubber workers from Mansfield Tire and hundreds and 
+hundreds of the sons and daughters of people in the building trades--
+laborers and pipe fitters and carpenters and millwrights and painters 
+and one trade after another. Companies like Westinghouse and Tappan 
+Stove all closed down one after another. Go to any town in Ohio and 
+throughout the industrial Midwest and people can name a similar list.
+  We know what happened: Corporations in Ohio shut down production in 
+Mansfield, my hometown, or Lorain, where I was today, or Youngstown or 
+Cincinnati or Toledo, in search of cheaper labor, in search of right-
+to-work States, and in search of weaker workers' compensation or 
+unemployment benefit laws. They moved to Alabama. They moved to 
+Tennessee. They moved to Arkansas.
+  And then, that wasn't quite good enough. Then those same corporations 
+lobbied Congress for trade agreements and tax treatments. So they then 
+moved on to Mexico, and that labor wasn't quite cheap enough, and they 
+moved on to China.
+  Ohio has paid the price for years in the form of lost jobs and lost 
+opportunities. Now--and I know what the Presiding Officer has seen in 
+the State of Maine. You understand this. The whole country pays the 
+price--higher prices, supply chain delays, losing entire high-tech 
+industries to competitors like China.
+  Look where we've ended up. In Ohio, Thomas Edison invented the light 
+bulb. Today, 99 percent of LED bulbs are made in China.
+  America invented the semiconductor. Forty years ago, the U.S. 
+produced half of the world's semiconductors. Today it is 10 percent--
+about 75 percent made in East Asia. Look what happened. During the 
+pandemic, companies across Ohio and the rest of the country shut down 
+production lines not because there wasn't demand, they shut down 
+production lines and laid off workers because they couldn't get enough 
+semiconductors.
+  Whether you are Ford in Lima, Whirlpool in Clyde, Kenworth in 
+Chillicothe, OH, or Navistar in Springfield, you need these chips.
+  It is why the Senate must fund the bipartisan CHIPS Act. We agreed to 
+authorize this program. Now it is time to move and to fund it.
+  At the end of January, Senator Portman and I flew to Columbus to join 
+Intel to announce the largest ever domestic investment in semiconductor 
+manufacturing. It will create 10,000 good-paying jobs. Union 
+tradespeople--5,000 union tradespeople--for 10 years will build this 
+facility. Think of the magnitude of that. As we were flying in on the 
+plane, I remember sitting with the Secretary of Commerce and Senator 
+Portman and my friend Don Graves, from Cleveland--the No. 2 guy at 
+Commerce.
+  I looked out, and I said:
+
+       Today, in Ohio, we are finally burying the term ``Rust 
+     Belt.''
+
+  It is possible because we are on the verge of passing this historic 
+investment. The EU, China, Taiwan, and South Korea are all for 
+providing incentives to make these chips domestically. None of them--
+none of them--require stock warrants as this motion would have us do. 
+That is why I oppose this motion. Other countries are mimicking what we 
+are doing. The EU, if Congress doesn't move quickly on the CHIPS Act, 
+is already trying to attract that business there.
+  In the history of the United States, the only time we have ever 
+required equity warrants from private companies is during times of war 
+or in moments of financial and global crisis. It is not a bailout; it 
+is an incentive. This motion to instruct conferees is well-intentioned, 
+but it won't work. It will make the U.S. program less competitive. It 
+is likely to cause these companies to make these chips overseas where 
+they can get the same incentives without those strings.
+  I understand Senator Sanders' goal. It is a goal I share. I just 
+spoke with the Presiding Officer, and neither of us has a particularly 
+favorable attitude toward what we have seen with stock buybacks and the 
+damage that they have done to our economy and what it has meant in the 
+undermining of companies' investments in their workers and in new 
+product lines. I have had--I don't know--6, 8, 10, 12 calls with the 
+Chair of the Federal Reserve, Jay Powell, asking him--pleading with 
+him--about restricting some of the stock buybacks at some of the 
+largest American banks, especially during the pandemic.
+  As I said, I understand Senator Sanders' goal. We have got to make 
+sure that the jobs that are created are good-paying ones where workers 
+can build careers. That is why, in the CHIPS Act, we require the chips 
+funding go to the construction or to the modernization of U.S. 
+facilities to support American jobs, require chip applicants to make 
+commitments to workers and community investments, and require chips 
+projects be sustainable without additional Federal funding. These are 
+initial Federal investments that generate long-term, well-paying jobs.
+  In both the Senate and House competition bills, we also require chips 
+recipients to pay the prevailing wage to employees or contractors. That 
+is why the United Auto Workers supports this position. They support 
+chip funding. It is why the building trades support chips funding and 
+oppose this Sanders' motion.
+  I can tell you, from experience, if we drive these semiconductor jobs 
+away, the alternative is not a replacement with other similarly high-
+quality jobs. Ohio has had that promise too often. Drive around Ohio, 
+and you will see the alternative to low-wage, anti-union, big-box 
+stores where workers have little control over their schedules and 
+little power to build a better life.
+  It is also important to remember that this investment isn't just for 
+semiconductors. It will affect smaller supply companies and their 
+supply chains. It will affect all of the downstream industries that 
+rely on these chips for all kinds of productions: appliances, auto, 
+energy deployment. Our clean energy, independent future is going to 
+rely on American-made semiconductor chips.
+  Mr. President, I want to talk on one other motion that will be made 
+in the next 48 hours, on this floor, to the CHIPS Act.
+  We need to make more in this country. We shouldn't be taking other 
+actions that discourage domestic production.
+  I urge my colleagues to oppose a motion to instruct that supports a 
+broad exclusion process for 301 tariffs for goods from China. Those 
+tariffs are in place because of China's unfair trade practices 
+targeting our industrial base and Ohio jobs. The AFL-CIO opposes it. 
+The U.S. Trade Rep's office opposes it, and she was confirmed here in a 
+unanimous vote. The Alliance for American Manufacturing opposes it. 
+They know that any removal of these tariffs needs to be part of a 
+broader, strategic approach to trade policy with China.
+  We can't let China undermine the investments that American 
+manufacturers make in workers and communities here in the United 
+States. If we do this bill right, it will mean we will finally make 
+more in America. We will begin bringing back the supply chains to our 
+country. It will help us bury the term ``Rust Belt'' once and for all.
+  When you love this country, you fight for the people who make it 
+work. That is what the CHIPS Act is about. It is about workers. It is 
+about good-paying jobs. It is about increasing the unionization of 
+workers in this country. It will lift all boats.
+  I yield the floor.
+
+[[Page S2241]]
+
+  The PRESIDING OFFICER. The Senator from Ohio.
+
+                          ____________________
+```
