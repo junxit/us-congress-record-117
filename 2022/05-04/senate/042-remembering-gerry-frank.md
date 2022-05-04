@@ -1,0 +1,67 @@
+---
+granule: CREC-2022-05-04-pt1-PgS2327-4
+date: 2022-05-04
+edition: CREC
+section: SENATE
+page: S2327
+citation: 168 Cong. Rec. S2327
+---
+
+# REMEMBERING GERRY FRANK
+
+**Speaking:** Wyden, Ron (W000779) [D-OR]
+
+```
+                        REMEMBERING GERRY FRANK
+
+  Mr. WYDEN. Madam President, I speak today to honor the memory of an 
+esteemed and beloved Oregonian who spent his life bettering our State. 
+On March 13, Oregon lost its most devoted citizen and advocate: Gerry 
+Frank.
+  Gerry's life and service to Oregon has inspired so many to learn, 
+laugh about, and love what makes Oregon so special: our State's jaw-
+dropping beauty, our unique independence, and our incredible capacity 
+to land on our feet. And Gerry has always done it in his own special 
+way. No one I know has managed to do as much good as Gerry Frank with a 
+simple piece of chocolate cake.
+  Gerry was a true renaissance man. A graduate of both Lincoln High in 
+Portland and Cambridge in the U.K., he made his mark as a successful 
+haberdasher, restauranteur, politician, and World War II veteran. But 
+we all knew his true loves: Oregon and a great piece of cake. Gerry 
+used the best chocolate cake in the world to bring us together at the 
+State fair, a contest he selflessly judged annually for 60 years. He 
+kept a terrific restaurant and retailer called Gerry Frank's Konditorei 
+which paired delicious Oregon food with that cake. And he went to bat 
+for Oregon community organizations of every size and shape, saying, 
+``How much cake do you need to give a good cause a boost?''
+  After the family business of Meier & Frank was sold in 1965, Gerry 
+turned to politics, joining Senator Mark Hatfield's office. Gerry's 
+politics were always pretty simple. He would ask, ``Is that idea fair? 
+Does it make sense? And is it a part of Oregon's long tradition of 
+welcoming fresh approaches to tackling big challenges?'' For almost 20 
+years Gerry worked as Mark Hatfield's chief of staff, gaining the 
+nickname ``Oregon's Third Senator,'' for his dogged work ethic and 
+devotion to Oregonians. Gerry is an incredible testament to what we 
+call back home the Oregon Way: where we put aside partisan leanings to 
+get things done for our State.
+  After leaving politics, Gerry followed his passion for meeting new 
+people and seeing new places. A talented writer, he was the travel 
+columnist at the Oregonian newspaper for many years and published 
+multiple books, including one of my personal favorites: ``Gerry Frank's 
+Oregon.''
+  Gerry, a man of many talents and passions, never forgot about his 
+home in Salem. Despite travelling to over 150 countries, he always 
+returned home in time for some of Oregon's beloved traditions, 
+including the State fair and the Rose Festival. In 2019 the Gerry Frank 
+Salem Rotary Amphitheater was built in his name, just another testament 
+to the impact Gerry had on his community as a lifelong Rotarian and 
+lover of live music. And soon, Providence Health in Portland will 
+complete the Gerry Frank Center for Children's Care in his memory.
+  The State of Oregon will not forget Gerry Frank, and neither will I. 
+While his passing brings us sadness, it also bring us gratitude for his 
+tireless work to make Oregon a better place to call home. I honor the 
+illustrious life of Gerry Frank and unforgettable legacy he left in our 
+State for generations to come.
+
+                          ____________________
+```
