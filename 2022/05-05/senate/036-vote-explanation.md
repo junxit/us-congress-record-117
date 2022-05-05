@@ -1,0 +1,37 @@
+---
+granule: CREC-2022-05-05-pt1-PgS2357-3
+date: 2022-05-05
+edition: CREC
+section: SENATE
+page: S2357
+citation: 168 Cong. Rec. S2357
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Rubio, Marco (R000595) [R-FL]
+
+**Measures:** H.R. 4521
+
+```
+                            VOTE EXPLANATION
+
+  Mr. RUBIO. Mr. President, if there had been a recorded rollcall vote 
+on the motion to instruct from Senator Menendez that moves that the 
+managers on the part of the Senate at the conference on the disagreeing 
+votes of the two Houses on the Senate amendment to the bill H.R. 4521 
+be instructed to contain provisions in section 73003 of the Senate 
+amendment related to the establishment of an inspector general for the 
+Office of the U.S. Trade Representative, I would have voted nay.
+  If there had been a recorded rollcall vote on the motion to instruct 
+from Senator Lujan that moves that the managers on the part of the 
+Senate at the conference on the disagreeing votes of the two Houses on 
+the Senate amendment to the bill H.R. 4521 be instructed to insist on 
+provisions supporting the work of the Department of Energy, user 
+facilities of the Department of Energy, and National Laboratories, 
+including work in microelectronics and across the key technology focus 
+areas, supporting the Department of Energy and its national 
+laboratories, I would have voted nay.
+
+                          ____________________
+```
