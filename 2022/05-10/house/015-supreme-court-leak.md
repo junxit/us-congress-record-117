@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-05-10-pt1-PgH4727
+date: 2022-05-10
+edition: CREC
+section: HOUSE
+page: H4727
+citation: 168 Cong. Rec. H4727
+---
+
+# SUPREME COURT LEAK
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                           SUPREME COURT LEAK
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute.)
+  Mr. LaMALFA. The leak of the Supreme Court's draft opinion on the 
+Dobbs case is a betrayal of confidence between the Justices, the 
+deliberative process, and the public.
+  No matter what side of the aisle you are on or what side of the 
+issue, everyone should find it reprehensible that such an assault on 
+our judicial system could even occur.
+  The leak breaks down the ability of our Nation's highest court to 
+objectively examine on all sides and come to clear answers on the 
+constitutionality of serious issues.
+  Justices consider very serious topics, such as the Dobbs case; they 
+should be allowed to freely debate amongst themselves and hypothesize 
+in their deliberations.
+  I expect a full investigation into this leak, and I condemn this 
+attempt to undermine the American judicial process. This leak has 
+caused protesters to now threaten the Justices' families at their homes 
+and where they go.
+  Yet, what do we get? Silence from the Biden administration. I guess 
+if it falls on the side of issues and topics they agree with, it isn't 
+violence, it is just merely protest and strong feelings. What 
+hypocrisy. We must put an end to this right now and have a full 
+investigation so they can do their judicial process in safety and 
+without any kind of false influence.
+
+                          ____________________
+```
