@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-05-12-pt1-PgH4877
+date: 2022-05-12
+edition: CREC
+section: HOUSE
+page: H4877
+citation: 168 Cong. Rec. H4877
+---
+
+# HONORING THE LIFE OF DR. FRANK M. BARKER, JR.
+
+**Speaking:** Palmer, Gary J. (P000609) [R-AL]
+
+```
+                              {time}  1215
+             HONORING THE LIFE OF DR. FRANK M. BARKER, JR.
+
+  (Mr. PALMER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PALMER. Mr. Speaker, I rise to honor the life of Dr. Frank M. 
+Barker, Jr., who passed away on December 27, 2021. Dr. Barker was a 
+humble man of great faith who lived his life in faithful service to his 
+savior, Jesus Christ: loving and serving others, giving to those in 
+need, and sharing the good news that God sent His only Son to Earth to 
+save those who could not save themselves.
+  A lifelong resident of Birmingham, Alabama, Dr. Barker was a graduate 
+of Ramsey High School in 1949, a graduate of Auburn University with a 
+degree in engineering, and a lifelong Auburn Tiger fan. He served his 
+country as a jet fighter pilot in the U.S. Navy, including service 
+during the Korean war.
+  After attending seminary, Dr. Barker founded Briarwood Presbyterian 
+Church in Birmingham, leading a congregation that was committed to 
+reaching the world for Christ. Through his leadership, Dr. Barker 
+played an important role in the formation of the Presbyterian Church in 
+America, a denomination that remains committed to the inerrancy and 
+authority of Holy Scripture.
+  I know that Dr. Barker's life and legacy will continue to be an 
+inspiration to others and a model for living a life of generosity and 
+faithfulness.
+
+                          ____________________
+```

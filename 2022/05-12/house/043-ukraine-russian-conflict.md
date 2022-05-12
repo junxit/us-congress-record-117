@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-05-12-pt1-PgH4877-3
+date: 2022-05-12
+edition: CREC
+section: HOUSE
+page: H4877
+citation: 168 Cong. Rec. H4877
+---
+
+# UKRAINE-RUSSIAN CONFLICT
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+                        UKRAINE-RUSSIAN CONFLICT
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute.)
+  Mr. GROTHMAN. Mr. Speaker, a lot has been said in the last 48 hours 
+on this floor with regard to the Ukraine-Russian conflict; however, I 
+think there are some things that should be added that maybe can be 
+talked about a little bit more as we try to find the end here. And I 
+hope the Biden administration does not give up at all on trying to 
+negotiate some sort of peace.
+  First of all, I am going to address Russia. Russia has a very low 
+birthrate now of 1.5. In addition to that, people right now are leaving 
+Russia. I was on the San Diego border about 8 months ago, and at that 
+time just in that region--one of 10 regions along the Mexican border--
+the second biggest nationality to cross was Russian. It was recently 
+reported that in the 6-month period ending January, 8,600 Russians 
+entered this country. I would bet because of the war Russian 
+immigration has only increased.
+  With regard to Ukraine, its birthrate is even lower. Of approximately 
+180 countries of size in the world, Ukraine has the second-lowest 
+birthrate to South Korea at 1.1 percent. It has recently been reported 
+the United States will accept up to 100,000 Ukrainians in our country. 
+While it is certainly the intent that they return, we all know that 
+many of them don't.
+
+                          ____________________
+```

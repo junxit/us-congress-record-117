@@ -1,0 +1,35 @@
+---
+granule: CREC-2022-05-12-pt1-PgH4875-10
+date: 2022-05-12
+edition: CREC
+section: HOUSE
+page: H4875
+citation: 168 Cong. Rec. H4875
+---
+
+# HONORING FALLEN SOUTH GATE DETECTIVE ALEXIS GONZALEZ
+
+**Speaking:** Barragan, Nanette Diaz (B001300) [D-CA]
+
+```
+          HONORING FALLEN SOUTH GATE DETECTIVE ALEXIS GONZALEZ
+
+  (Ms. BARRAGAN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. BARRAGAN. Mr. Speaker, as we observe National Police Week, I am 
+here to honor and celebrate the life and service of South Gate Police 
+Detective Alexis Gonzalez of South Gate, California.
+  Detective Gonzalez tragically passed away on April 25. Detective 
+Gonzalez first joined the police department in 2013 as a police 
+explorer. He graduated from the Rio Hondo Police Academy in 2017, 
+realizing his dream of becoming a South Gate police officer.
+  At the age of 27, Detective Gonzalez was a 5-year veteran of the 
+police force and a hero in South Gate. He was a shining star and will 
+be sorely missed by family, friends, and the entire community.
+  We honor the life and service of Detective Gonzalez and his family, 
+and of every police officer who has put their life at risk to protect 
+our communities.
+  May he rest in peace.
+
+                          ____________________
+```

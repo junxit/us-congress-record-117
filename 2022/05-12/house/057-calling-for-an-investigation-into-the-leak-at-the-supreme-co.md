@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-05-12-pt1-PgH4900-4
+date: 2022-05-12
+edition: CREC
+section: HOUSE
+page: H4900
+citation: 168 Cong. Rec. H4900
+---
+
+# CALLING FOR AN INVESTIGATION INTO THE LEAK AT THE SUPREME COURT
+
+**Speaking:** Rose, John W. (R000612) [R-TN]
+
+```
+                              {time}  1615
+    CALLING FOR AN INVESTIGATION INTO THE LEAK AT THE SUPREME COURT
+
+  (Mr. ROSE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ROSE. Madam Speaker, the leak of Associate Justice Alito's draft 
+opinion on Dobbs v. Jackson was clearly illegal. That is why more than 
+20 Republican Members of the House joined me in calling on Attorney 
+General Merrick Garland and FBI Director Wray to open a criminal 
+investigation into a potential violation of U.S. law.
+  Title 18 United States Code Section 2071 states in part: A person who 
+willfully carries away any document filed or deposited with any clerk 
+or officer of any court shall be fined or imprisoned or both.
+  Anyone trying to criminally undermine the division of power in our 
+government should be held accountable to the full extent of the law, 
+especially as the leak is already proving to be dangerous as Justices 
+are facing harassment outside their homes.
+  Our country is built on the fundamental respect for law and order. It 
+is clear to me and my Republican colleagues that the law was clearly 
+violated.
+
+[[Page H4901]]
+
+  
+
+                          ____________________
+```

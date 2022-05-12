@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-05-12-pt1-PgH4901-6
+date: 2022-05-12
+edition: CREC
+section: HOUSE
+page: H4901
+citation: 168 Cong. Rec. H4901
+---
+
+# IN DEFENSE OF OUR MOST VULNERABLE
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                   IN DEFENSE OF OUR MOST VULNERABLE
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, last week, a draft 
+majority opinion from the U.S. Supreme Court that would overturn Roe v. 
+Wade was leaked. This is troubling and unprecedented. All Americans 
+should be concerned about this betrayal of trust in our Nation's 
+highest court.
+  My position on life has always been clear. You can't be a champion 
+for the future of this great country if you are going to limit its 
+potential.
+  For the majority of the last 50 years, Democrats have controlled the 
+House, the Senate, and the White House. In that time, they failed to 
+codify Roe v. Wade. Today, we are witnessing calls from the extreme 
+left to end the filibuster in the Senate and pack the courts.
+  This radical stance neglects the unborn and continues to ignore the 
+struggles of hardworking American families who are trying to cope with 
+soaring inflation, out-of-control food and energy prices, and the 
+failed policies of the Biden administration.
+  Madam Speaker, I will always use my voice here in Congress to defend 
+our most vulnerable and protect the unborn.
+
+[[Page H4902]]
+
+  
+
+                          ____________________
+```
