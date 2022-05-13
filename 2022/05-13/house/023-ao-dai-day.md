@@ -1,0 +1,36 @@
+---
+granule: CREC-2022-05-13-pt1-PgH4960
+date: 2022-05-13
+edition: CREC
+section: HOUSE
+page: H4960
+citation: 168 Cong. Rec. H4960
+---
+
+# AO DAI DAY
+
+**Speaking:** Steel, Michelle (S001135) [R-CA]
+
+```
+                               AO DAI DAY
+
+  (Mrs. STEEL asked and was given permission to address the House for 1 
+minute.)
+  Mrs. STEEL. Mr. Speaker, I rise today to recognize Ao Dai Day this 
+Sunday, May 15. I am proud to represent nearly 200,000 Vietnamese 
+Americans in my district in California.
+  My district is a home to Little Saigon which has the largest 
+Vietnamese population outside of Vietnam. Many of these men and women 
+fled communism in Vietnam in search of freedom here in America. They 
+have worked hard to build their American Dream.
+  The Ao Dai, which I am wearing today, is a traditional dress that 
+represents the adaptability and strength of the Vietnamese people. It 
+is a symbol of beauty and pride in Vietnam's unique and wonderful 
+culture.
+  Last year, the State of California officially approved a resolution 
+to recognize May 15 as Ao Dai Day. I join them in celebrating this 
+special day and the many Vietnamese families in my district who are 
+proud to call our great country home.
+
+                          ____________________
+```
