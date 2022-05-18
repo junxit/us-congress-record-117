@@ -1,0 +1,44 @@
+---
+granule: CREC-2022-05-18-pt1-PgH5102-2
+date: 2022-05-18
+edition: CREC
+section: HOUSE
+page: H5102
+citation: 168 Cong. Rec. H5102
+---
+
+# RECOGNIZING THE ROANOKER RESTAURANT
+
+**Speaking:** Cline, Ben (C001118) [R-VA]
+
+```
+                              {time}  1215
+                  RECOGNIZING THE ROANOKER RESTAURANT
+
+  (Mr. CLINE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CLINE. Mr. Speaker, I rise today to recognize The Roanoker 
+Restaurant, an establishment so iconic it carries its city's namesake.
+  Opened in 1941 by Craft Warren, this Roanoke staple has served as a 
+gathering place for generations. For nearly 81 years, The Roanoker 
+provided folks across the Star City a place to come together over a 
+delicious, home-cooked meal.
+  Its current owner, Butch Craft, began working at the restaurant more 
+than 52 years ago before eventually taking over the business.
+  Over the course of its storied history, the restaurant has moved 
+throughout Roanoke before making its way to its current and, 
+unfortunately, final home on Colonial Avenue in 1982.
+  This week, the entire Star City was saddened to learn that, after 
+more than eight decades in business, The Roanoker will be closing its 
+doors at the end of the month.
+  One resident said it best: It is going to be greatly missed, no doubt 
+about it. It is going to be so missed.
+
+[[Page H5103]]
+
+  It certainly will be, and I will take a moment to thank the Warren 
+family, Butch Craft, and everyone who has worked at The Roanoker and 
+made it such a success and made diners feel at home for so many years.
+
+                          ____________________
+```
