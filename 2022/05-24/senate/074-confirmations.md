@@ -1,0 +1,34 @@
+---
+granule: CREC-2022-05-24-pt1-PgS2674-2
+date: 2022-05-24
+edition: CREC
+section: SENATE
+page: S2674
+citation: 168 Cong. Rec. S2674
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate May 24, 2022:
+
+
+                             THE JUDICIARY
+
+       STEPHANIE DAWKINS DAVIS, OF MICHIGAN, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE SIXTH CIRCUIT.
+
+
+                      FEDERAL ELECTION COMMISSION
+
+       DARA LINDENBAUM, OF VIRGINIA, TO BE A MEMBER OF THE FEDERAL 
+     ELECTION COMMISSION FOR A TERM EXPIRING APRIL 30, 2027.
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       PAUL M. ROSEN, OF CALIFORNIA, TO BE ASSISTANT SECRETARY OF 
+     THE TREASURY FOR INVESTMENT SECURITY.
+```
