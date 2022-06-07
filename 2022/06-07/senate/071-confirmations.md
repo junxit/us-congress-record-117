@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-06-07-pt1-PgS2840
+date: 2022-06-07
+edition: CREC
+section: SENATE
+page: S2840
+citation: 168 Cong. Rec. S2840
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 7, 2022:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       ALEX WAGNER, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSISTANT SECRETARY OF THE AIR FORCE.
+
+
+                       DEPARTMENT OF AGRICULTURE
+
+       CHAVONDA J. JACOBS-YOUNG, OF GEORGIA, TO BE UNDER SECRETARY 
+     OF AGRICULTURE FOR RESEARCH, EDUCATION, AND ECONOMICS.
+
+
+                          DEPARTMENT OF ENERGY
+
+       SHALANDA H. BAKER, OF TEXAS, TO BE DIRECTOR OF THE OFFICE 
+     OF MINORITY ECONOMIC IMPACT, DEPARTMENT OF ENERGY.
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       KENNETH L. WAINSTEIN, OF VIRGINIA, TO BE UNDER SECRETARY 
+     FOR INTELLIGENCE AND ANALYSIS, DEPARTMENT OF HOMELAND 
+     SECURITY.
+
+                          ____________________
+```

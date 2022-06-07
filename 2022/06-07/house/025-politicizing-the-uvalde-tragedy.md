@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-06-07-pt1-PgH5241-3
+date: 2022-06-07
+edition: CREC
+section: HOUSE
+page: H5241
+citation: 168 Cong. Rec. H5241
+---
+
+# POLITICIZING THE UVALDE TRAGEDY
+
+**Speaking:** Roy, Chip (R000614) [R-TX]
+
+```
+                    POLITICIZING THE UVALDE TRAGEDY
+
+  (Mr. ROY asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ROY. Mr. Speaker, I noticed my colleague from Texas down here a 
+little bit earlier talking about the tragedy in Uvalde. And I can tell 
+you, as someone who represents central Texas and the district and the 
+county that shares a border with Uvalde County, it hits close to home.
+  But I would note that the President of the United States and my 
+colleagues have suddenly found Uvalde and south Texas on a map. When we 
+have got 15,000 people in a caravan coming to Texas; we have 700-some 
+people, migrants, who have died along the border; we have mobile 
+morgues being used in south Texas along the Rio Grande; and now 
+suddenly, to go exploit a tragedy for political purposes, my colleagues 
+on the other side of the aisle can find Uvalde on a map. Because they 
+sure as hell haven't been able to find Uvalde on a map over the last 
+year and a half of this administration.
+  We will have more to talk this week about the politicization of this 
+tragedy in Uvalde, and targeting the pretext and the false use by my 
+colleague from Texas of ``automatic weapons'' as opposed to semi-
+automatic weapons.
+
+  But let's be clear: Our borders remain wide open, and Americans are 
+dying in droves; hundreds and thousands of people across this country 
+who are dying because of open borders. We will talk about it this week.
+
+                          ____________________
+```
