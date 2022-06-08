@@ -1,0 +1,93 @@
+---
+granule: CREC-2022-06-08-pt1-PgH5339-2
+date: 2022-06-08
+edition: CREC
+section: HOUSE
+page: H5339
+citation: 168 Cong. Rec. H5339
+---
+
+# RECOGNIZING LINDSAY HOLCOMB, JR., ON HIS 88TH BIRTHDAY
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+         RECOGNIZING LINDSAY HOLCOMB, JR., ON HIS 88TH BIRTHDAY
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+North Carolina (Ms. Foxx) for 5 minutes.
+  Ms. FOXX. Madam Speaker, I rise to recognize and wish a happy 88th 
+birthday to an exemplary North Carolinian, Lindsay Holcomb, Jr., of 
+Winston-Salem, North Carolina. It has been my honor and pleasure to 
+know Lindsay for nearly 30 years, and I understand what a remarkable 
+man he truly is.
+  After graduating from Duke University in under 4 years, he went on to 
+serve in both the United States Army and National Guard. Later, he 
+became president of Pine State Knitwear, a prominent textile 
+manufacturer in Mount Airy, North Carolina.
+  Additionally, he served on the Board of Trustees for Northern Surry 
+Hospital for three decades, and was chairman four of those years.
+  That is an impressive resume. But there is more, much more to his 
+story. He served in pivotal leadership roles within the community as 
+well and showed his generosity in many ways.
+  He and his late brother, Smith, funded a care wing at Arbor Acres, an 
+independent living community in Winston-Salem, in honor of their mother 
+who suffered from dementia. They also donated the waiting room in the 
+Perry Clinic at Arbor Acres.
+  He is the kind of person who would give the shirt off his back to 
+help someone in need, and his service to others speaks volumes about 
+his character.
+  God bless you, Lindsay, and happy 88th birthday. Here is to many 
+more.
+
+
+             Recognizing the Service of William Morgan, Jr.
+
+  Ms. FOXX. Madam Speaker, I rise to recognize William Morgan, Jr., of 
+Statesville, North Carolina. For the last 8\1/2\ years, he has served 
+as a city council member and mayor pro tem of Statesville. In these two 
+roles, he has excelled tremendously.
+  I have had the pleasure of knowing William for many years, and there 
+is no question about how dedicated he is to serving others.
+  William, your tireless advocacy efforts, and record of 
+accomplishments for the city of Statesville and its many
+
+[[Page H5340]]
+
+citizens has not gone unnoticed. Thank you for your service to our 
+great State, and may God bless you and Tina as you enter this new 
+chapter of your life.
+
+
+                  It Is Time to Re-educate Washington
+
+  Ms. FOXX. Madam Speaker, Washington needs to be re-educated on the 
+meaning of ``shall not be infringed.''
+  The Second Amendment insulates the American people from the Federal 
+Government exerting undue influence over them; otherwise known as 
+infringement.
+  When the Federal Government acts in haste, the room for error is 
+drastically compounded; as is the case with the Democrat gun control 
+bills that are before this very body.
+  Let me be very clear: The horrific tragedies that occurred in Uvalde 
+and Buffalo are truly heartbreaking. I continue to pray for our society 
+and for the families of the men, women, and children who were 
+senselessly murdered.
+  Before proposals are put on the table, however, this problem must be 
+diagnosed in its entirety.
+  The Supreme Court has recognized the right of individual citizens to 
+keep and bear arms under the Second Amendment.
+  Further, the Court specifically recognizes that the inherent right to 
+self-defense is protected by the Second Amendment as well.
+  A study conducted in 2013 estimated that firearms are used in defense 
+from half a million to 3 million times annually. Americans exercise 
+their Second Amendment rights when protecting their family and 
+property. It was not written so that one could go hunting.
+  As former Senator Tom Coburn once said, ``It was to create a force to 
+balance a tyrannical force here.''
+  The Federal Government should not be in the business of issuing 
+edicts that threaten the Second Amendment rights of Americans. It is a 
+right that cannot be infringed.
+
+                          ____________________
+```

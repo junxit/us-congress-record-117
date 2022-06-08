@@ -1,0 +1,37 @@
+---
+granule: CREC-2022-06-08-pt1-PgS2862-3
+date: 2022-06-08
+edition: CREC
+section: SENATE
+page: S2862
+citation: 168 Cong. Rec. S2862
+---
+
+# NATIONAL SEERSUCKER DAY
+
+**Speaking:** Cassidy, Bill (C001075) [R-LA]
+
+```
+                        NATIONAL SEERSUCKER DAY
+
+  Mr. CASSIDY. Madam President, today I rise in recognition of 
+seersucker manufacturers and enthusiasts across the United States. I 
+wish everyone a Happy National Seersucker Day. This uniquely American 
+fashion has a storied history dating back to 1909. The first seersucker 
+suit was designed by Joseph Haspel at his Broad Street facility in New 
+Orleans, LA. Louisiana is proud to have played an important part in 
+introducing the country to seersucker apparel.
+  This lightweight cotton fabric, known for its signature pucker, has 
+been worn and enjoyed by Americans across the country during the hot 
+summer months. Mr. Haspel said it best: ``Hot is hot, no matter what 
+you do for a living.''
+  In the 1990s, Seersucker Day was established by Members of this 
+Chamber to honor this unique American fashion. I proudly resumed this 
+tradition in 2014 in the U.S. House of Representatives and continued 
+this tradition in the U.S. Senate. This year, I wish to designate 
+Thursday, June 9, 2022, as the ninth annual National Seersucker Day. I 
+encourage everyone to wear seersucker on this day to commemorate this 
+traditionally American clothing.
+
+                          ____________________
+```

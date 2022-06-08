@@ -1,0 +1,37 @@
+---
+granule: CREC-2022-06-08-pt1-PgH5347-6
+date: 2022-06-08
+edition: CREC
+section: HOUSE
+page: H5347
+citation: 168 Cong. Rec. H5347
+---
+
+# HONORING DR. LIANG CHEE WEE
+
+**Speaking:** Hinson, Ashley (H001091) [R-IA]
+
+```
+                      HONORING DR. LIANG CHEE WEE
+
+  (Mrs. HINSON asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. HINSON. Madam Speaker, I rise today to recognize and honor a 
+dynamic leader from Iowa's First Congressional District, Dr. Liang Chee 
+Wee.
+  Dr. Wee is retiring after serving as the president of Northeast Iowa 
+Community College for nearly 13 years. His passion for inclusivity 
+ensured that everyone who stepped foot on the NICC campus, students, 
+educators, employees, and members of the community all felt at home.
+  Under his leadership, NICC became a space for addressing challenges 
+in the community, and the college has made great strides in promoting 
+growth for minority-owned businesses in the area.
+  Dr. Wee always has a smile and a kind word of encouragement for 
+everyone that he meets. His authentic servant leadership will be missed 
+at NICC, but I know that his work to improve our community is far from 
+over.
+  So thank you, Dr. Wee, and congratulations on this exciting new 
+chapter in your retirement.
+
+                          ____________________
+```

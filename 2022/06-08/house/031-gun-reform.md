@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-06-08-pt1-PgH5346-2
+date: 2022-06-08
+edition: CREC
+section: HOUSE
+page: H5346
+citation: 168 Cong. Rec. H5346
+---
+
+# GUN REFORM
+
+**Speaking:** Phillips, Dean (P000616) [D-MN]
+
+```
+                               GUN REFORM
+
+  (Mr. PHILLIPS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PHILLIPS. Madam Speaker, Jim Ramstad represented Minnesota's 
+Third District in Congress as a principled Republican from 1991 to 
+2009.
+  His widow, Kathryn, a remarkable woman in her own right, wrote me 
+last week and asked that I share her message with the country: ``Jim 
+voted for the 1994 crime bill and its gun control measures. He was one 
+of only six Republicans to cast what was clearly a difficult vote, but 
+he felt so strongly about the compelling need to act and believed it 
+was consistent with his bipartisan, pragmatic, and commonsense approach 
+to fighting crime.
+  ``After so many mass shootings, I cannot understand why Congress does 
+not at the very least,'' she wrote, ``ban semiautomatic weapons like 
+the AR-15 that have been used in so many recent mass shootings.''
+  She continued, ``I feel very strongly about this and ask sincerely, 
+what can we do to legislate reasonable legislation like in 1994?''
+  What can she do? She asks; she and the country ask, I might add.
+  We all know what we can do. And I say, let's do it.
+
+                          ____________________
+```
