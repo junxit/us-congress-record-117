@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-06-09-pt1-PgH5414-4
+date: 2022-06-09
+edition: CREC
+section: HOUSE
+page: H5414
+citation: 168 Cong. Rec. H5414
+---
+
+# THE BUCK STOPS AT THE PRESIDENT'S DESK
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+                 THE BUCK STOPS AT THE PRESIDENT'S DESK
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KELLER. Madam Speaker, a survey by The Wall Street Journal found 
+that 83 percent of Americans describe the state of the economy as poor 
+or not so good. President Biden's approval ratings are in free fall, 
+and the American people are correct in holding him accountable for 
+skyrocketing prices.
+  Since entering office, President Biden's policies of Big Government 
+spending and attacks on American energy have weakened America's economy 
+and placed enormous burdens on working families.
+  My Republican colleagues and I have called on President Biden to 
+reverse course. The President should take immediate steps to unleash 
+American energy, stop the out-of-control spending, and focus on the 
+real issues that are hitting Americans in their pocketbooks.
+  President Biden is completely out of touch. What is worse, our 
+children and grandchildren will be responsible for paying for his mess. 
+President Biden must stop blaming others for his failures and start 
+embracing the solutions that are in the best interests of the American 
+people.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-06-09-pt1-PgH5414
+date: 2022-06-09
+edition: CREC
+section: HOUSE
+page: H5414
+citation: 168 Cong. Rec. H5414
+---
+
+# GUN SAFETY LEGISLATION
+
+**Speaking:** Auchincloss, Jake (A000148) [D-MA]
+
+```
+                         GUN SAFETY LEGISLATION
+
+  (Mr. AUCHINCLOSS asked and was given permission to address the House 
+for 1 minute.)
+  Mr. AUCHINCLOSS. Madam Speaker, I rise today in support of the 
+commonsense gun safety legislation my colleagues and I have introduced 
+this week. The horrific shootings in Buffalo and Uvalde are a painful 
+reminder that action to stop gun violence is long overdue and that 
+Republicans' decades of stonewalling is an intentional decision to 
+allow Americans, including children, to continue to be slaughtered.
+  In particular, the GOP and its gun policy puppet master, the NRA, is 
+obsessed with assault weapons. As a marine, I ate, trained, patrolled, 
+and slept with an assault weapon for 4 years. These are weapons of war 
+designed to kill humans. There is no constitutional defense for 
+civilian ownership of assault weapons even under the District of 
+Columbia v. Heller interpretation of the Second Amendment, and there is 
+certainly no rational explanation for why a mentally disturbed young 
+man should be able to purchase a weapon of war along with high-capacity 
+magazines with no questions asked.
+  The GOP needs to stand up to the NRA and its dangerous and juvenile 
+obsession with assault weapons. Otherwise, this slaughter will 
+continue.
+
+                          ____________________
+```

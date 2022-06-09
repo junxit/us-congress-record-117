@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-06-09-pt1-PgH5430-2
+date: 2022-06-09
+edition: CREC
+section: HOUSE
+page: H5430
+citation: 168 Cong. Rec. H5430
+---
+
+# HONORING THE LEGACY OF MANUELITA GARCIA
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+                HONORING THE LEGACY OF MANUELITA GARCIA
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. GARCIA of Illinois. Madam Speaker, I rise today to honor the life 
+of Manuelita Garcia.
+  Manuelita was a force to be reckoned with, a fierce advocate for 
+justice, a true fighter for the community, and a longtime Little 
+Village resident.
+  On Mother's Day, 2001, Manuelita launched Madres de la Villita to 
+demand the construction of a promised high school in our neighborhood. 
+I joined her and others as they initiated
+
+[[Page H5431]]
+
+a 19-day hunger strike to push the school board to fulfill their 
+promise.
+  Her organizing led to greater support for educational equity and the 
+eventual opening of the Little Village Lawndale High School.
+  Manuelita will be remembered for her devotion to the youth of La 
+Villita. She knew that when we invest in youth, we invest in our 
+future. Above all, she will be remembered for her commitment to 
+fairness, justice, and equity.
+  Manuelita, thank you for your friendship. Rest in power, my friend.
+
+                          ____________________
+```
