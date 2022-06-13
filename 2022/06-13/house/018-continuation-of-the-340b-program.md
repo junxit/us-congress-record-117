@@ -1,0 +1,45 @@
+---
+granule: CREC-2022-06-13-pt1-PgH5451-6
+date: 2022-06-13
+edition: CREC
+section: HOUSE
+page: H5451
+citation: 168 Cong. Rec. H5451
+---
+
+# CONTINUATION OF THE 340B PROGRAM
+
+**Speaking:** Bergman, Jack (B001301) [R-MI]
+
+```
+                    CONTINUATION OF THE 340B PROGRAM
+
+  (Mr. BERGMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BERGMAN. Madam Speaker, I rise today to highlight the positive 
+accomplishments and ongoing challenges facing healthcare providers in 
+rural and remote parts of our country, especially in places like 
+Michigan's First District, my home.
+  Last week marked the 30th anniversary of the 340B Federal drug 
+pricing program, which provides discounted pharmaceutical products to 
+providers that care for a disproportionate share of uninsured and at-
+risk patients.
+  In my district alone, we have 20 340B hospitals providing care for 
+our most vulnerable patient populations and ensuring our rural and 
+remote communities receive the best possible care available.
+  This program has been a critical component of healthcare for so many
+
+[[Page H5452]]
+
+Michiganders, and I hope to work with my colleagues to ensure its 
+continued success, especially as it faces new challenges that could 
+threaten its efficacy in the future.
+  As the COVID-19 pandemic has shown us, reliable access to care, along 
+with the availability of prescription drugs and specialist medical 
+treatments, is more important than ever.
+  Our rural and remote providers will continue to do everything in 
+their power to provide top-of-the-line care to our patients. In turn, 
+Congress must continue to address those rural health priorities.
+
+                          ____________________
+```

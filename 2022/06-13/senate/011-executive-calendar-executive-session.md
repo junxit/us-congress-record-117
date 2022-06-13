@@ -1,0 +1,25 @@
+---
+granule: CREC-2022-06-13-pt1-PgS2901
+date: 2022-06-13
+edition: CREC
+section: SENATE
+page: S2901
+citation: 168 Cong. Rec. S2901
+---
+
+# EXECUTIVE CALENDAR (Executive Session)
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                           EXECUTIVE CALENDAR
+
+  Mr. SCHUMER. Madam President, I move to proceed to executive session 
+to consider Calendar No. 919.
+  The PRESIDING OFFICER. The question is on agreeing to the motion.
+  The motion was agreed to.
+  The PRESIDING OFFICER. The clerk will report the nomination.
+  The legislative clerk read the nomination of Mary T. Boyle, of 
+Maryland, to be a Commissioner of the Consumer Product Safety 
+Commission for a term of seven years from October 27, 2018.
+```

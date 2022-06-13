@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-06-13-pt1-PgH5471-2
+date: 2022-06-13
+edition: CREC
+section: HOUSE
+page: H5471
+citation: 168 Cong. Rec. H5471
+---
+
+# EXPRESSING STRONG SUPPORT FOR STEEL TARIFFS
+
+**Speaking:** Mrvan, Frank J. (M001214) [D-IN]
+
+```
+              EXPRESSING STRONG SUPPORT FOR STEEL TARIFFS
+
+  (Mr. MRVAN asked and was given permission to address the House for 1 
+minute.)
+  Mr. MRVAN. Madam Speaker, I rise today to express my strong support 
+for the continuation of section 232 steel tariffs for our domestic 
+manufacturers, our workforce, and our national security.
+  Indiana's First Congressional District is home to an incredible 
+foundation of steelworkers and the American steel producers who create 
+products that are essential not just to the strength of our national 
+economy but also to our national security.
+  It is necessary that the American steel industry has a level playing 
+field in our global economy so that our innovative companies and 
+skilled workforce can continue to lead the world in manufacturing the 
+most environmentally friendly and efficiently produced steel.
+  As co-chairman of the Congressional Steel Caucus, we have been 
+actively expressing our strong support for the continuation of section 
+232 steel tariffs. I look forward to continuing to work with my 
+colleagues and members of the administration to advocate for the value 
+of these current tariffs and ensure that we all recognize how unfair 
+trade and global steel overcapacity negatively impact our Nation's 
+future.
+
+                          ____________________
+```
