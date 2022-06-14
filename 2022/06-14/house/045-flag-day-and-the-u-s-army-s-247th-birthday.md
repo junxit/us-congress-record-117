@@ -1,0 +1,36 @@
+---
+granule: CREC-2022-06-14-pt1-PgH5533-5
+date: 2022-06-14
+edition: CREC
+section: HOUSE
+page: H5533
+citation: 168 Cong. Rec. H5533
+---
+
+# FLAG DAY AND THE U.S. ARMY'S 247TH BIRTHDAY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+              FLAG DAY AND THE U.S. ARMY'S 247TH BIRTHDAY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, today is Flag Day and the 
+U.S. Army's 247th birthday.
+  Every year on June 14 we celebrate our Stars and Stripes. We 
+celebrate on June 14 because on this day in 1777 the Continental 
+Congress approved the design for our first flag.
+  Over the years our flag has been changed to reflect the growth of our 
+Nation, but one thing remains the same: It will always stand for 
+freedom.
+  Our flag is a glorious symbol of hope for our brave servicemen and -
+women who salute it, defend it, serve it, and, in some cases, die to 
+protect our freedom and liberty.
+  Today is also the U.S. Army's birthday. For the last 247 years, our 
+servicemembers have been defending freedom at home and abroad.
+  Today, our Nation celebrates our Army and our flag, which symbolize 
+both America being the land of the free and the home of the brave.
+
+                          ____________________
+```
