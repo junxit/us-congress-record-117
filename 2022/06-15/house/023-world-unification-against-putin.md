@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-06-15-pt1-PgH5555-3
+date: 2022-06-15
+edition: CREC
+section: HOUSE
+page: H5555
+citation: 168 Cong. Rec. H5555
+---
+
+# WORLD UNIFICATION AGAINST PUTIN
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                    WORLD UNIFICATION AGAINST PUTIN
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, yet again, the world is 
+uniting against war criminal Putin and his murderous invasion of 
+Ukraine.
+  The European Union is set to sign an agreement with Israel and Egypt 
+which will free itself from Putin energy reliance. EU leaders say they 
+will reduce Russian oil and gas imports, cutting financial resources to 
+the Putin war machine where young Russians are sacrificed by Putin for 
+personal gain of oil, money and power, while conducting mass murder in 
+Ukraine.
+  In the plan, Israel will export natural gas in a pipeline to Egypt 
+where it will be turned into liquified natural gas, then delivered to 
+EU member states. I appreciate the service of Egyptian Ambassador to 
+the U.S. Motaz Zahran.
+  During a trip to Israel this week, European Commission President 
+Ursula von der Leyen said, The Kremlin's behavior only strengthens our 
+resolve to break free of Russian fossil fuels.
+  In conclusion, God bless our troops who successfully protected 
+America for 20 years in the global war on terrorism as it continues to 
+move from the safe haven of Afghanistan to America.
+  As the co-chair of the EU Caucus and the Israel Caucus, I especially 
+appreciate the cooperation we see today.
+
+                          ____________________
+```

@@ -1,0 +1,33 @@
+---
+granule: CREC-2022-06-15-pt1-PgS2962
+date: 2022-06-15
+edition: CREC
+section: SENATE
+page: S2962
+citation: 168 Cong. Rec. S2962
+---
+
+# MORNING BUSINESS
+
+**Speaking:** Hawley, Josh (H001089) [R-MO]
+
+```
+                            MORNING BUSINESS
+
+                                 ______
+                                 
+
+                            VOTE EXPLANATION
+
+  Mr. HAWLEY. Mr. President, had there been a recorded vote, I would 
+have voted nay on the confirmations of Executive Calendar No. 990, 
+Joshua D. Hurwit, of Idaho, to be United States Attorney for the 
+District of Idaho for the term of four years; Executive Calendar No. 
+991, Gerard M. Karam, of Pennsylvania, to be United States Attorney for 
+the Middle District of Pennsylvania for the term of four years; and 
+Executive Calendar No. 992, Jacqueline C. Romero, of Pennsylvania, to 
+be United States Attorney for the Eastern District of Pennsylvania for 
+the term of four years.
+
+                          ____________________
+```
