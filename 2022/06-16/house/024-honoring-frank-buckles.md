@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-06-16-pt1-PgH5638-3
+date: 2022-06-16
+edition: CREC
+section: HOUSE
+page: H5638
+citation: 168 Cong. Rec. H5638
+---
+
+# HONORING FRANK BUCKLES
+
+**Speaking:** Mooney, Alexander X. (M001195) [R-WV]
+
+```
+                         HONORING FRANK BUCKLES
+
+  (Mr. MOONEY asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MOONEY. Madam Speaker, today I rise to share the story of an 
+American patriot from Charles Town, West Virginia, which is where I 
+live.
+  Corporal Frank Buckles lived to be 110 years old. He died in 2011 and 
+was America's last known World War I veteran. Buckles had enlisted in 
+the Army by giving his age as 18 rather than his actual age of 16. He 
+drove an Army ambulance in France in 1918 and came to symbolize a 
+generation of embattled young Americans as the last of the World War I 
+doughboys.
+  Buckles later spent 3 years as a Japanese prisoner of war during 
+World War II after being captured in the Pacific while serving as a 
+U.S. contractor.
+  Buckles lived on a 330-acre West Virginia cattle farm, where he drove 
+a tractor until 102 years old. I am honored to introduce legislation to 
+designate the United States Postal Service located in Charles Town, 
+West Virginia, as the ``Corporal Frank Buckles Post Office.'' He was a 
+true patriot and is most deserving of this honor in the town he called 
+home for 50 years.
+
+                          ____________________
+```

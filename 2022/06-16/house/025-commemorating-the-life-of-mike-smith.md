@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-06-16-pt1-PgH5638-4
+date: 2022-06-16
+edition: CREC
+section: HOUSE
+page: H5638
+citation: 168 Cong. Rec. H5638
+---
+
+# COMMEMORATING THE LIFE OF MIKE SMITH
+
+**Speaking:** Veasey, Marc A. (V000131) [D-TX]
+
+```
+                  COMMEMORATING THE LIFE OF MIKE SMITH
+
+  (Mr. VEASEY asked and was given permission to address the House for 1 
+minute.)
+  Mr. VEASEY. Madam Speaker, I rise today to commemorate the life of 
+Mike Smith, who was truly a pillar in the Fort Worth community. At 78 
+years old, Mike was a loving husband, father, grandfather, and was 
+known as the unofficial mayor of Magnolia Avenue in Fort Worth.
+  Throughout his 55-year tenure, Mike baked over half a million pies, 
+which put his restaurant, the Paris Coffee Shop, on the map. His pies 
+were listed in USA Today, Bon Appetit magazine, and really known all 
+around the world, but what really made Mike so special was the warmth 
+and love that he showed everyone that walked into his coffee shop.
+  It didn't matter if you were from Rivercrest or Riverside. It didn't 
+matter if you were from Whitehall Street in Eastwood in Fort Worth or 
+if you were from Westover Hills, Mike made everyone feel welcome any 
+time you came into the Paris Coffee Shop. His firm handshake, his hugs, 
+his conversations were just absolutely unforgettable, and he will be 
+deeply missed.
+  Just in addition to everything that he has done for the food 
+community, the restaurant community in Fort Worth, we send prayers out 
+to his entire network of friends and family.
+
+                          ____________________
+```
