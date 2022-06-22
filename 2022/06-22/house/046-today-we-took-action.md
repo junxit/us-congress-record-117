@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-06-22-pt1-PgH5811
+date: 2022-06-22
+edition: CREC
+section: HOUSE
+page: H5811
+citation: 168 Cong. Rec. H5811
+---
+
+# TODAY WE TOOK ACTION
+
+**Speaking:** Trone, David J. (T000483) [D-MD]
+
+```
+                              {time}  1900
+                          TODAY WE TOOK ACTION
+
+  (Mr. TRONE asked and was given permission to address the House for 1 
+minute.)
+  Mr. TRONE. Madam Speaker, today, I rise to applaud the passage of 
+Restoring Hope for Mental Health and Well-Being Act of 2022, a 
+comprehensive package of over 30 bills, 6 of which I proudly led.
+  Today, over 50 million Americans struggle with mental illness, and 
+over 20 million Americans struggle with substance use disorder. We have 
+lost nearly 1 million lives to suicide and over 1 million Americans to 
+drug overdoses in the last 20 years.
+  Today, we are on course to lose another 1.2 million Americans in the 
+next decade to drug overdoses. We cannot afford to wait until tomorrow, 
+so today, we took action. This effort served as a first step of a 
+continued journey to end these crises that have taken far too long and 
+taken too many.
+  We proudly cast our vote to help save the lives of our fellow 
+Americans. I thank Chairman Frank Pallone, Ranking Member McMorris 
+Rodgers, Leader Hoyer, and their teams for making this vision a 
+reality.
+
+                          ____________________
+```

@@ -1,0 +1,37 @@
+---
+granule: CREC-2022-06-22-pt1-PgH5812
+date: 2022-06-22
+edition: CREC
+section: HOUSE
+page: H5812
+citation: 168 Cong. Rec. H5812
+---
+
+# DEMOCRATS' WAR ON AFFORDABLE ENERGY
+
+**Speaking:** Smith, Jason (S001195) [R-MO]
+
+```
+                  DEMOCRATS' WAR ON AFFORDABLE ENERGY
+
+  (Mr. SMITH of Missouri asked and was given permission to address the 
+House for 1 minute.)
+  Mr. SMITH of Missouri. Madam Speaker, families everywhere are feeling 
+the pain of Washington Democrats' radical climate agenda.
+  President Biden launched the war on American energy when he canceled 
+the Keystone XL pipeline on his first day in office. He has also banned 
+new lease sales for oil and gas, and his regulatory onslaught is 
+limiting U.S. energy production.
+  As a result, Americans are paying the price for the far left's costly 
+energy agenda every time they flip a light switch, buy groceries, or 
+drive to work.
+  But that is the goal of Washington Democrats' climate agenda: Drive 
+up the cost of traditional energy sources to force our Nation's 
+transition to alternatives that are less reliable, widely unavailable, 
+and even more expensive.
+  America cannot afford the left's war on affordable energy. What 
+America needs right now is the all-of-the-above energy agenda put in 
+place by President Trump and Republicans in Congress.
+
+                          ____________________
+```
