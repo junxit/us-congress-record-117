@@ -1,0 +1,26 @@
+---
+granule: CREC-2022-06-23-pt1-PgS3145-5
+date: 2022-06-23
+edition: CREC
+section: SENATE
+page: S3145
+citation: 168 Cong. Rec. S3145
+---
+
+# EXECUTIVE CALENDAR (Executive Session)
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                           EXECUTIVE CALENDAR
+
+  Mr. SCHUMER. Mr. President, I move to proceed to executive session to 
+consider Calendar No. 975.
+  The PRESIDING OFFICER. The question is on agreeing to the motion.
+  The motion was agreed to.
+  The PRESIDING OFFICER. The clerk will report the nomination.
+  The senior assistant legislative clerk read the nomination of Michael 
+S. Barr, of Michigan, to be a Member of the Board of Governors of the 
+Federal Reserve System for the unexpired term of fourteen years from 
+February 1, 2018.
+```

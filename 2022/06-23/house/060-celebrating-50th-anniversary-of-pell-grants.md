@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-06-23-pt1-PgH5871-2
+date: 2022-06-23
+edition: CREC
+section: HOUSE
+page: H5871
+citation: 168 Cong. Rec. H5871
+---
+
+# CELEBRATING 50TH ANNIVERSARY OF PELL GRANTS
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+              CELEBRATING 50TH ANNIVERSARY OF PELL GRANTS
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, today is the 50th 
+anniversary of the Pell Grant Program.
+  This program was authorized in 1972 to provide direct financial aid 
+to low-income students for access to higher education and the 
+opportunity to pursue their full potential.
+  The effort that year was bipartisan, and the program maintains 
+bipartisan support today, 50 years later.
+  More than 80 million students have received the Pell grant to attend 
+college, and currently, 7 million students, about 40 percent of 
+undergraduates, are utilizing the Pell grant to earn a degree today.
+  At Pennsylvania's land-grant institution, Penn State University, 
+annually, about 18,000 students are using the Pell grant to access and 
+afford a great degree at 20 undergraduate campuses throughout the 
+Commonwealth, including two Penn State campuses in the counties I 
+serve.
+  Mr. Speaker, for individuals, this program is critically important to 
+access and affordability, but it also encourages degree completion, on-
+time graduation, and lower levels of student debt. For the Nation, this 
+program is an essential investment to maintaining and strengthening our 
+Nation's skilled workforce and enhancing global economic 
+competitiveness.
+
+                          ____________________
+```
