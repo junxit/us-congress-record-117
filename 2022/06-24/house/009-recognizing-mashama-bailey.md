@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-06-24-pt1-PgH5881-8
+date: 2022-06-24
+edition: CREC
+section: HOUSE
+page: H5881
+citation: 168 Cong. Rec. H5881
+---
+
+# RECOGNIZING MASHAMA BAILEY
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                       RECOGNIZING MASHAMA BAILEY
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to honor Mashama 
+Bailey for her achievement of receiving the prestigious James Beard 
+Award for Outstanding Chef.
+  Mashama is a renowned chef at The Grey in Savannah, Georgia, where 
+she has served Southern cuisine since 2014.
+  She traveled to many locations around the world, perfecting her 
+culinary craft, and uses what she has learned to showcase the amazing 
+taste of Southern cuisine.
+  The James Beard Award was established to highlight the exceptional 
+talent and achievements in the culinary
+
+[[Page H5882]]
+
+arts. Mashama also received the James Beard Award for Best Chef: 
+Southeast back in 2019.
+  Throughout her career, she has taken the fine dining world by storm 
+through her exceptional dishes that have helped put Savannah among some 
+of the best culinary spots in the Nation.
+  Mashama's commitment to her passion has fed many Savannahians some of 
+the best food in the world, and she is an inspiration to the First 
+Congressional District.
+  Congratulations, Mashama, and good luck in your future endeavors.
+
+                          ____________________
+```

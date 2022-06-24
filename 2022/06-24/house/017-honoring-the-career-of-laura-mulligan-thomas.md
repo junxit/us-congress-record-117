@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-06-24-pt1-PgH5883-2
+date: 2022-06-24
+edition: CREC
+section: HOUSE
+page: H5883
+citation: 168 Cong. Rec. H5883
+---
+
+# HONORING THE CAREER OF LAURA MULLIGAN THOMAS
+
+**Speaking:** Good, Bob (G000595) [R-VA]
+
+```
+                              {time}  0915
+              HONORING THE CAREER OF LAURA MULLIGAN THOMAS
+
+  (Mr. GOOD of Virginia asked and was given permission to address the 
+House for 1 minute.)
+  Mr. GOOD of Virginia. Madam Speaker, I rise today to recognize Ms. 
+Laura Mulligan Thomas.
+  On May 18, 2022, Laura Mulligan Thomas, alongside her students, 
+presented her final concert as director of the Charlottesville High 
+School orchestra.
+  After a 40-year career at Charlottesville High School, Ms. Thomas 
+will begin her retirement on June 30, 2022. She began in 1982 with a 
+group of just eight CHS students as part of the CHS orchestra. Now that 
+orchestra includes over 100 students and is internationally recognized.
+  Ms. Thomas has received a number of awards, including winning the 
+2022 American String Teachers Association's Elizabeth A. H. Green 
+School Educator Award. Beyond the accolades she has received, I 
+specifically want to thank her for her commitment to supporting the 
+students of Charlottesville High School.
+  Perhaps the greatest testament to Ms. Thomas' work is knowing that 
+many of her students have gone on to become music teachers just like 
+her.
+  I thank Laura Mulligan Thomas for her dedication to Charlottesville 
+High School and her community. I wish her the best in her retirement.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-06-24-pt1-PgH5881-7
+date: 2022-06-24
+edition: CREC
+section: HOUSE
+page: H5881
+citation: 168 Cong. Rec. H5881
+---
+
+# CONGRATULATING RAYMOND JADCZAK
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                     CONGRATULATING RAYMOND JADCZAK
+
+  (Ms. DEAN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. DEAN. Madam Speaker, I rise today to honor the career of Raymond 
+Jadczak, owner of PJ Auto Repair in Horsham, Pennsylvania, who is 
+retiring on July 9.
+  This year marks the 50th anniversary of PJ Auto Repair, a family-
+owned business led by Ray and his son, Samuel Jadczak.
+  Born and raised in Jenkintown, Pennsylvania, and graduating from my 
+alma mater, too, Abington High School in 1968, Raymond grew up in a 
+mechanically-inclined household, often working on cars as a teenager 
+with his late father, John.
+  After high school, he turned his passion into a lifelong career. At 
+just 22, Ray opened an ARCO gas and repair service business. He was one 
+of the youngest ARCO franchises in the Philadelphia region.
+  In 1982, Ray was recognized by the National Institute for Automotive 
+Service Excellence as Mechanic of the Year.
+  For five decades, PJ Auto Repair has helped thousands, while creating 
+jobs in our district.
+  As he prepares to hand off his business to his son, Sam, I rise to 
+congratulate Raymond on a long and distinguished career of serving our 
+community.
+
+                          ____________________
+```
