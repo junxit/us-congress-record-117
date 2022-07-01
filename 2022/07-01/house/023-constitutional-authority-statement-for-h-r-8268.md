@@ -1,0 +1,21 @@
+---
+granule: CREC-2022-07-01-pt1-PgH5930-11
+date: 2022-07-01
+edition: CREC
+section: HOUSE
+page: H5930
+citation: 168 Cong. Rec. H5930
+---
+
+# Constitutional Authority Statement for H.R. 8268
+
+**Measures:** H.R. 8268
+
+```
+            By Mr. GAETZ:
+        H.R. 8268.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+        Article I, Section 8, clause 18 of the United States 
+     Constitution
+```
