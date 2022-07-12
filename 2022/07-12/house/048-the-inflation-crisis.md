@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-07-12-pt1-PgH5970-5
+date: 2022-07-12
+edition: CREC
+section: HOUSE
+page: H5970
+citation: 168 Cong. Rec. H5970
+---
+
+# THE INFLATION CRISIS
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+                          THE INFLATION CRISIS
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute.)
+  Mr. GROTHMAN. Madam Speaker, I am sure every Congressman who has been 
+back in their district for the last 2 weeks heard the same thing as the 
+number one issue that is facing the American public right now, and that 
+is inflation, be it gas, even more food, even more housing, again and 
+again and again.
+  People say: How are you going to get around that? It is simple to get 
+around it; it is just sometimes a little more difficult. That is 
+finally saying no to the excessive government spending around here that 
+has forced the Federal Reserve to print dollars and decrease the value 
+of the dollar.
+  Within the next couple of weeks, we are going to vote on 
+appropriation bills for the budget year beginning October 1. Let's 
+look: Are we holding the line?
+  Transportation and HUD, 12 percent increase; water, 7 percent 
+increase; financial services and general government, 16 percent 
+increase; interior, 18 percent increase; military construction and VA, 
+11 percent increase.
+  Congress has not yet adapted to the new crisis.
+
+                          ____________________
+```

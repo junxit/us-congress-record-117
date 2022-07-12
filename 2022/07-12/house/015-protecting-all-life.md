@@ -1,0 +1,45 @@
+---
+granule: CREC-2022-07-12-pt1-PgH5948-6
+date: 2022-07-12
+edition: CREC
+section: HOUSE
+page: H5948
+citation: 168 Cong. Rec. H5948
+---
+
+# PROTECTING ALL LIFE
+
+**Speaking:** Good, Bob (G000595) [R-VA]
+
+```
+                              {time}  1415
+                          PROTECTING ALL LIFE
+
+  (Mr. GOOD of Virginia asked and was given permission to address the 
+House for 1 minute.)
+  Mr. GOOD of Virginia. Mr. Speaker, finally, mercifully, the most 
+destructive Supreme Court decision in history has been reversed, 
+something many of us believed we would never live to see, after decades 
+of disappointment.
+  Not only was the Roe decision without constitutional merit, but no 
+other decision in the history of the Court caused so much destruction, 
+so much carnage, so much devastation, with 63 million lives lost.
+  Sixty-three million lives, about the population of France, more than 
+the population of Italy, Ukraine, or Canada. Sixty-three million lives, 
+1.4 million a year, more than the 2-year amount attributable to the 
+China virus, for every year for nearly 50 years, all of them 100 
+percent attributable and 100 percent preventable.
+
+[[Page H5949]]
+
+  Thank God for the hundreds of thousands of relentless pro-life 
+activists, for millions of pro-life marchers, for tens of millions of 
+pro-life voters, and thank God for the courage of six Supreme Court 
+Justices who withstood the pressure, the threats, and the intimidation 
+to do the right thing morally and constitutionally.
+  May our legislative bodies in Washington now match that courage. The 
+responsibility passes to us now, the people's elected representatives, 
+to pass laws protecting all life in the womb.
+
+                          ____________________
+```

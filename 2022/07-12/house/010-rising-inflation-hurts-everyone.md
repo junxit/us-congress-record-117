@@ -1,0 +1,45 @@
+---
+granule: CREC-2022-07-12-pt1-PgH5948
+date: 2022-07-12
+edition: CREC
+section: HOUSE
+page: H5948
+citation: 168 Cong. Rec. H5948
+---
+
+# RISING INFLATION HURTS EVERYONE
+
+**Speaking:** Miller-Meeks, Mariannette (M001215) [R-IA]
+
+```
+                    RISING INFLATION HURTS EVERYONE
+
+  (Mrs. MILLER-MEEKS asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. MILLER-MEEKS. Mr. Speaker, I rise today to address the record-
+high inflation hurting working families in Iowa caused by the Biden 
+administration.
+  When President Biden took office in January 2021, inflation was at 
+1.4 percent. As of May 2022, inflation is 8.6 percent, the highest in 
+40 years. President Biden has been exclaiming that the rise in 
+inflation would be a temporary problem, but the data does not reflect 
+his claims.
+  Inflation is hurting families in Iowa and all across the country. 
+With food and housing prices increasing, families are having to make 
+sacrifices to make ends meet. It is unacceptable for the Biden 
+administration to advocate for more government spending that caused 
+inflation rather than addressing these pertinent issues, such as rising 
+prices.
+  This rising inflation in fuel prices is hurting rural farmers in 
+Iowa. Gas and diesel prices are now expected to cost farmers an extra 
+$900 a year, and $500 to families, as well.
+  I call upon the Biden administration to take necessary steps to 
+address inflation, such as increasing domestic energy production and 
+stopping wasteful government spending. The Biden administration's 
+policies are hurting the families it is meant to serve.
+  I would also like to take this time to wish a happy birthday to 
+Michael Pinette, and I wish my sister Mari-Eleanor Martino a very happy 
+birthday.
+
+                          ____________________
+```
