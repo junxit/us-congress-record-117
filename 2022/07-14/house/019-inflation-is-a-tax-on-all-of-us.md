@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-07-14-pt1-PgH6513-2
+date: 2022-07-14
+edition: CREC
+section: HOUSE
+page: H6513
+citation: 168 Cong. Rec. H6513
+---
+
+# INFLATION IS A TAX ON ALL OF US
+
+**Speaking:** Cline, Ben (C001118) [R-VA]
+
+```
+                    INFLATION IS A TAX ON ALL OF US
+
+  (Mr. CLINE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CLINE. Mr. Speaker, skyrocketing prices are eating away at family 
+budgets across the country; 8.3 percent, 8.6 percent, and now 9.1 
+percent--those were the inflation rates for April, May, and June of 
+this year. Year over year, energy prices are up 34 percent; gas, 48 
+percent; fuel oil, 106 percent; electricity, 12 percent; meat, poultry, 
+and eggs, 14 percent.
+  But worse is the majority's answer: Double down on Build Back Better 
+and a tax-and-spend agenda that raises taxes on local businesses and 
+farmers as our country enters a recession.
+  While targeted stimulus during the COVID pandemic may have been 
+appropriate, the plodding reaction of the Federal Reserve, combined 
+with the typical reaction of the Democratic majority to spend trillions 
+on Green New Deal projects and blue State bailouts, have caused 
+paychecks to shrink and a lack of faith in the economic future of 
+Americans to rise.
+  Inflation is a tax on all of us. This 40-year high inflation rate is 
+a wake-up call to return to fiscal sanity. Unfortunately, no one needs 
+a crystal ball to see that my friends on the other side of the aisle 
+are busy hitting the snooze button once again on addressing this 
+inflation crisis.
+
+                          ____________________
+```

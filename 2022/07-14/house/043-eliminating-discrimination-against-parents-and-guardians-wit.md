@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-07-14-pt1-PgH6612
+date: 2022-07-14
+edition: CREC
+section: HOUSE
+page: H6612
+citation: 168 Cong. Rec. H6612
+---
+
+# ELIMINATING DISCRIMINATION AGAINST PARENTS AND GUARDIANS WITH DISABILITIES
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+     ELIMINATING DISCRIMINATION AGAINST PARENTS AND GUARDIANS WITH 
+                              DISABILITIES
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Madam Speaker, earlier this week, I led my Democratic 
+and Republican colleagues in introducing legislation to eliminate 
+discrimination against parents and guardians with disabilities.
+  Together with Representatives Bass, Bacon, Fitzpatrick, and Lawrence, 
+I introduced the Equality for Families with Disabilities Act, just 2 
+weeks before the 32nd anniversary of the Americans with Disabilities 
+Act.
+  Today, there are 4.1 million parents with disabilities raising 
+families here in the United States. Yet, parents and guardians with 
+disabilities face excessive scrutiny and disproportionate targeting for 
+unwarranted intervention from child welfare agencies.
+  The research is clear: Children raised by parents with disabilities 
+do not exhibit stunted development or worse outcomes than their peers. 
+In fact, the opposite is true. Children raised by parents with 
+disabilities demonstrate greater compassion, tolerance, problem-solving 
+skills, and other positive characteristics.
+  Mr. Speaker, it is time to end discrimination against parents and 
+guardians in State child welfare proceedings once and for all.
+  Thirty-two years since Congress passed the Americans with 
+Disabilities Act, I encourage all of my colleagues to support this 
+urgent legislation.
+
+                          ____________________
+```
