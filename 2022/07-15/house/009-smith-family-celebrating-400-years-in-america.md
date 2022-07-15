@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-07-15-pt1-PgH6628
+date: 2022-07-15
+edition: CREC
+section: HOUSE
+page: H6628
+citation: 168 Cong. Rec. H6628
+---
+
+# SMITH FAMILY CELEBRATING 400 YEARS IN AMERICA
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+             SMITH FAMILY CELEBRATING 400 YEARS IN AMERICA
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to 
+recognize the Smith family ahead of their 400th anniversary of arriving 
+to the United States.
+  In 1622, William Smith traveled across the ocean from England and 
+made landfall just north of Plymouth. Mr. Smith, like so many of the 
+original Pilgrims, left England in search of a new life as a result of 
+religious persecution. Being Methodist in a mostly Puritan colony meant 
+he and his family were considered strangers and outsiders in their 
+English community.
+  The Smith family eventually made their way to Jefferson County, 
+Pennsylvania, in 1816, which they have now called home for more than 
+200 years.
+  Madam Speaker, this weekend, the Smith family will gather in Clarion, 
+Pennsylvania, to mark 400 years in the United States in the form of a 
+family reunion. Their uniquely American story deserves to be 
+celebrated, and I want to extend my sincerest congratulations to the 
+Smith family for their longstanding history in the United States.
+
+                          ____________________
+```
