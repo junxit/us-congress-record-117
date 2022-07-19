@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-07-19-pt1-PgH6710-3
+date: 2022-07-19
+edition: CREC
+section: HOUSE
+page: H6710
+citation: 168 Cong. Rec. H6710
+---
+
+# RECOGNIZING THE LEGACY OF CHIEF MASTER SERGEANT JAMES M. McCOY
+
+**Speaking:** Flood, Mike (F000474) [R-NE]
+
+```
+     RECOGNIZING THE LEGACY OF CHIEF MASTER SERGEANT JAMES M. McCOY
+
+  (Mr. FLOOD asked and was given permission to address the House for 1 
+minute.)
+  Mr. FLOOD. Madam Speaker, I rise today to recognize the legacy of 
+Chief Master Sergeant James M. McCoy of Omaha. Recognizing his life of 
+service, both public and private, the United States lost an outstanding 
+leader and, certainly, Nebraska lost a friend.
+  Born in Creston, Iowa, he entered the Air Force at 18 years old in 
+1951. In 1979, he was named the sixth chief master sergeant of the 
+United States Air Force. Whether as an instructor or part of a major 
+command, he was an exceptional person, eventually being named one of 
+the 12 Outstanding Airmen during his assignment with the Pacific Air 
+Forces.
+  My district is home to Offutt Air Force Base, a pillar in our U.S. 
+strategic defense. In 2007, its Airman Leadership School was named for 
+McCoy, and in 2016, he was inducted into the Strategic Air Command Hall 
+of Fame. Just recently, in 2021, the Air Force Association awarded 
+McCoy its Lifetime Achievement Award in the school now bearing his 
+name.
+  On behalf of the First District of Nebraska, I thank him and his 
+family for his great service to his community and his Nation.
+
+                          ____________________
+```

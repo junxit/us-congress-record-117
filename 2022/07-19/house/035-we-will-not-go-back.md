@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-07-19-pt1-PgH6869-2
+date: 2022-07-19
+edition: CREC
+section: HOUSE
+page: H6869
+citation: 168 Cong. Rec. H6869
+---
+
+# WE WILL NOT GO BACK
+
+**Speaking:** Stansbury, Melanie A. (S001218) [D-NM]
+
+```
+                          WE WILL NOT GO BACK
+
+  (Ms. STANSBURY asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. STANSBURY. Mr. Speaker, it is hard to believe that in the year 
+2022, I rise to defend the right to access contraception. That is 
+right, contraception.
+  Why? Because we have a renegade Supreme Court that has overturned a 
+half century of settled law, stripping away our fundamental 
+reproductive rights, and made it clear that they plan to not stop 
+there.
+  In fact, Justice Thomas' concurring opinion in Dobbs makes it clear 
+that the Supreme Court has its sights on overturning longstanding 
+precedents that guarantee the right to access contraception and protect 
+the right to same-sex marriage, which we just voted on.
+  These are basic human rights: the right to marry, the right to love 
+who you love, the right to control your own body, the right to control 
+your own health, the right to control your own family decisions, and 
+your right to protect your own privacy.
+  Let me say it loud, and let me say it clear: We will not go back.
+  My great-grandmother was born in this country before she had the 
+right to vote. My mother was a machine operator and entrepreneur. I 
+stand here today as your Congresswoman and your committed Congresswoman 
+to say we will not go back. These are our bodies, our rights, and we 
+will continue to fight to protect them.
+
+                          ____________________
+```
