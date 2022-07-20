@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-07-20-pt1-PgH6903-2
+date: 2022-07-20
+edition: CREC
+section: HOUSE
+page: H6903
+citation: 168 Cong. Rec. H6903
+---
+
+# 988 CRISIS LINE
+
+**Speaking:** Carter, Troy A. (C001125) [D-LA]
+
+```
+                            988 CRISIS LINE
+
+  (Mr. CARTER of Louisiana asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Louisiana. Mr. Speaker, 988. These three digits 
+represent an important first step toward a transformed crisis care 
+system in America.
+  Congress passed the legislation to formally authorize 988 as the new 
+number for suicide and mental health crises. This 24/7 hotline and text 
+line is available to people with mental health-related distress, 
+including thoughts of suicide, mental health crisis, or substance use 
+crisis.
+  Additionally, family and friends can use this service to support 
+loved ones who are struggling.
+  By calling or texting 988, people will immediately be connected with 
+trained crisis counselors who will do everything they can to help.
+  Mental health care is healthcare, and the enactment of 988 is a long 
+overdue example of government finally prioritizing mental health and 
+putting crisis care in reach for more Americans. But there is much more 
+to do.
+  I will continue to work in Congress and in the community to help 
+fight the stigma and increase mental health support for all.
+
+                          ____________________
+```

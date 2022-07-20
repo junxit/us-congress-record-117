@@ -1,0 +1,35 @@
+---
+granule: CREC-2022-07-20-pt1-PgS3579-7
+date: 2022-07-20
+edition: CREC
+section: SENATE
+page: S3579
+citation: 168 Cong. Rec. S3579
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 20, 2022:
+
+
+                          DEPARTMENT OF STATE
+
+       BERNADETTE M. MEEHAN, OF NEW YORK, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE REPUBLIC OF CHILE.
+
+
+                             THE JUDICIARY
+
+       GREGORY BRIAN WILLIAMS, OF DELAWARE, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF DELAWARE.
+
+
+                       DEPARTMENT OF THE INTERIOR
+
+       CARMEN G. CANTOR, OF PUERTO RICO, TO BE AN ASSISTANT 
+     SECRETARY OF THE INTERIOR.
+```

@@ -1,0 +1,45 @@
+---
+granule: CREC-2022-07-20-pt1-PgH6886
+date: 2022-07-20
+edition: CREC
+section: HOUSE
+page: H6886
+citation: 168 Cong. Rec. H6886
+---
+
+# CONGRATULATING THE AMHERST ALL STAR DARLINGS
+
+**Speaking:** Cline, Ben (C001118) [R-VA]
+
+```
+              CONGRATULATING THE AMHERST ALL STAR DARLINGS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Virginia (Mr. Cline) for 5 minutes.
+  Mr. CLINE. Madam Speaker, I rise today to recognize an incredible 
+achievement in youth sports. The Amherst All Star Darlings, a girls' 
+youth softball team of 7- and 8-year-olds, just finished their season 
+undefeated.
+  After winning both the district and State championships, they have 
+set their eyes on Cochran-Bleckley, Georgia, where the girls' softball 
+world series will be played later this month.
+  These young ladies worked hard and enjoyed the competition, and their 
+determination to win throughout the length of their season has been 
+unmatched.
+  Now, they are planning and working toward making their trip to 
+Georgia possible to get the chance to make this Cinderella story a 
+reality.
+  Their efforts are a story of camaraderie, hard work, and laying the 
+foundation for a bright future not only in sports but in all of their 
+future endeavors.
+  Amherst has been a special part of the Sixth District for decades, 
+and it has been an honor to represent the people of Amherst, first in 
+Richmond and now in Washington. The Sixth District, along with the 
+entire Commonwealth of Virginia, will be cheering them on when they 
+compete on July 31 in the Dixie youth softball league world series.
+  Congratulations to the Amherst All Star Darlings for representing 
+friends and family, the Amherst community, and the entire Commonwealth 
+of Virginia so well.
+
+                          ____________________
+```

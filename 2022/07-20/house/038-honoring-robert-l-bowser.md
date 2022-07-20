@@ -1,0 +1,36 @@
+---
+granule: CREC-2022-07-20-pt1-PgH6902-5
+date: 2022-07-20
+edition: CREC
+section: HOUSE
+page: H6902
+citation: 168 Cong. Rec. H6902
+---
+
+# HONORING ROBERT L. BOWSER
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                       HONORING ROBERT L. BOWSER
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to honor a great mayor from my 
+district, Robert Bowser, after his passing recently.
+  Mayor Bowser served as mayor of East Orange, New Jersey, from 1998 to 
+2014. He was the first African American to win a third and fourth term 
+in office in the history of East Orange, and he founded the New Jersey 
+Conference of Black Mayors and served on the board of the National 
+Black Conference of Mayors.
+  But his legacy in East Orange is more than his time as mayor. He 
+started a small engineering firm that became one of the largest 
+minority-owned consulting firms on the East Coast. He was a board 
+member for the local Girl Scouts organization and was active with the 
+Lions Club and the Kiwanis Club. He even founded a local touch football 
+league.
+  As we mourn his passing, we remember Mayor Bowser as a dedicated 
+public servant, great businessman, and strong community leader.
+
+                          ____________________
+```

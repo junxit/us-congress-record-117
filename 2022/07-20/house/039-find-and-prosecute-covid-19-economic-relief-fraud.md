@@ -1,0 +1,50 @@
+---
+granule: CREC-2022-07-20-pt1-PgH6902-6
+date: 2022-07-20
+edition: CREC
+section: HOUSE
+page: H6902
+citation: 168 Cong. Rec. H6902
+---
+
+# FIND AND PROSECUTE COVID-19 ECONOMIC RELIEF FRAUD
+
+**Speaking:** Gottheimer, Josh (G000583) [D-NJ]
+
+**Measures:** H.R. 8294
+
+```
+                              {time}  1430
+           FIND AND PROSECUTE COVID-19 ECONOMIC RELIEF FRAUD
+
+  (Mr. GOTTHEIMER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. GOTTHEIMER. Mr. Speaker, I thank the House Appropriations 
+Committee for their hard work on this important piece of legislation.
+  I rise today in support of the passage of H.R. 8294, which contained 
+a crucial amendment I introduced to help find and prosecute cases of 
+fraud within COVID-19 economic relief.
+  My amendment provides critical investment for the Small Business 
+Administration Office of the Inspector General to ensure that they 
+continue to hold Economic Injury Disaster Loan and Paycheck Protection 
+Program fraudsters accountable.
+  It is deeply disturbing to hear about the recent flurry of fraud 
+convictions related to these two relief programs that provided vital 
+resources to small businesses during the COVID-19 pandemic. These are 
+dollars that were meant for small businesses struggling due to the 
+pandemic, and to help their families, not to help greedy cheats looking 
+to profit off the backs of their neighbors.
+  My amendment supports efforts for the SBA to identify and prosecute 
+cases of EIDL and PPP fraud more aggressively. Applicants from 
+businesses in my district may have been denied critical financial 
+resources because of the actions of these crooks, and we owe it to all 
+of our constituents to hold these bad actors accountable.
+  I strongly urge all my colleagues in the Senate to pass this 
+critically important provision.
+
+[[Page H6903]]
+
+  
+
+                          ____________________
+```
