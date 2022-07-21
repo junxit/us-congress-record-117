@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-07-21-pt1-PgH6926
+date: 2022-07-21
+edition: CREC
+section: HOUSE
+page: H6926
+citation: 168 Cong. Rec. H6926
+---
+
+# RECOGNIZING PASTOR ROSEMARY WOODS
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                   RECOGNIZING PASTOR ROSEMARY WOODS
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize the 
+incredible service of a member of our community, Pastor Rosemary Woods.
+  Pastor Woods has selflessly led members of her community for 30 years 
+now and is set to achieve the lifetime achievement award in Brunswick, 
+Georgia. This will not be her first award, as Pastor Woods has also 
+received the key to the city of Brunswick.
+  She is the mother of former Philadelphia Phillies player Dominic 
+Brown, and in 2014, she was named Mother of the Year by the 
+organization.
+  Pastor Woods serves her community through many food drives, Christmas 
+toy drives, and Easter festivals, and she is hoping to start a turkey 
+giveaway this coming Thanksgiving.
+  Her service to our community is remarkable and commendable. Her work 
+feeding those in need came at an essential time and has continued to 
+inspire others to join in and offer a helping hand.
+  Pastor Woods is steering our community in the right direction, and I 
+look forward to hearing about what else she is able to accomplish.
+  Madam Speaker, I thank Pastor Woods for what she has done for the 
+people of Georgia's First Congressional District and congratulate her 
+on her achievements.
+
+                          ____________________
+```

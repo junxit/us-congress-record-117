@@ -1,0 +1,184 @@
+---
+granule: CREC-2022-07-21-pt1-PgS3613-3
+date: 2022-07-21
+edition: CREC
+section: SENATE
+page: S3613
+citation: 168 Cong. Rec. S3613
+---
+
+# SENATE RESOLUTION 717--HONORING THE LIFE AND LEGACY OF OSWALDO PAYA SARDINAS AND HIS CONTRIBUTIONS TO PROMOTE DEMOCRACY AND HUMAN RIGHTS IN CUBA ON THE 10TH ANNIVERSARY OF HIS DEATH
+
+**Measures:** S.Res. 224, S.Res. 525, S.Res. 717, S. 2045
+
+```
+  SENATE RESOLUTION 717--HONORING THE LIFE AND LEGACY OF OSWALDO PAYA 
+SARDINAS AND HIS CONTRIBUTIONS TO PROMOTE DEMOCRACY AND HUMAN RIGHTS IN 
+               CUBA ON THE 10TH ANNIVERSARY OF HIS DEATH
+
+  Mr. RUBIO (for himself, Mr. Durbin, Mr. Cruz, and Mr. Menendez) 
+submitted the following resolution; which
+
+[[Page S3614]]
+
+was referred to the Committee on Foreign Relations:
+
+                              S. Res. 717
+
+       Whereas the revolution led by Fidel Castro in Cuba in 1959 
+     started 63 years of an ongoing dictatorship that 
+     systematically violates the human rights of the Cuban people, 
+     including denying them the basic freedoms of press, religion, 
+     assembly, and association;
+       Whereas Oswaldo Paya Sardinas was born in Havana, Cuba, in 
+     1952 and became a nonviolent critic of the communist regime 
+     as a teenager, resulting in 3 years of imprisonment in 1969 
+     at a work camp, formerly known as ``Isla de Pinos'', in Cuba;
+       Whereas Oswaldo Paya Sardinas forewent a chance to escape 
+     Cuba in the 1980 Mariel boatlift, deciding instead to 
+     continue the fight for democracy in Cuba, saying, ``This is 
+     what I am supposed to be, this is what I have to do.'';
+       Whereas, in 1988, Oswaldo Paya Sardinas founded the 
+     Christian Liberation Movement that called for peaceful civil 
+     disobedience against the rule of the communist party of Cuba 
+     and advocated for civil liberties and human rights in Cuba;
+       Whereas, in 1992, Oswaldo Paya Sardinas announced his 
+     intention to run for the National Assembly of Popular Power 
+     of Cuba and collected hundreds of signatures to support his 
+     candidacy, and 2 days before the election, was detained by 
+     police at his home and informed by communist party officials 
+     to be ineligible to run for office and threatened that 
+     ``blood will run'' if he ran;
+       Whereas, in 1998, Oswaldo Paya Sardinas and other leaders 
+     of the Christian Liberation Movement initiated the Varela 
+     Project, the largest civil society-led petition in the 
+     history of Cuba, in order to circulate a legal proposal to 
+     advocate for democratic political change within Cuba, 
+     including ``convert[ing] into law, the right of freedom of 
+     speech, the freedom of press and freedom of enterprise'';
+       Whereas, in May 2002, the Varela Project delivered 11,020 
+     signatures from eligible citizens of Cuba to the National 
+     Assembly of Popular Power, calling for an end to 4 decades of 
+     one-party rule, to which the communist regime responded by 
+     beginning its own forced collection of signatures in 
+     violation of its own rules to make Cuba's socialist system 
+     ``irrevocable'', and an additional 14,000 signatures were 
+     added to the Varela Project petition in 2003, and 10,000 more 
+     signatures were added in 2016;
+       Whereas, in March 2003, the crackdown on Cuban dissidents 
+     by the communist regime in Cuba, referred to as the ``Black 
+     Spring'', led to the imprisonment of 75 individuals, 
+     including 40 leaders of the Varela Project and 25 members of 
+     the Christian Liberation Movement, and the formation of the 
+     Ladies in White movement by the wives of the imprisoned 
+     activists;
+       Whereas, in 2003, Oswaldo Paya Sardinas developed a Call 
+     for the National Dialogue, which collected the contributions 
+     of thousands of Cubans inside and outside of Cuba;
+       Whereas, in 2006, Oswaldo Paya Sardinas published the 
+     ``Todos Cubanos'' program, produced as a result of the 
+     National Dialogue among Cubans, to achieve peaceful changes, 
+     to propose a referendum to institutionalize human rights, to 
+     ensure that the economic and social rights of the people of 
+     Cuba are respected, to ensure that the people of Cuba are not 
+     excluded in Cuba, and to establish a rule of law;
+       Whereas, in 2007, Oswaldo Paya Sardinas called on the 
+     National Assembly of People's Power to grant amnesty to 
+     nonviolent political prisoners and to allow the people of 
+     Cuba to travel freely without a government permit;
+       Whereas, in 2011, Oswaldo Paya Sardinas denounced the 
+     communist regime of Cuba's false liberalization for not 
+     recognizing human rights and proposed to directly carry out a 
+     Binding Plebiscite to change the system towards democracy and 
+     establish a rule of law;
+       Whereas, on July 22, 2012, Oswaldo Paya Sardinas and Harold 
+     Cepero, a fellow pro-democracy activist, died in a troubling 
+     car crash in Granma Province, Cuba, after being followed by 
+     regime agents of Cuba;
+       Whereas the communist regime of Cuba has failed to conduct 
+     a credible investigation into the car crash that led to the 
+     death of Oswaldo Paya Sardinas;
+       Whereas, according to a report published in 2015 by the 
+     Human Rights Foundation, the best available evidence strongly 
+     suggests that the communist regime of Cuba is directly 
+     responsible for the deaths of Oswaldo Paya Sardinas and 
+     Harold Cepero, evidence that was deliberately ignored by the 
+     judiciary system of Cuba;
+       Whereas the trial and conviction of Angel Carromero, a 
+     youth leader of the People's Party who was visiting Cuba and 
+     driving the car at the time of the crash, did not include 
+     testimony from key witnesses, and did not resolve questions 
+     about whether another car was involved or whether Mr. 
+     Carromero was coerced by the communist regime of Cuba into 
+     signing a false statement of guilt;
+       Whereas, in 2013, a number of United States Senators and 
+     the Department of State called for an impartial, third-party 
+     investigation by the Inter-American Commission on Human 
+     Rights of the Organization of American States into the 
+     circumstances surrounding the death of Oswaldo Paya Sardinas;
+       Whereas Oswaldo Paya Sardinas has been formally recognized 
+     in the past for his dedication to the promotion of human 
+     rights and democracy, including by receiving the Homo Homini 
+     Award in 1999, the Sakharov Prize for Freedom of Thought in 
+     2002, the W. Averell Harriman Democracy Award from the United 
+     States National Democratic Institute for International 
+     Affairs in 2003, and being nominated for the Nobel Peace 
+     Prize by Valclav Havel, the former President of the Czech 
+     Republic, in 2005;
+       Whereas, in 2012, the United States Senate unanimously 
+     passed Senate Resolution 525, 112th Congress, agreed to July 
+     31, 2012, honoring the life and legacy of Oswaldo Paya 
+     Sardinas;
+       Whereas, in 2018, the United States Senate unanimously 
+     passed Senate Resolution 224, 115th Congress, agreed to April 
+     11, 2018, recognizing the 6th anniversary of the death of 
+     Oswaldo Paya Sardinas, and commemorating his legacy and 
+     commitment to democratic values and principles;
+       Whereas, in 2021, the United States Senate unanimously 
+     passed Senate bill 2045, 117th Congress, agreed to July 30, 
+     2021, to designate the area between the intersections of 16th 
+     Street, Northwest and Fuller Street, Northwest and 16th 
+     Street, Northwest and Euclid Street, Northwest in Washington, 
+     District of Columbia, as ``Oswaldo Paya Way'';
+       Whereas, on July 14, 2022, the City of Miami, Florida 
+     agreed to designate the area of LeJeune Avenue, between 11th 
+     and 14th streets, as ``Oswaldo Paya Sardinas Way'' on the eve 
+     of the 10th anniversary of his death, July 22, 2022;
+       Whereas, throughout his life and since his death, Oswaldo 
+     Paya Sardinas, his family, and friends endured years of 
+     harassment and intimidation from the communist regime of Cuba 
+     for his peaceful, political activism; and
+       Whereas, on July 11, 2021, thousands of people in Cuba 
+     raised their voices against the 63-year rule of the communist 
+     regime and called for the same freedoms Oswaldo Paya Sardinas 
+     dedicated his life to: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes and honors the life and legacy of Oswaldo 
+     Paya Sardinas on the 10th anniversary of his death on July 
+     22, 2022;
+       (2) offers heartfelt condolences to the family, friends, 
+     and loved ones of Oswaldo Paya Sardinas on this painful 
+     anniversary;
+       (3) in memory of Oswaldo Paya Sardinas, calls on the United 
+     States to continue policies that promote respect for the 
+     fundamental principles of religious freedom, democracy, and 
+     human rights in Cuba, in a manner consistent with the 
+     aspirations of the people of Cuba;
+       (4) urges the Inter-American Commission on Human Rights of 
+     the Organization of American States to continue reporting on 
+     human rights issues in Cuba, and to issue a favorable 
+     decision in the case of Oswaldo Paya Sardinas and Harold 
+     Cepero that recognizes evidence which establishes the 
+     culpability of the communist regime of Cuba in their deaths;
+       (5) calls on the communist regime in Cuba to allow an 
+     impartial, third-party investigation into the circumstances 
+     surrounding the death of Oswaldo Paya Sardinas; and
+       (6) calls on the communist regime in Cuba to cease 
+     violating human rights and to begin providing democratic 
+     political freedoms to Cuban citizens, including freedom of 
+     association, freedom of speech, freedom of the press, free 
+     elections, freedom to start private businesses, and amnesty 
+     for political prisoners.
+
+                          ____________________
+```

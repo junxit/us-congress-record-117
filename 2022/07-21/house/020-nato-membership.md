@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-07-21-pt1-PgH6941
+date: 2022-07-21
+edition: CREC
+section: HOUSE
+page: H6941
+citation: 168 Cong. Rec. H6941
+---
+
+# NATO MEMBERSHIP
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+                            NATO MEMBERSHIP
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Mr. Speaker, I rise today to welcome the soon-to-be 
+newest members of NATO: Finland and Sweden.
+  Although the conflict in Ukraine has begun to fall out of the news 
+cycle, the free world continues to be challenged by a violent autocrat 
+with delusions of grandeur, making the strength of NATO all the more 
+important.
+  Every day, Vladimir Putin has demonstrated his willingness to kill 
+and maim countless innocent civilians and trample international norms 
+in hopes of reclaiming the glory of a long-gone empire.
+  By invading Ukraine, Putin expected to fracture the world's response, 
+dividing the United States and our NATO allies. Instead, he has done 
+just the opposite.
+  Led by the United States, the international community has stood in 
+lockstep with the people of Ukraine. And now, we are expanding the 
+roster of NATO countries, creating a stronger and more united 
+membership than ever before.
+  Finland and Sweden's accession to NATO will bolster our collective 
+security and serve as a warning to Russia and to all other global 
+aggressors: The United States and the international community are more 
+united than ever before. We will never tolerate attempts to expand 
+sovereign borders through force, not in Ukraine, not anywhere.
+
+                          ____________________
+```
