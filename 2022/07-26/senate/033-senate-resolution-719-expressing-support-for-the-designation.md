@@ -1,0 +1,57 @@
+---
+granule: CREC-2022-07-26-pt1-PgS3697-2
+date: 2022-07-26
+edition: CREC
+section: SENATE
+page: S3697
+citation: 168 Cong. Rec. S3697
+---
+
+# SENATE RESOLUTION 719--EXPRESSING SUPPORT FOR THE DESIGNATION OF JULY 2022 AS "DISABILITY PRIDE MONTH"
+
+**Measures:** S.Res. 719
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+ SENATE RESOLUTION 719--EXPRESSING SUPPORT FOR THE DESIGNATION OF JULY 
+                   2022 AS ``DISABILITY PRIDE MONTH''
+
+  Ms. KLOBUCHAR (for herself and Mr. Portman) submitted the following 
+resolution; which was referred to the Committee on Health, Education, 
+Labor, and Pensions:
+
+                              S. Res. 719
+
+       Whereas, according to the Centers for Disease Control and 
+     Prevention, 61,000,000 adults in the United States have 
+     disabilities;
+       Whereas the United States Census Bureau reports that more 
+     than 3,000,000 children in the United States have 
+     disabilities;
+       Whereas the Americans with Disabilities Act of 1990 (42 
+     U.S.C. 12101 et seq.) was signed into law on July 26, 1990;
+       Whereas individuals with a disability remain at an 
+     increased risk of experiencing discrimination, isolation, and 
+     inequities;
+       Whereas individuals with disabilities are vital and make 
+     meaningful contributions to the arts, science, health care, 
+     technology, sports, education, law, and many more sectors; 
+     and
+       Whereas ``Disability Pride Month'' is celebrated in July by 
+     people across the United States: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) expresses support for the designation of July 2022 as 
+     ``Disability Pride Month''; and
+       (2) calls on the people of the United States, interest 
+     groups, and affected people to--
+       (A) observe ``Disability Pride Month'' with appropriate 
+     celebrations and activities; and
+       (B) take an active role in preventing the exclusion of, and 
+     discrimination against, individuals with disabilities.
+
+                          ____________________
+```
