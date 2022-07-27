@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-07-27-pt1-PgH7238-2
+date: 2022-07-27
+edition: CREC
+section: HOUSE
+page: H7238
+citation: 168 Cong. Rec. H7238
+---
+
+# HOUSE DEMOCRATS TAKE ACTION
+
+**Speaking:** Brownley, Julia (B001285) [D-CA]
+
+```
+                      HOUSE DEMOCRATS TAKE ACTION
+
+  (Ms. BROWNLEY asked and was given permission to address the House for 
+1 minute.)
+  Ms. BROWNLEY. Madam Speaker, the American people are feeling the 
+effects of rising costs. As these costs continue to put pressure on the 
+pockets of America's working families, House Democrats are working 
+tirelessly to provide relief.
+  When gas prices soared earlier this year, House Democrats took action 
+to fight price gouging at the pump.
+  House Democrats took action to lower insulin costs and ensure that 
+lifesaving prescriptions do not send families into bankruptcy.
+  As food prices rose, House Democrats took action to reduce prices for 
+American farmers and lower prices for families in the grocery aisles.
+  But our work is far from over.
+  We understand that prices are too high and Americans are struggling 
+to make ends meet. Fighting inflation and lowering costs for families 
+remains our top priority.
+  Republicans have tried to obstruct bills to cut costs to earn 
+political points at the expense of hardworking American families. It is 
+time to put people before politics.
+  House Democrats are working for America's working families, and it is 
+time my Republican colleagues do the same.
+
+                          ____________________
+```
