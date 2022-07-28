@@ -1,0 +1,35 @@
+---
+granule: CREC-2022-07-28-pt1-PgH7402-2
+date: 2022-07-28
+edition: CREC
+section: HOUSE
+page: H7402
+citation: 168 Cong. Rec. H7402
+---
+
+# OPPOSING THE LEFT'S ANTI-LIFE AGENDA
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                  OPPOSING THE LEFT'S ANTI-LIFE AGENDA
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. FOXX. Mr. Speaker, radical progressives will stop at nothing to 
+advance their agenda of murdering the unborn.
+  On July 15, on this very floor, the majority rushed through two 
+horrendous pieces of legislation that directly target the unborn: the 
+abortion on demand until birth act and the so-called Ensuring Access to 
+Abortion Act.
+  The right to life is guaranteed by the 14th Amendment to the 
+Constitution, and the majority continues to conveniently ignore this 
+fact. This shameful chapter of murdering the unborn should be consigned 
+to the ash heap of history.
+  Mr. Speaker, an outright denial of life for the most vulnerable, who 
+cannot speak for themselves, is in no way justified. I will always 
+serve as a voice for the unborn. They deserve nothing less than 
+unwavering advocates.
+
+                          ____________________
+```

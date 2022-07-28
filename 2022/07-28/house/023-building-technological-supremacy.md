@@ -1,0 +1,35 @@
+---
+granule: CREC-2022-07-28-pt1-PgH7264-5
+date: 2022-07-28
+edition: CREC
+section: HOUSE
+page: H7264
+citation: 168 Cong. Rec. H7264
+---
+
+# BUILDING TECHNOLOGICAL SUPREMACY
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                    BUILDING TECHNOLOGICAL SUPREMACY
+
+  (Mr. Higgins of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, Taiwan, a country of less 
+than 24 million people in East Asia, manufactures 92 percent of the 
+world's advanced computer chips. You can't buy technological supremacy, 
+but you can build it.
+  Today, the House will vote to approve the CHIPS Act, which will make 
+a $280 billion investment in the design and actual making of advanced 
+computer chips right here in America; $50 billion for research and 
+development and for the construction of chip manufacturing facilities 
+in America.
+  The bill also includes $10 billion to establish 20 regional hubs, 
+regional centers of innovation. Buffalo, New York, is well-positioned 
+to be one of those.
+  I urge this House to approve the CHIPS Act, and the Commerce 
+Department to select Buffalo as one of the regional hubs.
+
+                          ____________________
+```

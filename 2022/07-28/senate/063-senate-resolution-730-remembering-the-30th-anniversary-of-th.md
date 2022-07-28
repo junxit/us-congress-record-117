@@ -1,0 +1,126 @@
+---
+granule: CREC-2022-07-28-pt1-PgS3788
+date: 2022-07-28
+edition: CREC
+section: SENATE
+page: S3788
+citation: 168 Cong. Rec. S3788
+---
+
+# SENATE RESOLUTION 730--REMEMBERING THE 30TH ANNIVERSARY OF THE BOMBING OF THE EMBASSY OF ISRAEL IN BUENOS AIRES ON MARCH 17, 1992, THE 28TH ANNIVERSARY OF THE BOMBING OF THE ARGENTINE-ISRAELI...
+
+**Measures:** S.Res. 730
+
+```
+SENATE RESOLUTION 730--REMEMBERING THE 30TH ANNIVERSARY OF THE BOMBING 
+ OF THE EMBASSY OF ISRAEL IN BUENOS AIRES ON MARCH 17, 1992, THE 28TH 
+ANNIVERSARY OF THE BOMBING OF THE ARGENTINE-ISRAELI MUTUAL ASSOCIATION 
+BUILDING IN BUENOS AIRES ON JULY 18, 1994, AND RECOMMITTING TO EFFORTS 
+            TO UPHOLD JUSTICE FOR THE VICTIMS OF THE ATTACKS
+
+  Mr. RUBIO (for himself, Mr. Menendez, Mr. Cotton, Mr. Cardin, Mr. 
+Kaine, and Mr. Coons) submitted the following resolution; which was 
+referred to the Committee on Foreign Relations:
+
+                              S. Res. 730
+
+       Whereas, on March 17, 1992, a truck laden with explosives 
+     struck and detonated at the Embassy of Israel in Buenos 
+     Aires, Argentina, killing 29 people and wounding more than 
+     200 others;
+       Whereas Argentina is home to the largest Jewish community 
+     in Latin America--and the sixth largest in the world, outside 
+     Israel;
+       Whereas, in 1999, the Supreme Court of Argentina, after 
+     conducting an investigation, found that the Lebanese 
+     terrorist organization Hezbollah was responsible for the 
+     bombing, which claimed the lives of Israeli diplomats, their 
+     relatives, and numerous Argentine citizens and children;
+       Whereas, 2 years after the bombing of the Embassy of Israel 
+     in Argentina, on July 18, 1994, a car bomb detonated at the 
+     Argentine Israelite Mutual Association (AMIA) Jewish 
+     Community Center building in Buenos Aires, killing 85 people 
+     and wounding more than 300 others, rendering it the deadliest 
+     terrorist attack in Argentina's history;
+       Whereas, for 25 years, the investigation into the AMIA 
+     bombing has been stymied by international inaction, political 
+     interference, investigative misconduct, and allegations of 
+     cover-ups, including the removal of the Federal judge in 
+     charge of the case in 2005 for ``serious'' irregularities in 
+     his handling of the case;
+       Whereas, in October 2006, Argentine prosecutors Alberto 
+     Nisman and Marcelo Martin Burgos formally accused the 
+     Government of Iran of directing Hezbollah to carry out the 
+     AMIA bombing;
+       Whereas the Argentine prosecutors charged the following 
+     Iranian nationals as suspects in the AMIA bombing:
+       (1) Ali Fallahijan, Iran's former intelligence minister;
+       (2) Mohsen Rabbani, Iran's former cultural attache in 
+     Buenos Aires;
+       (3) Ahmad Reza Asghari, a former Iranian diplomat posted to 
+     Argentina;
+       (4) Ahmad Vahidi, Iran's former defense minister;
+       (5) Ali Akbar Velayati, Iran's former foreign minister;
+       (6) Mohsen Rezaee, former chief commander of the Iranian 
+     Islamic Revolutionary Guard Corps;
+       (7) Ali Akbar Hashemi Rafsanjani, former President of Iran; 
+     and
+       (8) Hadi Soleimanpour, former Iranian ambassador to 
+     Argentina;
+       Whereas, in November 2007, the International Criminal 
+     Police Organization (INTERPOL) published Red Notices on 5 of 
+     the Iranian nationals and Hezbollah operative Ibrahim Hussein 
+     Berro;
+       Whereas those with INTERPOL Red Notices have repeatedly 
+     traveled internationally with impunity on more than 20 
+     occasions since 2007;
+       Whereas, in May 2013, Argentine prosecutor Alberto Nisman 
+     published a 500-page report accusing the Government of Iran 
+     of establishing terrorist networks throughout Latin America;
+       Whereas, in January 2015, Mr. Nisman released the results 
+     of an investigation alleging that then-President Fernandez de 
+     Kirchner and then-Foreign Minister Timerman conspired to 
+     cover up Iranian involvement in the 1994 AMIA bombing and 
+     that they had agreed to negotiate immunity for Iranian 
+     suspects and secure the removal of the INTERPOL Red Notices;
+       Whereas Mr. Nisman was scheduled to present his findings to 
+     a commission of the Argentine National Congress on January 
+     19, 2015, but on January 18, 2015, was found dead as the 
+     result of a gunshot wound to his head in his apartment in 
+     Buenos Aires; and
+       Whereas, to date, no one has been brought to justice for 
+     the 1992 bombing of the Israeli Embassy in Argentina, the 
+     1994 bombing of the AMIA Jewish Community Center in Buenos 
+     Aires, or the death of Argentine prosecutor Alberto Nisman: 
+     Now, therefore, be it
+       Resolved, That the Senate--
+       (1) reiterates its strongest condemnation of the 1992 
+     attack on the Israeli Embassy in Argentina and the 1994 
+     attack on the Argentine Israelite Mutual Association (AMIA) 
+     Jewish Community Center in Buenos Aires;
+       (2) honors the victims of the 1992 bombing of the Israeli 
+     Embassy in Argentina and the 1994 AMIA bombing, and expresses 
+     its sympathy to the relatives of the victims, who are still 
+     waiting for justice;
+       (3) underscores the concern of the United States regarding 
+     the continuing, decades-long delay in resolving the 1992 and 
+     1994 terrorist attacks in Argentina, and urges the President 
+     of the United States to offer technical assistance to the 
+     Government of Argentina to support the ongoing 
+     investigations;
+       (4) urges the Government of Argentina and the international 
+     community to continue efforts to bring the perpetrators of 
+     the March 17, 1992, and July 18, 1994, terrorist attacks to 
+     justice, including enforcing the INTERPOL Red Notices and 
+     extending them when they are up for review in November 2022;
+       (5) commends the Government of Argentina for designating 
+     Hezbollah as a terrorist organization and urges other United 
+     States allies and partners in Latin America and the Caribbean 
+     to do the same; and
+       (6) commends the Government of Argentina for adopting the 
+     International Holocaust Remembrance Alliance working 
+     definition of antisemitism and encourages other partners and 
+     allies to do the same.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-07-28-pt1-PgH7264-7
+date: 2022-07-28
+edition: CREC
+section: HOUSE
+page: H7264
+citation: 168 Cong. Rec. H7264
+---
+
+# DEMOCRATIC AGENDA
+
+**Speaking:** Lieu, Ted (L000582) [D-CA]
+
+```
+                           DEMOCRATIC AGENDA
+
+  (Mr. Lieu asked and was given permission to address the House for 1 
+minute.)
+  Mr. LIEU. Madam Speaker, in the first 15 months of the Joe Biden 
+Presidency, over 8.3 million jobs were created, the most in U.S. 
+history.
+
+[[Page H7265]]
+
+  For the last 6 weeks, because of the relentless efforts of the White 
+House and of Joe Biden to reduce gas prices, those gas prices have 
+fallen every day for 6 weeks. That is because Democrats are focused on 
+putting people over politics, and we want to lower costs, have better 
+paying jobs, and safer communities.
+  What are Republicans focused on?
+  They want to end Social Security; they are attacking our democracy; 
+and they want to criminalize women's healthcare decisions.
+  In fact, just last week, House Republicans voted ``no'' on providing 
+access to birth control pills. Let me just repeat that again. We are in 
+the 21st century, and House Republicans want government to ban birth 
+control pills.
+
+                          ____________________
+```
