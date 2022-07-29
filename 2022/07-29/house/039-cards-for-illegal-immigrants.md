@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-07-29-pt1-PgH7535
+date: 2022-07-29
+edition: CREC
+section: HOUSE
+page: H7535
+citation: 168 Cong. Rec. H7535
+---
+
+# CARDS FOR ILLEGAL IMMIGRANTS
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+                      CARDS FOR ILLEGAL IMMIGRANTS
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute.)
+  Mr. GROTHMAN. Mr. Speaker, everybody is obsessed with inflation, as 
+well they should be obsessed, but there are so many stories out there 
+that the mainstream media is not covering that the American public 
+ought to be aware of.
+  Right now, ICE is proposing identification cards for illegal 
+immigrants. First of all, we have a situation in which there are over 
+170,000 people allowed in this country every month who should probably 
+not even be here illegally.
+  Why is this?
+  Already we promised free healthcare, and I think in many cases people 
+coming here illegally are getting more healthcare or easier access to 
+healthcare than people are originally. They are allowed to travel all 
+around the country.
+  Now there is already a concern in my State that many illegal 
+immigrants are getting public benefits, as well. I am afraid that these 
+cards will be used to further solidify the programs to give free public 
+benefits to those people who shouldn't be here.
+  I hope the press looks into it.
+
+                          ____________________
+```

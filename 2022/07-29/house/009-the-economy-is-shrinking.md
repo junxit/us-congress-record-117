@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-07-29-pt1-PgH7409-8
+date: 2022-07-29
+edition: CREC
+section: HOUSE
+page: H7409
+citation: 168 Cong. Rec. H7409
+---
+
+# THE ECONOMY IS SHRINKING
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+                        THE ECONOMY IS SHRINKING
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KELLER. Madam Speaker, the economy shrank for the second quarter 
+in a row. Americans are now facing a recession that was totally 
+avoidable but brought on by President Biden and
+
+[[Page H7410]]
+
+Washington Democrats' Big Government spending and war on American 
+energy.
+  Proving just how out of touch President Biden is, he shrugged off 
+talk of a recession and said Americans are just facing an economic 
+transition.
+  This administration has spent more time trying to convince Americans 
+we are not in a recession than actually working on the problem.
+  Americans are hurting right now, and as the price of gas and 
+groceries continues to rise, Washington Democrats are preparing 
+legislation in Congress that will raise taxes on farmers, businesses, 
+and working families.
+  The Democrat elite don't live in the real world, and they continue to 
+put the priorities of their radical agenda over working American 
+families--the same people they profess to help.
+  Our economy is shrinking, and Big Government spending is growing.
+  Americans cannot afford Washington Democrats' far-left agenda.
+
+                          ____________________
+```

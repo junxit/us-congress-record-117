@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-07-29-pt1-PgH7411
+date: 2022-07-29
+edition: CREC
+section: HOUSE
+page: H7411
+citation: 168 Cong. Rec. H7411
+---
+
+# BRING THE CHIPS INDUSTRY HOME
+
+**Speaking:** Manning, Kathy E. (M001135) [D-NC]
+
+```
+                              {time}  0915
+                     BRING THE CHIPS INDUSTRY HOME
+
+  (Ms. MANNING asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. MANNING. Madam Speaker, the CHIPS and Science Act is critical 
+legislation to ramp up American production of semiconductor chips.
+  Our economy relies on these chips, which are key components in 
+everything from cell phones to cars to advancing national security 
+measures.
+  By increasing production here in America, we will onshore a critical 
+capability, reduce dependence on foreign manufacturers, and lower costs 
+for hardworking families.
+  The United States invented the semiconductor chip. We used to make 40 
+percent of the world's chips. Now, we make 12 percent, leaving key 
+industries vulnerable to foreign interference. It is high time we 
+counter the threat posed by countries like China and Russia and bring 
+this industry home.
+  The CHIPS and Science Act does just that, and this investment helps 
+North Carolina chip manufacturers, including Qorvo and IQE, major 
+employers in my home district, to ramp up production and create good-
+paying jobs.
+  Madam Speaker, I proudly cast my vote to send the CHIPS Act to the 
+President's desk. I am ready to see this legislation work for North 
+Carolinians and for the country.
+
+                          ____________________
+```
