@@ -1,0 +1,28 @@
+---
+granule: CREC-2022-08-26-pt1-PgD925-5
+date: 2022-08-26
+edition: CREC
+section: DAILYDIGEST
+page: D925
+citation: 168 Cong. Rec. D925
+---
+
+# Daily Digest/COMMITTEE MEETINGS FOR 2022-08-30
+
+```
+                    COMMITTEE MEETINGS FOR TUESDAY,
+
+                            AUGUST 30, 2022
+
+        (Committee meetings are open unless otherwise indicated)
+
+
+                                 Senate
+
+  No meetings/hearings scheduled.
+
+
+                                 House
+
+  No hearings are scheduled.
+```
