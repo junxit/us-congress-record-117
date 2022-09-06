@@ -1,0 +1,48 @@
+---
+granule: CREC-2022-09-06-pt1-PgS4437-3
+date: 2022-09-06
+edition: CREC
+section: SENATE
+page: S4437
+citation: 168 Cong. Rec. S4437
+---
+
+# 150TH BIRTHDAY OF HUTCHINSON, KANSAS
+
+**Speaking:** Marshall, Roger (M001198) [R-KS]
+
+```
+                  150TH BIRTHDAY OF HUTCHINSON, KANSAS
+
+● Mr. MARSHALL. Mr. President, I rise today to celebrate the 
+150th birthday of the city of Hutchinson, KS.
+  In 1871, Clinton Carter ``CC'' Hutchinson got the Atchison Topeka and 
+Santa Fe Railroad to route through what is now Reno County and 
+Hutchinson, KS. Upon the arrival of the railroad, Hutchinson was 
+incorporated as a city in August 1872. At first, the city was a rail 
+town, using the railroads to help advance the local area's ranching and 
+farming operations. Upon the discovery of salt, Hutchinson developed 
+into a mining town as well, quickly earning the moniker of the ``Salt 
+City.''
+  Since its incorporation 150 years ago, Hutchinson has grown into an 
+industrial hub for central Kansas. From Carey Salt and the Cosmosphere, 
+to Dillons Grocery and the State fair, Hutchinson and its citizens play 
+an integral role in telling the story of Kansas. Thanks to investments 
+of both time and money by community members, Hutchinson remains a 
+vibrant
+
+[[Page S4438]]
+
+community today with a bustling Main Street, a world-class golf course, 
+and a robust agriculture industry.
+  On August 18, the city of Hutchinson and its residents celebrated the 
+town's 150th birthday with a block party down Main Street. I would like 
+to thank everyone in Hutchinson for the pride they have for their city, 
+as well as thank everyone who helped organize the sesquicentennial 
+celebration.
+  I now ask my colleagues to join the residents of Hutchinson in 
+celebrating the city's 150th birthday, as well as recognize them all 
+for their contributions to the city's 150 years of history.●
+
+                          ____________________
+```

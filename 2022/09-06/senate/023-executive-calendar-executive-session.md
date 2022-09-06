@@ -1,0 +1,25 @@
+---
+granule: CREC-2022-09-06-pt1-PgS4424-2
+date: 2022-09-06
+edition: CREC
+section: SENATE
+page: S4424
+citation: 168 Cong. Rec. S4424
+---
+
+# EXECUTIVE CALENDAR (Executive Session)
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                           EXECUTIVE CALENDAR
+
+  Mr. SCHUMER. Mr. President, I move to proceed to executive session to 
+consider Calendar No. 986.
+  The PRESIDING OFFICER. The question is on agreeing to the motion.
+  The motion was agreed to.
+  The clerk will read the nomination.
+  The senior assistant legislative clerk read the nomination of 
+Salvador Mendoza, Jr., of Washington, to be United States Circuit Judge 
+for the Ninth Circuit.
+```
