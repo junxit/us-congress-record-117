@@ -1,0 +1,45 @@
+---
+granule: CREC-2022-09-13-pt1-PgS4567-6
+date: 2022-09-13
+edition: CREC
+section: SENATE
+page: S4567
+citation: 168 Cong. Rec. S4567
+---
+
+# TRIBUTE TO FRED SMITH
+
+**Speaking:** Hagerty, Bill (H000601) [R-TN]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                         TRIBUTE TO FRED SMITH
+
+● Mr. HAGERTY. Mr. President, I wish to recognize Fred Smith, 
+founder and executive chairman of FedEx for receiving the distinguished 
+L. Welch Pogue Award for his outstanding lifelong contributions to the 
+field of commercial aviation.
+  On September 14, Mr. Smith, a proud Memphian and generous benefactor 
+to his city, will receive due commemoration for his renowned 
+achievements and contributions involving his organization, career, and 
+passion.
+  Since 1971, the iconic Tennessee company he founded has facilitated 
+deliveries not just in the United States but across the world.
+  This includes FedEx's work on the Project Airbridge Operation, a 
+partnership executed by FedEx under the direction of the Federal 
+Government that expedited the importation of critical supplies at the 
+height of the pandemic.
+  This award, first presented in 1994, recognizes individuals with a 
+lifetime of achievement in aviation and recognizes individuals who not 
+only have a vision for where the industry is headed, but have acted to 
+make it a reality.
+  I can think of no one more deserving to receive such an award. Let us 
+celebrate this achievement and commitment to excellence that Mr. Smith 
+has shown throughout his career.●
+
+                          ____________________
+```
