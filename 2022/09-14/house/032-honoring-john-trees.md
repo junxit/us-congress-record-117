@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-09-14-pt1-PgH7796
+date: 2022-09-14
+edition: CREC
+section: HOUSE
+page: H7796
+citation: 168 Cong. Rec. H7796
+---
+
+# HONORING JOHN TREES
+
+**Speaking:** Davis, Rodney (D000619) [R-IL]
+
+```
+                          HONORING JOHN TREES
+
+  (Mr. RODNEY DAVIS of Illinois asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. RODNEY DAVIS of Illinois. Mr. Speaker, I rise today to honor John 
+Trees.
+  Mr. Trees lived in Springfield, Illinois, and was the loving husband 
+to our own district office's Candice Trees. On September 28 of this 
+year, they would have celebrated 48 years of marriage.
+  John was a proud veteran of the U.S. Air Force, serving during the 
+Vietnam war. After his years of service, John went on to become a 
+skilled laborer and accomplished carpenter.
+  Once retiring from the Illinois Department of Transportation, John 
+had more time to do what he loved. Combining his love of food and 
+serving others, John started his own catering business aptly named Two 
+Drunks in the Dark Catering.
+  He truly enjoyed spending time with his wife, three daughters, and 
+five grandchildren. Going on yearly trips to St. Louis Cardinal games 
+or attending his grandchildren's sporting events were just a few things 
+``Papa John'' loved to do.
+  John would be the first to lend a hand and always had a welcoming 
+door at his home. John was always great at providing advice and giving 
+direction to those who needed him the most.
+  We honor John today, and I send my deepest condolences to Candice and 
+the entire Trees family during this very difficult time.
+
+                          ____________________
+```
