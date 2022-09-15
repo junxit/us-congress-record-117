@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-09-15-pt1-PgH7848
+date: 2022-09-15
+edition: CREC
+section: HOUSE
+page: H7848
+citation: 168 Cong. Rec. H7848
+---
+
+# DEMOCRATS REIN IN INFLATION
+
+**Speaking:** Scanlon, Mary Gay (S001205) [D-PA]
+
+```
+                      DEMOCRATS REIN IN INFLATION
+
+  (Ms. SCANLON asked and was given permission to address the House for 
+1 minute.)
+  Ms. SCANLON. Mr. Speaker, for far too long, families in my district 
+and across the country have struggled with rising healthcare and 
+prescription drug costs. So, I am pleased to report that relief is on 
+the way, thanks to Democrats' passage of the Inflation Reduction Act 
+this summer.
+  This act reins in out-of-control healthcare costs and will make a 
+real difference in family budgets by extending tax credits for health 
+insurance, capping prescription drug costs for seniors at $2,000 a 
+year, capping insulin costs for seniors at $35 a month, and allowing 
+Medicare to negotiate lower prices with drug companies.
+  A family of four in Ridley Park could save more than $2,800 in annual 
+health insurance premiums. A senior couple in Media could save more 
+than $13,000 in yearly healthcare costs.
+  If the Inflation Reduction Act's $35 insulin copay had been in effect 
+in 2020, a Springfield resident who uses NovoLog could have saved 
+$1,300 a year.
+  Importantly, all these benefits are fully paid for by making the 
+biggest corporations and billionaires pay their fair share.
+
+                          ____________________
+```

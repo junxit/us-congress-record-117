@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-09-15-pt1-PgS4636-2
+date: 2022-09-15
+edition: CREC
+section: SENATE
+page: S4636
+citation: 168 Cong. Rec. S4636
+---
+
+# REMEMBERING JODIE FINGLAND
+
+**Speaking:** Murray, Patty (M001111) [D-WA]
+
+```
+                       REMEMBERING JODIE FINGLAND
+
+  Mrs. MURRAY. Madam President, I rise today to recognize and honor the 
+life of Jodie Fingland, a dedicated public servant who passed away on 
+September 4 after battling a long illness.
+  Jodie devoted her life's work to expanding educational opportunities 
+for students across the country, and she will be remembered for her 
+wonderful, caring personality. I join my staff and so many others who 
+had the privilege of knowing and working with Jodie through her 
+tireless work at the Department of Education in mourning her passing 
+and remembering her life.
+  Over the years, Jodie held many different positions at the Department 
+of Education in the Obama administration. She served as chief of staff, 
+deputy assistant secretary, and principal adviser for legislative 
+affairs all in the Office for Legislation and Congressional Affairs, 
+and worked closely with the Senate and House in these roles.
+  Whether briefing Members of Congress, preparing the Secretary for a 
+committee hearing, or providing strategic advice to senior managers at 
+the Department, Jodie was known for being kind, calm, and extremely 
+knowledgeable. She was particularly known for her skill in higher 
+education policy.
+  Jodie dedicated her career to the advancement and improvement of 
+education for all, and her work impacted so many students, educators, 
+and families across the country. She will be remembered fondly.
+
+                          ____________________
+```
