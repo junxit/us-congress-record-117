@@ -1,0 +1,139 @@
+---
+granule: CREC-2022-09-19-pt1-PgS4812
+date: 2022-09-19
+edition: CREC
+section: SENATE
+page: S4812
+citation: 168 Cong. Rec. S4812
+---
+
+# SOLID START ACT OF 2021
+
+**Measures:** S. 1198
+
+```
+                        SOLID START ACT OF 2021
+
+  The ACTING PRESIDENT pro tempore. As if in legislative session and 
+under the previous order, the Senate, having received from the House 
+the returned papers with respect to S. 1198, the actions of the Senate 
+on September 8, 2022, are vitiated; the committee-reported substitute 
+is withdrawn; the Tester amendment at the desk, No. 5505, is agreed to; 
+the bill, as amended, is considered read a third time and passed; and 
+the motions to reconsider are considered made and laid upon the table.
+  Thereupon, the Senate proceeded to consider (S. 1198) a bill to amend 
+title 38, United States Code, to improve and expand the Solid Start 
+program of the Department of Veterans Affairs, and for other purposes.
+  The committee-reported amendment in the nature of a substitute is 
+withdrawn.
+  The amendment (No. 5505) in the nature of a substitute is agreed to 
+as follows:
+
+                (Purpose: In the nature of a substitute)
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Solid Start Act of 2022''.
+
+     SEC. 2. SOLID START PROGRAM OF THE DEPARTMENT OF VETERANS 
+                   AFFAIRS.
+
+       (a) In General.--Chapter 63 of title 38, United States 
+     Code, is amended by adding at the end the following new 
+     subchapter:
+
+        ``SUBCHAPTER II--OTHER OUTREACH PROGRAMS AND ACTIVITIES
+
+     ``Sec. 6320. Solid Start program
+
+       ``(a) In General.--The Secretary shall carry out a program, 
+     to be known as the `Solid Start program', under which the 
+     Secretary shall--
+       ``(1) build the capacity of the Department to efficiently 
+     and effectively respond to the queries and needs of veterans 
+     who have recently separated from the Armed Forces; and
+       ``(2) systemically integrate and coordinate efforts to 
+     assist veterans, including efforts--
+       ``(A) to proactively reach out to newly separated veterans 
+     to inform them of their eligibility for programs of and 
+     benefits provided by the Department; and
+       ``(B) to connect veterans in crisis to resources that 
+     address their immediate needs.
+       ``(b) Activities of the Solid Start Program.--(1) The 
+     Secretary, in coordination with the Secretary of Defense, 
+     shall carry out the Solid Start program of the Department 
+     by--
+       ``(A) collecting up-to-date contact information during 
+     transition classes or separation counseling for all members 
+     of the Armed Forces who are separating from the Armed Forces, 
+     while explaining the existence and purpose of the Solid Start 
+     program;
+       ``(B) calling each veteran, regardless of separation type 
+     or characterization of service, three times within the first 
+     year after separation of the veteran from the Armed Forces;
+       ``(C) providing information about the Solid Start program 
+     on the website of the Department and in materials of the 
+     Department, especially transition booklets and other 
+     resources;
+       ``(D) ensuring calls are truly tailored to the needs of 
+     each veteran's unique situation by conducting quality 
+     assurance tests;
+       ``(E) prioritizing outreach to veterans who have accessed 
+     mental health resources prior to separation from the Armed 
+     Forces;
+       ``(F) providing women veterans with information that is 
+     tailored to their specific health care and benefit needs;
+       ``(G) as feasible, providing information on access to State 
+     and local resources, including Vet Centers and veterans 
+     service organizations; and
+       ``(H) gathering and analyzing data assessing the 
+     effectiveness of the Solid Start program.
+       ``(2) The Secretary, in coordination with the Secretary of 
+     Defense, may carry out the Solid Start program by--
+       ``(A) encouraging members of the Armed Forces who are 
+     transitioning to civilian life to authorize alternate points 
+     of contact who can be reached should the member be 
+     unavailable during the first year following the separation of 
+     the member from the Armed Forces; and
+       ``(B) following up missed phone calls with tailored 
+     mailings to ensure the veteran still receives similar 
+     information.
+       ``(3) In this subsection:
+       ``(A) The term `Vet Center' has the meaning given that term 
+     in section 1712A(h) of this title.
+       ``(B) The term `veterans service organization' means an 
+     organization recognized by the Secretary for the 
+     representation of veterans under section 5902 of this 
+     title.''.
+       (b) Conforming Amendments.--Chapter 63 of such title, as 
+     amended by subsection (a), is further amended--
+       (1) by inserting before section 6301 the following:
+
+              ``Subchapter I--Outreach Services Program'';
+
+     and
+       (2) in sections 6301, 6303, 6304, 6305, 6306, and 6307, by 
+     striking ``this chapter'' each place it appears and inserting 
+     ``this subchapter''.
+       (c) Clerical Amendments.--The table of sections at the 
+     beginning of chapter 63 of such title is amended--
+       (1) by inserting before the item relating to section 6301 
+     the following new item:
+
+              ``subchapter i--outreach services program'';
+
+     and
+       (2) by adding at the end the following new items:
+
+         ``subchapter ii--other outreach programs and activities
+
+``6320. Solid Start program.''.
+
+  The bill (S. 1198), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```

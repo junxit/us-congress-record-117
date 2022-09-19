@@ -1,0 +1,45 @@
+---
+granule: CREC-2022-09-19-pt1-PgH7947-4
+date: 2022-09-19
+edition: CREC
+section: HOUSE
+page: H7947
+citation: 168 Cong. Rec. H7947
+---
+
+# REAUTHORIZING THE READ ACT
+
+**Speaking:** Lee, Barbara (L000551) [D-CA]
+
+**Measures:** H.R. 7240
+
+```
+                       REAUTHORIZING THE READ ACT
+
+  (Ms. LEE of California asked and was given permission to address the 
+House for 1 minute.)
+  Ms. LEE of California. Madam Speaker, I rise in strong support of 
+H.R. 7240 to reauthorize the Reinforcing Education Accountability in 
+Development Act, or the READ Act.
+  I thank my good friend, Chairwoman Karen Bass, for leading this 
+bipartisan legislation and Chairman Meeks and the Speaker for moving it 
+to the floor.
+  Our dear friend and a great leader, Chairwoman Nita Lowey, who 
+preceded me as chair of the Subcommittee on State, Foreign Operations, 
+and Related Programs, led the charge to pass the READ Act in 2017. I 
+saw her over this weekend, and she was so excited that this bill was 
+coming to the floor.
+  The READ Act coordinates and amplifies U.S. efforts to support basic 
+education abroad. Over 58 million children still cannot go to school 
+around the world, more than half are girls, and COVID-19 disrupted 
+learning for hundreds of millions of kids, creating huge challenges for 
+meeting the sustainable development goal of providing a quality 
+education for all kids by 2030.
+  I was proud to include in the fiscal year 2023 House SFOPS 
+appropriations bill $985 million for international basic education, $35 
+million above last year's enacted level and $291.6 million above the 
+President's budget request. The READ Act authorization will ensure that 
+these resources will deliver the most value for kids around the world.
+
+                          ____________________
+```
