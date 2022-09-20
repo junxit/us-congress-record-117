@@ -1,0 +1,44 @@
+---
+granule: CREC-2022-09-20-pt1-PgH7978-3
+date: 2022-09-20
+edition: CREC
+section: HOUSE
+page: H7978
+citation: 168 Cong. Rec. H7978
+---
+
+# NATIONAL RICE MONTH
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                          NATIONAL RICE MONTH
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, September is National Rice Month, and 
+even though the month is two-thirds over with, it is never not time to 
+have rice for your next meal.
+  I want to pay a special tribute to the hardworking farmers, millers, 
+merchants, suppliers, and the consumers who make rice not only such a 
+nutritious product, but an important part of our economy.
+  My home State of California is the second largest rice-producing 
+State with the Sacramento Valley home to 95 percent of California's 
+production. It is an important part also of the Pacific Flyway. 
+California primarily produces medium grain sticky rice, otherwise known 
+as sushi rice.
+  America's rice industry contributes 125,000 good-paying jobs and an 
+estimated $34 billion to our Nation's economy. Rice farmers take 
+excellent care of their land, prioritizing resource conservation, 
+nutrition, top yields worldwide, and product quality.
+  U.S. rice farmers produce more rice using less land, energy, and 
+water than they did just 20 years ago, providing critical habitat for 
+many species, which is really important, once again, to the Pacific 
+Flyway as the ducks and geese move all the way from the north down to 
+the south.
+  Unfortunately, drastic water cuts have taken half of the rice acreage 
+out of California this year. We need to keep the industry going strong 
+for all those good needs.
+
+                          ____________________
+```
