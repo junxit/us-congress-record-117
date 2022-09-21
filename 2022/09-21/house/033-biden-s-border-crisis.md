@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-09-21-pt1-PgH8021-5
+date: 2022-09-21
+edition: CREC
+section: HOUSE
+page: H8021
+citation: 168 Cong. Rec. H8021
+---
+
+# BIDEN'S BORDER CRISIS
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+                              {time}  1215
+                         BIDEN'S BORDER CRISIS
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Madam Speaker, I rise today to highlight the ongoing, 
+unprecedented disaster that is occurring at our southern border and 
+underscore the need for immediate action.
+  In August, Customs and Border Patrol agents encountered 203,597 
+illegal immigrants at our southern border. That was an increase of 307 
+percent compared to the last August of the Trump administration.
+  This also put the U.S. at over 2 million encounters for fiscal year 
+2022. This is the first time ever that we have eclipsed 2 million in a 
+single fiscal year, and we have about 1 month to go.
+  Despite all these facts, Vice President Harris said last week that 
+the border is secure. If our so-called border czar thinks that this is 
+secure, it is no wonder that we are continuing to see no viable 
+options, and this problem continues to explode without a solution.
+  The Biden administration must take swift and immediate action at the 
+southern border. We must restart the border wall construction, invest 
+in proven technologies, empower Customs and Border Patrol agents to 
+enforce the law, and hire more Customs and Border Patrol agents to 
+support the men and women who are already giving us honorable service 
+there.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-09-21-pt1-PgH8015
+date: 2022-09-21
+edition: CREC
+section: HOUSE
+page: H8015
+citation: 168 Cong. Rec. H8015
+---
+
+# THE PANDEMIC IS OVER
+
+**Speaking:** McClain, Lisa C. (M001136) [R-MI]
+
+```
+                          THE PANDEMIC IS OVER
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Michigan (Mrs. McClain) for 5 minutes.
+  Mrs. McCLAIN. Mr. Speaker, I rise today to reiterate an important 
+statement made by our President: The pandemic is over.
+  This weekend on ``60 Minutes,'' President Biden finally said what 
+most Americans have known for months: We are no longer in the COVID-19 
+pandemic.
+  So if the President just admitted it, that means the national 
+emergency is over, correct?
+  If that is the case, then why did the President just tell the country 
+that the pandemic is so bad that we should forgive billions of dollars 
+of student debt, or that it is because of the ongoing pandemic that we 
+must continue to enforce a vaccine mandate on our Nation's military?
+
+                              {time}  1015
+
+  I will tell you why--it is because it was never about the pandemic. 
+It was about the President bypassing Congress and the Constitution to 
+push his radical socialist agenda.
+  Mr. Speaker, President Biden himself has said the pandemic is over. 
+It is past time that we strip him of his emergency powers and end the 
+vaccine mandates and reject all COVID-related funding requests.
+
+                          ____________________
+```
