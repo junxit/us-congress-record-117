@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-09-22-pt1-PgH8105-4
+date: 2022-09-22
+edition: CREC
+section: HOUSE
+page: H8105
+citation: 168 Cong. Rec. H8105
+---
+
+# RECOGNIZING THE FIRST BAPTIST CHURCH OF CORONA
+
+**Speaking:** Ocasio-Cortez, Alexandria (O000172) [D-NY]
+
+```
+             RECOGNIZING THE FIRST BAPTIST CHURCH OF CORONA
+
+  (Ms. OCASIO-CORTEZ asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. OCASIO-CORTEZ. Mr. Speaker, I rise today to recognize the First 
+Baptist Church of Corona on its 100th anniversary.
+  First Baptist is the bedrock of Corona, Queens. It provides a food 
+pantry, tax preparation, summer youth employment, and more. The 
+church's service extends well beyond its congregation to all of Corona, 
+one of the most diverse immigrant communities in the world.
+  First Baptist is led by Pastor Patrick H. Young. Pastor Young's 
+commitment to service is unfailing. When Corona became the epicenter of 
+the pandemic in early 2020, he and First Baptist community members 
+stepped up the church's food distribution, serving hundreds of families 
+each week. He also hosted multiple mobile testing and vaccination 
+sites. Now, the church seeks to start a medical clinic to help their 
+community recover and thrive.
+  Mr. Speaker, I ask our colleagues to join me in recognizing the First 
+Baptist Church of Corona. In their century of service, they have 
+modeled the true values of welcoming the stranger and loving thy 
+neighbor. It is my privilege to represent them.
+
+                          ____________________
+```
