@@ -1,0 +1,86 @@
+---
+granule: CREC-2022-09-27-pt1-PgS5078
+date: 2022-09-27
+edition: CREC
+section: SENATE
+page: S5078
+citation: 168 Cong. Rec. S5078
+---
+
+# Text of Senate Amendment 5701
+
+**Speaking:** Cruz, Ted (C001098) [R-TX]
+
+```
+  SA 5701. Mr. CRUZ submitted an amendment intended to be proposed to 
+amendment SA 5499 submitted by Mr. Reed (for himself and Mr. Inhofe) 
+and intended to be proposed to the bill H.R. 7900, to authorize 
+appropriations for fiscal year 2023 for military activities of the 
+Department of Defense, for military construction, and for defense 
+activities of the Department of Energy, to prescribe military personnel 
+strengths for such fiscal year, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+        At the end of subtitle F of title XII, add the following:
+
+     SEC. 1276. REIMPOSITION OF SANCTIONS WITH RESPECT TO THE 
+                   FARC.
+
+       (a) In General.--Not later than 30 days after the date of 
+     the enactment of this Act, the President shall--
+       (1) designate the FARC as a foreign terrorist organization 
+     pursuant to section 219 of the Immigration and Nationality 
+     Act (8 U.S.C. 1189); and
+       (2) impose, with respect to FARC and any foreign person the 
+     President determines is an official, agent, or affiliate of 
+     FARC, the sanctions applicable with respect to a foreign 
+     person pursuant to Executive Order 13224 (50 U.S.C. 1701 
+     note; relating to blocking property and prohibiting 
+     transactions with persons who commit, threaten to commit, or 
+     support terrorism).
+       (b) Determination Required.--
+       (1) In general.--Not later than 30 days after the President 
+     makes the designation required by paragraph (1) of subsection 
+     (a) and imposes the sanctions required by paragraph (2) of 
+     that subsection, the President shall--
+       (A) submit to the Committee on Foreign Relations of the 
+     Senate and the Committee on Foreign Affairs of the House of 
+     Representatives a determination regarding whether the foreign 
+     persons specified in paragraph (2) are officials, agents, or 
+     affiliates of the FARC; and
+       (B) impose the sanctions described in subsection (a)(2) 
+     with respect to each such person the President determines is 
+     an official, agent, or affiliate of the FARC.
+       (2) Foreign persons specified.--The foreign persons 
+     specified in this paragraph are the following:
+       (A) Jose Benito Cabrera (also known as Jose Benito Cabrera 
+     Cuevas, El Mono Fabian, and Fabian Ramirez), born either July 
+     6, 1963, or July 5, 1965, in El Paujil, Caqueta, Colombia.
+       (B) Erasmo Traslavina Benavides (also known as Ismardo 
+     Murcia Lozada, Isnardo Murcia Lozada, and Jimmy Guerrero), 
+     born June 19, 1958, in Guacamayo, Santander, Colombia.
+       (C) Emiro del Carmen Ropero Suarez (also known as Ruben 
+     Zamora), born September 2, 1962, in Municipio de Nueva 
+     Granada, Norte de Santander, Colombia.
+       (D) Guillermo Enrique Torres Cueter (also known as Julian 
+     Conrado), born August 17, 1954, in Turbaco, Bolivar, 
+     Colombia.
+       (E) Rodrigo Granda Escobar (also known as Arturo Campos, 
+     Gallopinto, and Ricardo Gonzalez), born April 9, 1949, in 
+     Frontino, Antioquia, Colombia.
+       (F) Piedad Esneda Cordoba Ruiz, born January 25, 1955, in 
+     Colombia.
+       (G) Sandra Ramirez Lobo Silva (also known as Sandra Ramirez 
+     and Griselda Lobo), born in 1965 in Colombia.
+       (c) Limitation on Revocation.--The President may not revoke 
+     the designation under subsection (a)(1), or sanctions imposed 
+     with respect to a foreign person under subsection (a)(2) or 
+     (b), until the date that is 10 years after the date of the 
+     designation or the imposition of such sanctions, as the case 
+     may be.
+       (d) FARC Defined.--In this section, the term ``FARC'' means 
+     the group known as the FARC, the Revolutionary Armed Forces 
+     of Colombia, Fuerzas Armadas Revolucionarias de Colombia, or 
+     any other alias.
+                                 ______
+```
