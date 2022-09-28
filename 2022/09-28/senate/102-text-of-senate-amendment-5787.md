@@ -1,0 +1,112 @@
+---
+granule: CREC-2022-09-28-pt1-PgS5258-4
+date: 2022-09-28
+edition: CREC
+section: SENATE
+page: S5258
+citation: 168 Cong. Rec. S5258
+---
+
+# Text of Senate Amendment 5787
+
+**Speaking:** Warner, Mark R. (W000805) [D-VA]
+
+```
+  SA 5787. Mr. WARNER submitted an amendment intended to be proposed to 
+amendment SA 5499 submitted by Mr. Reed (for himself and Mr. Inhofe) 
+and intended to be proposed to the bill H.R. 7900, to authorize 
+appropriations for fiscal year 2023 for military activities
+
+[[Page S5259]]
+
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. _____ . SPECIAL MEASURES TO FIGHT MODERN THREATS.--
+
+       (a) Findings.--Congress finds the following:
+       (1) The Financial Crimes Enforcement Network (in this 
+     section referred to as ``FinCEN'') is the financial 
+     intelligence unit of the United States tasked with 
+     safeguarding the financial system from illicit use, combating 
+     money laundering and its related crimes, including terrorism, 
+     and promoting national security.
+       (2) Under law, FinCEN may require domestic financial 
+     institutions and financial agencies to take certain ``special 
+     measures'' against jurisdictions, institutions, classes of 
+     transactions, or types of accounts determined to be of 
+     primary money laundering concern, providing the Secretary 
+     with a range of options, such as enhanced record-keeping, 
+     that can be adapted to target specific money laundering and 
+     terrorist financing and to bring pressure on those that pose 
+     money laundering threats.
+       (3) This special-measures authority was granted in 2001, 
+     when most cross-border transactions occurred through 
+     correspondent or payable-through accounts held with large 
+     financial institutions that serve as intermediaries to 
+     facilitate financial transactions on behalf of other banks.
+       (4) Innovations in financial services have transformed and 
+     expanded methods of cross-border transactions that could not 
+     have been envisioned 20 years ago when FinCEN was given its 
+     special-measures authority.
+       (5) These innovations, particularly through digital assets 
+     and informal value transfer systems, while useful to 
+     legitimate consumers and law enforcement, can be tools abused 
+     by bad actors like sanctions evaders, fraudsters, money 
+     launderers, and those who commit ransomware attacks on 
+     victimized United States companies and that abuse the 
+     financial system to move and obscure the proceeds of their 
+     crimes.
+       (6) Ransomware attacks on United States companies requiring 
+     payments in cryptocurrencies have increased in recent years, 
+     with the Treasury estimating that ransomware payments in the 
+     United States reached $590,000,000 in just the first half of 
+     2021, compared to a total of $416,000,000 in 2020.
+       (7) In July 2021, the White House, with support of United 
+     States allies, asserted that the People's Republic of China 
+     was responsible for ransomware operations against private 
+     companies that included demands of millions of dollars, 
+     including the 2021 ransomware attacks that breached Microsoft 
+     email systems and affected thousands of consumers, State and 
+     local municipalities, and government contractors attributed 
+     to a cyber espionage group with links to the Ministry of 
+     State Security of the People's Republic of China.
+       (8) As ransomware attacks organized by Chinese and other 
+     foreign bad actors continue to grow in size and scope, 
+     modernizing the special-measure authorities of FinCEN will 
+     empower FinCEN to adapt its existing tools, monitor and 
+     obstruct global financial threats, and meet the challenges of 
+     combating 21st century financial crime.
+       (b) Prohibitions or Conditions on Certain Transmittals of 
+     Funds.--Section 5318A of title 31, United States Code, is 
+     amended--
+       (1) in subsection (a)(2)(C), by striking ``subsection 
+     (b)(5)'' and inserting ``paragraphs (5) and (6) of subsection 
+     (b)''; and
+       (2) in subsection (b)--
+       (A) in paragraph (5), by striking ``for or on behalf of a 
+     foreign banking institution''; and
+       (B) by adding at the end the following:
+       ``(6) Prohibitions or conditions on certain transmittals of 
+     funds.--If the Secretary finds a jurisdiction outside of the 
+     United States, 1 or more financial institutions operating 
+     outside of the United States, 1 or more types of accounts 
+     within, or involving, a jurisdiction outside of the United 
+     States, or 1 or more classes of transactions within, or 
+     involving, a jurisdiction outside of the United States to be 
+     of primary money laundering concern, the Secretary, in 
+     consultation with the Secretary of State, the Attorney 
+     General, and the Chairman of the Board of Governors of the 
+     Federal Reserve System, may prohibit, or impose conditions 
+     upon, certain transmittals of funds (as such term may be 
+     defined by the Secretary in a special measure issuance, by 
+     regulation, or as otherwise permitted by law), to or from any 
+     domestic financial institution or domestic financial agency 
+     if such transmittal of funds involves any such jurisdiction, 
+     institution, type of account, or class of transaction.''.
+                                 ______
+```
