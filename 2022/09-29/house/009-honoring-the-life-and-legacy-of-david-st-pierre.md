@@ -1,0 +1,46 @@
+---
+granule: CREC-2022-09-29-pt1-PgH8225-8
+date: 2022-09-29
+edition: CREC
+section: HOUSE
+page: H8225
+citation: 168 Cong. Rec. H8225
+---
+
+# HONORING THE LIFE AND LEGACY OF DAVID ST. PIERRE
+
+**Speaking:** Takano, Mark (T000472) [D-CA]
+
+```
+            HONORING THE LIFE AND LEGACY OF DAVID ST. PIERRE
+
+  (Mr. TAKANO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TAKANO. Mr. Speaker, I honor the life and lasting legacy of an
+
+[[Page H8226]]
+
+LGBTQ pioneer in my district, David St. Pierre.
+  David was the longtime owner of The Menagerie, a welcoming LGBTQ 
+nightclub and restaurant in downtown Riverside.
+  Since taking ownership in 1999, David made it his purpose to 
+cultivate an inclusive safe haven for the LGBTQ community of Riverside 
+and the surrounding Inland Empire, while adding in a touch of fun, 
+lively entertainment.
+  He did that for just over 20 years. With his passion for throwing an 
+extravagant party, his experience in generating crowd enthusiasm as the 
+host of many events, and a keen eye for craft and style from his 
+background in theater, David was always the life of a fabulous time.
+  He made a name for himself within the LGBTQ community and was highly 
+regarded for standing up to hate crimes and injustice and declaring 
+that homophobia will have zero tolerance in our community.
+  In the words of Harvey Milk, ``I know you can't live on hope alone, 
+but without hope, life is not worth living.'' David, you gave our 
+community hope, hope to live freely, be accepted, and continue to fight 
+for LGBTQ rights. You will be greatly missed but never forgotten. On 
+behalf of the constituents of California's 41st Congressional District, 
+thank you for your commitment to the LGBTQ community and to our 
+community as a whole.
+
+                          ____________________
+```
