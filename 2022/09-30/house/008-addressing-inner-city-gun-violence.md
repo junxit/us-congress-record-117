@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-09-30-pt1-PgH8321-7
+date: 2022-09-30
+edition: CREC
+section: HOUSE
+page: H8321
+citation: 168 Cong. Rec. H8321
+---
+
+# ADDRESSING INNER-CITY GUN VIOLENCE
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                   ADDRESSING INNER-CITY GUN VIOLENCE
+
+  (Ms. DEAN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. DEAN. Madam Speaker, on Tuesday, as they were leaving football 
+practice at Roxborough High School in Philadelphia, five teenage boys 
+were shot. Four survived the horrific shooting, but 14-year-old Nicolas 
+Elizalde was killed. God bless him.
+  Earlier that day, I stood with Representative Scanlon, the Giffords 
+organization, and the community to advocate for gun violence 
+prevention. One of the advocates in our audience was a grandmother like 
+me. Only hours later, it was her grandson, Nicolas, who was gunned down 
+leaving football practice.
+  I cannot imagine her pain. Nicolas is the 23rd child to be shot and 
+murdered in Philadelphia this year.
+  There is a frightening trend of far too many illicit guns ending up 
+in the hands of teenagers. This must end.
+  We need serious solutions, not finger-pointing, to address inner-city 
+gun violence. We cannot simply out-police loose gun laws that 
+contribute to teenagers getting their hands on guns and murdering one 
+another.
+  So, while this may be the final day of our session, I will not stop 
+working on this issue. I will be sending a letter to ATF requesting an 
+increased focus on ending the pipeline of guns to our children's hands.
+
+                          ____________________
+```
