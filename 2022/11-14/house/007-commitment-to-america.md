@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-11-14-pt1-PgH8443-6
+date: 2022-11-14
+edition: CREC
+section: HOUSE
+page: H8443
+citation: 168 Cong. Rec. H8443
+---
+
+# COMMITMENT TO AMERICA
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                         COMMITMENT TO AMERICA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, Biden and House Democrats 
+inherited a strong economy from President Donald Trump that worked for 
+American families.
+  Unfortunately, under a Federal Government controlled by Democrats, 
+inflation is at a 40-year high, illegal aliens are crossing the 
+southern border at record numbers, and strategic oil reserves are at 
+the lowest level since 1984, just to name a few of the serious 
+challenges facing the country.
+  Now, through the democratic process, voters supported a Republican 
+majority led by Kevin McCarthy to the House of Representatives which 
+will promote positive change.
+  House Republicans will immediately produce legislation reflecting the 
+commitment to America. Republicans are focused on: a Nation that is 
+safe; an economy that is strong; a future built on freedom; a 
+government accountable to the people.
+  In conclusion, God bless our troops. We will never forget September 
+the 11th in the global war on terrorism.
+  Congratulations, Prime Minister Benjamin Netanyahu of Israel.
+
+                          ____________________
+```
