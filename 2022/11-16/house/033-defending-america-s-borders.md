@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-11-16-pt1-PgH8517-5
+date: 2022-11-16
+edition: CREC
+section: HOUSE
+page: H8517
+citation: 168 Cong. Rec. H8517
+---
+
+# DEFENDING AMERICA'S BORDERS
+
+**Speaking:** Greene, Marjorie Taylor (G000596) [R-GA]
+
+```
+                      DEFENDING AMERICA'S BORDERS
+
+  (Mrs. GREENE of Georgia asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. GREENE of Georgia. Madam Speaker, we have watched tens of 
+billions of dollars be sent to defend another nation's border that is 
+not our own.
+  Every single day, our border is invaded by people from foreign lands 
+and also by drugs. Over 300 people are dying every single day. 
+Americans are dying every single day from fentanyl poisoning.
+  Yet, the Biden administration and this Congress have not done 
+anything to protect our Nation's border and the American people.
+  Just to remind everyone, the building that we are standing in, the 
+Federal Government and everyone's paychecks here are paid by the 
+American taxpayers. The American taxpayers and the American people 
+deserve to have a secure border and deserve the protection of the 
+Federal Government from the Mexican cartels that funnel drugs into 
+America to kill Americans.
+  I am calling for an audit of every single penny that has been sent to 
+Ukraine, including aid money and any other moneys that have been given 
+to the Ukrainian Government to defend their national security while our 
+national security has been ignored.
+  This must be done. It has to be done as soon as possible for the 
+American people. They deserve transparency, and they deserve to see 
+where their money is going.
+
+                          ____________________
+```

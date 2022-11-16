@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-11-16-pt1-PgH8525-5
+date: 2022-11-16
+edition: CREC
+section: HOUSE
+page: H8525
+citation: 168 Cong. Rec. H8525
+---
+
+# HONORING REVEREND DR. CALVIN O. BUTTS III
+
+**Speaking:** Espaillat, Adriano (E000297) [D-NY]
+
+```
+               HONORING REVEREND DR. CALVIN O. BUTTS III
+
+  (Mr. ESPAILLAT asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ESPAILLAT. Madam Speaker, today, I rise to honor the life and 
+legacy of the legendary Reverend Dr. Calvin O. Butts III. As the pastor 
+of the Abyssinian Baptist Church for 50 years, Reverend Butts 
+understood his role as a leader went beyond the faith community.
+  Witnessing the racial strife of the late 1960s, Reverend Butts became 
+an ardent protector of Harlem, particularly the Black community, and 
+often pushed for projects and policies that would increase access to 
+dire needs like housing and education.
+  Reverend Butts led projects that included raising and investing $1 
+billion in housing and commercial development in Harlem through the 
+Abyssinian Development Corporation and creating the Thurgood Marshall 
+Academy for Learning and Social Change.
+  Reverend Butts preached a message of faith and education, and he 
+motivated each of us through his teachings to be an active and 
+exemplary member of Harlem, uplifting communities while giving back 
+through service, engagement, and social reform.
+  A dear friend and icon of Harlem, may he rest in peace, and may his 
+legacy be cherished and never forgotten. Keep the faith.
+
+                          ____________________
+```

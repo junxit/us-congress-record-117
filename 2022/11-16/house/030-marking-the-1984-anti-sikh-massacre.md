@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-11-16-pt1-PgH8517-2
+date: 2022-11-16
+edition: CREC
+section: HOUSE
+page: H8517
+citation: 168 Cong. Rec. H8517
+---
+
+# MARKING THE 1984 ANTI-SIKH MASSACRE
+
+**Speaking:** Norcross, Donald (N000188) [D-NJ]
+
+```
+                  MARKING THE 1984 ANTI-SIKH MASSACRE
+
+  (Mr. NORCROSS asked and was given permission to address the House for 
+1 minute.)
+  Mr. NORCROSS. Madam Speaker, today, I rise in solidarity with the 
+south Jersey Sikh community. This month marks 38 years since anti-Sikh 
+rioters in India massacred Sikhs over 3 days.
+  The massacre was retaliation for the assassination of Indian Prime 
+Minister Indira Gandhi. There were mass rapes and lynchings. Sikhs' 
+homes and their businesses were destroyed, senselessly slaughtered for 
+nothing more than their beliefs and their religion.
+  Following the slaughter, some of the Sikhs chose to flee India. 
+Today, many of them call south Jersey home. They built lives for 
+themselves, contributing to the education, economic, religious, and 
+cultural richness of our region.
+  They also carry the knowledge of those dark days. They keep the names 
+and the memories of those who were lost in those days very much alive.
+  In memory of those Sikhs lost to this senseless violence between 
+November 1 and 3 of 1984, and with respect to those who carry on their 
+legacy in south Jersey today, I stand here in solidarity with my Sikh 
+brothers and sisters.
+
+                          ____________________
+```
