@@ -1,0 +1,36 @@
+---
+granule: CREC-2022-11-17-pt1-PgH8555-3
+date: 2022-11-17
+edition: CREC
+section: HOUSE
+page: H8555
+citation: 168 Cong. Rec. H8555
+---
+
+# HONORING CHRISTINA SCHAUER
+
+**Speaking:** Hinson, Ashley (H001091) [R-IA]
+
+```
+                       HONORING CHRISTINA SCHAUER
+
+  (Mrs. HINSON asked and was given permission to address the House for 
+1 minute.)
+  Mrs. HINSON. Madam Speaker, I rise today to recognize Christina 
+Schauer, a veteran and nurse from Dubuque, Iowa, whose courage and 
+dedication to serving others are unmatched.
+  Christina served our country overseas as a combat medic in Iraq. Our 
+veterans face immense challenges when returning home, and 
+unfortunately, our women veterans are often afraid to speak up about 
+their experiences. They may feel invisible or that their service wasn't 
+worthy. As a result, they may be less likely to seek the care that they 
+have earned.
+  Christina is working to right this wrong by sharing her own story. 
+She has championed women veteran visibility, empowering her sisters in 
+sacrifice to talk more about their service and seek the healthcare and 
+the benefits they deserve.
+  So, Christina, thank you for your service and for your commitment to 
+empower women veterans. You are an inspiration to all of us.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-11-17-pt1-PgH8555
+date: 2022-11-17
+edition: CREC
+section: HOUSE
+page: H8555
+citation: 168 Cong. Rec. H8555
+---
+
+# RECOGNIZING MASTER SERGEANT JOHN GARDNER
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                RECOGNIZING MASTER SERGEANT JOHN GARDNER
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Madam Speaker, I am grateful to 
+recognize the 2022 Army Congressional Fellow, Master Sergeant John 
+Gardner, for his service to the Second District of South Carolina.
+  His yearlong service with the office is ending, and John will be 
+missed. Not only has he been an indispensable coordinator and 
+contributor to legislative goals, including the National Defense 
+Authorization Act, but also a valued team player.
+  Including a combat tour on the front line as an infantry medic in 
+Iraq, John has held many leadership assignments throughout his 20-year 
+decorated career in the Army, including most recently in the Defense 
+Attache Office of the American Embassy in Tashkent, Uzbekistan.
+  John hails from Houston, Texas. He has a master's degree from 
+Colorado State and holds two graduate degrees. His next assignment is 
+in the Pentagon, where John will be a valued participant in peace 
+through strength.
+  In conclusion, God bless our troops who successfully protected 
+America for 20 years as the global war on terrorism continues moving 
+from the Afghanistan safe haven to America.
+  Godspeed, Speaker Nancy Pelosi.
+
+                          ____________________
+```
