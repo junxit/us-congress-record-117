@@ -1,0 +1,26 @@
+---
+granule: CREC-2022-11-29-pt1-PgS6865-2
+date: 2022-11-29
+edition: CREC
+section: SENATE
+page: S6865
+citation: 168 Cong. Rec. S6865
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                         DEPARTMENT OF JUSTICE
+
+        KATE E. BRUBACHER, OF KANSAS, TO BE UNITED STATES ATTORNEY 
+     FOR THE DISTRICT OF KANSAS FOR THE TERM OF FOUR YEARS, VICE 
+     STEPHEN R. MCALLISTER, RESIGNED.
+        ISMAIL J. RAMSEY, OF CALIFORNIA, TO BE UNITED STATES 
+     ATTORNEY FOR THE NORTHERN DISTRICT OF CALIFORNIA FOR THE TERM 
+     OF FOUR YEARS, VICE DAVID L. ANDERSON, RESIGNED.
+```
