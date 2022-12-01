@@ -1,0 +1,40 @@
+---
+granule: CREC-2022-12-01-pt1-PgH8704-5
+date: 2022-12-01
+edition: CREC
+section: HOUSE
+page: H8704
+citation: 168 Cong. Rec. H8704
+---
+
+# RECOGNIZING TACKLE BOX 2
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                        RECOGNIZING TACKLE BOX 2
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Madam Speaker, I rise today to share another good news 
+story from Ohio's Ninth Congressional District.
+  With the new Ninth District stretching from the Indiana border to 
+Sandusky County and beyond, my team and I are wasting no time in 
+getting out and introducing ourselves and making new friends.
+  Over the Thanksgiving break, I had the pleasure of stopping by Tackle 
+Box 2 in Fremont, Ohio, an iconic fish house pub along the banks of the 
+Sandusky River. That fish house is home to a remarkable array of 
+fishing memorabilia, tasty food, especially the perch, and a very 
+friendly and welcoming staff, as you will see here.
+  Pictured are Angela, Rose, Carla, and Linda, new friends I made who 
+take pride in their hard work and their community. In the hard jobs 
+that they work, they serve guests with a welcoming smile--wonderful, 
+smiley faces--and such a warm presence.
+  Angela, Rose, Carla, and Linda, as we move into the excitement and 
+tugs of heart of the holiday season, may the joy each of you and your 
+colleagues make possible be returned to you sevenfold.
+  The ethic of hard work and kindness beats fully in the hearts of 
+these fine women.
+
+                          ____________________
+```

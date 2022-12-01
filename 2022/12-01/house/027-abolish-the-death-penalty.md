@@ -1,0 +1,38 @@
+---
+granule: CREC-2022-12-01-pt1-PgH8679
+date: 2022-12-01
+edition: CREC
+section: HOUSE
+page: H8679
+citation: 168 Cong. Rec. H8679
+---
+
+# ABOLISH THE DEATH PENALTY
+
+**Speaking:** Bush, Cori (B001224) [D-MO]
+
+```
+                       ABOLISH THE DEATH PENALTY
+
+  (Ms. BUSH asked and was given permission to address the House for 1 
+minute.)
+  Ms. BUSH. Madam Speaker, St. Louis and I rise today to remind my 
+colleagues that there is no place in a humane society for State-
+sanctioned violence.
+  On Tuesday, Kevin ``KJ'' Johnson was taken from his family by capital 
+punishment. From the systemic racism that tainted his conviction and 
+the State's continuing use of executions to the Missouri Supreme 
+Court's and the U.S. Supreme Court's denial of a stay of execution, KJ 
+was failed by our criminal legal system.
+  Missouri intends to move forward with the executions of four more 
+people in the coming months. Congress must act. Congress must pass 
+legislation to abolish the Federal death penalty and encourage States 
+to follow suit.
+  I am also urging our President to continue leading on this issue and 
+act now. Commute the sentences of all those on Federal death row, 
+condemn State executions, and urge his administration, this 
+administration, to stop seeking the death penalty. Let's abolish the 
+death penalty once and for all.
+
+                          ____________________
+```

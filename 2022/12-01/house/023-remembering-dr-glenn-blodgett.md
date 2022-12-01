@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-12-01-pt1-PgH8678-2
+date: 2022-12-01
+edition: CREC
+section: HOUSE
+page: H8678
+citation: 168 Cong. Rec. H8678
+---
+
+# REMEMBERING DR. GLENN BLODGETT
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                     REMEMBERING DR. GLENN BLODGETT
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to remember 
+the life and the legacy of Dr. Glenn Blodgett, known to most as Doc 
+Blodgett. Doc Blodgett passed away at the age of 73 on November 21, 
+surrounded by loved ones.
+  Doc Blodgett spent more than 40 years managing the horse division at 
+the Four Sixes Ranch in Texas. Blodgett led the ranch's team of 
+veterinary staff. He oversaw all veterinary practices and reproductive 
+services, including horse breeding. Nearly 1,500 mares were bred from 
+the ranch each year.
+  Outside of his work at the Four Sixes Ranch, Doc served on the board 
+of the American Association of Equine Practitioners and in 2019 was 
+inducted into the Texas Cowboy Hall of Fame.
+  Earlier this year, I had the great privilege of traveling to the Four 
+Sixes Ranch and interacting with Doc Blodgett and the legendary horse 
+program at the ranch. One thing was clear during the visit, Doc 
+Blodgett was incredibly passionate about his work. He was a master of 
+his practice and someone who left an irreplaceable mark on the equine 
+industry.
+  Doc Blodgett is survived by his loving wife of more than 50 years, 
+Karen Wright, his two daughters, four granddaughters, and one grandson.
+  Madam Speaker, please join me in keeping Karen, the Blodgett family, 
+and Doc Blodgett's friends in your prayers.
+
+                          ____________________
+```
