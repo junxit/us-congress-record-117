@@ -1,0 +1,48 @@
+---
+granule: CREC-2022-12-05-pt1-PgS6950-6
+date: 2022-12-05
+edition: CREC
+section: SENATE
+page: S6950
+citation: 168 Cong. Rec. S6950
+---
+
+# Nomination of Doris L. Pryor (Executive Session)
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL], Schumer, Charles E. (S000148) [D-NY]
+
+```
+                      Nomination of Doris L. Pryor
+
+  Mr. DURBIN. Mr. President, at the outset, I want to join the majority 
+leader in his kind words related to Judge Doris Pryor, who is seeking a 
+seat on the Seventh Circuit of Appeals.
+  Today, the Senate will vote to confirm Judge Doris Pryor to serve on 
+the Seventh Circuit Court of Appeals. Judge Pryor is an outstanding 
+nominee to the appellate bench. She is a graduate of the University of 
+Central Arkansas and the Indiana University Maurer School of Law. 
+Following law school, she clerked for Judge Lavenski R. Smith on the 
+Eighth Circuit Court of Appeals and for Judge J. Leon Holmes on the 
+U.S. District Court for the Eastern District of Arkansas.
+  Judge Pryor then served for a short period of time as a deputy public 
+defender in Texarkana, AR. In 2006, she joined the U.S. Attorney's 
+Office for the Southern District of Indiana as an Assistant U.S. 
+Attorney. During her time as a Federal prosecutor, Judge Pryor handled 
+all types of criminal matters and argued several Federal appeals. She 
+also served as national security chief and as the office's reentry
+
+[[Page S6951]]
+
+and prevention coordinator. In 2018, she was selected by the district 
+judges of the Southern District of Indiana to serve as a magistrate 
+judge, a position she holds to this day. In this role, Judge Pryor 
+oversees a wide range of judicial proceedings in both civil and 
+criminal matters.
+  She was unanimously rated ``qualified'' by the American Bar 
+Association, and she has received blue slips from Senators Young and 
+Braun, her two Republican home State Senators. She also received a 
+bipartisan vote in the Senate Judiciary Committee.
+  Judge Pryor has significant Federal experience and a proven track 
+record of neutral decision making on the bench. I strongly support her 
+nomination, and I encourage my colleagues to do the same.
+```

@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-12-05-pt1-PgS6969-3
+date: 2022-12-05
+edition: CREC
+section: SENATE
+page: S6969
+citation: 168 Cong. Rec. S6969
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+               INTERNATIONAL BROADCASTING ADVISORY BOARD
+
+        MICHELLE MAI SELESKY GIUDA, OF VIRGINIA, TO BE A MEMBER OF 
+     THE INTERNATIONAL BROADCASTING ADVISORY BOARD FOR A TERM 
+     EXPIRING JANUARY 1, 2027. (NEW POSITION)
+
+
+                          IN THE MARINE CORPS
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES MARINE CORPS TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                          To be major general
+
+BRIG. GEN. MARCUS B. ANNIBALE
+BRIG. GEN. LORNA M. MAHLOCK
+BRIG. GEN. JOSEPH A. MATOS III
+BRIG. GEN. DAVID L. ODOM
+BRIG. GEN. THOMAS B. SAVAGE
+BRIG. GEN. WILLIAM H. SWAN
+BRIG. GEN. BRIAN N. WOLFORD
+BRIG. GEN. CALVERT L. WORTH, JR.
+
+                          ____________________
+```
