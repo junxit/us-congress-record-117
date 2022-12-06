@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-12-06-pt1-PgH8780-2
+date: 2022-12-06
+edition: CREC
+section: HOUSE
+page: H8780
+citation: 168 Cong. Rec. H8780
+---
+
+# RECOGNIZING THE WINKLER GALLERY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                    RECOGNIZING THE WINKLER GALLERY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+the Winkler Gallery and congratulate them on their 20th anniversary.
+  Since its creation in 2003, the Winkler Gallery and Art Education 
+Center has provided a place for artists in DuBois, Pennsylvania, to 
+create art in many different forms.
+  The Winkler Gallery originally began as a fine art collaborative 
+named after the famed watercolor artist Perry Winkler. Today, the 
+Winkler Gallery features more than 20 different artists in their 
+collection and serves as a place for locals to come learn about the 
+different types of art available at the gallery.
+  The Winkler Gallery remains a staple in our community and currently 
+serves as the host to Pennsylvania-15 high school art students who 
+participate in the annual Congressional Art Competition. The gallery is 
+also home to a notable exhibit, the Children's Carousel. The exhibit 
+was originally built in London in 1896 and is the world's most complete 
+and original English carousel.
+  Mr. Speaker, please join me in congratulating the Winkler Gallery on 
+20 years of being a home to the fine art and culture available in 
+northern Pennsylvania. Their art brings even more beauty to a naturally 
+beautiful place in our region.
+
+                          ____________________
+```

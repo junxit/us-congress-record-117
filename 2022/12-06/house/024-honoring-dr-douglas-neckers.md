@@ -1,0 +1,50 @@
+---
+granule: CREC-2022-12-06-pt1-PgH8780-3
+date: 2022-12-06
+edition: CREC
+section: HOUSE
+page: H8780
+citation: 168 Cong. Rec. H8780
+---
+
+# HONORING DR. DOUGLAS NECKERS
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                      HONORING DR. DOUGLAS NECKERS
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Mr. Speaker, I rise to honor a one-of-a-kind, remarkable 
+man and consummate researcher and teacher, Dr. Douglas Neckers of 
+northwest Ohio, who passed away just last week at the age of 84.
+  Dr. Neckers had an accomplished career as a photochemical scientist. 
+He was a true Renaissance man: a lover of history, the arts, and the 
+written word. He shared his wisdom in the opinion pages of newspapers 
+across our State.
+  Doug served as the head of Bowling Green State University's chemistry 
+department, founded its Center for Photochemical Sciences, and was a 
+pioneer of 3D printing technologies and so many successful companies 
+that were born from that. Even in later years, he raised awareness and 
+kept learning about topics such as the mindset of Nazi scientists who 
+invented chemical weapons during World War II. He was seeking always to 
+build understanding and to promote and uplift humankind.
+  When thinking of Dr. Neckers, I call to mind the words of Mahatma 
+Gandhi:
+       Strength does not come from physical capacity. It comes 
+     from an indomitable will.
+
+
+[[Page H8781]]
+
+
+  An indomitable will coursed through every fiber of Doug's spirit. He 
+was a force of nature in every one of his days.
+  Today, as we mourn Doug's passing, may his family and we find comfort 
+in the knowledge that his legacy lives on in all who knew him: every 
+institution that he built, every student he influenced, and every 
+person blessed to call him friend.
+
+                          ____________________
+```
