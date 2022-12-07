@@ -1,0 +1,39 @@
+---
+granule: CREC-2022-12-07-pt1-PgH8812
+date: 2022-12-07
+edition: CREC
+section: HOUSE
+page: H8812
+citation: 168 Cong. Rec. H8812
+---
+
+# RECOGNIZING 81ST ANNIVERSARY OF NATIONAL BIBLE WEEK
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+          RECOGNIZING 81ST ANNIVERSARY OF NATIONAL BIBLE WEEK
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to 
+recognize the 81st anniversary of National Bible Week.
+  In 1941, weeks before the United States entered into World War II, 
+Franklin D. Roosevelt declared the week of Thanksgiving as National 
+Bible Week. This celebration recognizes the spiritual and historical 
+significance of the Bible. It is a week where we can come together and 
+celebrate this holy book. The Bible shaped our Nation's history and 
+continues to provide guidance to the lives of so many.
+  Madam Speaker, I am grateful to live in a country where we can freely 
+read Scripture and worship the Lord without fear of persecution. The 
+Bible is timeless and continues to provide us with words of wisdom, 
+comfort, and guidance as we navigate unprecedented times.
+  Madam Speaker, I leave you with this verse from 2 Timothy 3:16-17, 
+one that I keep close to my heart: ``All Scripture is breathed out by 
+God and profitable for teaching, for reproof, for correction, and for 
+training in righteousness, that the man of God may be competent, 
+equipped for every good work.''
+  May God continue to bless the United States of America.
+
+                          ____________________
+```

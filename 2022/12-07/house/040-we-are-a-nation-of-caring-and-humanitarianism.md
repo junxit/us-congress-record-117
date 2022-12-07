@@ -1,0 +1,42 @@
+---
+granule: CREC-2022-12-07-pt1-PgH8812-5
+date: 2022-12-07
+edition: CREC
+section: HOUSE
+page: H8812
+citation: 168 Cong. Rec. H8812
+---
+
+# WE ARE A NATION OF CARING AND HUMANITARIANISM
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                              {time}  2015
+             WE ARE A NATION OF CARING AND HUMANITARIANISM
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute.)
+  Ms. JACKSON LEE. Madam Speaker, 18 days before this Nation turns its 
+eyes toward a beautiful recognition--for those of us who practice the 
+understanding of the birth of our Lord--Christmas--and the many other 
+faiths that will celebrate their special days in their own way--
+Brittney Griner still remains incarcerated in the most devastating, 
+horrific, cruel, and brutal conditions. She must come home, along with 
+Paul Whelan.
+  At the same time, I stand with the defenders of democracy, Ukraine, 
+and hope that we will provide the resources necessary and be able to 
+accept their fight for democracy while our former President asks to 
+suspend our Constitution. Let us do the support for Ukraine and not 
+suspend the Constitution.
+  Finally, ravaging floods are still plaguing the people of Pakistan. 
+We have asked for $600 million. They deserve those dollars to be able 
+to restore their lives--pregnant women, families, farmers suffering and 
+starving. It is necessary, as an ally of the United States, that we try 
+to respond in this funding cycle now--dollars needed for Pakistan.
+  I look forward to working with the administration to provide the 
+relief that they need. We are a Nation of caring and humanitarianism.
+  Bring Brittney Griner home now.
+
+                          ____________________
+```
