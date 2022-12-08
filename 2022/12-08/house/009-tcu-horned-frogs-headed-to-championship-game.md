@@ -1,0 +1,45 @@
+---
+granule: CREC-2022-12-08-pt1-PgH8825-8
+date: 2022-12-08
+edition: CREC
+section: HOUSE
+page: H8825
+citation: 168 Cong. Rec. H8825
+---
+
+# TCU HORNED FROGS HEADED TO CHAMPIONSHIP GAME
+
+**Speaking:** Williams, Roger (W000816) [R-TX]
+
+```
+              TCU HORNED FROGS HEADED TO CHAMPIONSHIP GAME
+
+  (Mr. WILLIAMS of Texas asked and was given permission to address the 
+House for 1 minute.)
+  Mr. WILLIAMS of Texas. Mr. Speaker, from given no chance in the 
+preseason polls to making it to the Big 12 championship game, the TCU 
+Horned Frogs have come a long way and are officially headed to the 
+College Football Playoff game.
+  I am tremendously proud of the team for an incredible season, with 12 
+consecutive wins, ranking third in the Nation, and making history with 
+being the first team in the State of Texas to make it to the College 
+Football Playoff.
+  Needless to say, this has been a historic year for TCU, and it could 
+not have been possible without our first-year coach and coach of the 
+year, Sonny Dykes; our quarterback, Max Duggan; all the players and 
+staff who work tirelessly on the sidelines and on the field to make the 
+team one of the best in the country; and most importantly, all the 
+fans, the best in the Nation, who showed up to every game decked out in 
+TCU purple to cheer and support the Horned Frogs.
+  As a proud alumnus and trustee of the university, I look forward to 
+watching the fighting TCU Horned Frogs take the field on December 31 at 
+the Fiesta Bowl in Phoenix, Arizona.
+
+[[Page H8826]]
+
+  As Coach Dykes says, I can't wait to watch you play.
+  So riff, ram, bah zoo, go Frogs.
+  In God we trust.
+
+                          ____________________
+```
