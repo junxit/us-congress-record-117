@@ -1,0 +1,41 @@
+---
+granule: CREC-2022-12-12-pt1-PgH9651-5
+date: 2022-12-12
+edition: CREC
+section: HOUSE
+page: H9651
+citation: 168 Cong. Rec. H9651
+---
+
+# CONTINUING INFLATION
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                          CONTINUING INFLATION
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Madam Speaker, the Christmas season is 
+a time for families across America to be joyous. However, due to 
+irresponsible policies of Biden and Democrats, inflation has reached 
+40-year highs.
+  The Thanksgiving meal was particularly tough on the wallet, but now 
+with Christmas, prices continue to be unbearable. Even the cost of a 
+Christmas tree is expected to rise 15 percent.
+  According to a recent survey by RetailMeNot, more than half of 
+holiday shoppers plan to make fewer purchases due to higher prices.
+  Average national costs have increased. Airfare is up 42 percent, 
+public transportation up 28 percent, gas up 17 percent, food up 12 
+percent.
+  I was grateful this weekend for a daylong visit to Kyiv in Ukraine. 
+The people of Ukraine, with Poland and Germany, are courageous for 
+liberty and rule of law.
+  In the tradition of the American Revolution, they understand: Don't 
+tread on me. Appeal unto Heaven. Live free or die.
+  In conclusion, God bless our troops, who successfully protected 
+America for 20 years as the global war on terrorism continues moving 
+from Afghanistan's safe haven to America.
+
+                          ____________________
+```
