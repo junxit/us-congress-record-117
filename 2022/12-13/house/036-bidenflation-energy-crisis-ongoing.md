@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-12-13-pt1-PgH9707-2
+date: 2022-12-13
+edition: CREC
+section: HOUSE
+page: H9707
+citation: 168 Cong. Rec. H9707
+---
+
+# BIDENFLATION ENERGY CRISIS ONGOING
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                   BIDENFLATION ENERGY CRISIS ONGOING
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, last week the average for 
+a gallon of gas was shamefully $1 more than when Biden took office. A 
+gallon of diesel, fuel for trucks and ships, is nearly 50 percent 
+higher.
+  Due to irresponsible energy policies of Biden and Democrats, 
+inflation reached 40-year highs, and families are hurting. In the last 
+year, one-third of households have reduced or skipped necessities like 
+food and medicine to pay energy bills, according to a LendingTree 
+survey.
+  The National Energy Assistance Directors Association has said that 
+household energy costs will be the highest in 15 years.
+  On Saturday, I was grateful to be on a codel warmly welcomed in Kiev 
+by Ukrainians thankful for defensive weapons which last week stopped 85 
+percent of Putin's missiles and Iranian drones. Putin must be stopped 
+from freezing Ukrainians to death as Stalin starved Ukrainians to 
+death.
+  President Biden joined Turkish President Recep Erdogan and French 
+President Macron pledging additional defensive weapons to courageous 
+President Volodymyr Zelenskyy on Sunday.
+  In conclusion, God bless our troops, who successfully protected 
+America for 20 years, as the global war on terrorism continues moving 
+from an Afghan safe haven to America.
+
+                          ____________________
+```
