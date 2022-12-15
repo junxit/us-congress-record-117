@@ -1,0 +1,43 @@
+---
+granule: CREC-2022-12-15-pt1-PgH9859-2
+date: 2022-12-15
+edition: CREC
+section: HOUSE
+page: H9859
+citation: 168 Cong. Rec. H9859
+---
+
+# CELEBRATING KOONTZ ELECTRIC SIGNING DAY
+
+**Speaking:** Hill, J. French (H001072) [R-AR]
+
+```
+                CELEBRATING KOONTZ ELECTRIC SIGNING DAY
+
+  (Mr. HILL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HILL. Madam Speaker, I rise today to celebrate Koontz Electric 
+signing day for students committing to the Koontz Promise.
+  The Koontz Promise provides Arkansas River Valley High School 
+students with an immediate career following graduation from a Koontz-
+operated skilled trade program.
+  Trade programs available for students include construction 
+technology, industrial mechanics, maintenance technology, and welding.
+  The Koontz Electric Company of Morrilton, Arkansas, is a diversified 
+heavy industrial electrical contractor that has noticed a skills gap 
+between the generations. Immediately, they saw an opportunity to set up 
+and train the next generation of young leaders to lessen the skills gap 
+and highlight the opportunities of skilled trades immediately upon high 
+school graduation.
+  On top of guaranteeing prospective students a career, the Koontz 
+Promise also guarantees coverage of all expenses not covered by another 
+funding source.
+  To celebrate and welcome the students who committed to the Koontz 
+Promise, a signing day was held this past September.
+
+  I applaud Koontz Electric for their initiative in educating the next 
+generation of leaders in the skilled trades, and I look forward to 
+seeing these students achieve great careers in the future.
+
+                          ____________________
+```
