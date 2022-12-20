@@ -1,0 +1,524 @@
+---
+granule: CREC-2022-12-20-pt3-PgS9636
+date: 2022-12-20
+edition: CREC
+section: SENATE
+page: S9636
+citation: 168 Cong. Rec. S9636
+---
+
+# Text of Senate Amendment 6567
+
+**Speaking:** Klobuchar, Amy (K000367) [D-MN]
+
+```
+  SA 6567. Ms. KLOBUCHAR (for herself and Mr. Grassley) submitted an 
+amendment intended to be proposed to amendment SA 6552 proposed by Mr. 
+Leahy to the bill H.R. 2617, to amend section 1115 of title 31, United 
+States Code, to amend the description of how performance goals are 
+achieved, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       At the appropriate place, insert the following:
+
+[[Page S9637]]
+
+  
+
+
+           DIVISION__--AMERICAN INNOVATION AND CHOICE ONLINE
+
+     SEC. 101. SHORT TITLE.
+
+       This division may be cited as the ``American Innovation and 
+     Choice Online Act''.
+
+     SEC. 102. DEFINITIONS.
+
+       (a) In General.--In this division:
+       (1) Antitrust laws; person.--The terms ``antitrust laws'' 
+     and ``person'' have the meanings given the terms in 
+     subsection (a) of the first section of the Clayton Act (15 
+     U.S.C. 12).
+       (2) Business user.--The term ``business user''--
+       (A) means a person that uses or is likely to use a covered 
+     platform for the advertising, sale, or provision of products 
+     or services, including such persons that are operating a 
+     covered platform or are controlled by a covered platform 
+     operator; and
+       (B) does not include a person that--
+       (i) is a clear national security risk; or
+       (ii) is controlled by the Government of the People's 
+     Republic of China or the government of a foreign adversary.
+       (3) Commission.--The term ``Commission'' means the Federal 
+     Trade Commission.
+       (4) Control.--The term ``control'' means, with respect to a 
+     person--
+       (A) holding 25 percent or more of the stock of the person;
+       (B) having the right to 25 percent or more of the profits 
+     of the person;
+       (C) in the event of the dissolution of the person, having 
+     the right to 25 percent or more of the assets of the person;
+       (D) if the person is a corporation, having the power to 
+     designate 25 percent or more of the directors of the person;
+       (E) if the person is a trust, having the power to designate 
+     25 percent or more of the trustees; or
+       (F) otherwise exercising substantial control over the 
+     person.
+       (5) Covered platform.--The term ``covered platform'' means 
+     an online platform that--
+       (A) has been designated as a covered platform under section 
+     103(d);
+       (B) is owned or controlled by a person that--
+       (i) at any point during the 12 months preceding a 
+     designation under section 103(d) or the 12 months preceding 
+     the filing of a complaint for an alleged violation of this 
+     division has at least--
+
+       (I) 50,000,000 United States-based monthly active users on 
+     the online platform; or
+       (II) 100,000 United States-based monthly active business 
+     users on the online platform;
+
+       (ii) during--
+
+       (I) the 2 years preceding a designation under section 
+     103(d), or the 2 years preceding the filing of a complaint 
+     for an alleged violation of this division--
+
+       (aa) at any point, is owned or controlled by a person with 
+     United States net annual sales of greater than 
+     $550,000,000,000, adjusted for inflation on the basis of the 
+     Consumer Price Index; or
+       (bb) during any 180-day period during the 2-year period, 
+     has an average market capitalization greater than 
+     $550,000,000,000, adjusted for inflation on the basis of the 
+     Consumer Price Index; or
+
+       (II) the 12 months preceding a designation under section 
+     103(d), or at any point during the 12 months preceding the 
+     filing of a complaint for an alleged violation of this 
+     division, has at least 1,000,000,000 worldwide monthly active 
+     users on the online platform; and
+
+       (iii) is a critical trading partner for the sale or 
+     provision of any product or service offered on or directly 
+     related to the online platform.
+       (6) Critical trading partner.--The term ``critical trading 
+     partner'' means a person that has the ability to restrict or 
+     materially impede the access of--
+       (A) a business user to the users or customers of the 
+     business user; or
+       (B) a business user to a tool or service that the business 
+     user needs to effectively serve the users or customers of the 
+     business user.
+       (7) Data.--The term ``data'' includes information that is 
+     collected by or provided to a covered platform or business 
+     user that is linked, or reasonably linkable, to a specific--
+       (A) user or customer of the covered platform; or
+       (B) user or customer of a business user.
+       (8) Foreign adversary.--The term ``foreign adversary'' has 
+     the meaning given the term in section 8(c) of the Secure and 
+     Trusted Communications Networks Act of 2019 (47 U.S.C. 
+     1607(c)).
+       (9) Online platform.--The term ``online platform''--
+       (A) means a website, online or mobile application, 
+     operating system, digital assistant, or online service that 
+     enables--
+       (i) a user to generate or share content that can be viewed 
+     by other users on the platform or to interact with other 
+     content on the platform;
+       (ii) the offering, advertising, sale, purchase, or shipping 
+     of products or services, including software applications, 
+     between and among consumers or businesses not controlled by 
+     the platform operator; or
+       (iii) user searches or queries that access or display a 
+     volume of information; and
+       (B) does not include a service by wire or radio that 
+     provides the capability to transmit data to and receive data 
+     from all or substantially all internet endpoints, including 
+     any capabilities that are incidental to and enable the 
+     operation of the communications service.
+       (10) State.--The term ``State'' means a State, the District 
+     of Columbia, the Commonwealth of Puerto Rico, and any other 
+     territory or possession of the United States.
+       (b) Regulations.--Not later than 180 days after the date of 
+     enactment of this division, the Commission, with the 
+     concurrence of the Department of Justice, shall promulgate 
+     regulations in accordance with section 553 of title 5, United 
+     States Code, to define the term data for the purpose of 
+     implementing and enforcing this division.
+
+     SEC. 103. UNLAWFUL CONDUCT.
+
+       (a) In General.--It shall be unlawful for a person 
+     operating a covered platform in or affecting commerce to--
+       (1) preference the products, services, or lines of business 
+     of the covered platform operator over those of another 
+     business user on the covered platform in a manner that would 
+     materially harm competition;
+       (2) limit the ability of the products, services, or lines 
+     of business of another business user to compete on the 
+     covered platform relative to the products, services, or lines 
+     of business of the covered platform operator in a manner that 
+     would materially harm competition;
+       (3) discriminate in the application or enforcement of the 
+     terms of service of the covered platform among similarly 
+     situated business users in a manner that would materially 
+     harm competition;
+       (4) materially restrict, impede, or unreasonably delay the 
+     capacity of a business user to access or interoperate with 
+     the same platform, operating system, or hardware or software 
+     features that are available to the products, services, or 
+     lines of business of the covered platform operator that 
+     compete or would compete with products or services offered by 
+     business users on the covered platform, except where such 
+     access would lead to a significant cybersecurity risk;
+       (5) condition access to the covered platform or preferred 
+     status or placement on the covered platform on the purchase 
+     or use of other products or services offered by the covered 
+     platform operator that are not part of or intrinsic to the 
+     covered platform;
+       (6) use nonpublic data that are obtained from or generated 
+     on the covered platform by the activities of a business user 
+     or by the interaction of a covered platform user with the 
+     products or services of a business user to offer, or support 
+     the offering of, the products or services of the covered 
+     platform operator that compete or would compete with products 
+     or services offered by business users on the covered 
+     platform;
+       (7) materially restrict or impede a business user from 
+     accessing data generated on the covered platform by the 
+     activities of the business user, or through an interaction of 
+     a covered platform user with the products or services of the 
+     business user, such as by establishing contractual or 
+     technical restrictions that prevent the portability by the 
+     business user to other systems or applications of the data of 
+     the business user;
+       (8) materially restrict or impede covered platform users 
+     from uninstalling software applications that have been 
+     preinstalled on the covered platform or changing default 
+     settings that direct or steer covered platform users to 
+     products or services offered by the covered platform 
+     operator, unless necessary--
+       (A) for the security or functioning of the covered 
+     platform; or
+       (B) to prevent data from the covered platform operator or 
+     another business user from being transferred to the 
+     Government of the People's Republic of China or the 
+     government of a foreign adversary;
+       (9) in connection with any covered platform user interface, 
+     including search or ranking functionality offered by the 
+     covered platform, treat the products, services, or lines of 
+     business of the covered platform operator more favorably 
+     relative to those of another business user and in a manner 
+     that is inconsistent with the neutral, fair, and 
+     nondiscriminatory treatment of all business users; or
+       (10) retaliate against any business user or covered 
+     platform user that raises good-faith concerns with any law 
+     enforcement authority about actual or potential violations of 
+     State or Federal law on the covered platform or by the 
+     covered platform operator.
+       (b) Affirmative Defenses.--
+       (1) In general.--It shall be an affirmative defense to an 
+     action under subsection (a) if the defendant establishes that 
+     the conduct was reasonably tailored and reasonably necessary, 
+     such that the conduct could not be achieved through 
+     materially less discriminatory means, to--
+       (A) prevent a violation of, or comply with, Federal or 
+     State law;
+       (B) protect safety, user privacy, the security of nonpublic 
+     data, or the security of the covered platform; or
+       (C) maintain or substantially enhance the core 
+     functionality of the covered platform.
+       (2) Additional affirmative defenses.--It shall be an 
+     affirmative defense to an action under paragraph (4), (5), 
+     (6), (7), (8), (9), or (10) of subsection (a) if the 
+     defendant establishes that the conduct has not resulted in 
+     and would not result in material harm to competition.
+       (3) Effect of other laws.--Notwithstanding any other 
+     provision of law, whether user conduct would constitute a 
+     violation of section 1030 of title 18, United States Code, 
+     shall have no effect on whether the defendant has established 
+     an affirmative defense under this division.
+       (4) Burden of proof.--The defendant has the burden of 
+     proving an affirmative defense under this subsection by a 
+     preponderance of the evidence.
+
+[[Page S9638]]
+
+       (c) Enforcement.--
+       (1) In general.--Except as otherwise provided in this 
+     division--
+       (A) the Commission shall enforce this division in the same 
+     manner, by the same means, and with the same jurisdiction, 
+     powers, and duties as though all applicable terms of the 
+     Federal Trade Commission Act (15 U.S.C. 41 et seq.) were 
+     incorporated into and made a part of this division;
+       (B) the Department of Justice shall enforce this division 
+     in the same manner, by the same means, and with the same 
+     jurisdiction, powers, and duties as though all applicable 
+     terms of the Sherman Act (15 U.S.C. 1 et seq.), Clayton Act 
+     (15 U.S.C. 12 et seq.), and Antitrust Civil Process Act (15 
+     U.S.C. 1311 et seq.) were incorporated into and made a part 
+     of this division; and
+       (C) any attorney general of a State shall enforce this 
+     division in the same manner, by the same means, and with the 
+     same jurisdiction, powers, and duties as though all 
+     applicable terms of the Sherman Act (15 U.S.C. 1 et seq.) and 
+     the Clayton Act (15 U.S.C. 12 et seq.) were incorporated into 
+     and made a part of this division.
+       (2) Commission independent litigation authority.--If the 
+     Commission has reason to believe that a person violated this 
+     division, the Commission may commence a civil action, in its 
+     own name by any of its attorneys designated by it for such 
+     purpose, to recover a civil penalty and seek other 
+     appropriate relief in a district court of the United States.
+       (3) Parens patriae.--Any attorney general of a State may 
+     bring a civil action in the name of such State for a 
+     violation of this division as parens patriae on behalf of 
+     natural persons residing in such State, in any district court 
+     of the United States having jurisdiction of the defendant for 
+     any form of relief provided for in this section.
+       (4) Enforcement in federal district court.--The Commission, 
+     Department of Justice, or any attorney general of a State 
+     shall only be able to enforce this division through a civil 
+     action brought before a district court of the United States.
+       (5) Preponderance of the evidence.--The Department of 
+     Justice, the Commission, or the attorney general of a State 
+     shall establish a violation of this section by a 
+     preponderance of the evidence.
+       (6) Remedies.--
+       (A) In general.--The remedies provided in this paragraph 
+     are in addition to, and not in lieu of, any other remedy 
+     available under Federal or State law.
+       (B) Civil penalty.--Any person who violates this division 
+     shall forfeit and pay to the United States a civil penalty in 
+     an amount that is sufficient to deter violations of this 
+     division, but not greater than 10 percent of the total United 
+     States revenue of the person for the period of time the 
+     violation occurred.
+       (C) Injunctions.--
+       (i) In general.--The Department of Justice, the Commission, 
+     or the attorney general of any State may seek, and the court 
+     may order, relief in equity as necessary to prevent, 
+     restrain, or prohibit violations of this division.
+       (ii) Temporary injunctions.--
+
+       (I) In general.--The Commission, Department of Justice, or 
+     any attorney general of a State may seek a temporary 
+     injunction requiring the covered platform operator to take or 
+     stop taking any action for not more than 120 days.
+       (II) Grant.--The court may grant a temporary injunction 
+     under this clause if the Commission, the Department of 
+     Justice, or the attorney general of a State, as applicable, 
+     demonstrates--
+
+       (aa) there is a plausible claim, supported by substantial 
+     evidence raising sufficiently serious questions going to the 
+     merits to make them fair ground for litigation, that a 
+     covered platform operator violated this division;
+       (bb) that the conduct alleged to violate this division 
+     materially impairs the ability of business users to compete 
+     with the covered platform operator; and
+       (cc) a temporary injunction would be in the public 
+     interest.
+
+       (III) Duration.--A temporary injunction under this clause 
+     shall expire not later than the date that is 120 days after 
+     the date on which a complaint under this subsection is filed.
+       (IV) Termination.--The court shall terminate a temporary 
+     injunction under this clause if the covered platform operator 
+     demonstrates that--
+
+       (aa) the Commission, the Department of Justice, or the 
+     attorney general of the State seeking relief under this 
+     subsection has not taken reasonable steps to investigate 
+     whether a violation has occurred; or
+       (bb) allowing the temporary injunction to continue would 
+     harm the public interest.
+
+       (V) Other equitable relief.--Nothing in this clause shall 
+     prevent or limit the Commission, the Department of Justice, 
+     or any attorney general of any State from seeking other 
+     equitable relief, including the relief provided in this 
+     paragraph.
+
+       (D) Forfeiture for repeat offenders.--
+       (i) In general.--If a person has engaged in a pattern or 
+     practice of violating this division, the court shall consider 
+     requiring, and may order, that the chief executive officer of 
+     the person, and any other corporate officer of the person as 
+     appropriate to deter violations of this division, forfeit to 
+     the United States Treasury any compensation received by that 
+     chief executive officer or corporate officer during the 12 
+     months preceding the filing of a complaint for an alleged 
+     violation of this division.
+       (ii) Forfeiture process.--Prior to ordering any chief 
+     executive officer or corporate officer to forfeit 
+     compensation under subsection (I), the court shall provide 
+     such chief executive officer or corporate officer with 
+     reasonable notice that the court is considering ordering 
+     forfeiture under this section and provide an opportunity for 
+     such chief executive officer or corporate officer to appear 
+     and be heard before the court at a hearing on such potential 
+     forfeiture.
+       (7) Statute of limitations.--A proceeding for a violation 
+     of this section may be commenced not later than 6 years after 
+     such violation occurs.
+       (8) Rules of construction.--
+       (A) In general.--Nothing in subsection (a) may be 
+     construed--
+       (i) to require a covered platform operator to divulge or 
+     license any intellectual property, including any trade 
+     secrets, business secrets, or other confidential proprietary 
+     business processes, owned by or licensed to the covered 
+     platform operator;
+       (ii) to prevent a covered platform operator from asserting 
+     its preexisting rights under intellectual property law to 
+     prevent the unauthorized use of any intellectual property 
+     owned by or duly licensed to the covered platform operator;
+       (iii) to require a covered platform operator to 
+     interoperate or share data with persons or business users 
+     that are on any list maintained by the Federal Government by 
+     which entities--
+
+       (I) are identified as limited or prohibited from engaging 
+     in economic transactions as part of United States sanctions 
+     or export-control regimes; or
+       (II) have been identified as national security, 
+     intelligence, or law enforcement risks;
+
+       (iv) to prohibit a covered platform operator from promptly 
+     requesting and obtaining the consent of a covered platform 
+     user prior to providing access to the nonpublic, personally 
+     identifiable information of the user to a covered platform 
+     user under that subsection;
+       (v) in a manner that would likely result in data on the 
+     covered platform or data from another business user being 
+     transferred to the Government of the People's Republic of 
+     China or the government of a foreign adversary; or
+       (vi) to impose liability on a covered platform operator 
+     solely for offering--
+
+       (I) full end-to-end encrypted messaging or full end-to-end 
+     encrypted communication products or services; or
+       (II) a fee-for-service subscription that provides benefits 
+     to covered platform users on the covered platform.
+
+       (B) Copyright and trademark violations.--An action taken by 
+     a covered platform operator that is reasonably tailored to 
+     protect the rights of third parties under section 106, 1101, 
+     1201, or 1401 of title 17, United States Code, or rights 
+     actionable under section 32 or 43 of the Act entitled ``An 
+     Act to provide for the registration and protection of 
+     trademarks used in commerce, to carry out the provisions of 
+     certain international conventions, and for other purposes'', 
+     approved July 5, 1946 (commonly known as the ``Lanham Act'' 
+     or the ``Trademark Act of 1946'') (15 U.S.C. 1114, 1125), or 
+     corollary State law, shall not be considered unlawful conduct 
+     under subsection (a).
+       (d) Covered Platform Designation.--
+       (1) In general.--The Commission and the Department of 
+     Justice may jointly, with concurrence of the other, designate 
+     an online platform as a covered platform for the purpose of 
+     implementing and enforcing this division, which shall--
+       (A) be based on a finding that the criteria set forth in 
+     section 102(a)(5)(B) are met;
+       (B) be issued in writing and published in the Federal 
+     Register; and
+       (C) except as provided in paragraph (2), apply for a 7-year 
+     period beginning on the date on which the designation is 
+     issued, regardless of whether there is a change in control or 
+     ownership over the covered platform.
+       (2) Removal of covered platform designation.--The 
+     Commission or the Department of Justice shall--
+       (A) consider whether a designation of a covered platform 
+     under paragraph (1) should be removed prior to the expiration 
+     of the 7-year period if the covered platform operator files a 
+     request with the Commission or the Department of Justice that 
+     shows that the online platform no longer meets the criteria 
+     set forth in section 102(a)(5)(B);
+       (B) determine whether to grant a request submitted under 
+     subparagraph (A) not later than 120 days after the date on 
+     which the request is filed;
+       (C) obtain the concurrence of the Commission or the 
+     Department of Justice, as appropriate, before granting a 
+     request submitted under subparagraph (A); and
+       (D) publish any decision to grant or deny removal of a 
+     covered platform designation in the Federal Register.
+       (3) Judicial review.--Any person operating an online 
+     platform that has been designated as a covered platform under 
+     paragraph (1) or whose request for removal of such a 
+     designation under paragraph (2) is denied may, within 30 days 
+     of the issuance of such designation or decision, petition for 
+     review of such designation or decision in the United States 
+     Court of Appeals for the District of Columbia Circuit.
+
+     SEC. 104. ENFORCEMENT GUIDELINES.
+
+       (a) In General.--Not later than 270 days after the date of 
+     enactment of this Act, the Commission and the Department of 
+     Justice, in consultation with other relevant Federal
+
+[[Page S9639]]
+
+     agencies and State attorneys general, shall jointly issue 
+     agency enforcement guidelines outlining policies and 
+     practices relating to conduct that may materially harm 
+     competition under section 103(a), agency interpretations of 
+     the affirmative defenses under section 103(b), and policies 
+     for determining the appropriate amount of a civil penalty to 
+     be sought under section 103(c), with the goal of promoting 
+     transparency, deterring violations, fostering innovation and 
+     procompetitive conduct, and imposing sanctions proportionate 
+     to the gravity of individual violations.
+       (b) Updates.--The Commission and the Department of Justice 
+     shall update the joint guidelines issued under subsection (a) 
+     as needed to reflect current agency policies and practices, 
+     but not less frequently than once every 4 years beginning on 
+     the date of enactment of this Act.
+       (c) Public Notice and Comment.--Before issuing guidelines, 
+     or updates to those guidelines, under this section, the 
+     Commission and the Department of Justice shall--
+       (1) publish proposed guidelines in draft form; and
+       (2) provide public notice and opportunity for comment for 
+     not less than 60 days after the date on which the draft 
+     guidelines are published.
+       (d) Operation.--The joint guidelines issued under this 
+     section do not--
+       (1) confer any rights upon any person, State, or locality; 
+     and
+       (2) operate to bind the Commission, Department of Justice, 
+     or any person, State, or locality to the approach recommended 
+     in the guidelines.
+
+     SEC. 105. RULE OF CONSTRUCTION.
+
+       Nothing in this division may be construed to limit--
+       (1) any authority of the Department of Justice or the 
+     Commission under the antitrust laws, section 5 of the Federal 
+     Trade Commission Act (15 U.S.C. 45), or any other provision 
+     of law; or
+       (2) the application of any law.
+
+     SEC. 106. SEVERABILITY.
+
+       If any provision of this division, or the application of 
+     such provision to any person or circumstance, is held to be 
+     unconstitutional, the remainder of this division, and the 
+     application of the remaining provisions of this division, to 
+     any person or circumstance, shall not be affected.
+
+     SEC. 107. EFFECTIVE DATE.
+
+       (a) In General.--Except as provided in subsection (b), this 
+     division shall take effect on the date of enactment of this 
+     Act.
+       (b) Exception.--Section 103(a) shall take effect on the 
+     date that is 1 year after the date of enactment of this Act.
+       (c) Authority.--The exception in subsection (b) shall not 
+     limit the authority of the Commission or Department of 
+     Justice to implement other sections of this division.
+                                 ______
+```
