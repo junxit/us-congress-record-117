@@ -1,0 +1,44 @@
+---
+granule: CREC-2022-12-21-pt1-PgH9923-2
+date: 2022-12-21
+edition: CREC
+section: HOUSE
+page: H9923
+citation: 168 Cong. Rec. H9923
+---
+
+# EQUAL PAY FOR TEAM USA
+
+**Speaking:** Sherrill, Mikie (S001207) [D-NJ]
+
+```
+                         EQUAL PAY FOR TEAM USA
+
+  (Ms. SHERRILL asked and was given permission to address the House for 
+1 minute.)
+  Ms. SHERRILL. Mr. Speaker, I rise today for two important reasons; 
+first, in support of the bipartisan Equal Pay for Team USA Act to 
+ensure that female athletes on Team USA may finally receive the equal 
+compensation and benefits they have long deserved.
+  Earlier this year, we saw the U.S. Women's National Soccer Team 
+successfully fight for equal pay between the men's and women's teams. 
+It is now time for Congress to act and provide this same level of 
+equality for all women competing on behalf of the United States 
+globally.
+  That is why my colleague and I, Congresswoman Nancy Mace of South 
+Carolina, led a bipartisan group of Members sending a letter to House 
+leadership urging them to bring this bill to the House floor for a vote 
+before the end of the 117th Congress.
+  I thank Senators Capito and Cantwell for introducing this important 
+legislation, and I urge my colleagues to vote ``yes'' on Equal Pay for 
+Team USA Act.
+  It is truly appropriate that when talking about strong, impressive 
+women, I stand here to deliver a tribute to a dear friend of mine, 
+Congresswoman Elaine Luria.
+  We entered Congress as the first two women from the United States 
+Naval Academy to serve in the House, and she has been a constant and 
+resolute champion of all things of the United States Navy. I have been 
+proud to serve with her and will miss her in my time in Congress.
+
+                          ____________________
+```
